@@ -1,0 +1,295 @@
+HLA-A*01:01:01:01   CAGGAGCAGAGGGGTCAGGGCGAAGTCCCAGGGCCCCAGGCGTGGCTCTCAGGGTCTCAG      60
+Cemi-A*01:01        ------------------------------------------------------------      60
+Cemi-A*02:01        ------------------------------------------------------------      60
+Cemi-A*03:01        ------------------------------------------------------------      60
+
+HLA-A*01:01:01:01   GCCCCGAAGGCGGTGTATGGATTGGGGAGTCCCAGCCTTGGGGATTCCCCAACTCCGCAG     120
+Cemi-A*01:01        ------------------------------------------------------------     120
+Cemi-A*02:01        ------------------------------------------------------------     120
+Cemi-A*03:01        ------------------------------------------------------------     120
+
+HLA-A*01:01:01:01   TTTCTTTTCTCCCTCTCCCAACCTACGTAGGGTCCTTCATCCTGGATACTCACGACGCGG     180
+Cemi-A*01:01        ------------------------------------------------------------     180
+Cemi-A*02:01        ------------------------------------------------------------     180
+Cemi-A*03:01        ------------------------------------------------------------     180
+
+HLA-A*01:01:01:01   ACCCAGTTCTCACTCCCATTGGGTGTCGGGTTTCCAGAGAAGCCAATCAGTGTCGTCGCG     240
+Cemi-A*01:01        ------------------------------------------------------------     240
+Cemi-A*02:01        ------------------------------------------------------------     240
+Cemi-A*03:01        ------------------------------------------------------------     240
+
+HLA-A*01:01:01:01   GTCGCTGTTCTAAAGTCCGCACGCACCCACCGGGACTCAGATTCTCCCCAGACGCCGAGG     300
+Cemi-A*01:01        ------------------------------------------------------------     300
+Cemi-A*02:01        ------------------------------------------------------------     300
+Cemi-A*03:01        ------------------------------------------------------------     300
+
+HLA-A*01:01:01:01   ATGGCCGTCATGGCGCCCCGAACCCTCCTCCTGCTACTCTCGGGGGCCCTGGCCCTGACC     360
+Cemi-A*01:01        ATGGCGGTCATGGCGCCCCGAACCGTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGACC     360
+Cemi-A*02:01        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGTCCTAACC     360
+Cemi-A*03:01        ATGGCGGTCATGGCGCCCCGAACGCTCCTCCTGGTGCTCTCCGGGGCCCTGGCCCTGACC     360
+
+HLA-A*01:01:01:01   CAGACCTGGGCGGGTGAGTGCGGGGTCGGGAGGGAAACCGCCTCTGCGGGGAGAAGCAAG     420
+Cemi-A*01:01        CAGACCTGGGCGG-----------------------------------------------     420
+Cemi-A*02:01        CAGACCCGGGCGG-----------------------------------------------     420
+Cemi-A*03:01        CAGACCTGGGCCG-----------------------------------------------     420
+
+HLA-A*01:01:01:01   GGGCCCTCCTGGCGGGGGCGCAGGACCGGGGGAGCCGCGCCGGGAGGAGGGTCGGGCAGG     480
+Cemi-A*01:01        ------------------------------------------------------------     480
+Cemi-A*02:01        ------------------------------------------------------------     480
+Cemi-A*03:01        ------------------------------------------------------------     480
+
+HLA-A*01:01:01:01   TCTCAGCCACTGCTCGCCCCCAGGCTCCCACTCCATGAGGTATTTCTTCACATCCGTGTC     540
+Cemi-A*01:01        -----------------------GCTCGCACTCCATGAGGTATTTCTACACCGCCGTGTC     540
+Cemi-A*02:01        -----------------------GCTCGCACTCCTTGAGGTATTTCTACACCTCCATGTC     540
+Cemi-A*03:01        -----------------------GCTCCCACTCCATGAGGTATTTCTACACCTCCATGTC     540
+
+HLA-A*01:01:01:01   CCGGCCCGGCCGCGGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTT     600
+Cemi-A*01:01        CCGGCCCAGCCGTGGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTT     600
+Cemi-A*02:01        CCGGCCCGGCCGCGGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTT     600
+Cemi-A*03:01        CCGGCCCGGCCGCGGGCAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTT     600
+
+HLA-A*01:01:01:01   CGTGCGGTTCGACAGCGACGCCGCGAGCCAGAAGATGGAGCCGCGGGCGCCGTGGATAGA     660
+Cemi-A*01:01        CGTGCGGTTCGACAGCGACGCCGCGATTCCGAGGATGGAGCCGCGGGCGCCGTGGGTGGA     660
+Cemi-A*02:01        CGTGCGGTTCGACAGCGACGCCGCGAGCCAAAGGATGGAGCCGCGGGCGCCGTGGGTGGA     660
+Cemi-A*03:01        CGTGTGGTTCGACAGCGACGCCGCGAGCCAGAAGATGGAGCCGCGGGCGCCGTGGGTGGA     660
+
+HLA-A*01:01:01:01   GCAGGAGGGGCCGGAGTATTGGGACCAGGAGACACGGAATATGAAGGCCCACTCACAGAC     720
+Cemi-A*01:01        GCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGATCCTGAAGGCCGAGACACAGGG     720
+Cemi-A*02:01        GCAGGAGGGTCCAGAGTATTGGGACCGGAACACACGGAACATGAAGACCGAGACACAGAA     720
+Cemi-A*03:01        GCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGATCATGAAGACCGAGACACAGAA     720
+
+HLA-A*01:01:01:01   TGACCGAGCGAACCTGGGGACCCTGCGCGGCTACTACAACCAGAGCGAGGACGGTGAGTG     780
+Cemi-A*01:01        TGCCCCAGTGGCCCTGCGGAACCTGCGCGGTTACTACAACCAGAGCGAGGCCG-------     780
+Cemi-A*02:01        CTACCGAGAGAGCCTGCGGACCGCGCTCCGCTACTACAACCAGAGCGAGGCCG-------     780
+Cemi-A*03:01        GGCCCCAGTGGACCTGCAGATCCTGCGCGGCTACTACAACCAGAGCGAGGCCG-------     780
+
+HLA-A*01:01:01:01   ACCCCGGCCCGGGGCGCAGGTCACGACCCCTCATCCCCCACGGACGGGCCAGGTCGCCCA     840
+Cemi-A*01:01        ------------------------------------------------------------     840
+Cemi-A*02:01        ------------------------------------------------------------     840
+Cemi-A*03:01        ------------------------------------------------------------     840
+
+HLA-A*01:01:01:01   CAGTCTCCGGGTCCGAGATCCACCCCGAAGCCGCGGGACTCCGAGACCCTTGTCCCGGGA     900
+Cemi-A*01:01        ------------------------------------------------------------     900
+Cemi-A*02:01        ------------------------------------------------------------     900
+Cemi-A*03:01        ------------------------------------------------------------     900
+
+HLA-A*01:01:01:01   GAGGCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTTAGGCCAAAAATCCCCCCGGGTT     960
+Cemi-A*01:01        ------------------------------------------------------------     960
+Cemi-A*02:01        ------------------------------------------------------------     960
+Cemi-A*03:01        ------------------------------------------------------------     960
+
+HLA-A*01:01:01:01   GGTCGGGGCGGGGCGGGGCTCGGGGGACTGGGCTGACCGCGGGGTCGGGGCCAGGTTCTC    1020
+Cemi-A*01:01        ------------------------------------------------------GGTCTC    1020
+Cemi-A*02:01        ------------------------------------------------------GGTCTC    1020
+Cemi-A*03:01        ------------------------------------------------------GGTCTC    1020
+
+HLA-A*01:01:01:01   ACACCATCCAGATAATGTATGGCTGCGACGTGGGGCCGGACGGGCGCTTCCTCCGCGGGT    1080
+Cemi-A*01:01        ACACCCTCCAGATAATGTACGGCTGCGACCTGGGGCCGGACGGGCGCCTCCTCCGCGGGT    1080
+Cemi-A*02:01        ACACCATCCAGAAGATGTACGGCTGCGACCTGGGGCCCGACGGGCGCCTCCTCCGCGGGT    1080
+Cemi-A*03:01        ACACCTACCAGACGATGTACGGCTGCGACCTGGACCCGGACGGGCGCCTCCTCCGCGGGT    1080
+
+HLA-A*01:01:01:01   ACCGGCAGGACGCCTACGACGGCAAGGATTACATCGCCCTGAACGAGGACCTGCGCTCTT    1140
+Cemi-A*01:01        ATGAACAGTCCGCCTACGACGGCAAGGATTACATCGCCCTGAACGAGGACCTGCGCTCCT    1140
+Cemi-A*02:01        ATCTACAGGACGCCTACGATGGCAGGGATTACATCGCCCTGAACGAGGACCTGCGCTCCT    1140
+Cemi-A*03:01        ATTACCAGTACGCCTACGACGGCAAGGATTACATCGCCCTCAACGAGGACCTGCGCTCCT    1140
+
+HLA-A*01:01:01:01   GGACCGCGGCGGACATGGCAGCTCAGATCACCAAGCGCAAGTGGGAGGCGGTCCATGCGG    1200
+Cemi-A*01:01        GGACCGCTGCGGACATGGCGGCTCAGAACACCCAGCGGAAGTGGGAGGCGGCGGGTGTGG    1200
+Cemi-A*02:01        GGACGGCCGCGGACACGGCGGCTCAGAACACCCAGCGGAAGTGGGAGGCGGCCGGTGTGG    1200
+Cemi-A*03:01        GGACCGCCGCGGACCTGGCGGCTCAGAACACCCAGCGGAAGTGGGAGGTGGAAGGTTGGG    1200
+
+HLA-A*01:01:01:01   CGGAGCAGCGGAGAGTCTACCTGGAGGGCCGGTGCGTGGACGGGCTCCGCAGATACCTGG    1260
+Cemi-A*01:01        CGGAGCGGCATAGAGCCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCGCAGACACCTGG    1260
+Cemi-A*02:01        AGGAGCAGGTCAGAGCCTACCTGGAGGGCCAGTGCGTGGAGTCGCTCCGGAGATACCTGG    1260
+Cemi-A*03:01        CGGAGCGGGACAGAGCCTACCTGGAGGGCCGGTGTGTGGAGTCGCTCCGCAGATACCTGG    1260
+
+HLA-A*01:01:01:01   AGAACGGGAAGGAGACGCTGCAGCGCACGGGTACCAGGGGCCACGGGGCGCCTCCCTGAT    1320
+Cemi-A*01:01        AGAACGGGAAGGAGACGCTGCAGCGCGCGG------------------------------    1320
+Cemi-A*02:01        AGAACGGGAAGGAGACGCTGCAGCGCGCGG------------------------------    1320
+Cemi-A*03:01        AGAACGGGAAGGAGACGCTGCAGCGCGCGG------------------------------    1320
+
+HLA-A*01:01:01:01   CGCCTATAGATCTCCCGGGCTGGCCTCCCACAAGGAGGGGAGACAATTGGGACCAACACT    1380
+Cemi-A*01:01        ------------------------------------------------------------    1380
+Cemi-A*02:01        ------------------------------------------------------------    1380
+Cemi-A*03:01        ------------------------------------------------------------    1380
+
+HLA-A*01:01:01:01   AGAATATCACCCTCCCTCTGGTCCTGAGGGAGAGGAATCCTCCTGGGTTTCCAGATCCTG    1440
+Cemi-A*01:01        ------------------------------------------------------------    1440
+Cemi-A*02:01        ------------------------------------------------------------    1440
+Cemi-A*03:01        ------------------------------------------------------------    1440
+
+HLA-A*01:01:01:01   TACCAGAGAGTGACTCTGAGGTTCCGCCCTGCTCTCTGACACAATTAAGGGATAAAATCT    1500
+Cemi-A*01:01        ------------------------------------------------------------    1500
+Cemi-A*02:01        ------------------------------------------------------------    1500
+Cemi-A*03:01        ------------------------------------------------------------    1500
+
+HLA-A*01:01:01:01   CTGAAGGAGTGACGGGAAGACGATCCCTCGAATACTGATGAGTGGTTCCCTTTGACACCG    1560
+Cemi-A*01:01        ------------------------------------------------------------    1560
+Cemi-A*02:01        ------------------------------------------------------------    1560
+Cemi-A*03:01        ------------------------------------------------------------    1560
+
+HLA-A*01:01:01:01   GCAGCAGCCTTGGGCCCGTGACTTTTCCTCTCAGGCCTTGTTCTCTGCTTCACACTCAAT    1620
+Cemi-A*01:01        ------------------------------------------------------------    1620
+Cemi-A*02:01        ------------------------------------------------------------    1620
+Cemi-A*03:01        ------------------------------------------------------------    1620
+
+HLA-A*01:01:01:01   GTGTGTGGGGGTCTGAGTCCAGCACTTCTGAGTCTCTCAGCCTCCACTCAGGTCAGGACC    1680
+Cemi-A*01:01        ------------------------------------------------------------    1680
+Cemi-A*02:01        ------------------------------------------------------------    1680
+Cemi-A*03:01        ------------------------------------------------------------    1680
+
+HLA-A*01:01:01:01   AGAAGTCGCTGTTCCCTTCTCAGGGAATAGAAGATTATCCCAGGTGCCTGTGTCCAGGCT    1740
+Cemi-A*01:01        ------------------------------------------------------------    1740
+Cemi-A*02:01        ------------------------------------------------------------    1740
+Cemi-A*03:01        ------------------------------------------------------------    1740
+
+HLA-A*01:01:01:01   GGTGTCTGGGTTCTGTGCTCTCTTCCCCATCCCGGGTGTCCTGTCCATTCTCAAGATGGC    1800
+Cemi-A*01:01        ------------------------------------------------------------    1800
+Cemi-A*02:01        ------------------------------------------------------------    1800
+Cemi-A*03:01        ------------------------------------------------------------    1800
+
+HLA-A*01:01:01:01   CACATGCGTGCTGGTGGAGTGTCCCATGACAGATGCAAAATGCCTGAATTTTCTGACTCT    1860
+Cemi-A*01:01        ------------------------------------------------------------    1860
+Cemi-A*02:01        ------------------------------------------------------------    1860
+Cemi-A*03:01        ------------------------------------------------------------    1860
+
+HLA-A*01:01:01:01   TCCCGTCAGACCCCCCCAAGACACATATGACCCACCACCCCATCTCTGACCATGAGGCCA    1920
+Cemi-A*01:01        ---------ACCCCCCCAAGACACACGTGACCCACCACCCCGTCTCTGACTACGAGGCCA    1920
+Cemi-A*02:01        ---------ACCCCCCCAAGACACATGTGACCCACCATCCCGTCTCTGACCATGAGGCCA    1920
+Cemi-A*03:01        ---------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCA    1920
+
+HLA-A*01:01:01:01   CCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGG    1980
+Cemi-A*01:01        CCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGAGGAGATCACACTGACATGGCAGCGGG    1980
+Cemi-A*02:01        CCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGG    1980
+Cemi-A*03:01        CCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGG    1980
+
+HLA-A*01:01:01:01   ATGGGGAGGACCAGACCCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGGGATGGAA    2040
+Cemi-A*01:01        ATGGGGAGGACCAAACTCAGGACACGGAGCACGTGGAGACCAGGCCTGCAGGAGATGGAA    2040
+Cemi-A*02:01        ATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTACAGGAGATGGAA    2040
+Cemi-A*03:01        ATGGGGAGGACCAGACCCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAA    2040
+
+HLA-A*01:01:01:01   CCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGCC    2100
+Cemi-A*01:01        CCTTCCAGAAGTGGGCGGCTGTGGTGGTACCTTCTGGAAACGAGCAGAAATACACCTGTC    2100
+Cemi-A*02:01        CCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGTC    2100
+Cemi-A*03:01        CCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTC    2100
+
+HLA-A*01:01:01:01   ATGTGCAGCATGAGGGTCTGCCCAAGCCCCTCACCCTGAGATGGGGTAAGGAGGGAGATG    2160
+Cemi-A*01:01        ATGTGCAGCATGAGGGTCTGCCTGAGCCCCTCACCCTGAGATGGG---------------    2160
+Cemi-A*02:01        ATGTGCAGCATGACGGTCTGCCCGAGCCCCTCACCTTGAGATGGG---------------    2160
+Cemi-A*03:01        ATGTGCAGCATGAGGGTCTGCCCGAGCCCCTCACCCTGAGATGGG---------------    2160
+
+HLA-A*01:01:01:01   GGGGTGTCATGTCTCTTAGGGAAAGCAGGAGCCTCTCTGGAGACCTTTAGCAGGGTCAGG    2220
+Cemi-A*01:01        ------------------------------------------------------------    2220
+Cemi-A*02:01        ------------------------------------------------------------    2220
+Cemi-A*03:01        ------------------------------------------------------------    2220
+
+HLA-A*01:01:01:01   GCCCCTCACCTTCCCCTCTTTTCCCAGAGCTGTCTTCCCAGCCCACCATCCCCATCGTGG    2280
+Cemi-A*01:01        ---------------------------AGCCGTCTTCCCAGTCTACCATCCTCATCGTGG    2280
+Cemi-A*02:01        ---------------------------AGCCGTCTTCCCAGTCTACCATCCTCATCGTGG    2280
+Cemi-A*03:01        ---------------------------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGG    2280
+
+HLA-A*01:01:01:01   GCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGATCACTGGAGCTGTGGTCGCTGCCG    2340
+Cemi-A*01:01        GCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTGGTCGCTGCTG    2340
+Cemi-A*02:01        GCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGCGGTCACTGGAGCTGTGGTCGCTGCTG    2340
+Cemi-A*03:01        GCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTGGTCGCTGCTG    2340
+
+HLA-A*01:01:01:01   TGATGTGGAGGAGGAAGAGCTCAGGTGGAGAAGGGGTGAAGGGTGGGGTCTGAGATTTCT    2400
+Cemi-A*01:01        TGAGGTGGAGGAGGAAGAGCTCAG------------------------------------    2400
+Cemi-A*02:01        TGATGTGGAGGAGGAAGAGCTCAG------------------------------------    2400
+Cemi-A*03:01        TGATGTGGAGGAGGAGGAGCTCAG------------------------------------    2400
+
+HLA-A*01:01:01:01   TGTCTCACTGAGGGTTCCAAGCCCCAGCTAGAAATGTGCCCTGTCTCATTACTGGGAAGC    2460
+Cemi-A*01:01        ------------------------------------------------------------    2460
+Cemi-A*02:01        ------------------------------------------------------------    2460
+Cemi-A*03:01        ------------------------------------------------------------    2460
+
+HLA-A*01:01:01:01   ACCTTCCACAATCATGGGCCGACCCAGCCTGGGCCCTGTGTGCCAGCACTTACTCTTTTG    2520
+Cemi-A*01:01        ------------------------------------------------------------    2520
+Cemi-A*02:01        ------------------------------------------------------------    2520
+Cemi-A*03:01        ------------------------------------------------------------    2520
+
+HLA-A*01:01:01:01   TAAAGCACCTGTTAAAATGAAGGACAGATTTATCACCTTGATTACGGCGGTGATGGGACC    2580
+Cemi-A*01:01        ------------------------------------------------------------    2580
+Cemi-A*02:01        ------------------------------------------------------------    2580
+Cemi-A*03:01        ------------------------------------------------------------    2580
+
+HLA-A*01:01:01:01   TGATCCCAGCAGTCACAAGTCACAGGGGAAGGTCCCTGAGGACAGACCTCAGGAGGGCTA    2640
+Cemi-A*01:01        ------------------------------------------------------------    2640
+Cemi-A*02:01        ------------------------------------------------------------    2640
+Cemi-A*03:01        ------------------------------------------------------------    2640
+
+HLA-A*01:01:01:01   TTGGTCCAGGACCCACACCTGCTTTCTTCATGTTTCCTGATCCCGCCCTGGGTCTGCAGT    2700
+Cemi-A*01:01        ------------------------------------------------------------    2700
+Cemi-A*02:01        ------------------------------------------------------------    2700
+Cemi-A*03:01        ------------------------------------------------------------    2700
+
+HLA-A*01:01:01:01   CACACATTTCTGGAAACTTCTCTGGGGTCCAAGACTAGGAGGTTCCTCTAGGACCTTAAG    2760
+Cemi-A*01:01        ------------------------------------------------------------    2760
+Cemi-A*02:01        ------------------------------------------------------------    2760
+Cemi-A*03:01        ------------------------------------------------------------    2760
+
+HLA-A*01:01:01:01   GCCCTGGCTCCTTTCTGGTATCTCACAGGACATTTTCTTCCCACAGATAGAAAAGGAGGG    2820
+Cemi-A*01:01        ----------------------------------------------ATAGAAAAGGAGGG    2820
+Cemi-A*02:01        ----------------------------------------------ATAGAAAAGGAGGG    2820
+Cemi-A*03:01        ----------------------------------------------ATAGAAAAGGAGGG    2820
+
+HLA-A*01:01:01:01   AGTTACACTCAGGCTGCAAGTAAGTATGAAGGAGGCTGATGCCTGAGGTCCTTGGGATAT    2880
+Cemi-A*01:01        AGCTACTCTCAGGCTGCAA-----------------------------------------    2880
+Cemi-A*02:01        AGCTACTCTCAGGCTGCAA-----------------------------------------    2880
+Cemi-A*03:01        AGCTACTCTCAGGCTGCAA-----------------------------------------    2880
+
+HLA-A*01:01:01:01   TGTGTTTGGGAGCCCATGGGGGAGCTCACCCACCCCACAATTCCTCCTCTAGCCACATCT    2940
+Cemi-A*01:01        ------------------------------------------------------------    2940
+Cemi-A*02:01        ------------------------------------------------------------    2940
+Cemi-A*03:01        ------------------------------------------------------------    2940
+
+HLA-A*01:01:01:01   TCTGTGGGATCTGACCAGGTTCTGTTTTTGTTCTACCCCAGGCAGTGACAGTGCCCAGGG    3000
+Cemi-A*01:01        -----------------------------------------GCAGTGACAGTGCCCAGGG    3000
+Cemi-A*02:01        -----------------------------------------GCAGTGACAGTGCCCAGGG    3000
+Cemi-A*03:01        -----------------------------------------GCAGTGACAGTGCCCAGGG    3000
+
+HLA-A*01:01:01:01   CTCTGATGTGTCTCTCACAGCTTGTAAAGGTGAGAGCTTGGAGGGCCTGATGTGTGTTGG    3060
+Cemi-A*01:01        CTCTGATGTGTCTCTCACGGCTTGTAAAG-------------------------------    3060
+Cemi-A*02:01        CTCTGATGTGTCTCTCACGCCTTGTAAAG-------------------------------    3060
+Cemi-A*03:01        ATCTGATGTGTCTCTTACGGCTTGTAAAG-------------------------------    3060
+
+HLA-A*01:01:01:01   GTGTTGGGTGGAACAGTGGACACAGCTGTGCTATGGGGTTTCTTTGCGTTGGATGTATTG    3120
+Cemi-A*01:01        ------------------------------------------------------------    3120
+Cemi-A*02:01        ------------------------------------------------------------    3120
+Cemi-A*03:01        ------------------------------------------------------------    3120
+
+HLA-A*01:01:01:01   AGCATGCGATGGGCTGTTTAAGGTGTGACCCCTCACTGTGATGGATATGAATTTGTTCAT    3180
+Cemi-A*01:01        ------------------------------------------------------------    3180
+Cemi-A*02:01        ------------------------------------------------------------    3180
+Cemi-A*03:01        ------------------------------------------------------------    3180
+
+HLA-A*01:01:01:01   GAATATTTTTTTCTATAGTGTGAGACAGCTGCCTTGTGTGGGACTGAGAGGCAAGAGTTG    3240
+Cemi-A*01:01        ------------------TGTGA-------------------------------------    3240
+Cemi-A*02:01        ------------------TGTGA-------------------------------------    3240
+Cemi-A*03:01        ------------------TGTGA-------------------------------------    3240
+
+HLA-A*01:01:01:01   TTCCTGCCCTTCCCTTTGTGACTTGAAGAACCCTGACTTTGTTTCTGCAAAGGCACCTGC    3300
+Cemi-A*01:01        ------------------------------------------------------------    3300
+Cemi-A*02:01        ------------------------------------------------------------    3300
+Cemi-A*03:01        ------------------------------------------------------------    3300
+
+HLA-A*01:01:01:01   ATGTGTCTGTGTTCGTGTAGGCATAATGTGAGGAGGTGGGGAGAGCACCCCACCCCCATG    3360
+Cemi-A*01:01        ------------------------------------------------------------    3360
+Cemi-A*02:01        ------------------------------------------------------------    3360
+Cemi-A*03:01        ------------------------------------------------------------    3360
+
+HLA-A*01:01:01:01   TCCACCATGACCCTCTTCCCACGCTGACCTGTGCTCCCTCTCCAATCATCTTTCCTGTTC    3420
+Cemi-A*01:01        ------------------------------------------------------------    3420
+Cemi-A*02:01        ------------------------------------------------------------    3420
+Cemi-A*03:01        ------------------------------------------------------------    3420
+
+HLA-A*01:01:01:01   CAGAGAGGTGGGGCTGAGGTGTCTCCATCTCTGTCTCAACTTCATGGTGCACTGAGCTGT    3480
+Cemi-A*01:01        ------------------------------------------------------------    3480
+Cemi-A*02:01        ------------------------------------------------------------    3480
+Cemi-A*03:01        ------------------------------------------------------------    3480
+
+HLA-A*01:01:01:01   AACTTCTTCCTTCCCTATTAAAA    3503
+Cemi-A*01:01        -----------------------    3503
+Cemi-A*02:01        -----------------------    3503
+Cemi-A*03:01        -----------------------    3503
+

@@ -1,0 +1,72 @@
+HLA-G*01:01:01:01   --MVVMAPRTLFLLLSGALTLTETW-AGSHSMRYFSAAVSRPGRGEPRFIAMGYVDDTQF      60
+Mafa-G*02:01        -------------------------------------AVSRPGRGEPRFIAVGYVDDTQF      60
+Mafa-G*02:02        -------------------------------------AMSRPGRGEPRFIAVGYVDDTQF      60
+Mafa-G*02:03        -------------------------------------AVSRPGRGELRFIAVGYVDDTQF      60
+Mafa-G*02:04        -------------------------------------AVSRPGRGELRFIAVGYVDDTQF      60
+Mafa-G*02:05:01:01  ----------------------------SHSMRYFSAAESQPGRGEPRFIPVGYVDDTQF      60
+Mafa-G*02:05:01:02  ----------------------------SHSMRYFSAAESQPGRGEPRFIPVGYVDDTQF      60
+Mafa-G*02:06        ----------------------------SHSMRYFSAAESQPGRGEPRFIAVGYVDDTQF      60
+Mafa-G*02:07        GGAGPGEPRG----EEGRAGLSPSSPPGSHSMRYFSAAVSQPGRGEPRFIPVGYVDYTQF      60
+Mafa-G*02:08        ----------------------------SHSMRYFSAAESQPGRGEPRFIPVGYVDDTQF      60
+Mafa-G*02:09        ----------------------------SHSMRYFSAAVSRPGRGEPRFIPVGYVDDTQF      60
+
+HLA-G*01:01:01:01   VRFDSDSACPRMEPRAPWVEQEGPEYWEEETRNTKAHAQTDRMNLQTLRGYYNQSEASSH     120
+Mafa-G*02:01        VRLDSDAASLRMEPRGPWVDQEGPEYWEEETRIAKAHAQTDRVNLRTLRSCYNQSEAGSH     120
+Mafa-G*02:02        VRLDSDAASLRMEPRGPWVDQERPEYWEEETRIAKAHAQTDRVNLRTLRSCYNQSEAGPH     120
+Mafa-G*02:03        VRLDSYAASPRMEPRVPWVEQEGPEYWEEETRIAKAHAHTDRVNLRTLRSYYNQSEAGSH     120
+Mafa-G*02:04        VRLDSYAASPRMEPRVPWVEQEGPEYWEEETRIAKAHAHTDRVNLRTLRSYYNQSEAGSH     120
+Mafa-G*02:05:01:01  VWLDSYAASLRMERRAPWVEQEGPEYWEEETRIAKAHAQTDRVNQRTLRSCYNQSEA---     120
+Mafa-G*02:05:01:02  VWLDSYAASLRMERRAPWVEQEGPEYWEEETRIAKAHAQTDRVNQRTLRSCYNQSEA---     120
+Mafa-G*02:06        VWLDSYAASLRMEPRAPWVEQERPEYWEEQTRMAKAHAQTDRVNQRTLRSCYNQSEA---     120
+Mafa-G*02:07        VWLDSYAASLRMEPRGPWVEQERPEYWEEQTRMGKAHAQTDRVNQRTLRSCYNQSEAG--     120
+Mafa-G*02:08        VWLDSYAASLRMERRAPWVEQEGPEYWEEETRIAKAHAQTDRVNQRTLRSCYNQSEA---     120
+Mafa-G*02:09        VWLDSYAASLRMEPRAPWVEQEGPEYWEEETRIAKAHAHTDRVNQRTLRSCYNQSEA---     120
+
+HLA-G*01:01:01:01   TLQWMIGCDLGSDGRLLRGYEQYAYDGKDYLALNEDLRSWTAADTAAQISKRKCEAANVA     180
+Mafa-G*02:01        TLQWMIGCDLGPDGRLLCRCEQFAYDGKDYLALNEDLCSX--------------------     180
+Mafa-G*02:02        TLQWMIGCDLGPDGRLLCRCEQFAYDGKDYLALNEDLLSWTAADTVAQISKRKREAAKAT     180
+Mafa-G*02:03        TLQWMIGCDLGPDGRLLCRCEQFAYDGKDYLALNEDLCSX--------------------     180
+Mafa-G*02:04        TLQWMIGCDLGPDGRLLCRCEQFAYDGKDYLALNEDLCSX--------------------     180
+Mafa-G*02:05:01:01  ------------------------------------------------------------     180
+Mafa-G*02:05:01:02  ------------------------------------------------------------     180
+Mafa-G*02:06        ------------------------------------------------------------     180
+Mafa-G*02:07        ------------------------------------------------------------     180
+Mafa-G*02:08        ------------------------------------------------------------     180
+Mafa-G*02:09        ------------------------------------------------------------     180
+
+HLA-G*01:01:01:01   EQRRAYLEGTCVEWLHRYLENGKEMLQRADPPKTHVTHHPVFDYEATLRCWALGFYPAEI     240
+Mafa-G*02:01        ------------------------------------------------------------     240
+Mafa-G*02:02        ERRRAYLEGTX-------------------------------------------------     240
+Mafa-G*02:03        ------------------------------------------------------------     240
+Mafa-G*02:04        ------------------------------------------------------------     240
+Mafa-G*02:05:01:01  -----------------------------------------------------GLTPS--     240
+Mafa-G*02:05:01:02  -----------------------------------------------------GLTPS--     240
+Mafa-G*02:06        -----------------------------------------------------GLTPS--     240
+Mafa-G*02:07        ------------------------------------------------------------     240
+Mafa-G*02:08        -----------------------------------------------------GLTPS--     240
+Mafa-G*02:09        -----------------------------------------------------GLTPS--     240
+
+HLA-G*01:01:01:01   ILTWQRDGEDQTQDVELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLMLR     300
+Mafa-G*02:01        ------------------------------------------------------------     300
+Mafa-G*02:02        ------------------------------------------------------------     300
+Mafa-G*02:03        ------------------------------------------------------------     300
+Mafa-G*02:04        ------------------------------------------------------------     300
+Mafa-G*02:05:01:01  -------------------------------------SGX--------------------     300
+Mafa-G*02:05:01:02  -------------------------------------SGX--------------------     300
+Mafa-G*02:06        -------------------------------------SGX--------------------     300
+Mafa-G*02:07        ----------------------------------ITPSSGX-------------------     300
+Mafa-G*02:08        -------------------------------------SGX--------------------     300
+Mafa-G*02:09        -------------------------------------SGX--------------------     300
+
+HLA-G*01:01:01:01   WKQSSLPTIPIMGIVAGLVVLAAVVTGAAVAAVLWRKKSSD     341
+Mafa-G*02:01        -----------------------------------------     341
+Mafa-G*02:02        -----------------------------------------     341
+Mafa-G*02:03        -----------------------------------------     341
+Mafa-G*02:04        -----------------------------------------     341
+Mafa-G*02:05:01:01  -----------------------------------------     341
+Mafa-G*02:05:01:02  -----------------------------------------     341
+Mafa-G*02:06        -----------------------------------------     341
+Mafa-G*02:07        -----------------------------------------     341
+Mafa-G*02:08        -----------------------------------------     341
+Mafa-G*02:09        -----------------------------------------     341
+

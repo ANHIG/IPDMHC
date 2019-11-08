@@ -1,0 +1,552 @@
+SLA-DMA*01:01:01    ATGGATCATGAGCTGAGCCAGGGAGCTGCACTGCTACGGCTGCTACACCTTCTGTGGCTG      60
+SLA-DMA*01:01:02    ATGGATCATGAGCTGAGCCAGGGAGCTGCACTGCTACGGCTGCTACACCTTCTGTGGCTG      60
+SLA-DMA*01:01:03    ATGGATCATGAGCTGAGCCAGGGAGCTGCACTGCTACGGCTGCTACACCTTCTGTGGCTG      60
+SLA-DMA*02:01       ATGGATCATGAGCTGAGCCAGGGAGCTGCACTGCTACGGCTGCTACACCTTCTGTGGCTG      60
+SLA-DMA*03:01       ATGGATCATGAGCTGAGCCAGGGAGCTGCACTGCTACGGCTGCTACACCTTCTGTGGCTG      60
+SLA-DMA*04:01       ------------------------------------------------------------      60
+SLA-DMA*05:01       ATGGATCATGAGCTGAGCCAGGGAGCTGCACTGCTACGGCTGCTACACCTTCTGTGGCTG      60
+
+SLA-DMA*01:01:01    CTGCCCCACTCCTGGACTGCCCCCGAAGGTATGACGGCACCTGCCCTTTGCTTCTCTCCT     120
+SLA-DMA*01:01:02    CTGCCCCACTCCTGGACTGCCCCCGAAG--------------------------------     120
+SLA-DMA*01:01:03    CTGCCCCACTCCTGGACTGCCCCCGAAG--------------------------------     120
+SLA-DMA*02:01       CTGCCCCACTCCTGGACTGCCCCCGAAG--------------------------------     120
+SLA-DMA*03:01       CTGCCCCACTCCTGGACTGCCCCCGAAG--------------------------------     120
+SLA-DMA*04:01       ------------------------------------------------------------     120
+SLA-DMA*05:01       CTGCCCCACTCCTGGACTGCCCCCGAAG--------------------------------     120
+
+SLA-DMA*01:01:01    GATTGCCTGAGAGCCTAGGGAGGCAACCCAGGGTATCTGCAAAGGAACCTTGTGTTTGTA     180
+SLA-DMA*01:01:02    ------------------------------------------------------------     180
+SLA-DMA*01:01:03    ------------------------------------------------------------     180
+SLA-DMA*02:01       ------------------------------------------------------------     180
+SLA-DMA*03:01       ------------------------------------------------------------     180
+SLA-DMA*04:01       ------------------------------------------------------------     180
+SLA-DMA*05:01       ------------------------------------------------------------     180
+
+SLA-DMA*01:01:01    AGCAGTGTGTGTGTTATAAGAGAGTGGAAACGGTAGCAGAATGGGGGAAGAGAGCTCTGG     240
+SLA-DMA*01:01:02    ------------------------------------------------------------     240
+SLA-DMA*01:01:03    ------------------------------------------------------------     240
+SLA-DMA*02:01       ------------------------------------------------------------     240
+SLA-DMA*03:01       ------------------------------------------------------------     240
+SLA-DMA*04:01       ------------------------------------------------------------     240
+SLA-DMA*05:01       ------------------------------------------------------------     240
+
+SLA-DMA*01:01:01    TGGATGCATGGCCAACGATATCAGAGGCAATTCATATGTCCCATTTAAGACAATCTCTTC     300
+SLA-DMA*01:01:02    ------------------------------------------------------------     300
+SLA-DMA*01:01:03    ------------------------------------------------------------     300
+SLA-DMA*02:01       ------------------------------------------------------------     300
+SLA-DMA*03:01       ------------------------------------------------------------     300
+SLA-DMA*04:01       ------------------------------------------------------------     300
+SLA-DMA*05:01       ------------------------------------------------------------     300
+
+SLA-DMA*01:01:01    AAGCAGAGCTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTGCTTTTCAGGGCTGCACCGGC     360
+SLA-DMA*01:01:02    ------------------------------------------------------------     360
+SLA-DMA*01:01:03    ------------------------------------------------------------     360
+SLA-DMA*02:01       ------------------------------------------------------------     360
+SLA-DMA*03:01       ------------------------------------------------------------     360
+SLA-DMA*04:01       ------------------------------------------------------------     360
+SLA-DMA*05:01       ------------------------------------------------------------     360
+
+SLA-DMA*01:01:01    ATATGGAAATTCCCAGGTTAGGAGATTGAACTGGAGCTGTAGCTGCCAGCCTACACCACA     420
+SLA-DMA*01:01:02    ------------------------------------------------------------     420
+SLA-DMA*01:01:03    ------------------------------------------------------------     420
+SLA-DMA*02:01       ------------------------------------------------------------     420
+SLA-DMA*03:01       ------------------------------------------------------------     420
+SLA-DMA*04:01       ------------------------------------------------------------     420
+SLA-DMA*05:01       ------------------------------------------------------------     420
+
+SLA-DMA*01:01:01    GCCACAACCACACAAGATTCTTAACCCACTGATCAAGGCCAGGGATTGAATCTGCAGCCG     480
+SLA-DMA*01:01:02    ------------------------------------------------------------     480
+SLA-DMA*01:01:03    ------------------------------------------------------------     480
+SLA-DMA*02:01       ------------------------------------------------------------     480
+SLA-DMA*03:01       ------------------------------------------------------------     480
+SLA-DMA*04:01       ------------------------------------------------------------     480
+SLA-DMA*05:01       ------------------------------------------------------------     480
+
+SLA-DMA*01:01:01    CATGGACTAGTTGGATTCTTAACCCGCTGAGCCACAAGGGGAACTCCTAAAGCAGAGATT     540
+SLA-DMA*01:01:02    ------------------------------------------------------------     540
+SLA-DMA*01:01:03    ------------------------------------------------------------     540
+SLA-DMA*02:01       ------------------------------------------------------------     540
+SLA-DMA*03:01       ------------------------------------------------------------     540
+SLA-DMA*04:01       ------------------------------------------------------------     540
+SLA-DMA*05:01       ------------------------------------------------------------     540
+
+SLA-DMA*01:01:01    ATTACATCCATTTTATAGATGAAGAAAATGAGACTTAGCGTGTAAGTAACTTGTGCAAGT     600
+SLA-DMA*01:01:02    ------------------------------------------------------------     600
+SLA-DMA*01:01:03    ------------------------------------------------------------     600
+SLA-DMA*02:01       ------------------------------------------------------------     600
+SLA-DMA*03:01       ------------------------------------------------------------     600
+SLA-DMA*04:01       ------------------------------------------------------------     600
+SLA-DMA*05:01       ------------------------------------------------------------     600
+
+SLA-DMA*01:01:01    TTACACAGTTGGAAAGTGGGAGAGCTGGGATTTGAACAAAACAAGTTATTTCCACTGTTC     660
+SLA-DMA*01:01:02    ------------------------------------------------------------     660
+SLA-DMA*01:01:03    ------------------------------------------------------------     660
+SLA-DMA*02:01       ------------------------------------------------------------     660
+SLA-DMA*03:01       ------------------------------------------------------------     660
+SLA-DMA*04:01       ------------------------------------------------------------     660
+SLA-DMA*05:01       ------------------------------------------------------------     660
+
+SLA-DMA*01:01:01    CTGCTTAGGAGTCTGCTCTGCACTCTGTCATCAATTCACCCTTGGTTTTTAAAAACGCTT     720
+SLA-DMA*01:01:02    ------------------------------------------------------------     720
+SLA-DMA*01:01:03    ------------------------------------------------------------     720
+SLA-DMA*02:01       ------------------------------------------------------------     720
+SLA-DMA*03:01       ------------------------------------------------------------     720
+SLA-DMA*04:01       ------------------------------------------------------------     720
+SLA-DMA*05:01       ------------------------------------------------------------     720
+
+SLA-DMA*01:01:01    TTGACTTTATTGGTCCTTAGTTTCCTTCTCTGAAAAGGATGGGGCAGAATGGAGAATAAT     780
+SLA-DMA*01:01:02    ------------------------------------------------------------     780
+SLA-DMA*01:01:03    ------------------------------------------------------------     780
+SLA-DMA*02:01       ------------------------------------------------------------     780
+SLA-DMA*03:01       ------------------------------------------------------------     780
+SLA-DMA*04:01       ------------------------------------------------------------     780
+SLA-DMA*05:01       ------------------------------------------------------------     780
+
+SLA-DMA*01:01:01    CTGGAAGATCCCTCTTACTTGAACTATCATTCTGGGTATTGGATTTTGAGTAGAAGATTT     840
+SLA-DMA*01:01:02    ------------------------------------------------------------     840
+SLA-DMA*01:01:03    ------------------------------------------------------------     840
+SLA-DMA*02:01       ------------------------------------------------------------     840
+SLA-DMA*03:01       ------------------------------------------------------------     840
+SLA-DMA*04:01       ------------------------------------------------------------     840
+SLA-DMA*05:01       ------------------------------------------------------------     840
+
+SLA-DMA*01:01:01    CCTGCTGGCCAGGAGTTGCAAAGAATGGGAATTATTGGGAGTTCCTTTTGTGGCTCAGTG     900
+SLA-DMA*01:01:02    ------------------------------------------------------------     900
+SLA-DMA*01:01:03    ------------------------------------------------------------     900
+SLA-DMA*02:01       ------------------------------------------------------------     900
+SLA-DMA*03:01       ------------------------------------------------------------     900
+SLA-DMA*04:01       ------------------------------------------------------------     900
+SLA-DMA*05:01       ------------------------------------------------------------     900
+
+SLA-DMA*01:01:01    GCAATGAACCTGACTAGGATCCATGAGGACACAGGTTCAATCCCTGGCCTCGCCCAGTGG     960
+SLA-DMA*01:01:02    ------------------------------------------------------------     960
+SLA-DMA*01:01:03    ------------------------------------------------------------     960
+SLA-DMA*02:01       ------------------------------------------------------------     960
+SLA-DMA*03:01       ------------------------------------------------------------     960
+SLA-DMA*04:01       ------------------------------------------------------------     960
+SLA-DMA*05:01       ------------------------------------------------------------     960
+
+SLA-DMA*01:01:01    GTTAAGCATCTGGGCATTGCCGAGAGCTGTGGTGTAGGTCGCAGATAAGGCTCATATCCC    1020
+SLA-DMA*01:01:02    ------------------------------------------------------------    1020
+SLA-DMA*01:01:03    ------------------------------------------------------------    1020
+SLA-DMA*02:01       ------------------------------------------------------------    1020
+SLA-DMA*03:01       ------------------------------------------------------------    1020
+SLA-DMA*04:01       ------------------------------------------------------------    1020
+SLA-DMA*05:01       ------------------------------------------------------------    1020
+
+SLA-DMA*01:01:01    ACGTTGCTGTGGCTGTGCTGTAGGCTGGCAGCTGCAGCTCCAATTGGACCCCTAGCCTGC    1080
+SLA-DMA*01:01:02    ------------------------------------------------------------    1080
+SLA-DMA*01:01:03    ------------------------------------------------------------    1080
+SLA-DMA*02:01       ------------------------------------------------------------    1080
+SLA-DMA*03:01       ------------------------------------------------------------    1080
+SLA-DMA*04:01       ------------------------------------------------------------    1080
+SLA-DMA*05:01       ------------------------------------------------------------    1080
+
+SLA-DMA*01:01:01    AAGGTTTGCAGGGTTGAGGGAAGGGAAGATATTTTCAGAGAGGCCTAGTGTTAATGAAGT    1140
+SLA-DMA*01:01:02    ------------------------------------------------------------    1140
+SLA-DMA*01:01:03    ------------------------------------------------------------    1140
+SLA-DMA*02:01       ------------------------------------------------------------    1140
+SLA-DMA*03:01       ------------------------------------------------------------    1140
+SLA-DMA*04:01       ------------------------------------------------------------    1140
+SLA-DMA*05:01       ------------------------------------------------------------    1140
+
+SLA-DMA*01:01:01    GGCTGAAAAGAAGCCTGGAGACTGACTTTTCAGTCTACCATGTGTGTCTGAGGATAGGAT    1200
+SLA-DMA*01:01:02    ------------------------------------------------------------    1200
+SLA-DMA*01:01:03    ------------------------------------------------------------    1200
+SLA-DMA*02:01       ------------------------------------------------------------    1200
+SLA-DMA*03:01       ------------------------------------------------------------    1200
+SLA-DMA*04:01       ------------------------------------------------------------    1200
+SLA-DMA*05:01       ------------------------------------------------------------    1200
+
+SLA-DMA*01:01:01    GGGGACAGTGTCACCTAGGGCTTAGGGAGGCCAAGCCATTCTTCACTCACCCAGGTGAAG    1260
+SLA-DMA*01:01:02    ------------------------------------------------------------    1260
+SLA-DMA*01:01:03    ------------------------------------------------------------    1260
+SLA-DMA*02:01       ------------------------------------------------------------    1260
+SLA-DMA*03:01       ------------------------------------------------------------    1260
+SLA-DMA*04:01       ------------------------------------------------------------    1260
+SLA-DMA*05:01       ------------------------------------------------------------    1260
+
+SLA-DMA*01:01:01    ACTGGGGAACCCACCCAGCCCCTTCACACGTCAGTACGATGGCCTCCTGGAAATTAGACT    1320
+SLA-DMA*01:01:02    ------------------------------------------------------------    1320
+SLA-DMA*01:01:03    ------------------------------------------------------------    1320
+SLA-DMA*02:01       ------------------------------------------------------------    1320
+SLA-DMA*03:01       ------------------------------------------------------------    1320
+SLA-DMA*04:01       ------------------------------------------------------------    1320
+SLA-DMA*05:01       ------------------------------------------------------------    1320
+
+SLA-DMA*01:01:01    AAGGCCTTCCTTTTGGGAGAGTGTAGCCCTGTGCCAGGATGCATGGTTTGGGGAGCAGAA    1380
+SLA-DMA*01:01:02    ------------------------------------------------------------    1380
+SLA-DMA*01:01:03    ------------------------------------------------------------    1380
+SLA-DMA*02:01       ------------------------------------------------------------    1380
+SLA-DMA*03:01       ------------------------------------------------------------    1380
+SLA-DMA*04:01       ------------------------------------------------------------    1380
+SLA-DMA*05:01       ------------------------------------------------------------    1380
+
+SLA-DMA*01:01:01    TGCAGGCTAGATTTCAGCTGCCTTTTACCTCCTTGGCTGGGTGCCTTTGTGCACAAAGCA    1440
+SLA-DMA*01:01:02    ------------------------------------------------------------    1440
+SLA-DMA*01:01:03    ------------------------------------------------------------    1440
+SLA-DMA*02:01       ------------------------------------------------------------    1440
+SLA-DMA*03:01       ------------------------------------------------------------    1440
+SLA-DMA*04:01       ------------------------------------------------------------    1440
+SLA-DMA*05:01       ------------------------------------------------------------    1440
+
+SLA-DMA*01:01:01    CAACCAACATTGTGACTCTGAATCTGTCACTTTAGGCAGGAGAGCTTTTTTGCTTTTCTC    1500
+SLA-DMA*01:01:02    ------------------------------------------------------------    1500
+SLA-DMA*01:01:03    ------------------------------------------------------------    1500
+SLA-DMA*02:01       ------------------------------------------------------------    1500
+SLA-DMA*03:01       ------------------------------------------------------------    1500
+SLA-DMA*04:01       ------------------------------------------------------------    1500
+SLA-DMA*05:01       ------------------------------------------------------------    1500
+
+SLA-DMA*01:01:01    AACTTTAGACAGTTGGCCTTTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTTTTAGGGCA    1560
+SLA-DMA*01:01:02    ------------------------------------------------------------    1560
+SLA-DMA*01:01:03    ------------------------------------------------------------    1560
+SLA-DMA*02:01       ------------------------------------------------------------    1560
+SLA-DMA*03:01       ------------------------------------------------------------    1560
+SLA-DMA*04:01       ------------------------------------------------------------    1560
+SLA-DMA*05:01       ------------------------------------------------------------    1560
+
+SLA-DMA*01:01:01    GCGTATGGAAGTTCCCAGGCTAGGGATCAAATCAGAGCTGCACCTACCAGCCTACACCAC    1620
+SLA-DMA*01:01:02    ------------------------------------------------------------    1620
+SLA-DMA*01:01:03    ------------------------------------------------------------    1620
+SLA-DMA*02:01       ------------------------------------------------------------    1620
+SLA-DMA*03:01       ------------------------------------------------------------    1620
+SLA-DMA*04:01       ------------------------------------------------------------    1620
+SLA-DMA*05:01       ------------------------------------------------------------    1620
+
+SLA-DMA*01:01:01    AGCCACAGCAACGCCTGATCCAATGTGCATCTGCTATCTACACCACAGCTCATGGCAACG    1680
+SLA-DMA*01:01:02    ------------------------------------------------------------    1680
+SLA-DMA*01:01:03    ------------------------------------------------------------    1680
+SLA-DMA*02:01       ------------------------------------------------------------    1680
+SLA-DMA*03:01       ------------------------------------------------------------    1680
+SLA-DMA*04:01       ------------------------------------------------------------    1680
+SLA-DMA*05:01       ------------------------------------------------------------    1680
+
+SLA-DMA*01:01:01    TGGGATCCTTAACCCACTGAGCAAGGCCAGGGATCAACCCTCATCCTCATGTATACTAGG    1740
+SLA-DMA*01:01:02    ------------------------------------------------------------    1740
+SLA-DMA*01:01:03    ------------------------------------------------------------    1740
+SLA-DMA*02:01       ------------------------------------------------------------    1740
+SLA-DMA*03:01       ------------------------------------------------------------    1740
+SLA-DMA*04:01       ------------------------------------------------------------    1740
+SLA-DMA*05:01       ------------------------------------------------------------    1740
+
+SLA-DMA*01:01:01    CGGGTTCTTAACCCACTGAGCCACAATTGGAACTCCTGATAGCTGGCCCTTTATAGGCTA    1800
+SLA-DMA*01:01:02    ------------------------------------------------------------    1800
+SLA-DMA*01:01:03    ------------------------------------------------------------    1800
+SLA-DMA*02:01       ------------------------------------------------------------    1800
+SLA-DMA*03:01       ------------------------------------------------------------    1800
+SLA-DMA*04:01       ------------------------------------------------------------    1800
+SLA-DMA*05:01       ------------------------------------------------------------    1800
+
+SLA-DMA*01:01:01    GGGAAGTCTGGAGAGACCCCTTAATTTTCTTTCTTTCTTTCTTTTTTTTTTGTCTTTTTG    1860
+SLA-DMA*01:01:02    ------------------------------------------------------------    1860
+SLA-DMA*01:01:03    ------------------------------------------------------------    1860
+SLA-DMA*02:01       ------------------------------------------------------------    1860
+SLA-DMA*03:01       ------------------------------------------------------------    1860
+SLA-DMA*04:01       ------------------------------------------------------------    1860
+SLA-DMA*05:01       ------------------------------------------------------------    1860
+
+SLA-DMA*01:01:01    TCTTTTCTTGAGCCGCTTCAGCGGCATATGGAGGTTCCCAGGCTAGGGGTCGAATCGGAG    1920
+SLA-DMA*01:01:02    ------------------------------------------------------------    1920
+SLA-DMA*01:01:03    ------------------------------------------------------------    1920
+SLA-DMA*02:01       ------------------------------------------------------------    1920
+SLA-DMA*03:01       ------------------------------------------------------------    1920
+SLA-DMA*04:01       ------------------------------------------------------------    1920
+SLA-DMA*05:01       ------------------------------------------------------------    1920
+
+SLA-DMA*01:01:01    CTGTGGCCGCCAGCCTACACCAGGGCCACAGCAACGTGGGATCCGAGCAGCATCTGAAAC    1980
+SLA-DMA*01:01:02    ------------------------------------------------------------    1980
+SLA-DMA*01:01:03    ------------------------------------------------------------    1980
+SLA-DMA*02:01       ------------------------------------------------------------    1980
+SLA-DMA*03:01       ------------------------------------------------------------    1980
+SLA-DMA*04:01       ------------------------------------------------------------    1980
+SLA-DMA*05:01       ------------------------------------------------------------    1980
+
+SLA-DMA*01:01:01    CTACACCACAGCTCACGGCAACACCAGATCCTTAACCCACCGAGCAAGGCCAGGGATCGA    2040
+SLA-DMA*01:01:02    ------------------------------------------------------------    2040
+SLA-DMA*01:01:03    ------------------------------------------------------------    2040
+SLA-DMA*02:01       ------------------------------------------------------------    2040
+SLA-DMA*03:01       ------------------------------------------------------------    2040
+SLA-DMA*04:01       ------------------------------------------------------------    2040
+SLA-DMA*05:01       ------------------------------------------------------------    2040
+
+SLA-DMA*01:01:01    ACCCACAATCTCATGTTTCCTAGTCGGATTCGTTAACCACTGCGCCACAACGGGAACTCT    2100
+SLA-DMA*01:01:02    ------------------------------------------------------------    2100
+SLA-DMA*01:01:03    ------------------------------------------------------------    2100
+SLA-DMA*02:01       ------------------------------------------------------------    2100
+SLA-DMA*03:01       ------------------------------------------------------------    2100
+SLA-DMA*04:01       ------------------------------------------------------------    2100
+SLA-DMA*05:01       ------------------------------------------------------------    2100
+
+SLA-DMA*01:01:01    GAGACCCCGTGATTTTCTTTATCGTCCCCATTGGGAGGGAGAGCCTAGGTGACAGACACA    2160
+SLA-DMA*01:01:02    ------------------------------------------------------------    2160
+SLA-DMA*01:01:03    ------------------------------------------------------------    2160
+SLA-DMA*02:01       ------------------------------------------------------------    2160
+SLA-DMA*03:01       ------------------------------------------------------------    2160
+SLA-DMA*04:01       ------------------------------------------------------------    2160
+SLA-DMA*05:01       ------------------------------------------------------------    2160
+
+SLA-DMA*01:01:01    GGAGGGGTTATGACCCACCTCTACTGGCTCCCACCTCTCTAAACCCCACCCTGTCTCTCT    2220
+SLA-DMA*01:01:02    ------------------------------------------------------------    2220
+SLA-DMA*01:01:03    ------------------------------------------------------------    2220
+SLA-DMA*02:01       ------------------------------------------------------------    2220
+SLA-DMA*03:01       ------------------------------------------------------------    2220
+SLA-DMA*04:01       ------------------------------------------------------------    2220
+SLA-DMA*05:01       ------------------------------------------------------------    2220
+
+SLA-DMA*01:01:01    TGCAGCTCCTGCTCCAGGGTGGAGGGATGAGCTGCAAAACCACACGTTCCAGTACACAAT    2280
+SLA-DMA*01:01:02    -----CTCCTGCTCCAGGGTGGAGGGATGAGCTGCAAAACCACACGTTCCAGTACACAAT    2280
+SLA-DMA*01:01:03    -----CTCCTGCTCCAGGGTGGAGGGATGAGCTGCAAAACCACACGTTCCAGTACACAAT    2280
+SLA-DMA*02:01       -----CTCCTGCTCCAGGGTGGAGGGATGAGCTGCAAAACCACACGTTCCAGTACACAAT    2280
+SLA-DMA*03:01       -----CTCCTGCTCCAGGGTGGAGGGATGAGCTGCAAAACCACACGTTCCAGTACACAAT    2280
+SLA-DMA*04:01       ------------------------------------------------------------    2280
+SLA-DMA*05:01       -----CTCCTGCTCCAGGGTGGAGGGATGAGCTGCAAAACCACACGTTCCAGTACACGAT    2280
+
+SLA-DMA*01:01:01    GTACTGCCAGGATGGGAATCCCGAAGTGGGACTCTCCGAGGTCTATGATGGGGACCAGCT    2340
+SLA-DMA*01:01:02    GTACTGCCAGGATGGGAATCCCGAAGTGGGACTCTCCGAGGTCTATGATGGGGACCAGCT    2340
+SLA-DMA*01:01:03    GTACTGCCAGGATGGGAATCCCGAAGTGGGACTCTCCGAGGTCTATGATGGGGACCAGCT    2340
+SLA-DMA*02:01       GTACTGCCAGGATGGGAATCCCGAAGTGGGACTCTCCGAGGTCTATGATGGGGACCAGCT    2340
+SLA-DMA*03:01       GTACTGCCAGGATGGGAATCCCGAAGTGGGACTCTCCGAGGTCTATGATGGGGACCAGCT    2340
+SLA-DMA*04:01       ------------------------------------------------------------    2340
+SLA-DMA*05:01       GTACTGCCAGGATGGGAATCCCGAAGTGGGACTCTCCGAGGTCTATGATGGGGACCAGCT    2340
+
+SLA-DMA*01:01:01    TTTCTCCTTCAACTTTTCCCAGAACATCCGAGTGCCTCGCCTGCCTGAATTTGCGGACTG    2400
+SLA-DMA*01:01:02    TTTCTCCTTCAACTTTTCCCAGAACATCCGAGTGCCTCGCCTGCCTGAATTTGCGGACTG    2400
+SLA-DMA*01:01:03    TTTCTCCTTCAACTTTTCCCAGAACATCCGAGTGCCTCGCCTGCCTGAATTTGCGGACTG    2400
+SLA-DMA*02:01       TTTCTCCTTCAACTTTTCCCAGAACATCCGAGTGCCTCGCCTGCCTGAATTTGCGGACTG    2400
+SLA-DMA*03:01       TTTCTCCTTCAACTTTTCCCAGAACATCCGAGTGCCTCGCCTGCCTGAATTTGCGGACTG    2400
+SLA-DMA*04:01       ------------------------------------------------------------    2400
+SLA-DMA*05:01       TTTCTCCTTCAACTTTTCCCAGAACATCCGAGTGCCTCGCCTGCCTGAATTTGCGGACTG    2400
+
+SLA-DMA*01:01:01    GGCTCACCAGATTGAAGACACTCCTGCCATTTTCTTTGACAAAGGATTCTGCCGAGAGAT    2460
+SLA-DMA*01:01:02    GGCTCACCAGATTGAAGACACTCCTGCCATTTTCTTTGACAAAGGATTCTGCCGAGAGAT    2460
+SLA-DMA*01:01:03    GGCTCACCAGATTGAAGACACTCCTGCCATTTTCTTTGACAAAGGATTCTGCCGAGAGAT    2460
+SLA-DMA*02:01       GGCTCACCAGATTGAAGACACTCCTGCCATTTTCTTTGACAAAGGATTCTGCCGAGAGAT    2460
+SLA-DMA*03:01       GGCTCACCAGATTGAAGACACTCCTGCCATTTTCTTTGACAAAGGATTCTGCCGAGAGAT    2460
+SLA-DMA*04:01       ------------------------------------------------------------    2460
+SLA-DMA*05:01       GGCTCACCAGATTGAAGACACTCCTGCCATTTTCTTTGACAAAGGATTCTGCCGAGAGAT    2460
+
+SLA-DMA*01:01:01    GATCGAAAAAGTTGGCCCACTGTTTGAAGGGAAAATCCCAGTGTCTAGAGGTCAGGGGTT    2520
+SLA-DMA*01:01:02    GATCGAAAAAGTTGGCCCACTGTTTGAAGGGAAAATCCCAGTGTCTAGAG----------    2520
+SLA-DMA*01:01:03    GATCGAAAAAGTTGGCCCACTGTTTGAAGGGAAAATCCCAGTGTCTAGAG----------    2520
+SLA-DMA*02:01       GATCGAAAAAGTTGGCCCACTGTTTGAAGGGAAAATCCCAGTGTCTAGAG----------    2520
+SLA-DMA*03:01       GATCGAAAAAGTTGGCCCACTGTTTGAAGGGAAAATCCCAGTGTCTAGAG----------    2520
+SLA-DMA*04:01       ------------------------------------------------------------    2520
+SLA-DMA*05:01       GATCGAAAAAGTTGGCCCACTGTTTGAAGGGAAAATCCCAGTGTCTAGAG----------    2520
+
+SLA-DMA*01:01:01    TTGGGGGGGGGATGAGGGGGTGAGTGGGCTTCACTCTTCACCTGAATTATACACTGAATT    2580
+SLA-DMA*01:01:02    ------------------------------------------------------------    2580
+SLA-DMA*01:01:03    ------------------------------------------------------------    2580
+SLA-DMA*02:01       ------------------------------------------------------------    2580
+SLA-DMA*03:01       ------------------------------------------------------------    2580
+SLA-DMA*04:01       ------------------------------------------------------------    2580
+SLA-DMA*05:01       ------------------------------------------------------------    2580
+
+SLA-DMA*01:01:01    ACTCCCCTTCTCATCAGCTCCCCATCTCTCAGGCTTTCTGCTCCCCCCACCCCGGGACCT    2640
+SLA-DMA*01:01:02    ------------------------------------------------------------    2640
+SLA-DMA*01:01:03    ------------------------------------------------------------    2640
+SLA-DMA*02:01       ------------------------------------------------------------    2640
+SLA-DMA*03:01       ------------------------------------------------------------    2640
+SLA-DMA*04:01       ------------------------------------------------------------    2640
+SLA-DMA*05:01       ------------------------------------------------------------    2640
+
+SLA-DMA*01:01:01    TGATATTTCTGCCACTCATGGTTTGCCCTCTATTTTTGTTGTGGGGCAAAAGACAAGACC    2700
+SLA-DMA*01:01:02    ------------------------------------------------------------    2700
+SLA-DMA*01:01:03    ------------------------------------------------------------    2700
+SLA-DMA*02:01       ------------------------------------------------------------    2700
+SLA-DMA*03:01       ------------------------------------------------------------    2700
+SLA-DMA*04:01       ------------------------------------------------------------    2700
+SLA-DMA*05:01       ------------------------------------------------------------    2700
+
+SLA-DMA*01:01:01    CTAGGAACTTGTCTTCCTCGAAACTATTTATTGAACTCGATGAATTCAATAGGGACCCCT    2760
+SLA-DMA*01:01:02    ------------------------------------------------------------    2760
+SLA-DMA*01:01:03    ------------------------------------------------------------    2760
+SLA-DMA*02:01       ------------------------------------------------------------    2760
+SLA-DMA*03:01       ------------------------------------------------------------    2760
+SLA-DMA*04:01       ------------------------------------------------------------    2760
+SLA-DMA*05:01       ------------------------------------------------------------    2760
+
+SLA-DMA*01:01:01    GGATGTCTACCGAGTATCATTAGCCCTTGTGCTACAACGCTTAGCAAGATGGGAGGGGAG    2820
+SLA-DMA*01:01:02    ------------------------------------------------------------    2820
+SLA-DMA*01:01:03    ------------------------------------------------------------    2820
+SLA-DMA*02:01       ------------------------------------------------------------    2820
+SLA-DMA*03:01       ------------------------------------------------------------    2820
+SLA-DMA*04:01       ------------------------------------------------------------    2820
+SLA-DMA*05:01       ------------------------------------------------------------    2820
+
+SLA-DMA*01:01:01    CATGGAAGTGTCTGAGGATGTGCCTGCGTTTTAATGGGAAGACAGCACTGATCCGACACC    2880
+SLA-DMA*01:01:02    ------------------------------------------------------------    2880
+SLA-DMA*01:01:03    ------------------------------------------------------------    2880
+SLA-DMA*02:01       ------------------------------------------------------------    2880
+SLA-DMA*03:01       ------------------------------------------------------------    2880
+SLA-DMA*04:01       ------------------------------------------------------------    2880
+SLA-DMA*05:01       ------------------------------------------------------------    2880
+
+SLA-DMA*01:01:01    AAAGTGAGGTCTAGATAGGAAGTGCGGCAGGAAGTAGCCGGGAGGAAGACCTTCTCAGAG    2940
+SLA-DMA*01:01:02    ------------------------------------------------------------    2940
+SLA-DMA*01:01:03    ------------------------------------------------------------    2940
+SLA-DMA*02:01       ------------------------------------------------------------    2940
+SLA-DMA*03:01       ------------------------------------------------------------    2940
+SLA-DMA*04:01       ------------------------------------------------------------    2940
+SLA-DMA*05:01       ------------------------------------------------------------    2940
+
+SLA-DMA*01:01:01    CCTGCATCATCTCTCCTCCCCAAAGCCCATGCCCTTTGACCCAGTCTCTGCCCTCCCTTC    3000
+SLA-DMA*01:01:02    ------------------------------------------------------------    3000
+SLA-DMA*01:01:03    ------------------------------------------------------------    3000
+SLA-DMA*02:01       ------------------------------------------------------------    3000
+SLA-DMA*03:01       ------------------------------------------------------------    3000
+SLA-DMA*04:01       ------------------------------------------------------------    3000
+SLA-DMA*05:01       ------------------------------------------------------------    3000
+
+SLA-DMA*01:01:01    CGTATGCTGCGTCCCCTCCACACAGGGATGTCGCCTAAGCTCCTGGCGTCTTTCCCTCAC    3060
+SLA-DMA*01:01:02    ------------------------------------------------------------    3060
+SLA-DMA*01:01:03    ------------------------------------------------------------    3060
+SLA-DMA*02:01       ------------------------------------------------------------    3060
+SLA-DMA*03:01       ------------------------------------------------------------    3060
+SLA-DMA*04:01       ------------------------------------------------------------    3060
+SLA-DMA*05:01       ------------------------------------------------------------    3060
+
+SLA-DMA*01:01:01    ACCTCAATCCCTTCGCAGGGTTACCCATCGCTGAGGTGTTCACGCTGAAGCCCCTGGAGT    3120
+SLA-DMA*01:01:02    ------------------GGTTACCCATCGCTGAGGTGTTCACGCTGAAGCCCCTGGAGT    3120
+SLA-DMA*01:01:03    ------------------GGTTACCCATCGCTGAGGTGTTCACGCTGAAGCCCCTGGAGT    3120
+SLA-DMA*02:01       ------------------GGTTACCCATCGCTGAGGTGTTCACGCTGAAGCCCCTGGAGT    3120
+SLA-DMA*03:01       ------------------GGTTACCCATCGCTGAGGTGTTCACGCTGAAGCCCCTGGAGT    3120
+SLA-DMA*04:01       -----------------------------------GTGTTCACGCTGAAGCCCCTGGAGT    3120
+SLA-DMA*05:01       ------------------GGTTACCCATCGCTGAGGTGTTCACGCTGAAGCCCCTGGAGT    3120
+
+SLA-DMA*01:01:01    TTGGCAAACCCAACACACTGGTCTGTTTTGTCAGTAACCTTTTCCCACCCGCACTGACGG    3180
+SLA-DMA*01:01:02    TTGGCAAACCCAACACACTGGTCTGTTTTGTCAGTAACCTTTTCCCACCCGCACTGACGG    3180
+SLA-DMA*01:01:03    TTGGCAAACCCAACACACTGGTCTGTTTTGTCAGTAACCTTTTCCCACCCGCACTGACGG    3180
+SLA-DMA*02:01       TTGGCAAACCCAACACACTGGTCTGTTTTGTCAGTAACCTTTTCCCACCCGCACTGACGG    3180
+SLA-DMA*03:01       TTGGCAAACCCAACACACTGGTCTGTTTTGTCAGTAACCTTTTCCCACCCGCACTGACGG    3180
+SLA-DMA*04:01       TTGGCAAACCCAACACACTGGTCTGTTTTGTCAGTAACCTCTTCCCACCCGCACTGACGG    3180
+SLA-DMA*05:01       TTGGCAAACCCAACACACTGGTCTGTTTTGTCAGTAACCTTTTCCCACCCGCACTGACGG    3180
+
+SLA-DMA*01:01:01    TGACCTGGGAGCATCACTCTGCTCCTGTGGAAGGAATCGGGCCCACTTTCGTCTCCGCCA    3240
+SLA-DMA*01:01:02    TGACCTGGGAGCATCACTCTGCTCCTGTGGAAGGAATCGGGCCCACTTTCGTCTCCGCCA    3240
+SLA-DMA*01:01:03    TGACCTGGGAGCATCACTCTGCTCCTGTGGAAGGAATCGGGCCCACTTTCGTCTCCGCCA    3240
+SLA-DMA*02:01       TGACCTGGGAGCATCACTCTGCTCCTGTGGAAGGAATCGGGCCCACTTTCATCTCCGCCA    3240
+SLA-DMA*03:01       TGACCTGGGAGCATCACTCTGCTCCTGTGGAAGGAGTCGGGCCCACTTTCGTCTCCGCCA    3240
+SLA-DMA*04:01       TGACCTGGGAGCATCACTCTGCTCCTGTGGAAGGAGTCGGGCCCACTTTCGTCTCCGCCA    3240
+SLA-DMA*05:01       TGACCTGGGAGCATCACTCTGCTCCTGTGGAAGGAATCGGGCCCACTTTCGTCTCCGCCA    3240
+
+SLA-DMA*01:01:01    CGGATGACCTCAGCTTCCAGGCCTTTTCTTATTTAAACTTCACACCGACACCCTCTGACC    3300
+SLA-DMA*01:01:02    CGGATGACCTCAGCTTCCAGGCCTTTTCTTATTTAAACTTCACACCGACACCCTCTGACC    3300
+SLA-DMA*01:01:03    CGGATGACCTCAGCTTCCAGGCCTTTTCTTATTTAAACTTCACACCGACACCCTCTGACC    3300
+SLA-DMA*02:01       CGGATGACCTCAGCTTCCAGGCCTTTTCTTATTTAAACTTCACACCGACACCCTCTGACC    3300
+SLA-DMA*03:01       CGGATGACCTCAGCTTCCAGGCCTTTTCTTATTTAAACTTCACACCGACACCCTCTGACC    3300
+SLA-DMA*04:01       CGGATGACCTCAGCTTCCAGGCCTTTTCTTATTTAAACTTCACACCGACACCCTCTGACC    3300
+SLA-DMA*05:01       CGGATGACCTCAGCTTCCAGGCCTTTTCTTATTTAAACTTCACACCGACACCCTCTGACC    3300
+
+SLA-DMA*01:01:01    TTTTCTCCTGCGTCGTGACTCATGAGCTCGACGGCTACGTAGCAATCTCTTACTGGGGTG    3360
+SLA-DMA*01:01:02    TTTTCTCCTGCGTCGTGACTCATGAGCTCGATGGCTACGTAGCAATCTCTTACTGGG---    3360
+SLA-DMA*01:01:03    TTTTCTCTTGCGTCGTGACTCATGAGCTCGACGGCTACGTAGCAATCTCTTACTGGG---    3360
+SLA-DMA*02:01       TTTTCTCCTGCGTCGTGACTCATGAGCTCGACGGCTACGTAGCAATCTCTTACTGGG---    3360
+SLA-DMA*03:01       TTTTCTCCTGCGTCGTGACTCATGAGCTCGACGGCTACGTAGCAATCTCTTACTGGG---    3360
+SLA-DMA*04:01       TTTTCTCCTGCGTCGTGACTCATGAGCTCGACGGCT------------------------    3360
+SLA-DMA*05:01       TTTTCTCCTGCGTCGTGACTCATGAGCTCGACGGCTACATAGCAATCTCTTACTGGG---    3360
+
+SLA-DMA*01:01:01    AGACCCTTCTTTCCTGGAAAATTGGTTTCTTGGGGGGGGGGCAAAAAAGACCCACGGGGG    3420
+SLA-DMA*01:01:02    ------------------------------------------------------------    3420
+SLA-DMA*01:01:03    ------------------------------------------------------------    3420
+SLA-DMA*02:01       ------------------------------------------------------------    3420
+SLA-DMA*03:01       ------------------------------------------------------------    3420
+SLA-DMA*04:01       ------------------------------------------------------------    3420
+SLA-DMA*05:01       ------------------------------------------------------------    3420
+
+SLA-DMA*01:01:01    GGCTTCTTTTTCCACTCGGCCCTTGTTTCTCCCTCTGAGCCCACCTCAACTTTCCATGCC    3480
+SLA-DMA*01:01:02    ------------------------------------------------------------    3480
+SLA-DMA*01:01:03    ------------------------------------------------------------    3480
+SLA-DMA*02:01       ------------------------------------------------------------    3480
+SLA-DMA*03:01       ------------------------------------------------------------    3480
+SLA-DMA*04:01       ------------------------------------------------------------    3480
+SLA-DMA*05:01       ------------------------------------------------------------    3480
+
+SLA-DMA*01:01:01    TCAGTTTCTCCCTCTGAGCCCACCTCAACTTTCCATGCCTCAGTTTCTCCCTTGTCATCC    3540
+SLA-DMA*01:01:02    ------------------------------------------------------------    3540
+SLA-DMA*01:01:03    ------------------------------------------------------------    3540
+SLA-DMA*02:01       ------------------------------------------------------------    3540
+SLA-DMA*03:01       ------------------------------------------------------------    3540
+SLA-DMA*04:01       ------------------------------------------------------------    3540
+SLA-DMA*05:01       ------------------------------------------------------------    3540
+
+SLA-DMA*01:01:01    TAGACACCCACCACTCACGGCTTCCCCCGGGCCTCCAGGCTGACCTCCTCCCGCTTTTTC    3600
+SLA-DMA*01:01:02    ------------------------------------------------------------    3600
+SLA-DMA*01:01:03    ------------------------------------------------------------    3600
+SLA-DMA*02:01       ------------------------------------------------------------    3600
+SLA-DMA*03:01       ------------------------------------------------------------    3600
+SLA-DMA*04:01       ------------------------------------------------------------    3600
+SLA-DMA*05:01       ------------------------------------------------------------    3600
+
+SLA-DMA*01:01:01    CAGTGCCCCAGAATGCGCTGCCCTCAGACCTCCTGGAGAACGTGCTGTGTGGCGTGGCCT    3660
+SLA-DMA*01:01:02    ---TGCCCCAGAATGCGCTGCCCTCAGACCTCCTGGAGAACGTGCTGTGTGGCGTGGCCT    3660
+SLA-DMA*01:01:03    ---TGCCCCAGAATGCGCTGCCCTCAGACCTCCTTGAGAACGTGCTGTGTGGCGTGGCCT    3660
+SLA-DMA*02:01       ---TGCCCCAGAATGCGCTGCCCTCAGACCTCCTGGAGAACGTGCTGTGTGGCGTGGCCT    3660
+SLA-DMA*03:01       ---TGCCCCAGAATGCGCTGCCCTCAGACCTCCTGGAGAACGTGCTGTGTGGCGTCCCCT    3660
+SLA-DMA*04:01       ------------------------------------------------------------    3660
+SLA-DMA*05:01       ---TGCCCCAGAATGCGCTGCCCTCAGACCTCCTGGAGAACGTGCTGTGTGGCGTGGCCT    3660
+
+SLA-DMA*01:01:01    TTGGCCTGGGTGTGCTGGGAATCATTGTTGGCTTAGTCCTCATCATCTACTCTCGGAAGC    3720
+SLA-DMA*01:01:02    TTGGCCTGGGTGTGCTGGGAATCATTGTTGGCTTAGTCCTCATCATCTACTCTCGGAAGC    3720
+SLA-DMA*01:01:03    TTGGCCTGGGTGTGCTGGGAATCATTGTTGGCTTAGTCCTCATCATCTACTCTCGGAAGC    3720
+SLA-DMA*02:01       TTGGCCTGGGTGTGCTGGGAATCATTGTTGGCTTAGTCCTCATCATCTACTCTCGGAAGC    3720
+SLA-DMA*03:01       TTGGCCTGNGTGTGCTGGGAATCATTGTTGGCTTAGTCCTCATCATCTACTCTCGGAAGC    3720
+SLA-DMA*04:01       ------------------------------------------------------------    3720
+SLA-DMA*05:01       TTGGCCTGGGTGTGCTGGGAATCATTGTTGGCTTAGTCCTCATCATCTACTCTCGGAAGC    3720
+
+SLA-DMA*01:01:01    CTTGCTCAGGTGGTACCTCAGGGCATCTGGGGGTGTGGAGACAAAGGCGCATGCGCGGAG    3780
+SLA-DMA*01:01:02    CTTGCTCAG---------------------------------------------------    3780
+SLA-DMA*01:01:03    CTTGCTCAG---------------------------------------------------    3780
+SLA-DMA*02:01       CTTGCTCAG---------------------------------------------------    3780
+SLA-DMA*03:01       CTTGCTCAG---------------------------------------------------    3780
+SLA-DMA*04:01       ------------------------------------------------------------    3780
+SLA-DMA*05:01       CTTGCTCAG---------------------------------------------------    3780
+
+SLA-DMA*01:01:01    GGAGGGGCGCAGGACTATCCTGCAACATGGGGAGCACCCCCACCGAGCCTTGGACCCTTG    3840
+SLA-DMA*01:01:02    ------------------------------------------------------------    3840
+SLA-DMA*01:01:03    ------------------------------------------------------------    3840
+SLA-DMA*02:01       ------------------------------------------------------------    3840
+SLA-DMA*03:01       ------------------------------------------------------------    3840
+SLA-DMA*04:01       ------------------------------------------------------------    3840
+SLA-DMA*05:01       ------------------------------------------------------------    3840
+
+SLA-DMA*01:01:01    GGTGGCGAGGCCTGTCTCGGGCACCGTGGGACATCCTCTTAGTTGAGGTCTCAGTGCCAC    3900
+SLA-DMA*01:01:02    ------------------------------------------------------------    3900
+SLA-DMA*01:01:03    ------------------------------------------------------------    3900
+SLA-DMA*02:01       ------------------------------------------------------------    3900
+SLA-DMA*03:01       ------------------------------------------------------------    3900
+SLA-DMA*04:01       ------------------------------------------------------------    3900
+SLA-DMA*05:01       ------------------------------------------------------------    3900
+
+SLA-DMA*01:01:01    ACACCCCGTTATAGATCACAAGAGTGGCTCTGAGCGGGAGAGGAGTGACGGTGGGAGGTG    3960
+SLA-DMA*01:01:02    ------------------------------------------------------------    3960
+SLA-DMA*01:01:03    ------------------------------------------------------------    3960
+SLA-DMA*02:01       ------------------------------------------------------------    3960
+SLA-DMA*03:01       ------------------------------------------------------------    3960
+SLA-DMA*04:01       ------------------------------------------------------------    3960
+SLA-DMA*05:01       ------------------------------------------------------------    3960
+
+SLA-DMA*01:01:01    CAGGCAGGACGCCGGGAGTTGATGGGGAGTCAAGGAGAGATCAACTTCTGTGGGGTGTGT    4020
+SLA-DMA*01:01:02    ------------------------------------------------------------    4020
+SLA-DMA*01:01:03    ------------------------------------------------------------    4020
+SLA-DMA*02:01       ------------------------------------------------------------    4020
+SLA-DMA*03:01       ------------------------------------------------------------    4020
+SLA-DMA*04:01       ------------------------------------------------------------    4020
+SLA-DMA*05:01       ------------------------------------------------------------    4020
+
+SLA-DMA*01:01:01    TGCAGGCTGGGAGGGGCCTTTGAGGAAGAGGAGGACCCACTGAAGGGTCTCCTCCATCCT    4080
+SLA-DMA*01:01:02    ------------------------------------------------------------    4080
+SLA-DMA*01:01:03    ------------------------------------------------------------    4080
+SLA-DMA*02:01       ------------------------------------------------------------    4080
+SLA-DMA*03:01       ------------------------------------------------------------    4080
+SLA-DMA*04:01       ------------------------------------------------------------    4080
+SLA-DMA*05:01       ------------------------------------------------------------    4080
+
+SLA-DMA*01:01:01    TCTCTCTCCTCAGCCTGA    4098
+SLA-DMA*01:01:02    -------------CCTGA    4098
+SLA-DMA*01:01:03    -------------CCTGA    4098
+SLA-DMA*02:01       -------------CCTGA    4098
+SLA-DMA*03:01       -------------CCTGA    4098
+SLA-DMA*04:01       ------------------    4098
+SLA-DMA*05:01       -------------CCTGA    4098
+

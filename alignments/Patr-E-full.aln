@@ -1,0 +1,256 @@
+HLA-E*01:01:01:01   CAAAGTGCTGAGATTACAGGCGTGAGCCACCGCGCCCAGCCAGGACTAATTTCTAAGAGT      60
+Patr-E*01:01:01:01  ------------------------------------------------------------      60
+Patr-E*01:01:01:02  ------------------------------------------------------------      60
+
+HLA-E*01:01:01:01   GTGCAGAGATACCGAAACCTAAAAGTTTAAGAACTGCTGATTGCTGGGAAACTCTGCAGT     120
+Patr-E*01:01:01:01  ------------------------------------------------------------     120
+Patr-E*01:01:01:02  ------------------------------------------------------------     120
+
+HLA-E*01:01:01:01   TTCCCGTTCCTCTCGTAACCTGGTCATGTGTCCTTCTTCCTGGATACTCATGACGCAGAC     180
+Patr-E*01:01:01:01  ------------------------------------------------------------     180
+Patr-E*01:01:01:02  ------------------------------------------------------------     180
+
+HLA-E*01:01:01:01   TCAGTTCTCATTCCCAATGGGTGTCGGGTTTCTAGAGAAGCCAATCAGCGTCGCCACGAC     240
+Patr-E*01:01:01:01  ------------------------------------------------------------     240
+Patr-E*01:01:01:02  ------------------------------------------------------------     240
+
+HLA-E*01:01:01:01   TCCCGACTATAAAGTCCCCATCCGGACTCAAGAAGTTCTCAGGACTCAGAGGCTGGGATC     300
+Patr-E*01:01:01:01  ------------------------------------------------------------     300
+Patr-E*01:01:01:02  ------------------------------------------------------------     300
+
+HLA-E*01:01:01:01   ATGGTAGATGGAACCCTCCTTTTACTCCTCTCGGAGGCCCTGGCCCTTACCCAGACCTGG     360
+Patr-E*01:01:01:01  ----------------------------TCTCGGAGGCCCTGGCCCTTACCCAGACCTGG     360
+Patr-E*01:01:01:02  ----------------------------TCTCGGAGGCCCTGGCCCTTACCCAGACCTGG     360
+
+HLA-E*01:01:01:01   GCGGGTGAGTGCGGGGTCGGGATGGAAACGGCCTCTACCGGGAGTAGAGAGGGGCCGGCC     420
+Patr-E*01:01:01:01  GCGGGTGAGTGCGGGGTCGGGATGGAAACGGCCTCTACCGGGAGTAGAGAGGGGCCGGCC     420
+Patr-E*01:01:01:02  GCGGGTGAGTGCGGGGTCGGGATGGAAACGGCCTCTACCGGGAGTAGAGAGGGGCCGGCC     420
+
+HLA-E*01:01:01:01   CGGCGGGGGCGAAGGACTCGGGGAGCCGCGCCGGGAGGAGGGTCGGGCCGATCTCAGCCC     480
+Patr-E*01:01:01:01  CGGCGGGGGCGAAGGACTCGGGGAGCCGCGCCGGGTGGAGGGTCGGGCCGATCTCAGCCC     480
+Patr-E*01:01:01:02  CGGCGGGGGCGAAGGACTCGGGGAGCCGCGCCGGGTGGAGGGTCGGGCCGATCTCAGCCC     480
+
+HLA-E*01:01:01:01   CTCCTCGCCCCCAGGCTCCCACTCCTTGAAGTATTTCCACACTTCCGTGTCCCGGCCCGG     540
+Patr-E*01:01:01:01  CTCCTCGCCCCCAGGCTCCCACTCCTTGAAGTATTTCCACACTTCCGTGTCCCGGCCCGG     540
+Patr-E*01:01:01:02  CTCCTTGCCCCCAGGCTCCCACTCCTTGAAGTATTTCCACACTTCCGTGTCCCGGCCCGG     540
+
+HLA-E*01:01:01:01   CCGCGGGGAGCCCCGCTTCATCTCTGTGGGCTACGTGGACGACACCCAGTTCGTGCGCTT     600
+Patr-E*01:01:01:01  CCGCGGGGAGCCCCGCTTCATCTCTGTGGGCTACGTGGACGACACCCAGTTCGTGCGCTT     600
+Patr-E*01:01:01:02  CCGCGGGGAGCCCCGCTTCATCTCTGTGGGCTACGTGGACGACACCCAGTTCGTGCGCTT     600
+
+HLA-E*01:01:01:01   CGACAACGACGCCGCGAGTCCGAGGATGGTGCCGCGGGCGCCGTGGATGGAGCAGGAGGG     660
+Patr-E*01:01:01:01  CGACAACGACGCCGCGAGTCCGAGGATGGTGCCGCGGGCGCCGTGGATGGAGCAGGAGGG     660
+Patr-E*01:01:01:02  CGACAACGACGCCGCGAGTCCGAGGATGGTGCCGCGGGCGCCGTGGATGGAGCAGGAGGG     660
+
+HLA-E*01:01:01:01   GTCAGAGTATTGGGACCGGGAGACACGGAGCGCCAGGGACACCGCACAGATTTTCCGAGT     720
+Patr-E*01:01:01:01  GTCAGAGTATTGGGACCGGGAGACACGGAGCGCCAGGGACACCGCACAGATTTTCCGAGT     720
+Patr-E*01:01:01:02  GTCAGAGTATTGGGACCGGGAGACACGGAGCGCCAGGGACACCGCACAGATTTTCCGAGT     720
+
+HLA-E*01:01:01:01   GAACCTGCGGACGCTGCGCGGCTACTACAATCAGAGCGAGGCCGGTGAGTGACCCCGGCC     780
+Patr-E*01:01:01:01  GAACCTGCGGACCCTGCGCGGGTACTACAATCAGAGCGAGGCCGGTGAGTGACCCCGGCC     780
+Patr-E*01:01:01:02  GAACCTGCGGACCCTGCGCGGGTACTACAATCAGAGCGAGGCCGGTGAGTGACCCCGGCC     780
+
+HLA-E*01:01:01:01   AGGGGAGCAGGTCACGACCCCTCCCCATCCCCCACGGACGGCGCGGGTCCCCTCGAATCT     840
+Patr-E*01:01:01:01  AGGGGAGCAGGTCACGACCCCTCCCCATCCCCCACGGACGGCGCGGGTCCCCTCGAATCT     840
+Patr-E*01:01:01:02  AGGGGAGCAGGTCACGACCCCTCCCCATCCCCCACGGACGGCGCGGGTCCCCTCGAATCT     840
+
+HLA-E*01:01:01:01   TCGGGTCCCAGATTCACCCCAAGGCTGCGGAACCCGCCCAGACCCTAGACCGGGGAGAGT     900
+Patr-E*01:01:01:01  TCGGGTCCCAGATTCACCCCAAGGCTGCGGAACCCGCCCAGACCCTCGACCCAGGAGAGT     900
+Patr-E*01:01:01:02  TCGGGTCCCAGATTCACCCCAAGGCTGCGGAACCCGCCCAGACCCTCGACCCAGGAGAGT     900
+
+HLA-E*01:01:01:01   CTCAGGCGCCTTTACCCGGTTCTTTTTCAGTTTAGGCCAAAATGCCCACAGGGTGGTGGC     960
+Patr-E*01:01:01:01  CTCAGGCGCCTTTACCCGGTTCTTTTTCAGTTTAGGCCAAAATGCCCACAGGGTGGTGGC     960
+Patr-E*01:01:01:02  CTCAGGCGCCTTTACCCGGTTCTTTTTCAGTTTAGGCCAAAATGCCCACAGGGTGGTGGC     960
+
+HLA-E*01:01:01:01   GACGGGGGCGGGGCTTGGTGGGCGGGACTGACTAAGGGGCGGGGCCAGGGTCTCACACCC    1020
+Patr-E*01:01:01:01  GACGGGGGCGGGGCTTGGTGGGCGGGACTGACTAAGGGGCGGGGCCAGGGTCTCACACCC    1020
+Patr-E*01:01:01:02  GACGGGGGCGGGGCTTGGTGGGCGGGACTGACTAAGGGGCGGGGCCAGGGTCTCACACCC    1020
+
+HLA-E*01:01:01:01   TGCAGTGGATGCATGGCTGCGAGCTGGGGCCCGACAGGCGCTTCCTCCGCGGGTATGAAC    1080
+Patr-E*01:01:01:01  TGCAGTGGATGCATGGCTGCGACCTGGGGCCCGACGGGCGCTTCCTCCGCGGGTATGAAC    1080
+Patr-E*01:01:01:02  TGCAGTGGATGCATGGCTGCGACCTGGGGCCCGACGGGCGCTTCCTCCGCGGGTATGAAC    1080
+
+HLA-E*01:01:01:01   AGTTCGCCTACGACGGCAAGGATTATCTCACCCTGAATGAGGACCTGCGCTCCTGGACCG    1140
+Patr-E*01:01:01:01  AGTTCGCCTACGACGGCAAGGATTATCTCACCCTGAATGAGGACCTGCGCTCCTGGACCG    1140
+Patr-E*01:01:01:02  AGTTCGCCTACGACGGCAAGGATTATCTCACCCTGAATGAGGACCTGCGCTCCTGGACCG    1140
+
+HLA-E*01:01:01:01   CGGTGGACACGGCGGCTCAGATCTCCGAGCAAAAGTCAAATGATGCCTCTGAGGCGGAGC    1200
+Patr-E*01:01:01:01  CGGTGGACACGGCGGCTCAGATCTCCGAGCGAAAGTCAAATGATGCCTGTGAGGCGGAGC    1200
+Patr-E*01:01:01:02  CGGTGGACACGGCGGCTCAGATCTCCGAGCGAAAGTCAAATGATGCCTGTGAGGCGGAGC    1200
+
+HLA-E*01:01:01:01   ACCAGAGAGCCTACCTGGAAGACACATGCGTGGAGTGGCTCCACAAATACCTGGAGAAGG    1260
+Patr-E*01:01:01:01  ACCAGAGAGCCTACCTGGAAGACACATGCGTGGAGTGGCTCCACAAATACCTGGAGAAGG    1260
+Patr-E*01:01:01:02  ACCAGAGAGCCTACCTGGAAGACACATGCGTGGAGTGGCTCCACAAATACCTGGAGAAGG    1260
+
+HLA-E*01:01:01:01   GGAAGGAGACGCTGCTTCACCTGGGTAAGAGGGTCCACAGGGCTACTCTCCCATCTCCTT    1320
+Patr-E*01:01:01:01  GGAAGGAGACGCTGCTTCACCTGG------------------------------------    1320
+Patr-E*01:01:01:02  GGAAGGAGACGCTGCTTCACCTGG------------------------------------    1320
+
+HLA-E*01:01:01:01   CTTGGGCTAGGACTGTGCCCACAGCTGACAGACCTCAAACAGTAGAAGAAACAGGGATGG    1380
+Patr-E*01:01:01:01  ------------------------------------------------------------    1380
+Patr-E*01:01:01:02  ------------------------------------------------------------    1380
+
+HLA-E*01:01:01:01   AGGCCAGAATACCACTCCTCCCTTGGATCAGGAGAGGGAGCTGTCACCTGAGGTACAGGA    1440
+Patr-E*01:01:01:01  ------------------------------------------------------------    1440
+Patr-E*01:01:01:02  ------------------------------------------------------------    1440
+
+HLA-E*01:01:01:01   GATCCTATACCACAGAGTGACTCTCTTAAAGGGCCAGACCTCTCTCAGGGGCAATTAAGG    1500
+Patr-E*01:01:01:01  ------------------------------------------------------------    1500
+Patr-E*01:01:01:02  ------------------------------------------------------------    1500
+
+HLA-E*01:01:01:01   AATCTAGTCTCGCTGGAGATTCCATCCTTCAGATGAACTGATGAGCAGTTCTCTTTGACT    1560
+Patr-E*01:01:01:01  ------------------------------------------------------------    1560
+Patr-E*01:01:01:02  ------------------------------------------------------------    1560
+
+HLA-E*01:01:01:01   CCCAGTATTAGGAATCACGGGGGAGTTTCTCTCGTGCCTGATTCTCAGCCCCACACCAAG    1620
+Patr-E*01:01:01:01  ------------------------------------------------------------    1620
+Patr-E*01:01:01:02  ------------------------------------------------------------    1620
+
+HLA-E*01:01:01:01   AGTTTTTGGAGGTCTGACTCCAGCTTTTCTCAGTCACTCAGCATCCACACAGGCCAGGAC    1680
+Patr-E*01:01:01:01  ------------------------------------------------------------    1680
+Patr-E*01:01:01:02  ------------------------------------------------------------    1680
+
+HLA-E*01:01:01:01   CAGAAATCCCTTTTCACCTTCTACCCTGGGCTAGCTCATCCCGATTCTAGAACTTTCCAA    1740
+Patr-E*01:01:01:01  ------------------------------------------------------------    1740
+Patr-E*01:01:01:02  ------------------------------------------------------------    1740
+
+HLA-E*01:01:01:01   GGAATAAGAGGCTATCCCAGATCCCTAAGTCCAGGCTGGTGTCAAGGTTTTGTCCTCTTC    1800
+Patr-E*01:01:01:01  ------------------------------------------------------------    1800
+Patr-E*01:01:01:02  ------------------------------------------------------------    1800
+
+HLA-E*01:01:01:01   TCCTACTATAATTGTCCTCTTCCTTCTCAGGATGGTCACATGGGTGCTGCTGGAGTGTCC    1860
+Patr-E*01:01:01:01  ------------------------------------------------------------    1860
+Patr-E*01:01:01:02  ------------------------------------------------------------    1860
+
+HLA-E*01:01:01:01   CATGAGAGATACAAAGTGCCTGAATTTTCTGACTCTTCCCCTCAGAGCCCCCAAAGACAC    1920
+Patr-E*01:01:01:01  ------------------------------------------------------------    1920
+Patr-E*01:01:01:02  ------------------------------------------------------------    1920
+
+HLA-E*01:01:01:01   ACGTGACTCACCACCCCATCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGGGCT    1980
+Patr-E*01:01:01:01  ------------------------------------------------------------    1980
+Patr-E*01:01:01:02  ------------------------------------------------------------    1980
+
+HLA-E*01:01:01:01   TCTACCCTGCGGAGATCACACTGACCTGGCAGCAGGATGGGGAGGGCCATACCCAGGACA    2040
+Patr-E*01:01:01:01  ------------------------------------------------------------    2040
+Patr-E*01:01:01:02  ------------------------------------------------------------    2040
+
+HLA-E*01:01:01:01   CGGAGCTCGTGGAGACCAGGCCTGCAGGGGATGGAACCTTCCAGAAGTGGGCAGCTGTGG    2100
+Patr-E*01:01:01:01  ------------------------------------------------------------    2100
+Patr-E*01:01:01:02  ------------------------------------------------------------    2100
+
+HLA-E*01:01:01:01   TGGTGCCTTCTGGAGAGGAGCAGAGATACACGTGCCATGTGCAGCATGAGGGGCTACCCG    2160
+Patr-E*01:01:01:01  ------------------------------------------------------------    2160
+Patr-E*01:01:01:02  ------------------------------------------------------------    2160
+
+HLA-E*01:01:01:01   AGCCCGTCACCCTGAGATGGAGTAAGGAGGGGGATGGGAGGTCATGTCTCTTCTCAGGGA    2220
+Patr-E*01:01:01:01  ------------------------------------------------------------    2220
+Patr-E*01:01:01:02  ------------------------------------------------------------    2220
+
+HLA-E*01:01:01:01   AAGCGGGAGCCCTTCTGGAGCCCTTCCGCAGGGTCAGGGCTGAGGCCTGGGGGTCAGGGC    2280
+Patr-E*01:01:01:01  ------------------------------------------------------------    2280
+Patr-E*01:01:01:02  ------------------------------------------------------------    2280
+
+HLA-E*01:01:01:01   CCCTTACGTTCCCCTCTTTTCCCAGAGCCGGCTTCCCAGCCCACCATCCCCATCGTGGGC    2340
+Patr-E*01:01:01:01  ------------------------------------------------------------    2340
+Patr-E*01:01:01:02  ------------------------------------------------------------    2340
+
+HLA-E*01:01:01:01   ATCATTGCTGGCCTGGTTCTCCTTGGATCTGTGGTCTCTGGAGCTGTGGTTGCTGCTGTG    2400
+Patr-E*01:01:01:01  ------------------------------------------------------------    2400
+Patr-E*01:01:01:02  ------------------------------------------------------------    2400
+
+HLA-E*01:01:01:01   ATATGGAGGAAGAAGAGCTCAGGTGGGGAAGGGAGAAGGGTGGGGTCTGAGTTTTCTTGT    2460
+Patr-E*01:01:01:01  ------------------------------------------------------------    2460
+Patr-E*01:01:01:02  ------------------------------------------------------------    2460
+
+HLA-E*01:01:01:01   CCCACTGGGTGTTTCAAGCCCTAGGTAAAAGTGTGTCCTGCCTCGTTACTGGGAAGCACC    2520
+Patr-E*01:01:01:01  ------------------------------------------------------------    2520
+Patr-E*01:01:01:02  ------------------------------------------------------------    2520
+
+HLA-E*01:01:01:01   ATCCACACACACGAGCCTACCCAGCCTGGGGCCCTGTGTGCCAGCACCTACTCTTTTTTT    2580
+Patr-E*01:01:01:01  ------------------------------------------------------------    2580
+Patr-E*01:01:01:02  ------------------------------------------------------------    2580
+
+HLA-E*01:01:01:01   TTGAGACGGAGTCTTGGCTCTGTCACCCAGGCTGGAGTGCAATGGCGTGGTTTCAGCTCA    2640
+Patr-E*01:01:01:01  ------------------------------------------------------------    2640
+Patr-E*01:01:01:02  ------------------------------------------------------------    2640
+
+HLA-E*01:01:01:01   CTGCAACCTCCGCCTCCCAGGTTCAAGCAATTCTCCTGCCTCAGCCTCCCTAGTAGCTGG    2700
+Patr-E*01:01:01:01  ------------------------------------------------------------    2700
+Patr-E*01:01:01:02  ------------------------------------------------------------    2700
+
+HLA-E*01:01:01:01   GACTACACATGCGTGCCACCACACCTGGCTAATTTTTTTTTTTGTATTTTTAGTGGAGAT    2760
+Patr-E*01:01:01:01  ------------------------------------------------------------    2760
+Patr-E*01:01:01:02  ------------------------------------------------------------    2760
+
+HLA-E*01:01:01:01   GGGGTTTCACTATGTTGGCCAGGCTGGTCTCGAACTCCTGACTTTGTGATCTGCCTGCCT    2820
+Patr-E*01:01:01:01  ------------------------------------------------------------    2820
+Patr-E*01:01:01:02  ------------------------------------------------------------    2820
+
+HLA-E*01:01:01:01   CGGCCTCCCAAAGTGCTGGGATTACAGTCGTGAGCCACCGCACCCAGCCGCACCTACTCT    2880
+Patr-E*01:01:01:01  ------------------------------------------------------------    2880
+Patr-E*01:01:01:02  ------------------------------------------------------------    2880
+
+HLA-E*01:01:01:01   TTTGTAAAGCACCTGTGACAATGAAGGACAGATTTATCACCTTGACGATTGTGGTGATGG    2940
+Patr-E*01:01:01:01  ------------------------------------------------------------    2940
+Patr-E*01:01:01:02  ------------------------------------------------------------    2940
+
+HLA-E*01:01:01:01   GGACCTGATCCCAGCAGTCACAGGTCACAGGGGAAGGTCCCTGCTGAAGACAGACCTCAG    3000
+Patr-E*01:01:01:01  ------------------------------------------------------------    3000
+Patr-E*01:01:01:02  ------------------------------------------------------------    3000
+
+HLA-E*01:01:01:01   AAGGGCAGTTGATCCAGGACCCACACCTGCTTTCTTCACGTTTCCTGATCCTGCCCTGGG    3060
+Patr-E*01:01:01:01  ------------------------------------------------------------    3060
+Patr-E*01:01:01:02  ------------------------------------------------------------    3060
+
+HLA-E*01:01:01:01   TCTGCAGTCACAGTTCAGGAAACTTCTCTGGGATCCAAAACTAGGAGGTTCCTCTAGGAC    3120
+Patr-E*01:01:01:01  ------------------------------------------------------------    3120
+Patr-E*01:01:01:02  ------------------------------------------------------------    3120
+
+HLA-E*01:01:01:01   CTTATGGCCCTGCCTCCTCCCTGGCCCCTCACAGGACATTTTCTTCCAACAGGTGGAAAA    3180
+Patr-E*01:01:01:01  ------------------------------------------------------------    3180
+Patr-E*01:01:01:02  ------------------------------------------------------------    3180
+
+HLA-E*01:01:01:01   GGAGGGAGCTACTCTAAGGCTGAGTGTAAGTGCGGGGCGGGAGCGTGGAGGAGCTCGCCC    3240
+Patr-E*01:01:01:01  ------------------------------------------------------------    3240
+Patr-E*01:01:01:02  ------------------------------------------------------------    3240
+
+HLA-E*01:01:01:01   ACCCTATAATTCCTCCTGCACCACATCTCCTGTGGGCTCTGACCAGGTCTTGTTTTTGTT    3300
+Patr-E*01:01:01:01  ------------------------------------------------------------    3300
+Patr-E*01:01:01:02  ------------------------------------------------------------    3300
+
+HLA-E*01:01:01:01   CTACCCCAGGGAGCGACAGTGCCCAGGGGTCTGAGTCTCACAGCTTGTAAAGGTGAGATT    3360
+Patr-E*01:01:01:01  ------------------------------------------------------------    3360
+Patr-E*01:01:01:02  ------------------------------------------------------------    3360
+
+HLA-E*01:01:01:01   CTGGGGGTCTGAAGTGGGTGGAGGGTGGGGCAGAGGGGACAGGACTGGGTTGTGGGGATT    3420
+Patr-E*01:01:01:01  ------------------------------------------------------------    3420
+Patr-E*01:01:01:02  ------------------------------------------------------------    3420
+
+HLA-E*01:01:01:01   TTTTGATTCAGAATTTTTGAGTGTGTGGTGGGCTGTTCAGAGTGTCATCACTTACCGTGA    3480
+Patr-E*01:01:01:01  ------------------------------------------------------------    3480
+Patr-E*01:01:01:02  ------------------------------------------------------------    3480
+
+HLA-E*01:01:01:01   CTGACCTGAATTTGTTCATGACTATTTTCTTCTGTAGCCTGAGACAGCTGCCTTGTGTGC    3540
+Patr-E*01:01:01:01  ------------------------------------------------------------    3540
+Patr-E*01:01:01:02  ------------------------------------------------------------    3540
+
+HLA-E*01:01:01:01   GACTGAGATGCACAGCTGCCTTGTGTGCGACTGAGATGCAGGATTTCCTCACGCCTCCCC    3600
+Patr-E*01:01:01:01  ------------------------------------------------------------    3600
+Patr-E*01:01:01:02  ------------------------------------------------------------    3600
+
+HLA-E*01:01:01:01   TATGTGTCTTAGGGGACTCTGGCTTCTCTTTTTGCAAGGGCCTCTGAATCTGTCTGTGTC    3660
+Patr-E*01:01:01:01  ------------------------------------------------------------    3660
+Patr-E*01:01:01:02  ------------------------------------------------------------    3660
+
+HLA-E*01:01:01:01   CCTGTTAGCACAATGTGAGGAGGTAGAGAAACAGTCCACCTCTGTGTCTACCATGACCCC    3720
+Patr-E*01:01:01:01  ------------------------------------------------------------    3720
+Patr-E*01:01:01:02  ------------------------------------------------------------    3720
+
+HLA-E*01:01:01:01   CTTCCTCACACTGACCTGTGTTCCTTCCCTGTTCTCTTTTCTATTAAAAATAAGAACCTG    3780
+Patr-E*01:01:01:01  ------------------------------------------------------------    3780
+Patr-E*01:01:01:02  ------------------------------------------------------------    3780
+
+HLA-E*01:01:01:01   GGCAGAGTGCGGCAGCTCATGCCTGTAATCCCAGCACTTAGG    3822
+Patr-E*01:01:01:01  ------------------------------------------    3822
+Patr-E*01:01:01:02  ------------------------------------------    3822
+
