@@ -1,0 +1,2 @@
+>DL;IPD:MHC00240
+IPD:MHC00240 Gogo-OKO  bases
