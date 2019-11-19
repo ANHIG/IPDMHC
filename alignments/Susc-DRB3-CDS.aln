@@ -1,0 +1,72 @@
+SLA-DRB3*01:01      --CATTTCTTGTTTCTGGGTAAGCTCGAGTATCACTAGTCCAACCGGACGGAGCGGGTGC      60
+SLA-DRB3*02:01      --CATTTCTTGTTTCTGGGGAAGCTCGAGTATCACTAGTCCAACCGGACGCAGCGGGTGC      60
+SLA-DRB3*03:01      --CATTTCTTGTTTCTGGGTAAGCTCGAGTATCACTAGTCCAACCGGACGCAGCGGGTGC      60
+SLA-DRB3*04:01      CTCATTTCTTGCTTCTGGTGAAACACGAGTATCACTAGTCCAACCGGACGCAGCGGGTGC      60
+SLA-DRB3*05:01      --CATTTCTTGTTTCTGGGTAAGCTCGAGTATCACTAGTCCAACCGGACGCAGCGGGTGC      60
+
+SLA-DRB3*01:01      TGTTGCTGGACAGATTCTTCTATAACAGAGAGGAGTTCGTGCGCTTCGACAGCGACTTGG     120
+SLA-DRB3*02:01      TGTTGCTGGACAGATTCTTCTATAACGGAGAGGAGTTCGTGCGCTTCCACAGCGACTTGG     120
+SLA-DRB3*03:01      TGTTGCTGGACAGATTCTTCTATAACAGAGAGGAGTTCGTGCGCTTCGACAGCGACTTGG     120
+SLA-DRB3*04:01      TGTTGCTGGACAGATTCTTCTATAACAGAGAGGAGTTCGTGCGCTTCGACAGCGACTTGG     120
+SLA-DRB3*05:01      TGTTGCTGGACAGATTCTTCTATAACAGAGAGGAGTTCGTGCGCTTCCACAGCGACTAGG     120
+
+SLA-DRB3*01:01      GCGAGTACCGGGCGGTGACTGAGTCTGTGAGGCTTGAACGACCAGAAGGATTTCCTGGAG     180
+SLA-DRB3*02:01      GCGAGTACCGGGCGGTGACTGAGTCTGTGAGGCTTGAACGACCAGAAGGATTTCCTGGAG     180
+SLA-DRB3*03:01      GCGAGTACCGGGCGGTGACTGAGTCTGTGAGGCTTGAACGACCAGAAGGATTTCCTGGAG     180
+SLA-DRB3*04:01      GCGAGTACCGGGCGGTGACTGAGTCTGTGAGGCTTGAACGACCAGAAGGATTTCCTGGAG     180
+SLA-DRB3*05:01      GCGAGTACCGGGCGGTGACTGAGTCTGTGAGGCTTGAACGACCAGAAGGATTTCCTGGAG     180
+
+SLA-DRB3*01:01      CAGAAGCGGGTGGAGGTGGACAGCGTGTGTAGACTCAACTATGGGGTCTTGGATACATTC     240
+SLA-DRB3*02:01      CAGAAGCGGGTGGAGGTGGACAGGGTGTGTAGACTCAACTATGGGGTCTTGGATACA---     240
+SLA-DRB3*03:01      CAGAAGCGGGTGGAGGTGGACAGGGTGTGTAGACTCAACTATGGGGTCTTGGATACA---     240
+SLA-DRB3*04:01      CAGAAGCGGGTGGAGGTGGACAGGGTGTGTAGATTCAACTATGGGGTCTTGGATACA---     240
+SLA-DRB3*05:01      CAGAAGCGGGTGGAGGTGGACAGGGTGTGTAGACTCAACTATGGGGTCTTGGATACA---     240
+
+SLA-DRB3*01:01      CTGGTGCCGAGGCAAAGTGAGCCCAGAGTGACGGTGTACCCTGCAAAGACCCAGCCCCTG     300
+SLA-DRB3*02:01      ------------------------------------------------------------     300
+SLA-DRB3*03:01      ------------------------------------------------------------     300
+SLA-DRB3*04:01      ------------------------------------------------------------     300
+SLA-DRB3*05:01      ------------------------------------------------------------     300
+
+SLA-DRB3*01:01      CAGCACCACAACCTCCTGGTCTGCTCTGTGACTGGGTTCTACCCAGGCCACGTGGAGGTC     360
+SLA-DRB3*02:01      ------------------------------------------------------------     360
+SLA-DRB3*03:01      ------------------------------------------------------------     360
+SLA-DRB3*04:01      ------------------------------------------------------------     360
+SLA-DRB3*05:01      ------------------------------------------------------------     360
+
+SLA-DRB3*01:01      AGGTGGTTCCGGAATGGCCAGGAAGAGGCGGCCGGGGTGGTCTCCACAGGCCTGATCCCT     420
+SLA-DRB3*02:01      ------------------------------------------------------------     420
+SLA-DRB3*03:01      ------------------------------------------------------------     420
+SLA-DRB3*04:01      ------------------------------------------------------------     420
+SLA-DRB3*05:01      ------------------------------------------------------------     420
+
+SLA-DRB3*01:01      AATGGAGACTGGACCTTCCAGACCATGGTGATGCTTGAAACGGTTCCTCAGAGTGGAGAG     480
+SLA-DRB3*02:01      ------------------------------------------------------------     480
+SLA-DRB3*03:01      ------------------------------------------------------------     480
+SLA-DRB3*04:01      ------------------------------------------------------------     480
+SLA-DRB3*05:01      ------------------------------------------------------------     480
+
+SLA-DRB3*01:01      GTCTACAGCTGCCGAGTGGAGCACCCCAGCCTGACGAGCCCCGTCACAGTGGAATGGAGG     540
+SLA-DRB3*02:01      ------------------------------------------------------------     540
+SLA-DRB3*03:01      ------------------------------------------------------------     540
+SLA-DRB3*04:01      ------------------------------------------------------------     540
+SLA-DRB3*05:01      ------------------------------------------------------------     540
+
+SLA-DRB3*01:01      GTATGGTCTGAAAATGCACAGAACAAGAAACTGAGTGGACTTGGGGGCTTTGTCCTGGGA     600
+SLA-DRB3*02:01      ------------------------------------------------------------     600
+SLA-DRB3*03:01      ------------------------------------------------------------     600
+SLA-DRB3*04:01      ------------------------------------------------------------     600
+SLA-DRB3*05:01      ------------------------------------------------------------     600
+
+SLA-DRB3*01:01      ATCCTCTTCCTGGCGGTGGGGCTGTTCTTCTGCTTCAGGAGTCAGAAAGGACACTCTGGA     660
+SLA-DRB3*02:01      ------------------------------------------------------------     660
+SLA-DRB3*03:01      ------------------------------------------------------------     660
+SLA-DRB3*04:01      ------------------------------------------------------------     660
+SLA-DRB3*05:01      ------------------------------------------------------------     660
+
+SLA-DRB3*01:01      CTTCAGCCAACAG     673
+SLA-DRB3*02:01      -------------     673
+SLA-DRB3*03:01      -------------     673
+SLA-DRB3*04:01      -------------     673
+SLA-DRB3*05:01      -------------     673
+

@@ -1,0 +1,530 @@
+Atfu-G*06:01        ------------------------------------------------------------      60
+Atfu-G*06:02        ------------------------------------------------------------      60
+Atfu-G*06:03        ------------------------------------------------------------      60
+Atfu-G*22:01        ------------------------------------------------------------      60
+Atfu-G*23:01        ------------------------------------------------------------      60
+Atfu-G*23:02        ------------------------------------------------------------      60
+Atfu-G*23:03        ------------------------------------------------------------      60
+Atfu-G*24:01        ------------------------------------------------------------      60
+Atfu-G*25:01        ------------------------------------------------------------      60
+
+Atfu-G*06:01        ------------------------------------------------------------     120
+Atfu-G*06:02        ------------------------------------------------------------     120
+Atfu-G*06:03        ------------------------------------------------------------     120
+Atfu-G*22:01        ------------------------------------------------------------     120
+Atfu-G*23:01        ------------------------------------------------------------     120
+Atfu-G*23:02        ------------------------------------------------------------     120
+Atfu-G*23:03        ------------------------------------------------------------     120
+Atfu-G*24:01        ------------------------------------------------------------     120
+Atfu-G*25:01        ------------------------------------------------------------     120
+
+Atfu-G*06:01        ------------------------------------------------------------     180
+Atfu-G*06:02        ------------------------------------------------------------     180
+Atfu-G*06:03        ------------------------------------------------------------     180
+Atfu-G*22:01        ------------------------------------------------------------     180
+Atfu-G*23:01        ------------------------------------------------------------     180
+Atfu-G*23:02        ------------------------------------------------------------     180
+Atfu-G*23:03        ------------------------------------------------------------     180
+Atfu-G*24:01        ------------------------------------------------------------     180
+Atfu-G*25:01        ------------------------------------------------------------     180
+
+Atfu-G*06:01        ------------------------------------------------------------     240
+Atfu-G*06:02        ------------------------------------------------------------     240
+Atfu-G*06:03        ------------------------------------------------------------     240
+Atfu-G*22:01        ------------------------------------------------------------     240
+Atfu-G*23:01        ------------------------------------------------------------     240
+Atfu-G*23:02        ------------------------------------------------------------     240
+Atfu-G*23:03        ------------------------------------------------------------     240
+Atfu-G*24:01        ------------------------------------------------------------     240
+Atfu-G*25:01        ------------------------------------------------------------     240
+
+Atfu-G*06:01        ------------------------------------------------------------     300
+Atfu-G*06:02        ------------------------------------------------------------     300
+Atfu-G*06:03        ------------------------------------------------------------     300
+Atfu-G*22:01        ------------------------------------------------------------     300
+Atfu-G*23:01        ------------------------------------------------------------     300
+Atfu-G*23:02        ------------------------------------------------------------     300
+Atfu-G*23:03        ------------------------------------------------------------     300
+Atfu-G*24:01        ------------------------------------------------------------     300
+Atfu-G*25:01        ------------------------------------------------------------     300
+
+Atfu-G*06:01        ATGGGGGTCATGGCGCCCCGAACCGTTCTCCTGTTGCTCTCGGGGGCCCTGCTCCTGACT     360
+Atfu-G*06:02        ---------ATGGCGCCCCGAACCGTTCTCCTGTTGCTCTCGGGGGCCCTGCTCCTGACT     360
+Atfu-G*06:03        ---------ATGGCGCCCCGAACCGTTCTCCTGTTGCTCTCGGGGGCCCTGCTCCTGACT     360
+Atfu-G*22:01        ATGACGGTCATGGCGCCCCGAACCCTCCTCCTGCTGCTCTCGGGGGCCGTGGCCCTGACC     360
+Atfu-G*23:01        ATGACGGTCATGGCGCCCCGAACCCTCCTCCTGCTGCTCTCGGGGGCCCTGGCCCTGACC     360
+Atfu-G*23:02        ATGACGGTCATGGTACCCCGAACCCTCCTCCTGCTGCTCTCGGGGGCCCTGGCCCTGACC     360
+Atfu-G*23:03        ATGACGGTCATGGCGCCCCGAACCCTCCTCCTGCTGCTCTCGGGGGCCCTGGCCTTGACC     360
+Atfu-G*24:01        ATGACGGTCATGGCGCCCCGAACCCTCCTCCTGCTGCTCTCGGGGGCCCTGGCCCTGACC     360
+Atfu-G*25:01        ATGACGGTCATGGCGCCCCGAACCCTCCTCCTGCTGCTCTCGGGGGCCGTGGCCCTGACC     360
+
+Atfu-G*06:01        GAAACCTGGGCAA-----------------------------------------------     420
+Atfu-G*06:02        GAAACCTGGGCAA-----------------------------------------------     420
+Atfu-G*06:03        GAAACCTGGGCAA-----------------------------------------------     420
+Atfu-G*22:01        CAGACCCGGGCGG-----------------------------------------------     420
+Atfu-G*23:01        CAGACCCGGGCGG-----------------------------------------------     420
+Atfu-G*23:02        CAGACCCGGGCGG-----------------------------------------------     420
+Atfu-G*23:03        CAGACCCGGGCGG-----------------------------------------------     420
+Atfu-G*24:01        CAGACCCGGGCGG-----------------------------------------------     420
+Atfu-G*25:01        CAGACCCGGGCGG-----------------------------------------------     420
+
+Atfu-G*06:01        ------------------------------------------------------------     480
+Atfu-G*06:02        ------------------------------------------------------------     480
+Atfu-G*06:03        ------------------------------------------------------------     480
+Atfu-G*22:01        ------------------------------------------------------------     480
+Atfu-G*23:01        ------------------------------------------------------------     480
+Atfu-G*23:02        ------------------------------------------------------------     480
+Atfu-G*23:03        ------------------------------------------------------------     480
+Atfu-G*24:01        ------------------------------------------------------------     480
+Atfu-G*25:01        ------------------------------------------------------------     480
+
+Atfu-G*06:01        ----------------------GCTCCTACTCCATGAGGTATTTCTTCACCGCCCTGTCC     540
+Atfu-G*06:02        ----------------------GCTCCTACTCCATGAGGTATTTCTTCACCGCCCTGTCC     540
+Atfu-G*06:03        ----------------------GCTCCTACTCCATGAGGTATTTCTTCACCGCCCTGTCC     540
+Atfu-G*22:01        ----------------------GCTCCCACTCCATGAGGTATTTCTACACCTCCGTGTCC     540
+Atfu-G*23:01        ----------------------TCTCCCACTCCATGAGGTATTTCACCACCGCCGTGTCT     540
+Atfu-G*23:02        ----------------------TCTCCCACTCCATGAGGTATTTCACCACCGCCGTGTCT     540
+Atfu-G*23:03        ----------------------GCTCCCACTCCCTGAGGTATTTCTACACCTCCGTGTCC     540
+Atfu-G*24:01        ----------------------TCTCCCACTCCATGAGGTATTTCACCACCTCCGTGTCT     540
+Atfu-G*25:01        ----------------------GCTCCCACTCCATGAGGTATTTCTACACCTCCGTGTCC     540
+
+Atfu-G*06:01        CGGCCCGGCCGCGGGGAGCCCCGCTTCATCTCCGTGGGCTACGTGGACAACACGCAGTTC     600
+Atfu-G*06:02        CGACCCGGCCGCGGGGAGCCCCGCTTCATCTCCGTGGGCTACGTGGACAACACGCAGTTC     600
+Atfu-G*06:03        CGGCCCGGCCGCGGGGAGCCCCGCTTCATCTCCGTGGGCTACGTGGACAACACGCAGTTC     600
+Atfu-G*22:01        CGGCCCGGCCGCGGGGAGCCCCGGTACATGGAAGTCGGCTACGTGGACGACACGCAGTTG     600
+Atfu-G*23:01        CGGCCCGGCCGCGGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTTC     600
+Atfu-G*23:02        CGGCCCGGCCGCGGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTTC     600
+Atfu-G*23:03        CGGCCCGGCCGCGGGGAGCCCCGCTTCATCATCGTGGGCTACGTGGACGACACGCAGTTC     600
+Atfu-G*24:01        CGGCCCGGCCGCGGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTTC     600
+Atfu-G*25:01        CGGCCCGGCCGCGGGGAGCCCCGGTACACGGAAGTCGGCTACGTGGACGACACGCAGTTC     600
+
+Atfu-G*06:01        CTGTGGTTCGACAGTGACGCCGCGATTCCAAGAGCAGAGCCGCGAGCGCCTTGGGCGGAG     660
+Atfu-G*06:02        CTGTGGTTCGACAGTGACGCCGCGATTCCAAGAGCAGAGCCGCGAGCGCCTTGGGCGGAG     660
+Atfu-G*06:03        CTGTGGTTCGACAGCGACGCCGCGATTCCAAGAGCAGAGCCGCGAGCGCCTTGGGCGGAG     660
+Atfu-G*22:01        GTGCGGTTCGACAGCGACGCCGCGATTCCGAGGATGGAGCCGCGGGCGCGGTGGGTGG--     660
+Atfu-G*23:01        GTGCAGTTCGACAGCGACGCCGCGATTCCGAGGATGGAGCCGCGGGTGCCGTGGATGGAG     660
+Atfu-G*23:02        GTGCGGTTCGACAGCGACGCCGCGATTCCGAGGATGGAGCCGCGGGTGCAGTGGATGGAG     660
+Atfu-G*23:03        GTGCGGTTCGACAGCGACGCCGCGAGTCCGAGGTTGGAGCCGCGGGCGCCGTGGATGGAG     660
+Atfu-G*24:01        GTGCAGTTCGACAGCGACGCCGCGATTCCGAGGATGGAGCCGCGGGTGCCGTGGATGGAG     660
+Atfu-G*25:01        GTGCGGTTCGACAGCGACGCCGCGATTCCGAGGATGGAGCCGCGGGCGCGGTGGGTGGAG     660
+
+Atfu-G*06:01        CAGGAGGGGGAAGAGTATTGGGACTGGAACACACGGTTCTGCAAGGACATTGCACAGACT     720
+Atfu-G*06:02        CAGGAGGGGGAGGAGTATTGGGACTGGAACACACGGTTCTGCAAGGACATTGCACAGACT     720
+Atfu-G*06:03        CAGGAGGGGGAAGAGTATTGGGACTGGAACACACGGTTCTGCAAGGACATTGCACAGACT     720
+Atfu-G*22:01        -AGGAGGGGCCGGAGTATTGGGACCGGGAGACACGCAGAGCCAAGGCCAACGCACAGACT     720
+Atfu-G*23:01        CAGGAGGGGCCGGAGTATTGGGAGGAGCAGACACGGAGAGTCAAGGCCGCCGCACAGACT     720
+Atfu-G*23:02        CAGGAGGGGCCGGAGTATTGGGAGGAGCAGACACGGAGAGTCAAGGCCGCCGCACAGACT     720
+Atfu-G*23:03        CAGGAGGGGCCGGAGTATTGGGAGGAGCAGACACGGAGAGTCAAGGCCGCCGCACAGACT     720
+Atfu-G*24:01        CAGGAGGGGCCGGAGTATTGGGAGGAGCAGACACGGAGAGTCAAGGCCCACGCACAGACT     720
+Atfu-G*25:01        AAGGAGGGGCCGGAGTATTGGGACCGGGAGACACGCAGAGCCAAGGCCAACGCACAGACT     720
+
+Atfu-G*06:01        TACCGGGGGAACCTGCGGACCCTGCGCGGCTACTACAACCAGAGCGAGAAGG--------     780
+Atfu-G*06:02        TACCGGGGGAACCTGCGGACCCTGCGCGGCTACTACAACCAGAGCGAGAAGG--------     780
+Atfu-G*06:03        TACCGGGGGAACCTGCGGACCCTGCGCGGCTACTACAACCAGAGCGAGGAGG--------     780
+Atfu-G*22:01        GACCGAGTGGACTTGCAGACCCTGCGCGGCTACTACAACCAGAGCGAGGCCG--------     780
+Atfu-G*23:01        GGCCGAGTGAGCCTGCGGAACACGCGCGGCTACTACAACCAGAGCGAGGCCG--------     780
+Atfu-G*23:02        GGCCGAGTGAGCCTGCGGAACACGCGCGGCTACTACAACCAGAGCGAGGCCG--------     780
+Atfu-G*23:03        GGCCGAGTGAGCCTGCGGAACACGCGCGGCTACTACAACCAGAGCGAGGCCG--------     780
+Atfu-G*24:01        GGCCGAGTGAGCCTGCGGACCGCGCTCGGCTACTACAACCAGAGCGAGGCCG--------     780
+Atfu-G*25:01        GGCCGAGTGGACCTGCGGACCCTGCGCGGCTACTACAACCAGAGCGAGGCCG--------     780
+
+Atfu-G*06:01        ------------------------------------------------------------     840
+Atfu-G*06:02        ------------------------------------------------------------     840
+Atfu-G*06:03        ------------------------------------------------------------     840
+Atfu-G*22:01        ------------------------------------------------------------     840
+Atfu-G*23:01        ------------------------------------------------------------     840
+Atfu-G*23:02        ------------------------------------------------------------     840
+Atfu-G*23:03        ------------------------------------------------------------     840
+Atfu-G*24:01        ------------------------------------------------------------     840
+Atfu-G*25:01        ------------------------------------------------------------     840
+
+Atfu-G*06:01        ------------------------------------------------------------     900
+Atfu-G*06:02        ------------------------------------------------------------     900
+Atfu-G*06:03        ------------------------------------------------------------     900
+Atfu-G*22:01        ------------------------------------------------------------     900
+Atfu-G*23:01        ------------------------------------------------------------     900
+Atfu-G*23:02        ------------------------------------------------------------     900
+Atfu-G*23:03        ------------------------------------------------------------     900
+Atfu-G*24:01        ------------------------------------------------------------     900
+Atfu-G*25:01        ------------------------------------------------------------     900
+
+Atfu-G*06:01        ------------------------------------------------------------     960
+Atfu-G*06:02        ------------------------------------------------------------     960
+Atfu-G*06:03        ------------------------------------------------------------     960
+Atfu-G*22:01        ------------------------------------------------------------     960
+Atfu-G*23:01        ------------------------------------------------------------     960
+Atfu-G*23:02        ------------------------------------------------------------     960
+Atfu-G*23:03        ------------------------------------------------------------     960
+Atfu-G*24:01        ------------------------------------------------------------     960
+Atfu-G*25:01        ------------------------------------------------------------     960
+
+Atfu-G*06:01        --------------------------------------GGTCTCACATCTTCCAGAGCCT    1020
+Atfu-G*06:02        --------------------------------------GGTCTCACATCTTCCAGAGCCT    1020
+Atfu-G*06:03        --------------------------------------GGTCTCACATCTTCCAGAGCCT    1020
+Atfu-G*22:01        --------------------------------------GGTCTCACACGCTCCAGAGGAT    1020
+Atfu-G*23:01        --------------------------------------GGTCTCACACCTTCCAGAGGAT    1020
+Atfu-G*23:02        --------------------------------------GGTCTCACACCGTCCAGAGGAT    1020
+Atfu-G*23:03        --------------------------------------GGTCTCACACCGTCCAGAGGAT    1020
+Atfu-G*24:01        --------------------------------------GGTCTCACACCTTCCAGAGGAT    1020
+Atfu-G*25:01        --------------------------------------GGTCTCACACGCTCCAGAGGAT    1020
+
+Atfu-G*06:01        GCATGGCTGCGACCTGGGGCCGGATGGGCGCCTTCTCCGCGTGTATCACCAGTTCGCCTA    1080
+Atfu-G*06:02        GCATGGCTGCGACTTGGGGCCGGATGGGCGCCTTCTCCGCGTGTATCACCAGTTCGCCTA    1080
+Atfu-G*06:03        GCATGGCTGCGACCTGGGGCCGGATGGGCGCCTTCTCCGCGTGTATCACCAGTTCGCCTA    1080
+Atfu-G*22:01        GTCTGGCTGCGACCTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATTACCAGTTAGCCTA    1080
+Atfu-G*23:01        GTACGGCTGCGACCTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATTACCAGTTAGCCTA    1080
+Atfu-G*23:02        GTCTGGCTGCGACCTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATGACCAGTACGCGTA    1080
+Atfu-G*23:03        GTCTGGCTGCGACCTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATGACCAGTACGCGTA    1080
+Atfu-G*24:01        GTTTGGCTGCGACCTGGGGCCAGACGGGCGCCTCCTCCGCGGGTATTACCAGTTAGCCTA    1080
+Atfu-G*25:01        GTCTGGCTGCGACCTGGGGCCGGATGGGCGCCTCCTCCGCGGGTATTACCAGTACGCCTA    1080
+
+Atfu-G*06:01        CGACGGCAAGGATTACATCGCCCTGAACGAGGACCTGCGCTCCCGGACCGCCGCGGATGT    1140
+Atfu-G*06:02        CGACGGCAAGGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCCGCGGATGT    1140
+Atfu-G*06:03        CGACGGCAAGGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCCGCGGATGT    1140
+Atfu-G*22:01        CGACGGCAAGGACTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCCGCGGACGT    1140
+Atfu-G*23:01        CGACGGCAAGGACTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCCGCGGACCT    1140
+Atfu-G*23:02        CGACGGCAAGGACTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCCGCGGACCT    1140
+Atfu-G*23:03        CGACGGCAAGGACTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCCGCGGACCT    1140
+Atfu-G*24:01        CGACGGCAAGGACTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCCGCGGACCT    1140
+Atfu-G*25:01        CGACGGCAAGGACTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCCGCGGACGT    1140
+
+Atfu-G*06:01        GGTGGCTCAGATCACACAGCGCAAGTGGCAGGCGAAAAATGAGGCTGAGAATATTAGACC    1200
+Atfu-G*06:02        GGTGGCTCAGATCACACAGCGCAAGTGGCAGGCGAAAAATGAGGCTGAGAATATTAGACC    1200
+Atfu-G*06:03        GGTGGCTCAGATCACACAGCGCAAGTGGCAGGCGAAAAATGAGGCTGAGAATATTAGACC    1200
+Atfu-G*22:01        GGCGGCTCAGATCACCCAGCGCAAGTGGGGGTCGGGCAATGAGGCGGAGCAATCGAAAGC    1200
+Atfu-G*23:01        GGCGGCTCAGATCACCCAGCGCAAGTGGGAGGCGGCCAATGAGGCGGAGCGACAGAGAGC    1200
+Atfu-G*23:02        GGCGGCTCAGATCACCCAGCGCAAGTGGGAGGCGGGCAATGAGGCGGAGCAACGGAGAGC    1200
+Atfu-G*23:03        GGCGGCTCAGATCACCCAGCGCAAGTGGGAGGCGGGCAATGAGGCGGAGCAACGGAGAGC    1200
+Atfu-G*24:01        GGCGGCTCAGATCACCCAGCGCAAGTGGGAGGCGAACAATGTAGCGGAAAAGATAAGCGC    1200
+Atfu-G*25:01        GGCGGCTCAGATCACCCAGCGCAAGTGGGAGTCGGGCAATGAGGCGGAGCAATCGAAAGC    1200
+
+Atfu-G*06:01        CTACCTGGAGGGCACGTGCGTGGAGCGGCTCCGCAAATACCTGAACAACGGGAAGGAGAC    1260
+Atfu-G*06:02        CTACCTGGAGGGCACGTGCGTGGAGCGGCTCCGCAAATACCTGAACAACGGGAAGGAGAC    1260
+Atfu-G*06:03        CTACCTGGAGGGCACGTGCGTGGAGCGGCTCCGCAAATACCTGAACAACGGGAAGGAGAC    1260
+Atfu-G*22:01        CTACCTGGAGGGCACGTGCGTGGAGTGGCTCCGCAGACACCTGGAGAACGGGAAGGAGAC    1260
+Atfu-G*23:01        CTACCTGGAGGGCACGTGCGTGGAGTGGCTCGGCAGATACCTGGAGAATGGGAAGGAGAC    1260
+Atfu-G*23:02        CTACCTGGAGGGCACGTGCGTGGAGTGGCTCGGCAGATACCTGGAGAACGGGAAGGAGAC    1260
+Atfu-G*23:03        CTACCTGGAGGGCACGTGCGTGGAGTGGCTCGGCAGATACCTGGAGAACGGGAAGGAGAC    1260
+Atfu-G*24:01        CTACCTGGAGGGCGAGTGCGTGGAGTGGCTCCACAGATACCTGGAGAACGGGAAGGAGTC    1260
+Atfu-G*25:01        CTACCTGGAGGGCACGTGCGTGGAGTGGCTCCGCAGACACCTGGAGAACGGGAAGGAGAC    1260
+
+Atfu-G*06:01        GCTGCAGCGCGCGG----------------------------------------------    1320
+Atfu-G*06:02        GCTGCAGCGCGCGG----------------------------------------------    1320
+Atfu-G*06:03        GCTGCAGCGCGCGG----------------------------------------------    1320
+Atfu-G*22:01        TCTGCAGCGCGCGG----------------------------------------------    1320
+Atfu-G*23:01        TCTGCAGCACGCGG----------------------------------------------    1320
+Atfu-G*23:02        GCTGCAGCGCGCGG----------------------------------------------    1320
+Atfu-G*23:03        GCTGCAGCGCGCGG----------------------------------------------    1320
+Atfu-G*24:01        ACTGCAGCGCGCGG----------------------------------------------    1320
+Atfu-G*25:01        TCTGCAGCGCGCGG----------------------------------------------    1320
+
+Atfu-G*06:01        ------------------------------------------------------------    1380
+Atfu-G*06:02        ------------------------------------------------------------    1380
+Atfu-G*06:03        ------------------------------------------------------------    1380
+Atfu-G*22:01        ------------------------------------------------------------    1380
+Atfu-G*23:01        ------------------------------------------------------------    1380
+Atfu-G*23:02        ------------------------------------------------------------    1380
+Atfu-G*23:03        ------------------------------------------------------------    1380
+Atfu-G*24:01        ------------------------------------------------------------    1380
+Atfu-G*25:01        ------------------------------------------------------------    1380
+
+Atfu-G*06:01        ------------------------------------------------------------    1440
+Atfu-G*06:02        ------------------------------------------------------------    1440
+Atfu-G*06:03        ------------------------------------------------------------    1440
+Atfu-G*22:01        ------------------------------------------------------------    1440
+Atfu-G*23:01        ------------------------------------------------------------    1440
+Atfu-G*23:02        ------------------------------------------------------------    1440
+Atfu-G*23:03        ------------------------------------------------------------    1440
+Atfu-G*24:01        ------------------------------------------------------------    1440
+Atfu-G*25:01        ------------------------------------------------------------    1440
+
+Atfu-G*06:01        ------------------------------------------------------------    1500
+Atfu-G*06:02        ------------------------------------------------------------    1500
+Atfu-G*06:03        ------------------------------------------------------------    1500
+Atfu-G*22:01        ------------------------------------------------------------    1500
+Atfu-G*23:01        ------------------------------------------------------------    1500
+Atfu-G*23:02        ------------------------------------------------------------    1500
+Atfu-G*23:03        ------------------------------------------------------------    1500
+Atfu-G*24:01        ------------------------------------------------------------    1500
+Atfu-G*25:01        ------------------------------------------------------------    1500
+
+Atfu-G*06:01        ------------------------------------------------------------    1560
+Atfu-G*06:02        ------------------------------------------------------------    1560
+Atfu-G*06:03        ------------------------------------------------------------    1560
+Atfu-G*22:01        ------------------------------------------------------------    1560
+Atfu-G*23:01        ------------------------------------------------------------    1560
+Atfu-G*23:02        ------------------------------------------------------------    1560
+Atfu-G*23:03        ------------------------------------------------------------    1560
+Atfu-G*24:01        ------------------------------------------------------------    1560
+Atfu-G*25:01        ------------------------------------------------------------    1560
+
+Atfu-G*06:01        ------------------------------------------------------------    1620
+Atfu-G*06:02        ------------------------------------------------------------    1620
+Atfu-G*06:03        ------------------------------------------------------------    1620
+Atfu-G*22:01        ------------------------------------------------------------    1620
+Atfu-G*23:01        ------------------------------------------------------------    1620
+Atfu-G*23:02        ------------------------------------------------------------    1620
+Atfu-G*23:03        ------------------------------------------------------------    1620
+Atfu-G*24:01        ------------------------------------------------------------    1620
+Atfu-G*25:01        ------------------------------------------------------------    1620
+
+Atfu-G*06:01        ------------------------------------------------------------    1680
+Atfu-G*06:02        ------------------------------------------------------------    1680
+Atfu-G*06:03        ------------------------------------------------------------    1680
+Atfu-G*22:01        ------------------------------------------------------------    1680
+Atfu-G*23:01        ------------------------------------------------------------    1680
+Atfu-G*23:02        ------------------------------------------------------------    1680
+Atfu-G*23:03        ------------------------------------------------------------    1680
+Atfu-G*24:01        ------------------------------------------------------------    1680
+Atfu-G*25:01        ------------------------------------------------------------    1680
+
+Atfu-G*06:01        ------------------------------------------------------------    1740
+Atfu-G*06:02        ------------------------------------------------------------    1740
+Atfu-G*06:03        ------------------------------------------------------------    1740
+Atfu-G*22:01        ------------------------------------------------------------    1740
+Atfu-G*23:01        ------------------------------------------------------------    1740
+Atfu-G*23:02        ------------------------------------------------------------    1740
+Atfu-G*23:03        ------------------------------------------------------------    1740
+Atfu-G*24:01        ------------------------------------------------------------    1740
+Atfu-G*25:01        ------------------------------------------------------------    1740
+
+Atfu-G*06:01        ------------------------------------------------------------    1800
+Atfu-G*06:02        ------------------------------------------------------------    1800
+Atfu-G*06:03        ------------------------------------------------------------    1800
+Atfu-G*22:01        ------------------------------------------------------------    1800
+Atfu-G*23:01        ------------------------------------------------------------    1800
+Atfu-G*23:02        ------------------------------------------------------------    1800
+Atfu-G*23:03        ------------------------------------------------------------    1800
+Atfu-G*24:01        ------------------------------------------------------------    1800
+Atfu-G*25:01        ------------------------------------------------------------    1800
+
+Atfu-G*06:01        ------------------------------------------------------------    1860
+Atfu-G*06:02        ------------------------------------------------------------    1860
+Atfu-G*06:03        ------------------------------------------------------------    1860
+Atfu-G*22:01        ------------------------------------------------------------    1860
+Atfu-G*23:01        ------------------------------------------------------------    1860
+Atfu-G*23:02        ------------------------------------------------------------    1860
+Atfu-G*23:03        ------------------------------------------------------------    1860
+Atfu-G*24:01        ------------------------------------------------------------    1860
+Atfu-G*25:01        ------------------------------------------------------------    1860
+
+Atfu-G*06:01        -------------AGCCCCCCAAGACACACGTGACCCATCACCCCGTCTCTGACCATGAG    1920
+Atfu-G*06:02        -------------AGCCCTCCAAGACACACGTGACCCATCACCCCGTCTCTGACCATGAG    1920
+Atfu-G*06:03        -------------AGCCCCCCAAGACACACGTGACCCATCACCCCGCCTCTGACCATGAG    1920
+Atfu-G*22:01        -------------AGCCCCCTAAGACACACGTGACCCATCACCCCGTCTCTGACCATGAG    1920
+Atfu-G*23:01        -------------AGCCCCCTAAGACACACGTGACCCATCACCCCATCTCTGACCATGAG    1920
+Atfu-G*23:02        -------------AGCCCCCTAAGACACACGTGACCCATCACCCCATCTCTGACCATGAG    1920
+Atfu-G*23:03        -------------AGCCCCCTAAGACACACGTGACCCATCACCCCATCTCTGACCATGAG    1920
+Atfu-G*24:01        -------------AGCCCCCTAAGACACACGTGACCCATCACCCCGTCTCTGACCATGAG    1920
+Atfu-G*25:01        -------------AGCCCCCTAAGACACACGTGACCCATCACCCCGTCTCTGACCATGAG    1920
+
+Atfu-G*06:01        GCCACCCTGAGGTGCTGGGCCCTTGGCTTCTACCCTGCCGAGATCACACTGACCTGGCAG    1980
+Atfu-G*06:02        GCCACCCTGAGGTGCTGGGCCCTTGGCTTCTACCCTGCCGAGATCACACTGACCTGGCAG    1980
+Atfu-G*06:03        GCCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGTGGAGATCACACTGACCTGGCAG    1980
+Atfu-G*22:01        GCCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGGCCTGGCAG    1980
+Atfu-G*23:01        GCCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAG    1980
+Atfu-G*23:02        GCCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAG    1980
+Atfu-G*23:03        GCCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAG    1980
+Atfu-G*24:01        GCCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAG    1980
+Atfu-G*25:01        GCCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGTGGAGATCACACTGACCTGGCAG    1980
+
+Atfu-G*06:01        CGGGATGAGGAGGACCAGACCCAGGACATGGAGCTGGTAGAGACCAGGCCCATGGGGGAT    2040
+Atfu-G*06:02        CGGGATGAGGAGGACCAGGCCCAGGACATGGAGCTGGTAGAGACCAGGCCCATGGGGGAT    2040
+Atfu-G*06:03        CGGGATGGGGAGGACCAGGCCCGGGACACGGAGCTCGTAGAGACCAGGCCCGCAGGGGAT    2040
+Atfu-G*22:01        CGGGATGGGGAGGACCAGACCCAGGACACGGAGCTCGTAGAGACCAGGCCTGCAGGGGAT    2040
+Atfu-G*23:01        CGGGATGGGGAGGACCAGACCCAGGACATGGAGCTCGTAGAGACCAGGCCCTCAGGGGAT    2040
+Atfu-G*23:02        CGGGATGGGGAGGACCAGACCCAGGACATGGAGCTCGTAGAGACCAGGCCCTCAGGGGAT    2040
+Atfu-G*23:03        CGGGATGGGGAGGACCAGACCCAGGACATGGAGCTCGTAGAGACCAGGCCCTCAGGGGAT    2040
+Atfu-G*24:01        CGGGATGGGGAGGACCAGACCCAGGACATGGAGCTCGTACAGACCAGGCCCATGGGGGAT    2040
+Atfu-G*25:01        CGGGATGGGGAGGACCAGACCCAGGACACGGAGCTCGTAGAGACCAGGCCCGCAGGGGAT    2040
+
+Atfu-G*06:01        GGAACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACA    2100
+Atfu-G*06:02        GGAACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACA    2100
+Atfu-G*06:03        GGAACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACC    2100
+Atfu-G*22:01        GGAACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACC    2100
+Atfu-G*23:01        GGAAACTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACC    2100
+Atfu-G*23:02        GGAAACTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACC    2100
+Atfu-G*23:03        GGAAACTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACC    2100
+Atfu-G*24:01        GGAACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACC    2100
+Atfu-G*25:01        GGAACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACC    2100
+
+Atfu-G*06:01        TGCCGTGTGCAGCATGAGGGGCTGCCTGAGCCCCTCACCCTGAGATGGG-----------    2160
+Atfu-G*06:02        TGCCGTGTGCAGCATGAGGGGCTGCCTGAGCCCCTCACCCTGAGATGGG-----------    2160
+Atfu-G*06:03        TGCCATGTGCAGCACGACGGGCTGCCCGAGCCCCTCACCCTGAGATGGG-----------    2160
+Atfu-G*22:01        TGCCATGTGCAGCACGACGGGCTGCCCGAGCCCCTCACCCTGAGATGGGGATGGG-----    2160
+Atfu-G*23:01        TGCCATGTGCAGCACGACGGGCTGCCTGAACCCCTCACCCTGAGATGGG-----------    2160
+Atfu-G*23:02        TGCCATGTGCAGCACGACGGGCTGCCCGAGCCCCTCACCCTGAGATGGG-----------    2160
+Atfu-G*23:03        TGCCATGTGCAGCACGACGGGCTGCCCGAGCCCCTCACCCTGAGATGGG-----------    2160
+Atfu-G*24:01        TGCCATGTGCAGCACGAGGGGCTGCCCGAGTTCCTCACCCTGAGATGGG-----------    2160
+Atfu-G*25:01        TGCCATGTGCAGCACGACGGGCTGCCCGAGCCCCTCACCCTGAGATGGG-----------    2160
+
+Atfu-G*06:01        ------------------------------------------------------------    2220
+Atfu-G*06:02        ------------------------------------------------------------    2220
+Atfu-G*06:03        ------------------------------------------------------------    2220
+Atfu-G*22:01        ------------------------------------------------------------    2220
+Atfu-G*23:01        ------------------------------------------------------------    2220
+Atfu-G*23:02        ------------------------------------------------------------    2220
+Atfu-G*23:03        ------------------------------------------------------------    2220
+Atfu-G*24:01        ------------------------------------------------------------    2220
+Atfu-G*25:01        ------------------------------------------------------------    2220
+
+Atfu-G*06:01        ---------------------------------------------------------AGC    2280
+Atfu-G*06:02        ---------------------------------------------------------AGC    2280
+Atfu-G*06:03        ---------------------------------------------------------AGC    2280
+Atfu-G*22:01        ---------------------------------------------------------AGC    2280
+Atfu-G*23:01        ---------------------------------------------------------AGC    2280
+Atfu-G*23:02        ---------------------------------------------------------AGC    2280
+Atfu-G*23:03        ---------------------------------------------------------AGC    2280
+Atfu-G*24:01        ---------------------------------------------------------AGC    2280
+Atfu-G*25:01        ---------------------------------------------------------AGC    2280
+
+Atfu-G*06:01        CACCTTCCCAGCCCACCATCCCCATCGTGGGCATCGTTGCTGGCCTGGCTGTCCTTGCAG    2340
+Atfu-G*06:02        CACCTTCCCAGCCCACCATCCCCATCGTGGGCATCGTTGCTGGCCTGGCTGTCCTTGCAG    2340
+Atfu-G*06:03        CGCCTTCCCAGCCCACCATCCCCATCGTGGGCATTGTTGCTGCCCTGGCTGTCCTTGGAG    2340
+Atfu-G*22:01        CGCCTTCCCAGCCCACCATCCCCATCGTGGGCATCGTTGCTGCCCTGGCTGTCCTTGGAG    2340
+Atfu-G*23:01        TGCCTTCCCAGCCCACCATCCCCATCGTGGGCATCGTTGCTGGCCTGGCTGTCCTTGCAG    2340
+Atfu-G*23:02        CGCCTTCCCAGCCCACCATCCCCATCGTGGGCATTGTTGCTGCCCTGGCTGTCCTTGGAG    2340
+Atfu-G*23:03        CGCCTTCCCAGCCCACCATCCCCATCGTGGGCATTGTTGCTGCCCTGGCTGTCCTTGGAG    2340
+Atfu-G*24:01        CACCTTCCCAGCCCACCATCCCCATCGTGGGCATCGTTGCTGGCCTGGCTGTCCTTGGAG    2340
+Atfu-G*25:01        CGCCTTCCCAGCCCACCATCCCCATCGTGGGCATTGTTGCTGCCCTGGCTGTCCTTGGAG    2340
+
+Atfu-G*06:01        CTGTAGTCACTGGAGTTGTGGTTGCTGCTGTGATGTGGAGGAAGAAGAGCTCAG------    2400
+Atfu-G*06:02        CTGTAGTCACTGGAGTTGTGGTTGCTGCTGTGATGTGGAGGAAGAAGAGCTCAG------    2400
+Atfu-G*06:03        CTTTGGTCACTGGAGCTGTGCTCGCTGCTGTGATGTGGAGGAAGAAGAGCTCAG------    2400
+Atfu-G*22:01        CTTTGGTCACTGGAGCTGTGCTCGCTGCTGTGATGTGGAGGAAGAAGAGCTCAG------    2400
+Atfu-G*23:01        CTGTAGTCACTGGAGTTGTGGTCGCTGCTGTGATGTGGAGGAAAAAGAGCTCAG------    2400
+Atfu-G*23:02        CTGTAATGACTGGAGCTGTGGTCGCTGCTGTGATGTGGAGGAAAAAGAGCTCAG------    2400
+Atfu-G*23:03        CTGTAATGACTGGAGCTGTGGTCGCTGCTGTGGTGTGGAGGAAAAAGAGCTCAG------    2400
+Atfu-G*24:01        TTGTAGTCACTGGAGCTGTGGTCGCTGCTGTGATGTGGAGGAAGAAGAGCTCAG------    2400
+Atfu-G*25:01        CTTTGGTCACTGGAGCTGTGCTCGCTGCTGTGATGTGGAGGAAGAAGAGCTCAG------    2400
+
+Atfu-G*06:01        ------------------------------------------------------------    2460
+Atfu-G*06:02        ------------------------------------------------------------    2460
+Atfu-G*06:03        ------------------------------------------------------------    2460
+Atfu-G*22:01        ------------------------------------------------------------    2460
+Atfu-G*23:01        ------------------------------------------------------------    2460
+Atfu-G*23:02        ------------------------------------------------------------    2460
+Atfu-G*23:03        ------------------------------------------------------------    2460
+Atfu-G*24:01        ------------------------------------------------------------    2460
+Atfu-G*25:01        ------------------------------------------------------------    2460
+
+Atfu-G*06:01        ------------------------------------------------------------    2520
+Atfu-G*06:02        ------------------------------------------------------------    2520
+Atfu-G*06:03        ------------------------------------------------------------    2520
+Atfu-G*22:01        ------------------------------------------------------------    2520
+Atfu-G*23:01        ------------------------------------------------------------    2520
+Atfu-G*23:02        ------------------------------------------------------------    2520
+Atfu-G*23:03        ------------------------------------------------------------    2520
+Atfu-G*24:01        ------------------------------------------------------------    2520
+Atfu-G*25:01        ------------------------------------------------------------    2520
+
+Atfu-G*06:01        ------------------------------------------------------------    2580
+Atfu-G*06:02        ------------------------------------------------------------    2580
+Atfu-G*06:03        ------------------------------------------------------------    2580
+Atfu-G*22:01        ------------------------------------------------------------    2580
+Atfu-G*23:01        ------------------------------------------------------------    2580
+Atfu-G*23:02        ------------------------------------------------------------    2580
+Atfu-G*23:03        ------------------------------------------------------------    2580
+Atfu-G*24:01        ------------------------------------------------------------    2580
+Atfu-G*25:01        ------------------------------------------------------------    2580
+
+Atfu-G*06:01        ------------------------------------------------------------    2640
+Atfu-G*06:02        ------------------------------------------------------------    2640
+Atfu-G*06:03        ------------------------------------------------------------    2640
+Atfu-G*22:01        ------------------------------------------------------------    2640
+Atfu-G*23:01        ------------------------------------------------------------    2640
+Atfu-G*23:02        ------------------------------------------------------------    2640
+Atfu-G*23:03        ------------------------------------------------------------    2640
+Atfu-G*24:01        ------------------------------------------------------------    2640
+Atfu-G*25:01        ------------------------------------------------------------    2640
+
+Atfu-G*06:01        ------------------------------------------------------------    2700
+Atfu-G*06:02        ------------------------------------------------------------    2700
+Atfu-G*06:03        ------------------------------------------------------------    2700
+Atfu-G*22:01        ------------------------------------------------------------    2700
+Atfu-G*23:01        ------------------------------------------------------------    2700
+Atfu-G*23:02        ------------------------------------------------------------    2700
+Atfu-G*23:03        ------------------------------------------------------------    2700
+Atfu-G*24:01        ------------------------------------------------------------    2700
+Atfu-G*25:01        ------------------------------------------------------------    2700
+
+Atfu-G*06:01        ------------------------------------------------------------    2760
+Atfu-G*06:02        ------------------------------------------------------------    2760
+Atfu-G*06:03        ------------------------------------------------------------    2760
+Atfu-G*22:01        ------------------------------------------------------------    2760
+Atfu-G*23:01        ------------------------------------------------------------    2760
+Atfu-G*23:02        ------------------------------------------------------------    2760
+Atfu-G*23:03        ------------------------------------------------------------    2760
+Atfu-G*24:01        ------------------------------------------------------------    2760
+Atfu-G*25:01        ------------------------------------------------------------    2760
+
+Atfu-G*06:01        ------------------------------------------------------------    2820
+Atfu-G*06:02        ------------------------------------------------------------    2820
+Atfu-G*06:03        ------------------------------------------------------------    2820
+Atfu-G*22:01        ------------------------------------------------------------    2820
+Atfu-G*23:01        ------------------------------------------------------------    2820
+Atfu-G*23:02        ------------------------------------------------------------    2820
+Atfu-G*23:03        ------------------------------------------------------------    2820
+Atfu-G*24:01        ------------------------------------------------------------    2820
+Atfu-G*25:01        ------------------------------------------------------------    2820
+
+Atfu-G*06:01        ------------------------------------------------------------    2880
+Atfu-G*06:02        ------------------------------------------------------------    2880
+Atfu-G*06:03        ------------------------------------------------------------    2880
+Atfu-G*22:01        ------------------------------------------------------------    2880
+Atfu-G*23:01        ------------------------------------------------------------    2880
+Atfu-G*23:02        ------------------------------------------------------------    2880
+Atfu-G*23:03        ------------------------------------------------------------    2880
+Atfu-G*24:01        ------------------------------------------------------------    2880
+Atfu-G*25:01        ------------------------------------------------------------    2880
+
+Atfu-G*06:01        ------------------------------------------------------------    2940
+Atfu-G*06:02        ------------------------------------------------------------    2940
+Atfu-G*06:03        ------------------------------------------------------------    2940
+Atfu-G*22:01        ------------------------------------------------------------    2940
+Atfu-G*23:01        ------------------------------------------------------------    2940
+Atfu-G*23:02        ------------------------------------------------------------    2940
+Atfu-G*23:03        ------------------------------------------------------------    2940
+Atfu-G*24:01        ------------------------------------------------------------    2940
+Atfu-G*25:01        ------------------------------------------------------------    2940
+
+Atfu-G*06:01        ------------------------------------------------------------    3000
+Atfu-G*06:02        ------------------------------------------------------------    3000
+Atfu-G*06:03        ------------------------------------------------------------    3000
+Atfu-G*22:01        ------------------------------------------------------------    3000
+Atfu-G*23:01        ------------------------------------------------------------    3000
+Atfu-G*23:02        ------------------------------------------------------------    3000
+Atfu-G*23:03        ------------------------------------------------------------    3000
+Atfu-G*24:01        ------------------------------------------------------------    3000
+Atfu-G*25:01        ------------------------------------------------------------    3000
+
+Atfu-G*06:01        ------------------------------------------------------------    3060
+Atfu-G*06:02        ------------------------------------------------------------    3060
+Atfu-G*06:03        ------------------------------------------------------------    3060
+Atfu-G*22:01        ------------------------------------------------------------    3060
+Atfu-G*23:01        ------------------------------------------------------------    3060
+Atfu-G*23:02        ------------------------------------------------------------    3060
+Atfu-G*23:03        ------------------------------------------------------------    3060
+Atfu-G*24:01        ------------------------------------------------------------    3060
+Atfu-G*25:01        ------------------------------------------------------------    3060
+
+Atfu-G*06:01        ------------------------------------------------------------    3120
+Atfu-G*06:02        ------------------------------------------------------------    3120
+Atfu-G*06:03        ------------------------------------------------------------    3120
+Atfu-G*22:01        ------------------------------------------------------------    3120
+Atfu-G*23:01        ------------------------------------------------------------    3120
+Atfu-G*23:02        ------------------------------------------------------------    3120
+Atfu-G*23:03        ------------------------------------------------------------    3120
+Atfu-G*24:01        ------------------------------------------------------------    3120
+Atfu-G*25:01        ------------------------------------------------------------    3120
+
+Atfu-G*06:01        ------------------------    3144
+Atfu-G*06:02        ------------------------    3144
+Atfu-G*06:03        ------------------------    3144
+Atfu-G*22:01        ------------------------    3144
+Atfu-G*23:01        ------------------------    3144
+Atfu-G*23:02        ------------------------    3144
+Atfu-G*23:03        ------------------------    3144
+Atfu-G*24:01        ------------------------    3144
+Atfu-G*25:01        ------------------------    3144
+

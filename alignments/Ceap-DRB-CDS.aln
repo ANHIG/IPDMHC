@@ -1,0 +1,70 @@
+Ceap-DRB*W013:01    CACGTTTCTTGGAGCAGGCTAAGTCTGAGTGTCATTTCCTCAACGGGACGGAGCGGGTGC      60
+Ceap-DRB*W013:02    CACGTTTCTTGGAGCAGGCTAAGTCTGAGTGTCATTTCCTCAACGGGACGGAGCGGGTGC      60
+Ceap-DRB*W013:03    CACGTTTCTTGGAGCAGTTTAAGCCTGAGTGTCATTTCCTCAACGGGACGGAGCGGGTGC      60
+Ceap-DRB*W015:01    CACGTTTCTTGAGGCAGTTTAAGCCTGAGTGTCATTTCCTCAACGGCACGGAGCGGGTGC      60
+Ceap-DRB*W015:02    CACGTTTCTTGAGGCAGTTTAAGCCTGAGTGTCATTTCCTCAACGGCACGGAGCGGGTGC      60
+Ceap-DRB*W032:01    CACGTTTCTTGGAGC------AGTTTGAGCGTCGTCCCCTCAACGGGACGGAGCGCGCGC      60
+
+Ceap-DRB*W013:01    GGTTCCTGGACCGATACTTCTATAACCAGGAGGAGTATGTGCGCTTCGACAGCGACGTGG     120
+Ceap-DRB*W013:02    GGTTCCTGGACCGATACTTCTATAACCAGGAGGAGTATGTGCGCTTCGACAGCGACGTCG     120
+Ceap-DRB*W013:03    GGTACCTGCAGAGACTCATCTATAACCAGGAGGAGTATGCGCGCTTCGACAGCGACGTGG     120
+Ceap-DRB*W015:01    GGTCTTCGGAAAGACACATCTATAACCAGGAGGAGAACGTGCGCTTCGACAGCGACGTGG     120
+Ceap-DRB*W015:02    GGCTCCTGGAAAGACACATCTATAACCAGGAGGAGTTCGTGCGCTTCGACAGCGACGTGG     120
+Ceap-DRB*W032:01    GGCTCCTGGTCAGACACACCTACAACCAGGAGGAGTATGTG-GGTTCGACGGCGCCGTGG     120
+
+Ceap-DRB*W013:01    GGGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTAGCGCAGAGTACTGGAACAGCCAGA     180
+Ceap-DRB*W013:02    GGGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTAGCGCAGAGTACTGGAACAGCCAGA     180
+Ceap-DRB*W013:03    GGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGTCGCAGAGTACCTGAACAGCCAGA     180
+Ceap-DRB*W015:01    GGGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTGACGCGGAGTACTGGAACAGCCAGA     180
+Ceap-DRB*W015:02    GGGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTGACGCGGAGTACTGGAACAGCCAGA     180
+Ceap-DRB*W032:01    GGG-GCTCCGGCCGGTGACGGAGCTGGGGCGGCCTGACCAACAGTACTACGACAGCCGGG     180
+
+Ceap-DRB*W013:01    AGGACATCCTGGAGGACGCGCGGGGCCAGGTGGACAACTACTGCAGACACAACTACGGGG     240
+Ceap-DRB*W013:02    AGGACATCCTGGAGGACGCGCGGGGCCAGGTGGACAACTACTGCAGACACAACTACGGGG     240
+Ceap-DRB*W013:03    AGGACTACCTGGAGCAGAGGCGGGCCGCGGTGGACAACTACTGCAGACACAACTACGGGG     240
+Ceap-DRB*W015:01    AGGACTACATGGAGCAGAGGCGGGCCGCGGTGGACACCTACTGCAGACACAACTACGAGA     240
+Ceap-DRB*W015:02    AGGACTACATGGAGCAGAGGCGGGCCGCGGTGGACACCTACTGCAGACACAACTACGAGA     240
+Ceap-DRB*W032:01    AGGACATCATGGAGCAGACACGGGCCGCGGCGGACACTGTGTGCAGACGCGAC-------     240
+
+Ceap-DRB*W013:01    TTGGTGAGAGCTTCACAGTGCAGCGGAGAG------------------------------     300
+Ceap-DRB*W013:02    TTGGTGAGAGCTTCACAGTGCAGCGGAGAG------------------------------     300
+Ceap-DRB*W013:03    TTGGTGAGAGCTTCACAGTGCAGCGGAGAG------------------------------     300
+Ceap-DRB*W015:01    T----------TTCA---------------------------------------------     300
+Ceap-DRB*W015:02    T----------TTCA---------------------------------------------     300
+Ceap-DRB*W032:01    ------------------------------------------------------------     300
+
+Ceap-DRB*W013:01    ------------------------------------------------------------     360
+Ceap-DRB*W013:02    ------------------------------------------------------------     360
+Ceap-DRB*W013:03    ------------------------------------------------------------     360
+Ceap-DRB*W015:01    -------------------------------------------GAGAGGTTCCT------     360
+Ceap-DRB*W015:02    -------------------------------------------GAGAGGTTCCT------     360
+Ceap-DRB*W032:01    ------------------------------------------------------------     360
+
+Ceap-DRB*W013:01    ------------------------------------------------------------     420
+Ceap-DRB*W013:02    ------------------------------------------------------------     420
+Ceap-DRB*W013:03    ------------------------------------------------------------     420
+Ceap-DRB*W015:01    ------------------------------------------------------------     420
+Ceap-DRB*W015:02    ------------------------------------------------------------     420
+Ceap-DRB*W032:01    ------------------------------------------------------------     420
+
+Ceap-DRB*W013:01    ------------------------------------------------------------     480
+Ceap-DRB*W013:02    ------------------------------------------------------------     480
+Ceap-DRB*W013:03    ------------------------------------------------------------     480
+Ceap-DRB*W015:01    -------------------------------------------------------AGTGC     480
+Ceap-DRB*W015:02    -------------------------------------------------------AGTGC     480
+Ceap-DRB*W032:01    ------------------------------------------------------------     480
+
+Ceap-DRB*W013:01    ------------------------------------------------------------     540
+Ceap-DRB*W013:02    ------------------------------------------------------------     540
+Ceap-DRB*W013:03    ------------------------------------------------------------     540
+Ceap-DRB*W015:01    CGCGGAGAG---------------------------------------------------     540
+Ceap-DRB*W015:02    CGCGGAGAG---------------------------------------------------     540
+Ceap-DRB*W032:01    ------------------------------------------------------------     540
+
+Ceap-DRB*W013:01    ------------     552
+Ceap-DRB*W013:02    ------------     552
+Ceap-DRB*W013:03    ------------     552
+Ceap-DRB*W015:01    ------------     552
+Ceap-DRB*W015:02    ------------     552
+Ceap-DRB*W032:01    ------------     552
+
