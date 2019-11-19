@@ -1,0 +1,360 @@
+Rano-A2*b           GGCTCACACTCGCTGCGGTATTTCGAAACCGCCGTGTCCCGGCCCGGCCTCGGGGAGCCC      60
+Rano-A2*c           GGCTCACACTCGCTGCGGTATTTCGAAACCGCCGTGTCCCGGCCCGGCCTCGGGGAGCCC      60
+Rano-A2*f           GGCTCACACTCGCTGCGGTATTTCTACACCGCCGTGTCCCGGCCCGGCCTCGGGGAGCCC      60
+Rano-A2*h           GGCTCTCACTCGATGCGGTATTTCGACATCGCCGTGTCCCGGCCCGGCCTCGGGGAGCCC      60
+Rano-A2*n           GGCTCTCACTCGCTGCGGTATTTCGTCACCGCCGTGTCCCGGCCCGGCCTCGGGGAGCCC      60
+Rano-A2*o           GGCTCACACTCGCTGCGGTATTTCTACATCGCCGTGTCCCGGCCCGGCCTCGGGGAGCCC      60
+Rano-A2*q           GGCTCACACTCGCTGCGGTATTTCTACACCGCTGTGTCCCGGCCCGGCCTCGGGGAGCCC      60
+
+Rano-A2*b           CGGTACATGGAAGTGGGCTACGTGGACGACACGCAGTTCGTGCGCTACGACAGCGACGCG     120
+Rano-A2*c           CGGTACATGGAAGTGGGCTACGTGGACGACACGCAGTTCGTGCGCTACGACAGCGACGCG     120
+Rano-A2*f           CGGTACATGGAAGTGGGCTACGTGGACGACACGCAGTTCGTGCGCTACGACAGCGACGCG     120
+Rano-A2*h           CGGTACATCTCTGTCGGCTACGTAGACCACACGGAGTTCGTGCGCTTCGACAGCGACGCG     120
+Rano-A2*n           CGGTACATGGAAGTGGGCTACGTGGACGACACGCAGTTCGTGCGCTACGACAGCGATGCA     120
+Rano-A2*o           CGGTACATGGAAGTGGGCTACGTGGACGACACGCAGTTCGTGCGCTACGACAGCGACGCG     120
+Rano-A2*q           CGGTTCATCTCTGTGGGCTACGTGGACGACACGCAGTTCGTGCGCTTCGACAGCGACGCG     120
+
+Rano-A2*b           GAGAATCCGAGGATGGAGCCGCGGGCGCGGTGGATAGAGCGGGAGGGGCGGGAGTATTGG     180
+Rano-A2*c           GAGAATCCGAGATACGAGCCGCGGGTGCAGTGGATAGAGCGGGAGGGGCCGGAGTATTGG     180
+Rano-A2*f           GAGAATCCGAGATATGAGCCGCGGGCGCGGTGGATGGAGCGGGAGGGGCCGGAGTATTGG     180
+Rano-A2*h           GAGAAACCGAGATACGAGCCGCGGGCGCCGTGGATGGAGCGGGAGGGGCCGGACTATTGG     180
+Rano-A2*n           GAGAATCCGAGATACGAGCCGCGGGCGCCGTGGATGGAGCGGGAGGGGCCGGAGTATTGG     180
+Rano-A2*o           GAGAATCCGAGATACGAGCCGCGGGCGCGGTGGATGGAGCGGGAGGGGCCGGAGTATTGG     180
+Rano-A2*q           GAGAATCCGAGAGAAGAGCCGCGGGCGCGGTGGATGGAGCGGGAGGGGCCGGAGTATTGG     180
+
+Rano-A2*b           GAGCAGCAGACACAGAACGCCAAGGGACACGAGCAGGTGAACCGAGTGGACCTGAGGACC     240
+Rano-A2*c           GAGCGGAACACACGGATCGCCAAGGAAAACGAGCAGAATTACCGAGTGAGCCTGAGGACC     240
+Rano-A2*f           GAGGAGGAGACACAGAAAGCCAAGGAAGGCGAGCAGATTTACCGAGTGGACCTGAGGACC     240
+Rano-A2*h           GAGAGGGAGACACAGAAAGCCAAGGGACACGAGCAGAATTACCGAGTGAGCCTGAGGAAT     240
+Rano-A2*n           GAGAGGGAGACCCAGAACGCCAAGAGAAACGAGCAGGTTTACCGAGTGGACCTGAGGACC     240
+Rano-A2*o           GAGCGGGAGACGCAGGGAGCCAAGGAAGGCGAGCAGATTTACCGAGTGGACCTGAGGACC     240
+Rano-A2*q           GAGCGGAACACACGGATCGTCAAGGGACACGAGCAGACTTACCGAGGGAACCTGAGGACC     240
+
+Rano-A2*b           CTGCGCGGCTACTACAACCAGAGCGAGGGCG-----------------------------     300
+Rano-A2*c           GCGCTCCACTACTACAACCAGAGCGAGGGCG-----------------------------     300
+Rano-A2*f           CTGCGCGGCTACTACAACCAGAGCGAGGGCG-----------------------------     300
+Rano-A2*h           CTGCGCGGCTACTACAACCAGAGCGAGGGCG-----------------------------     300
+Rano-A2*n           GCGCTCCGCTACTACAACCAGAGCGAGGGCGGTGAGTGACCCCGGGTCGGAGGTCACGAC     300
+Rano-A2*o           CTGCGCGGCTACTACAACCAGAGCGAGGGCG-----------------------------     300
+Rano-A2*q           GCGCTCCGCTACTACAACCAGAGCGAGGGCG-----------------------------     300
+
+Rano-A2*b           ------------------------------------------------------------     360
+Rano-A2*c           ------------------------------------------------------------     360
+Rano-A2*f           ------------------------------------------------------------     360
+Rano-A2*h           ------------------------------------------------------------     360
+Rano-A2*n           CCCTCCGCGTCCCCACACGGCCGGGGACTTCCGGGTCCCAAGTCCGAGGTTCGGGAGCAG     360
+Rano-A2*o           ------------------------------------------------------------     360
+Rano-A2*q           ------------------------------------------------------------     360
+
+Rano-A2*b           ------------------------------------------------------------     420
+Rano-A2*c           ------------------------------------------------------------     420
+Rano-A2*f           ------------------------------------------------------------     420
+Rano-A2*h           ------------------------------------------------------------     420
+Rano-A2*n           AACCGACCCAGGCCGGTTTCCCTTTAGGTTTGGAGGAGTCCGCGGGCGGGCTGGGCCTGG     420
+Rano-A2*o           ------------------------------------------------------------     420
+Rano-A2*q           ------------------------------------------------------------     420
+
+Rano-A2*b           --------------------------------GCTCTCACACCATCCAGAGGATGCATGG     480
+Rano-A2*c           --------------------------------GCTCTCACACCATCCAGAGGATGTATGG     480
+Rano-A2*f           --------------------------------GCTCTCACACCATCCAGGTGATGTATGG     480
+Rano-A2*h           --------------------------------GCTCTCACACCATCCAGTTGATGTATGG     480
+Rano-A2*n           GCGGGGCCGGGTCTGACCGCGGGGTCCCGCAGGCTCTCACACCATCCAGAGGATGTATGG     480
+Rano-A2*o           --------------------------------GCTCTCACACCATCCAGGAGATGTATGG     480
+Rano-A2*q           --------------------------------GCTCTCACACCATCCAGAGGATGTATGG     480
+
+Rano-A2*b           CTGTGACGTGGGGACGGACGGGAGCCTCCTCCGCGGGTATGAGCAGCACGCCTACGACGG     540
+Rano-A2*c           CTGTGACGTGGGGTCGGACGGGAGCCTCCTCCGCGGGTATGAGCAGTACGCCTACGACGG     540
+Rano-A2*f           CTGTGACGTGGGGTCGGACGGGAGCCTCCTCCGCGGATATAGGCAGGACGCCTACGATGG     540
+Rano-A2*h           CTGTGACCTGGGGTCGGACGGGAGGCTCCTCCGCGGGTATTGGCAGTTCGCCTATGACAG     540
+Rano-A2*n           CTGTGACATGGGGTCGGACGGGAGCCTCCTCCGCGGGTATTATCAGGACGCTTACGACGG     540
+Rano-A2*o           CTGTGACGTGGGGTCGGACGGGAGCCTCCTCCGCGGATATAGGCAGGACGCCTACGACGG     540
+Rano-A2*q           CTGTGACGTGGGGTCGGACGGGAGCCTCCTCCGCGGGTATAATCAGTACGCCTACGACGG     540
+
+Rano-A2*b           CCGCGATTACATCGCCCTGAACGAAGACCTGAAGACGTGGACGGCGGCGGACTTTGCCGC     600
+Rano-A2*c           CCGCGATTACATCGCCCTGAACGAAGACCTGAAAACGTGGACGGCGGCGGACTTTGCGGC     600
+Rano-A2*f           CCGCGATTACATCGCCCTGAACGAAGACCTGAAGACGTGGACGGCGGCGGACTTTGCGGC     600
+Rano-A2*h           CCACGATTACATCGCCCTGAACGAAGACCTGAAGACGTGGACGGCGGCGGACACAGCAGC     600
+Rano-A2*n           CCGCGATTACATCGCCCTGAACGAAGACCTGAAAACGTGGACGGCGGCGGACTTTGCGGC     600
+Rano-A2*o           CCGCGATTACATCGCCCTGAACGAAGACCTGAAGACGTGGACGGCGGCGGACTTTGCGGC     600
+Rano-A2*q           CCGCGATTACATCGCCCTGAACGAAGACCTGAAGACGTGGACGGCGGCGGACTTTGCGGC     600
+
+Rano-A2*b           ACAGATCACCCGGAACAAGTGGGATCAGGCTGGTGCTGCAGAGAGAAGCAGGGCCTACCT     660
+Rano-A2*c           ACGGATCTCCCGGAACAAGTGGGAGCGGGATGGTGTTGCAGAGAGAAGCAGGGCCTACGT     660
+Rano-A2*f           ACAGATCACCCGGAACAAGTGGGAGCAGACTGGTTATGCAGAGAGACTCAGGGCCTACCT     660
+Rano-A2*h           GCAGATCACCCGGAACAAGTGGGAGCGGGAAGGTGCTGCAGACTATGAAAAGGCCTACCT     660
+Rano-A2*n           ACAGATCACCCGGAGCAAGTGGGATCAGGCTGGTGTTGCAGAGAGACTCAGGGCCTACCT     660
+Rano-A2*o           ACAGATCACCCGGAACAAGTGGGAGCGGGCTCGTTATGCAGAGAGACTCAGGGCCTACCT     660
+Rano-A2*q           ACAGATCACCCGGAGCAAGTGGGAGCAGACTGGTTATGCAGAGAGAAGCAGGGCCTACCT     660
+
+Rano-A2*b           GGAGGGCACGTGCGTGGAGTGGCTCCGCAGATACCTGGAGCACGGGAAGGAGACGCTGCT     720
+Rano-A2*c           GGAGGGCACGTGTGTGGAGTCACTCCGCAGATACCTGGAGCACGGGAAGGAGATGGTGCT     720
+Rano-A2*f           GGAGGGCACGTGTGTGGAGTGGCTCCGCAGATACCTGGAGCTCGGGAAGGAGACGCTGCT     720
+Rano-A2*h           GGAGGGCGAGTGTGTGGAGTGGCTCCGCAGATACCTGGAGCTCGGGAAGGAGACGCTGCT     720
+Rano-A2*n           GGAGGGCACGTGCGTGGAGTGGCTCCGCAGATACCTGGAACTCGGGAAGGAGACGCTGCT     720
+Rano-A2*o           GGAGGGCACGTGCGTGGAGTCGCTCCGCAGATACCTGGAGCTCGGGAAGGAGACACTGCT     720
+Rano-A2*q           GGAGGGCAAGTGCTTGGAGTCGCTCCTCAGATACCTGGAGCTCGGGAAGGAGACGCTACT     720
+
+Rano-A2*b           GCGCTCAG----------------------------------------------------     780
+Rano-A2*c           GCGCTCAG----------------------------------------------------     780
+Rano-A2*f           GCGCTCAG----------------------------------------------------     780
+Rano-A2*h           GCGCTCAG----------------------------------------------------     780
+Rano-A2*n           GCGCTCAGGTGCGGGGGCCACGGGCTTCTCCTCCTCTGCCCTCGGGCTGGGTCTCAGTCC     780
+Rano-A2*o           GCGCTCAG----------------------------------------------------     780
+Rano-A2*q           GCGCTCAG----------------------------------------------------     780
+
+Rano-A2*b           ------------------------------------------------------------     840
+Rano-A2*c           ------------------------------------------------------------     840
+Rano-A2*f           ------------------------------------------------------------     840
+Rano-A2*h           ------------------------------------------------------------     840
+Rano-A2*n           TGGGGAAGAAGGAACCCTCAGCTGGGTGATGCCCCTGTCTCAGAGGGGAGACAGTGTCCC     840
+Rano-A2*o           ------------------------------------------------------------     840
+Rano-A2*q           ------------------------------------------------------------     840
+
+Rano-A2*b           ------------------------------------------------------------     900
+Rano-A2*c           ------------------------------------------------------------     900
+Rano-A2*f           ------------------------------------------------------------     900
+Rano-A2*h           ------------------------------------------------------------     900
+Rano-A2*n           TGGGTCTCCTCATCCCTCATCACAGTGACTGCACTGCTCTCCCAGGGCCCAGCCTTCTCC     900
+Rano-A2*o           ------------------------------------------------------------     900
+Rano-A2*q           ------------------------------------------------------------     900
+
+Rano-A2*b           ------------------------------------------------------------     960
+Rano-A2*c           ------------------------------------------------------------     960
+Rano-A2*f           ------------------------------------------------------------     960
+Rano-A2*h           ------------------------------------------------------------     960
+Rano-A2*n           CTGGAGAGTTCTGAGTCCCTCTCAGGAGGGAAGGAGAGAACTTCCCCACTTAACAGCAGG     960
+Rano-A2*o           ------------------------------------------------------------     960
+Rano-A2*q           ------------------------------------------------------------     960
+
+Rano-A2*b           ------------------------------------------------------------    1020
+Rano-A2*c           ------------------------------------------------------------    1020
+Rano-A2*f           ------------------------------------------------------------    1020
+Rano-A2*h           ------------------------------------------------------------    1020
+Rano-A2*n           GGCTCCCTGCTGTCAGCCATGGCCTCTCCCAGGCCAGGTTCTCTGCCCACACCCACTCTC    1020
+Rano-A2*o           ------------------------------------------------------------    1020
+Rano-A2*q           ------------------------------------------------------------    1020
+
+Rano-A2*b           ------------------------------------------------------------    1080
+Rano-A2*c           ------------------------------------------------------------    1080
+Rano-A2*f           ------------------------------------------------------------    1080
+Rano-A2*h           ------------------------------------------------------------    1080
+Rano-A2*n           TGAGGACAGTGACTCCTGTCCTGCTGAGTGTGTCAGCCCTTACACCTCAGGACCAGAAGT    1080
+Rano-A2*o           ------------------------------------------------------------    1080
+Rano-A2*q           ------------------------------------------------------------    1080
+
+Rano-A2*b           ------------------------------------------------------------    1140
+Rano-A2*c           ------------------------------------------------------------    1140
+Rano-A2*f           ------------------------------------------------------------    1140
+Rano-A2*h           ------------------------------------------------------------    1140
+Rano-A2*n           CTCCTTTTCCTCATAGGAGACATGGGCTCCACTACACTAGGCTGGTTCCCCCAGTTTCTA    1140
+Rano-A2*o           ------------------------------------------------------------    1140
+Rano-A2*q           ------------------------------------------------------------    1140
+
+Rano-A2*b           ------------------------------------------------------------    1200
+Rano-A2*c           ------------------------------------------------------------    1200
+Rano-A2*f           ------------------------------------------------------------    1200
+Rano-A2*h           ------------------------------------------------------------    1200
+Rano-A2*n           GAACTTTCCATAGAACACGTTCTCACAGATCCCTCCCTGATGTGGGGTTTGCCTCTCTTC    1200
+Rano-A2*o           ------------------------------------------------------------    1200
+Rano-A2*q           ------------------------------------------------------------    1200
+
+Rano-A2*b           ------------------------------------------------------------    1260
+Rano-A2*c           ------------------------------------------------------------    1260
+Rano-A2*f           ------------------------------------------------------------    1260
+Rano-A2*h           ------------------------------------------------------------    1260
+Rano-A2*n           CACACCCCAATTCTCTCTCTTCCTACAGTGGAGAATGGTCCCATGAGCCCTTGTGGGTAC    1260
+Rano-A2*o           ------------------------------------------------------------    1260
+Rano-A2*q           ------------------------------------------------------------    1260
+
+Rano-A2*b           ------------------------------------------------------------    1320
+Rano-A2*c           ------------------------------------------------------------    1320
+Rano-A2*f           ------------------------------------------------------------    1320
+Rano-A2*h           ------------------------------------------------------------    1320
+Rano-A2*n           CCTGGAGGAATATAAATTGTGGGATTTCTTTTTTCTTTTTTTCTCTCTTTTTCTTATCTT    1320
+Rano-A2*o           ------------------------------------------------------------    1320
+Rano-A2*q           ------------------------------------------------------------    1320
+
+Rano-A2*b           ------------------------------------------------------------    1380
+Rano-A2*c           ------------------------------------------------------------    1380
+Rano-A2*f           ------------------------------------------------------------    1380
+Rano-A2*h           ------------------------------------------------------------    1380
+Rano-A2*n           TTACTTTCTTTTTTCTTTCCTTTTCTTTCCCTTTTTTTTTTTGAAGGAATTATTTTGCTT    1380
+Rano-A2*o           ------------------------------------------------------------    1380
+Rano-A2*q           ------------------------------------------------------------    1380
+
+Rano-A2*b           ------------------------------------------------------------    1440
+Rano-A2*c           ------------------------------------------------------------    1440
+Rano-A2*f           ------------------------------------------------------------    1440
+Rano-A2*h           ------------------------------------------------------------    1440
+Rano-A2*n           CCAGTCAAGTTTTCTCTGCAAACACATATTAAATCAATTATTTTCCATTCCCTCTTTATT    1440
+Rano-A2*o           ------------------------------------------------------------    1440
+Rano-A2*q           ------------------------------------------------------------    1440
+
+Rano-A2*b           ------------------------------------------------------------    1500
+Rano-A2*c           ------------------------------------------------------------    1500
+Rano-A2*f           ------------------------------------------------------------    1500
+Rano-A2*h           ------------------------------------------------------------    1500
+Rano-A2*n           CTGTGACCACCCATCTCATGCTATAAAACATCACATAAGGACGGCCATGTTGACCCACTC    1500
+Rano-A2*o           ------------------------------------------------------------    1500
+Rano-A2*q           ------------------------------------------------------------    1500
+
+Rano-A2*b           ------------------------------------------------------------    1560
+Rano-A2*c           ------------------------------------------------------------    1560
+Rano-A2*f           ------------------------------------------------------------    1560
+Rano-A2*h           ------------------------------------------------------------    1560
+Rano-A2*n           GAATCATGTGGATTTCCTCTTAGCTTCTGAGTCCCTCAGGAAAGTGTGCAGTTCTGTGCT    1560
+Rano-A2*o           ------------------------------------------------------------    1560
+Rano-A2*q           ------------------------------------------------------------    1560
+
+Rano-A2*b           ------------------------------------------------------------    1620
+Rano-A2*c           ------------------------------------------------------------    1620
+Rano-A2*f           ------------------------------------------------------------    1620
+Rano-A2*h           ------------------------------------------------------------    1620
+Rano-A2*n           GAGGGCACCAGCTCTCCCTGCAGCTCACTAGTGAGATGACAGTTGAAGTGTCAGACACAC    1620
+Rano-A2*o           ------------------------------------------------------------    1620
+Rano-A2*q           ------------------------------------------------------------    1620
+
+Rano-A2*b           ------------------------------------------------------------    1680
+Rano-A2*c           ------------------------------------------------------------    1680
+Rano-A2*f           ------------------------------------------------------------    1680
+Rano-A2*h           ------------------------------------------------------------    1680
+Rano-A2*n           ACAGTTCAGTGTCATCATTGATTTAACTGTGTCTTGTGTAGATTTCAGTTTGTCTTGTTA    1680
+Rano-A2*o           ------------------------------------------------------------    1680
+Rano-A2*q           ------------------------------------------------------------    1680
+
+Rano-A2*b           ------------------------------ATCCCCCAGAGGCACATGTGACCCTTCACC    1740
+Rano-A2*c           ------------------------------ATCCCCCAGAGGCACATGTGACCCTTCACC    1740
+Rano-A2*f           ------------------------------ATCCCCCAGAGGCACATGTGACCCTTCACC    1740
+Rano-A2*h           ------------------------------ATCCCCCAGAGGCACATGTGACCCTTCACC    1740
+Rano-A2*n           ACTGTGTGATTTCTTAAATCTTCCACACAGATCCCCCAGAGGCACATGTGACCCTTCACC    1740
+Rano-A2*o           ------------------------------ATCCCCCAGAGGCACATGTGACCCTTCACC    1740
+Rano-A2*q           ------------------------------ATCCCCCAGAGGCACATGTGACCCTTCACC    1740
+
+Rano-A2*b           CCAGACCTGAAGGTGGTGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCTGACA    1800
+Rano-A2*c           CCAGACCTGAAGGTGATGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCTGACA    1800
+Rano-A2*f           CCAGACCTGAAGGTGATGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCTGACA    1800
+Rano-A2*h           CCAGACCTGAAGGTGATGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCTGACA    1800
+Rano-A2*n           CCAGACCTGAAGGTGATGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCTGACA    1800
+Rano-A2*o           CCAGACCTGAAGGTGATGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCTGACA    1800
+Rano-A2*q           CCAGACCTGAAGGTGATGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCTGACA    1800
+
+Rano-A2*b           TCACCCTGACCTGGCAGTTGAATGGGGAGGACCTGACCCAGGACATGGAGCTTGTGGAGA    1860
+Rano-A2*c           TCACCCTGACCTGGCAGTTGAATGGGGAGGACCTGACCCAGGACATGGAGCTTGTGGAGA    1860
+Rano-A2*f           TCACCCTGACCTGGCAGTTGAATGGGGAGGACCTGACCCAGGACATGGAGCTTGTGGAGA    1860
+Rano-A2*h           TCACCCTGACCTGGCAGTTGAATGGGGAGGACCTGACCCAGGACATGGAGCTTGTGGAGA    1860
+Rano-A2*n           TCACCCTGACCTGGCAGTTGAATGGGGAGGACCTGACCCAGGACATGGAGCTTGTGGAGA    1860
+Rano-A2*o           TCACCCTGACCTGGCAGTTGAATGGGGAGGACCTGACCCAGGACATGGAGCTTGTGGAGA    1860
+Rano-A2*q           TCACCCTGACCTGGCAGTTGAATGGGGAGGACCTGACCCAGGACATGGAGCTTGTGGAGA    1860
+
+Rano-A2*b           CCAGGCCTGCAGGGGATGGAACCTTCCAGAAGTGGGCATCTGTGGTGGTGCCTCTTGGGA    1920
+Rano-A2*c           CCAGGCCTGCAGGGGATGGAACCTTCCAGAAGTGGGCATCTGTGGTGGTGCCTCTTGGGA    1920
+Rano-A2*f           CCAGGCCTGCAGGGGATGGAACCTTCCAGAAGTGGGCATCTGTGGTGGTGCCTCTTGGGA    1920
+Rano-A2*h           CCAGGCCTGCAGGGGATGGAACCTTCCAGAAGTGGGCATCTGTGGTGGTGCCTCTTGGGA    1920
+Rano-A2*n           CCAGGCCTGCAGGGGATGGAACCTTTCAGAAGTGGGCATCTGTGGTGGTGCCTCTTGGGA    1920
+Rano-A2*o           CCAGGCCTGCAGGGGATGGAACCTTCCAGAAGTGGGCATCTGTGGTGGTGCCTCTTGGGA    1920
+Rano-A2*q           CCAGGCCTGCAGGGGATGGAACCTTCCAGAAGTGGGCATCTGTGGTGGTGCCTCTTGGGA    1920
+
+Rano-A2*b           AGGAGCAGAATTACACATGCCGTGTGGAGCATGAGGGGCTGCCTGAGCCACTTTCCCAGA    1980
+Rano-A2*c           AGGAGCAGAATTACACATGCCGTGTGGAGCATGAGGGGCTGCCTGAGCCACTTTCCCAGA    1980
+Rano-A2*f           AGGAGCAGAATTACACATGCCGTGTGGAGCATGAGGGGCTGCCTGAGCCACTTTCCCAGA    1980
+Rano-A2*h           AGGAGCAGAATTACACATGCCGTGTGGAGCATGAGGGGCTGCCTGAGCCACTTTCCCAGA    1980
+Rano-A2*n           AGGAGCAGAATTACACATGCCGTGTGGAGCATGAGGGGCTGCCTGAGCCACTTTCCCAGA    1980
+Rano-A2*o           AGGAGCAGAATTACACATGCCGTGTGGAGCATGAGGGGCTGCCTGAGCCACTTTCCCAGA    1980
+Rano-A2*q           AGGAGCAGAATTACACATGCCGTGTGGAGCATGAGGGGCTGCCTGAGCCACTTTCCCAAA    1980
+
+Rano-A2*b           GATGGG------------------------------------------------------    2040
+Rano-A2*c           GATGGG------------------------------------------------------    2040
+Rano-A2*f           GATGGG------------------------------------------------------    2040
+Rano-A2*h           GATGGG------------------------------------------------------    2040
+Rano-A2*n           GATGGGGTAAGGAGGGAGCCTTCTGTAGACCCTGAGCTGGTCAGGGCTGAGAGCTGGGGT    2040
+Rano-A2*o           GATGGG------------------------------------------------------    2040
+Rano-A2*q           GATGGG------------------------------------------------------    2040
+
+Rano-A2*b           ----------------------------------------AGCCTTCTCCATCGACCAAC    2100
+Rano-A2*c           ----------------------------------------AGCCTTCTCCATCGACCAAC    2100
+Rano-A2*f           ----------------------------------------AGCCTTCTCCATCGACCAAC    2100
+Rano-A2*h           ----------------------------------------AGCCTTCTCCATCGACCAAC    2100
+Rano-A2*n           CATGACCCCCACCTTCATTTCTTGAACCTGTCCTTCCCAGAGCCTTCTCCATCGACCAAC    2100
+Rano-A2*o           ----------------------------------------AGCCTTCTCCATCGACCAAC    2100
+Rano-A2*q           ----------------------------------------AGCCTTCTCCATCGACTAAC    2100
+
+Rano-A2*b           TCCAACATGGAAACCACTGTCATTTATGTCGTCCTTGGAGCCATCATTGGAACTCTGGCC    2160
+Rano-A2*c           TCCAACATGGAAACCACTGTCATTTATGTCGTCCTTGGAGCCATCATTGGAACTCTGGCC    2160
+Rano-A2*f           TCCAACATGGAAACCACTGTCATTTATGTCGTCCTTGGAGCCATCATTGGAACTCTGGCC    2160
+Rano-A2*h           TCCAACATGGAAACCACTGTCATTTATGTCGTCCTTGGAGCCATCATTGGAACTCTGGCC    2160
+Rano-A2*n           TCCAACATGGAAACCACTGTCATTTATGTCGTCCTTGGAGCCATCATTGGAACTCTGGCC    2160
+Rano-A2*o           TCCAACATGGAAACCACTGTCATTTATGTCGTCCTTGGAGCCATCATTGGAACTCTGGCC    2160
+Rano-A2*q           TCCAACATGGAAACCACTGTCATTTATGTCGTCCTTGGAGCCATCATTGGAACTCTGGCC    2160
+
+Rano-A2*b           ATCATTGGAATTGTGGTGGCTGTTGTGAGGAGGAGGAGGAGAAACACAG-----------    2220
+Rano-A2*c           ATCATTGGAATTGTGGTGGCTGTTGTGAGGAGGAGGAGGAGAAACACAG-----------    2220
+Rano-A2*f           ATCATTGGAATTGTGGTGGCTGTTGTGAGGAGGAGGAGGAGAAACACAG-----------    2220
+Rano-A2*h           ATCATTGGAATTGTGGTGGCTGTTGTGAGGAAGAGGAGGAGAAACACAG-----------    2220
+Rano-A2*n           ATCATTGGAATTGTAGTGGCTGTTGTGAGGAAGAGGAGGAGAAACACAGGTAGGAAAGGG    2220
+Rano-A2*o           ATCATTGGAATTGTGGTGGCTGTTGTGAGGAGGAGGAGGAGAAACACAG-----------    2220
+Rano-A2*q           ATCATTGGAATTGTGGTGGCTGTTGTGAGGAAGAGGAGGAGAAACACAG-----------    2220
+
+Rano-A2*b           ------------------------------------------------------------    2280
+Rano-A2*c           ------------------------------------------------------------    2280
+Rano-A2*f           ------------------------------------------------------------    2280
+Rano-A2*h           ------------------------------------------------------------    2280
+Rano-A2*n           CAGGGTCTGTTTCCCCTCAGCTCCCTTTAGAAGAGCGCTCTGCTCATTAATGGGAAGCAC    2280
+Rano-A2*o           ------------------------------------------------------------    2280
+Rano-A2*q           ------------------------------------------------------------    2280
+
+Rano-A2*b           ------------------------------------------------------------    2340
+Rano-A2*c           ------------------------------------------------------------    2340
+Rano-A2*f           ------------------------------------------------------------    2340
+Rano-A2*h           ------------------------------------------------------------    2340
+Rano-A2*n           AGCCACACCCCTCATTGCTGCTGTCTCCAACTGGGTCCTCTGTCAGTTCTGGAGACTTCC    2340
+Rano-A2*o           ------------------------------------------------------------    2340
+Rano-A2*q           ------------------------------------------------------------    2340
+
+Rano-A2*b           ------------------------------------------------------------    2400
+Rano-A2*c           ------------------------------------------------------------    2400
+Rano-A2*f           ------------------------------------------------------------    2400
+Rano-A2*h           ------------------------------------------------------------    2400
+Rano-A2*n           TCTGTCAAAATCTTCCTTGAACTCTCACAGCTTTTCTTCTCACAGGTGGGAAAGGTGACT    2400
+Rano-A2*o           ------------------------------------------------------------    2400
+Rano-A2*q           ------------------------------------------------------------    2400
+
+Rano-A2*b           ------------------------------------------------------------    2460
+Rano-A2*c           ------------------------------------------------------------    2460
+Rano-A2*f           ------------------------------------------------------------    2460
+Rano-A2*h           ------------------------------------------------------------    2460
+Rano-A2*n           ACACCCCTGCTCCAGGTTAGTGTGGGGGCAGGAGTGTCCCTGAGGGTATTGGAGTGAAGC    2460
+Rano-A2*o           ------------------------------------------------------------    2460
+Rano-A2*q           ------------------------------------------------------------    2460
+
+Rano-A2*b           ------------------------------------------------------------    2520
+Rano-A2*c           ------------------------------------------------------------    2520
+Rano-A2*f           ------------------------------------------------------------    2520
+Rano-A2*h           ------------------------------------------------------------    2520
+Rano-A2*n           TGGAGATGTTGGGAGGTCAGGGAATCCATAGTAGCTCCTCCAGAGAAATCCTCTGGGGGC    2520
+Rano-A2*o           ------------------------------------------------------------    2520
+Rano-A2*q           ------------------------------------------------------------    2520
+
+Rano-A2*b           -----------------------------------------------------------G    2580
+Rano-A2*c           -----------------------------------------------------------G    2580
+Rano-A2*f           -----------------------------------------------------------G    2580
+Rano-A2*h           -----------------------------------------------------------G    2580
+Rano-A2*n           TGCAGTTGTACCGTGCGTGATATGAATACATACATACGCATATACATATACACATACACG    2580
+Rano-A2*o           -----------------------------------------------------------G    2580
+Rano-A2*q           -----------------------------------------------------------G    2580
+
+Rano-A2*b           TGGGAAAGGAGGAAAC-TATGC----CCCTGCTCCAGGCAGGGACAGCTCCCAGAGCTCT    2640
+Rano-A2*c           TGGGAAAGGAGTCTACAC--------CCCTGCTCCAGGCAGGGACAGCTCCCAGAGCTCT    2640
+Rano-A2*f           TGGGAAAGGAG---AC-TACAC----CCCTGCTCCAGGCAGGGACAGCTCCCAGAGCTCT    2640
+Rano-A2*h           TGGAAAAGGAGGAGTC-TACAC----CCCTGCTCCAGGCAGGGACAGCTCCCAGAGCTCT    2640
+Rano-A2*n           TGGGATACACATATACATATGTTTTGTTTTACTCTAGGCAGGGACAGCTCCCAGAGCTCT    2640
+Rano-A2*o           TGGGAAAGGAGGAAAC-TATGC----CCCTGCTCCAGGCAGGGACAGCTCCCAGAGCTCT    2640
+Rano-A2*q           TGGAAAAGGAGGAGTC-TACAC----CCCTGCTCCAGGCAGGGACAGCTCCCAGAGCTCT    2640
+
+Rano-A2*b           GATGTGTCTCTCCCAGATTGTAAAGCATGA    2670
+Rano-A2*c           GATGTGTCTCTCCCAGATTGTAAAGCATGA    2670
+Rano-A2*f           GATGTGTCTCTCCCAGATTGTAAAGCATGA    2670
+Rano-A2*h           GATGTGTCTCTCCCAGATTGTAAAGCATGA    2670
+Rano-A2*n           GATGTGTCTCTCCCAGATTGTAAAGCGTGA    2670
+Rano-A2*o           GATGTGTCTCTCCCAGATTGTAAAGCATGA    2670
+Rano-A2*q           GATGTGTCTCTCCCAGATTGTAAAGCATGA    2670
+
