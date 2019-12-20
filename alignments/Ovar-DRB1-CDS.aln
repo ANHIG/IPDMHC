@@ -135,7 +135,7 @@ Ovar-DRB1*03:09     -----------------------------------------ACATTTCTTGGAGTATACT
 Ovar-DRB1*03:10     -----------------------------------------ACATTTCTTGGAGTATCAT     120
 Ovar-DRB1*03:11     -----------------------------------------ACATTTCTTGGAGTATACT     120
 Ovar-DRB1*03:12     -----------------------------------------ACATTTCTTGGAGTATCAT     120
-Ovar-DRB1*03:13     ------------------------------------------CATTTCTTGGAGTATACT     120
+Ovar-DRB1*03:13     ----------------------------------------CA--TTTCTTGGAGTATACT     120
 Ovar-DRB1*04:01     GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCTTGGAGTATCAT     120
 Ovar-DRB1*04:02     -----------------------------------------ACATTTCTTGGAGTATCAT     120
 Ovar-DRB1*04:03     -----------------------------------------ACATTTCTTGGAGTATCAT     120
@@ -201,7 +201,7 @@ Ovar-DRB1*16:05     -----------------------------------------ACATTTCTTGGAGTATCAT
 Ovar-DRB1*16:06     -----------------------------------------ACATTTCTTGGAGTATCGT     120
 Ovar-DRB1*16:07     -----------------------------------------ACATTTCTTGGAGTATCGT     120
 Ovar-DRB1*16:08     -----------------------------------------ACATTTCTTGGAGTATTCT     120
-Ovar-DRB1*16:09     ------------------------------------------CATTTCTTGGAGTATTCT     120
+Ovar-DRB1*16:09     ----------------------------------------CA--TTTCTTGGAGTATTCT     120
 Ovar-DRB1*16:10     -----------------------------------------ACATTTCTTGGAGTATACT     120
 Ovar-DRB1*16:11     ----------------------------------------CACATTTCTTGGAGTATTCT     120
 Ovar-DRB1*17:01     -----------------------------------------ACATTTCTTGGAGTATGCT     120
@@ -218,7 +218,7 @@ Ovar-DRB1*19:04     ----------------------------------------CACATTTCTTGGAGTATGCT
 Ovar-DRB1*20:01     GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCTTGGAGTATGCT     120
 Ovar-DRB1*20:02     GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCTTGGAGTATGCT     120
 Ovar-DRB1*20:03     -----------------------------------------ACATTTCTTGGAGTATGCT     120
-Ovar-DRB1*20:04     ------------------------------------------CATTTCTTGGAGTATGAT     120
+Ovar-DRB1*20:04     ----------------------------------------CA--TTTCTTGGAGTATGAT     120
 Ovar-DRB1*21:01     GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCCTGGAGTATTCT     120
 Ovar-DRB1*22:01     -----------------------------------------ACATTTCTTGGAGTATCGT     120
 Ovar-DRB1*22:02     -----------------------------------------ACATTTCTTGGAGTATCAT     120

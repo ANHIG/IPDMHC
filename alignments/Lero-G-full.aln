@@ -113,10 +113,10 @@ Lero-G*03:01        ---------------------------------------------------AGCCGCCGT
 Lero-G*03:02        ---------------------------------------------------AGCCGCCGT    2280
 
 Lero-G*03:01        CTTCCCAGCTCACCATCCTCATCGTGGGCATCGTTGCTGGTGTGGCTATCCT--------    2340
-Lero-G*03:02        CTTCCCAGCCCACCATCCTCATCGTGGGCATCGTTGCTGGCGTGGCTATCCT--------    2340
+Lero-G*03:02        CTTCCCAGCCCACCATCCTCATCGTGGGCATCGTTGCTGGCGTGGCTATCCTTGGAGTTG    2340
 
 Lero-G*03:01        -------TGGAGTTGTGGTCGCTGCTGTGGTGTGGAAGAAGAAGAGCTCAG---------    2400
-Lero-G*03:02        -------TGGAGTTGTGGTCACTGCTGTGGTGTGGAAGAAGAAGAGCTCAG---------    2400
+Lero-G*03:02        TGGTCAC---------------TGCTGTGGTGTGGAAGAAGAAGAGCTCAG---------    2400
 
 Lero-G*03:01        ------------------------------------------------------------    2460
 Lero-G*03:02        ------------------------------------------------------------    2460

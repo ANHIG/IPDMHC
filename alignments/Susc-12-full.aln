@@ -34,7 +34,7 @@ SLA-12*05:01        ------------------------------------------------------------
 SLA-12*06:01        ------------------------------------------------------------     300
 
 SLA-12*02:01        CGAGCTCCCTGCCCGGTCCCGGCCCCACCACCTCGCACCCGGGACCCCGCGCCGAGAGGA     360
-SLA-12*01:01        CGAGCTCCCTGCCCGGTCCCGGCCCCACCACCTCGCACCCGGGA-CCCGCGCCGAGAGGA     360
+SLA-12*01:01        CGAGCTCCCTGCCCGGTCCCGGCCCCACCACCTCGCACCCGGGACCC-GCGCCGAGAGGA     360
 SLA-12*03:01        TGAGCTCCCTGCCTGGTCCCGGCCCCACCACCTCGCACCCGGGACCCCGCGCCGAGAGGA     360
 SLA-12*04:01        ------------------------------------------------------------     360
 SLA-12*05:01        ------------------------------------------------------------     360
@@ -307,7 +307,7 @@ SLA-12*05:01        ------------------------------------------------------------
 SLA-12*06:01        ------------------------------------------------------------    2640
 
 SLA-12*02:01        GGGTTTCCTCTAAGATCGCATGGCTCAGATTTCTTCTTGGCCTCTCACATAAATGTTATC    2700
-SLA-12*01:01        GGGTTTCCTCTAGGATCTCATGACCCAT-CATCTCCCTGGCCTCTCACAT-GATGTCTTC    2700
+SLA-12*01:01        GGGTTTCCTCTAGGATCTCATGACCCATCAT-CTCCCTGGCCTCTCACATGA-TGTCTTC    2700
 SLA-12*03:01        GGGTTTCCTCTAAGATCGCATGGCTCAGATTTCTTCTTGGCCTCTCACATAAATGTTATC    2700
 SLA-12*04:01        ------------------------------------------------------------    2700
 SLA-12*05:01        ------------------------------------------------------------    2700

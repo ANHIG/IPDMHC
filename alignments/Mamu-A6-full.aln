@@ -136,8 +136,8 @@ Mamu-A6*01:08       ------------------------------------------------------------
 Mamu-A6*01:01       ------------------------------------------------------------     960
 Mamu-A6*01:02       ------------------------------------------------------------     960
 Mamu-A6*01:03       ------------------------------------------------------------     960
-Mamu-A6*01:04:01:01 GGAGAGCCCCCGGCGCCTTTACCGGGTGTCCTTTTTACTTTGGGCC-AAAATCCCCGCGG     960
-Mamu-A6*01:05:01:01 GGAGAGCCCCCGGCGCCTTTACCGGGTGTCCTTTTTACTTTGGGCC-AAAATCCCCGCGG     960
+Mamu-A6*01:04:01:01 GGAGAGCCCCCGGCGCCTTTACCGGGTGTCCTTTTTACTTTGGGCCAAAA-TCCCCGCGG     960
+Mamu-A6*01:05:01:01 GGAGAGCCCCCGGCGCCTTTACCGGGTGTCCTTTTTACTTTGGGCCAAAA-TCCCCGCGG     960
 Mamu-A6*01:06       ------------------------------------------------------------     960
 Mamu-A6*01:07       ------------------------------------------------------------     960
 Mamu-A6*01:08       ------------------------------------------------------------     960
@@ -217,8 +217,8 @@ Mamu-A6*01:08       ------------------------------------------------------------
 Mamu-A6*01:01       ------------------------------------------------------------    1500
 Mamu-A6*01:02       ------------------------------------------------------------    1500
 Mamu-A6*01:03       ------------------------------------------------------------    1500
-Mamu-A6*01:04:01:01 CTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTCTCTGACACAATTAA-GGATAAAA    1500
-Mamu-A6*01:05:01:01 CTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTCTCTGACACAATTAA-CGATAAAA    1500
+Mamu-A6*01:04:01:01 CTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTCTCTGACACAATTAAGG-ATAAAA    1500
+Mamu-A6*01:05:01:01 CTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTCTCTGACACAATTAACG-ATAAAA    1500
 Mamu-A6*01:06       ------------------------------------------------------------    1500
 Mamu-A6*01:07       ------------------------------------------------------------    1500
 Mamu-A6*01:08       ------------------------------------------------------------    1500
