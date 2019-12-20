@@ -40,8 +40,8 @@ Cahi-DRB1*07:01:01  TNGEETLRFDSDWGEFRAVTELGRPDAEYWNSQKEILESRRTAVDTYCRYNYGVVESFT-
 Cahi-DRB1*08:01:01  YNGEEYVRFDNDWGEFRAVAELGRPSAKYWNSQKELLERRRTEVDTFCRHNYGVFESFA-     120
 Cahi-DRB1*08:02:01  YNGEEYVRFDNDWGEFRAVAELGRQTAKYWNSQKELLERRRTEVDTFCRHNYGVFESFA-     120
 Cahi-DRB1*08:03:01  YNGEEYVRFDNDWGEFRAVAELGRPDAKYWNSQKELLERRRTEVDTFCRHNYGVFESFA-     120
-Cahi-DRB1*09:01:01  YNGEEYVRFDNDWGEFRAVAELGRPDAKYWNSQKDFLEQKRAEVDTFCRHNY--------     120
-Cahi-DRB1*09:02:01  YNGEEYVRFDNDWGEFRAVAELGRPDAKYWNSQKEILEQKRAEVDTFCRHNY--------     120
+Cahi-DRB1*09:01:01  YNGEEYVRFDNDWGEFRAVAELGRPDAKYWNSQKDFLEQKRAEVDTFCRHNYQGIESFA-     120
+Cahi-DRB1*09:02:01  YNGEEYVRFDNDWGEFRAVAELGRPDAKYWNSQKEILEQKRAEVDTFCRHNYQGIESFA-     120
 Cahi-DRB1*10:01:01  YNGEEYVRFDNDWGEFRAVAELGRPSAKYWNSQKDFLEDRRASVDKYCRYNYGVIESFA-     120
 Cahi-DRB1*10:02:01  HNGEEYVRFDNDWGEFRAVAELGRPDAKYWNSQKDFLEDRRASVDKYCRYNYGVGESFT-     120
 Cahi-DRB1*10:03:01  YNGEEYVRFDNDWGEFRAVAELGRPSAKYWNSQKDFLEDRRASVDKYCRYNYGVGESFT-     120
@@ -98,8 +98,8 @@ Cahi-DRB1*07:01:01  ------------------------------------------------------------
 Cahi-DRB1*08:01:01  ------------------------------------------------------------     240
 Cahi-DRB1*08:02:01  ------------------------------------------------------------     240
 Cahi-DRB1*08:03:01  ------------------------------------------------------------     240
-Cahi-DRB1*09:01:01  -------------------------------------------------QGIESFA----     240
-Cahi-DRB1*09:02:01  -------------------------------------------------QGIESFA----     240
+Cahi-DRB1*09:01:01  ------------------------------------------------------------     240
+Cahi-DRB1*09:02:01  ------------------------------------------------------------     240
 Cahi-DRB1*10:01:01  ------------------------------------------------------------     240
 Cahi-DRB1*10:02:01  ------------------------------------------------------------     240
 Cahi-DRB1*10:03:01  ------------------------------------------------------------     240

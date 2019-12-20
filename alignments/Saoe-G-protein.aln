@@ -11,9 +11,9 @@ Saoe-G*03:10        -----------LLLLLSGALVLTETWAGSHSMRYFSTAM---SRPGRGEPRYIEVGYVDD
 Saoe-G*03:11        ------------LLLLSGALALTDTWAGSHSMRYFETSV---SRPGRGEPRYIEVGYVDD      60
 Saoe-G*03:12Ps      ----------------------------SHSMKYFNTAK---SRPGCGKPRYFEVGYVDD      60
 Saoe-G*03:13Ps      ----------------------------SQTMRYLSTPLHLCGLHGRHADRAV-------      60
-Saoe-G*03:14Ps      FPLLQVFLHRRF--------------------------------PGR-------------      60
+Saoe-G*03:14Ps      ------------------------------------------------------------      60
 Saoe-G*03:16Ps      ----------------------------SHSLRYFQTAV---SRPGLEEPHFFAVGYVED      60
-Saoe-G*03:17Ps      LPLHEVFQHHRVPAWPRGAPLHLSGLRGRHAVR--------------------------A      60
+Saoe-G*03:17Ps      -----------LPLHEVFQHHRVPAWPRGAPLHLS-------GLRGRHAVRAV-------      60
 Saoe-G*03:18Ps      ----------------------------SHSLKYFNTAK---SRPGCGKPRYFEVGYVDD      60
 Saoe-G*03:19Ps      ----------------------------SHSLKYFNTAK---SRPGCGKPRYFEVGYVDD      60
 Saoe-G*03:20Ps      ----------------------------SHSKRYFNTAK---SRPGCGEPRYFEVGYVDD      60
@@ -31,9 +31,9 @@ Saoe-G*03:10        TQFVRFDSDAASPRMEPRAPWVEKEGREYWEEETQRAKAFAQTDRVNLQTALGYYNQSEA
 Saoe-G*03:11        TQFVRFDSDAASPRMEPRAPWMEQEGPDYWEKETRRAKAAAQTFRVNLQTLLGYYNQSEA     120
 Saoe-G*03:12Ps      TQFVRFDSDAASPRMEPRAPWVEQEGRSTGPKRSRKPR----------------------     120
 Saoe-G*03:13Ps      -QQRRLESEDRA-----RAPWMEKEGPECWDLGTRIFKDTAQSFRVNLQTLRCYYNQSEA     120
-Saoe-G*03:14Ps      --------ERGVP--------------------------------LHLCGLR--------     120
+Saoe-G*03:14Ps      ------------------------------------------------------------     120
 Saoe-G*03:16Ps      MQFERFDSDAAIPRGEPRTPWMEQEGPEYWDLQTRTLKARA---------------QREA     120
-Saoe-G*03:17Ps      VRQRRRDSEDGAAGAVGGAGGAGVLGPA--DTESQGRRTEFPSEPADPAQL---LQPERG     120
+Saoe-G*03:17Ps      -RQRRRDSEDGAAGAVGGAGGAGVLGPADTESQGRRTEFPSEPADPAQ--LLQPERG---     120
 Saoe-G*03:18Ps      TQFVRFDSDAASPRMEPRAPWVEQEGRSTGTERSRKPR----------------------     120
 Saoe-G*03:19Ps      TQFVRFDSDAASPRMEPRAPWVEQEGRSTGTRRSRKPR----------------------     120
 Saoe-G*03:20Ps      AQFARFDSDAARPRMEPRAPWVEQEGPEYWDREEKKAKVDARNFRMNRRTLRGKYNX---     120
@@ -50,8 +50,8 @@ Saoe-G*03:09        GSHTIQWMSGCDLGPDGRLLRGYEQHAYDCKDYIALNEDLRSWTAADVAAQITQRKWEAA
 Saoe-G*03:10        GSHTIQWMYGCDLGPDGRFLRGYEQLAYDCKDYIALNEDLRSWTAADVAAQITQRKWEAA     180
 Saoe-G*03:11        GSHTIQWMYGCDLGPDGRLLRGYEQHAYDCKDYIALNEDLRSWTAADVAAQITQRKWEAA     180
 Saoe-G*03:12Ps      STH------GISEGTGG--------------------------------------PCAAT     180
-Saoe-G*03:13Ps      SPT-----------PSGRCIA-------------------RTW---------GRKGSFST     180
-Saoe-G*03:14Ps      RRHAVR------------------------------------------AVRQRRRESEDG     180
+Saoe-G*03:13Ps      SPT-----------PSGRCIA-------------------RTWGRKGSFSTDITSS----     180
+Saoe-G*03:14Ps      -----------FPLLQVFLHRRFPGRERG----VPLHLCGLRRRHAVRAVRQRRRESEDG     180
 Saoe-G*03:16Ps      RSHTYQRMYGCDLGPDGRLFRRYDKRAYDFKDYLALNEVLRSWTAAETASQVTQRKFEVT     180
 Saoe-G*03:17Ps      RSHTIQMMYGCDLGPDGRLLRGYNQHAYDCKEYIALNEDLRSWTAADVAAQITQRKWEAA     180
 Saoe-G*03:18Ps      STHGI---------SEG-----------------------------------TGRPCAAT     180
@@ -69,9 +69,9 @@ Saoe-G*03:08        NAAEGMRAYLEGTCVEWLRRHLENGKEMLQRAEPPKTHV-THHPVSDHEATLRCWALGFY
 Saoe-G*03:09        NVAERTRAYLEGMCVEWLLRYLENGKETLQRAEPPKTHV-THHPVSDHEATLRCWALGFY     240
 Saoe-G*03:10        NAAEEWRAYLEGTCVEWLHRYLENGKETLQRAEPPKTHV-THHPISDHEATLRCWALGFY     240
 Saoe-G*03:11        NAAERTRAYLEGTCVEWLHRYLENGKETLQRAEPPKTHV-THHPVSDHEATLRCWALGFY     240
-Saoe-G*03:12Ps      TTRAGR-----------------------------------------FQETYGC-SLGFD     240
-Saoe-G*03:13Ps      DITSS---------------------PMTARIKSPRTRTCAPGP----SRTLRL------     240
-Saoe-G*03:14Ps      DAGA-----VDGA----------RGAGVLGPGDPDSQGLRTEFPSESVEPA--------R     240
+Saoe-G*03:12Ps      TTRAGR-----------------------------------------FQETYGCS-LGFD     240
+Saoe-G*03:13Ps      --------------------------PMTARIKSPRT--RTCAPGPSRTLRLRS------     240
+Saoe-G*03:14Ps      DAGAVDGA---------------RGAGVLGPGDPDSQGLRTEFPSESVEPA--------R     240
 Saoe-G*03:16Ps      HEADKMKAYPEGTCVESLPRX---------------------------------------     240
 Saoe-G*03:17Ps      NVAEGRRAYLEGDCLEWLRRYLENGNETLQR-----------------------------     240
 Saoe-G*03:18Ps      TT----------------------------------------------------------     240
@@ -90,7 +90,7 @@ Saoe-G*03:09        PAEITLTWQRDGEDQTQDMELVETRPAGDGTFQKWAAVVVLSGEEHRYTCHVQHEGLPEP
 Saoe-G*03:10        PAEITLTWQRDGEDQTQDMELVETRPAGDGTFQKWAAVVVLSGEEHRYTCHVQHEGLPEP     300
 Saoe-G*03:11        PAEITLTWQWDGEDQTQDMELVETRPAGDGTFQKWAAVVVLSGEEHRYTCHVQHEGLPEP     300
 Saoe-G*03:12Ps      X-----------------------------------------------------------     300
-Saoe-G*03:13Ps      -----------------------RSPSASGRX----------------------------     300
+Saoe-G*03:13Ps      -------------------------PSASGRX----------------------------     300
 Saoe-G*03:14Ps      PLQPELGWVSLHPEDTQ------LRP-----------------------------GAPRA     300
 Saoe-G*03:16Ps      ------------------------------------------------------------     300
 Saoe-G*03:17Ps      ------------------------------------------------------------     300
@@ -114,7 +114,7 @@ Saoe-G*03:13Ps      ---------------------------------------------     345
 Saoe-G*03:14Ps      LPPRVX---------------------------------------     345
 Saoe-G*03:16Ps      ---------------------------------------------     345
 Saoe-G*03:17Ps      ---------------------------------------------     345
-Saoe-G*03:18Ps      -------------PLVGL----------------PSVVWLLPGVX     345
+Saoe-G*03:18Ps      -------------PLVGLPSVVWLLPGVX----------------     345
 Saoe-G*03:19Ps      LWL------LPGVX-------------------------------     345
 Saoe-G*03:20Ps      ---------------------------------------------     345
 

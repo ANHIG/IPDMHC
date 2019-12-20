@@ -379,8 +379,8 @@ BoLA-DQA*024:01     AGACGCTC--CAACTTTACCCCTGCCATCAAC----------------------------
 BoLA-DQA*025:01:01  CAAAGCTCTACAACTTTACCCCTGTTATCAAT----------------------------     360
 BoLA-DQA*025:01:02  CAAAACTCTACAACTTTACCCCTGTTATCAAT----------------------------     360
 BoLA-DQA*025:02     CAAAACTCTACAACTTTACCCCTGTTATCAAT----------------------------     360
-BoLA-DQA*026:01     AAACG--CTACAACTTTAC-----------------------------------------     360
-BoLA-DQA*026:02     AAACG--CTACAACTTTAC-----------------------------------------     360
+BoLA-DQA*026:01     AAACGCTA--CAACTTTAC-----------------------------------------     360
+BoLA-DQA*026:02     AAACGCTA--CAACTTTAC-----------------------------------------     360
 BoLA-DQA*026:03     CAAAACTCTACAACTTTACCCCTGTTATCAAT----------------------------     360
 BoLA-DQA*027:01:01  AAACGCTC--CAACTTTACCCCTGTTATCAAT----------------------------     360
 BoLA-DQA*027:01:02  AAACGCTC--CAACTTTAC-----------------------------------------     360
@@ -389,8 +389,8 @@ BoLA-DQA*027:03     AAACGCTC--CAACTTTACC----------------------------------------
 BoLA-DQA*027:04     AAACGCTC--CAACTTTACCCCTGTTATCAA-----------------------------     360
 BoLA-DQA*028:01     --AAATTCTCCAACTCTACTGCTG------------------------------------     360
 BoLA-DQA*029:01     AAACGCTC--CAACTTTACC----------------------------------------     360
-BoLA-DQA*030:01     AAACGCTCT--AACTTTACC----------------------------------------     360
-BoLA-DQA*031:01     AAATACTC--CAACTTTATCCCTGCCATTAAC----------------------------     360
+BoLA-DQA*030:01     AAACGCTC--TAACTTTACC----------------------------------------     360
+BoLA-DQA*031:01     --AAATACTCCAACTTTATCCCTGCCATTAAC----------------------------     360
 BoLA-DQA*032:01     CAAAGGTC--CACCTCTACTGCTGCTACCAACA---------------------------     360
 BoLA-DQA*033:01     CAAAGGTC--CAACTCTTCTGCTGCTACCAACA---------------------------     360
 

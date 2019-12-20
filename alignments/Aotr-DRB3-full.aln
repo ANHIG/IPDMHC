@@ -401,7 +401,7 @@ Aotr-DRB3*06:01     GAACAGCCAGAAGGACTACGTGGAGCAGAAGCGGGGCCGGGTGGACACCTACTGCAGACA
 Aotr-DRB3*06:02     GAACAGCCAGAAGGAATACGTGGAGCAGAAGCGGGGCCAGGTGGACAACTACTGCAGACA    8040
 
 Aotr-DRB3*06:01     CAACTACGGGGTTGTTGAGAGCTTCACAGTGCAGCGGAGAG-------------------    8100
-Aotr-DRB3*06:02     CAACTAC-GGGTTTTTGAGAGCTTCACA--------------------------------    8100
+Aotr-DRB3*06:02     CAACTACGGG-TTTTTGAGAGCTTCACA--------------------------------    8100
 
 Aotr-DRB3*06:01     ------------------------------------------------------------    8160
 Aotr-DRB3*06:02     ------------------------------------------------------------    8160

@@ -1,5 +1,5 @@
-Mafu-DRB*W001:01    LEYC-------------------------------------KFECHFFNGTERVLNLIRY      60
-Mafu-DRB*W001:02    LEYC-------------------------------------KFECHFFNGTERVQYLIRY      60
+Mafu-DRB*W001:01    -------------------------------------LEYCKFECHFFNGTERVLNLIRY      60
+Mafu-DRB*W001:02    -------------------------------------LEYCKFECHFFNGTERVQYLIRY      60
 Mafu-DRB*W003:01    -------------------------------------LEQAKRECHFFNGTERVRFLDRY      60
 Mafu-DRB*W003:02    -------------------------------------LEQAKRECHFFNGTERVRFLDRY      60
 Mafu-DRB*W003:03    -------------------------------------LEQAKSECHFFNGTERVRFLDRY      60
@@ -12,9 +12,9 @@ Mafu-DRB*W025:01    -------------------------------------LEQVKYECHFFNGTERVRFLERH
 Mafu-DRB*W025:02    -------------------------------------LEQAKVECHFFNGTERVRFLERH      60
 Mafu-DRB*W025:03    -------------------------------------LEQAKFECHFFNGTERVRFLERH      60
 Mafu-DRB*W031:01    -------------------------------------LWQAKGECHFFNGTERVRYLERY      60
-Mafu-DRB*W060:01    -----------------------------SGQAKS--------ECHFFNGTERVRFLDRY      60
-Mafu-DRB*W060:02    -----------------------------SGQAKS--------ECHFFNGTERVRFLDRY      60
-Mafu-DRB*W060:03    -----------------------------SGQAKS--------ECHFFNGTERVRFLDRY      60
+Mafu-DRB*W060:01    -------------------------------------SGQAKSECHFFNGTERVRFLDRY      60
+Mafu-DRB*W060:02    -------------------------------------SGQAKSECHFFNGTERVRFLDRY      60
+Mafu-DRB*W060:03    -------------------------------------SGQAKSECHFFNGTERVRFLDRY      60
 Mafu-DRB*W061:01    -------------------------------------LGQAKSECHFFNGTERVRYLDRY      60
 Mafu-DRB*W061:02    -------------------------------------LGQAKSECHFFNGTERVRYLDRY      60
 Mafu-DRB*W062:01    -------------------------------------LEQVKHECHFFNGTERVRYLDRY      60
@@ -32,7 +32,7 @@ Mafu-DRB*W006:03    FYNQEEYVRFDSDVGEYRAVTELGRRDAEYWNSQKDFLEHTRAAVDTYCRHNYGV-----
 Mafu-DRB*W025:01    FYNQEENLRFDSDVGEFRAVTELGRPDAESWNSQKDFLEDRRASVDTFCRYNYGV-----     120
 Mafu-DRB*W025:02    FYNQEELVRFDSDVGEYRAVTELGRRSAESWNSRKDVLEQARTAADTYCRHNYGA-----     120
 Mafu-DRB*W025:03    FYNQEEFVRFDSDVGEFRAVTELGRPVAESWNSQKDFLEQKRAAVDTYCRHNYGV-----     120
-Mafu-DRB*W031:01    FYNQEEFVRFDSDVGEFRAVTELGRPDAEYWNSQKDLLERRRAVVDT-CRYDY-------     120
+Mafu-DRB*W031:01    FYNQEEFVRFDSDVGEFRAVTELGRPDAEYWNSQKDLLERRRAVVDT-CRYDYWV-----     120
 Mafu-DRB*W060:01    FYNQEEFVRFDSDVGEFRAVSELGRPDAESWNSQKDFLEQRRAEVDTYCRHNYGV-----     120
 Mafu-DRB*W060:02    FYNQEEFVRFDSDVGEFRAVTELGRPIAEYWNGQKDFLEQTRTAVDNYCRHNYRV-----     120
 Mafu-DRB*W060:03    FYNQEEYVRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEQKRAPVDNYCRHNYRV-----     120
@@ -74,7 +74,7 @@ Mafu-DRB*W006:03    ------------------------------------------------------------
 Mafu-DRB*W025:01    ------------------------------------------------------------     240
 Mafu-DRB*W025:02    ------------------------------------------------------------     240
 Mafu-DRB*W025:03    ------------------------------------------------------------     240
-Mafu-DRB*W031:01    --WV--------------------------------------------------------     240
+Mafu-DRB*W031:01    ------------------------------------------------------------     240
 Mafu-DRB*W060:01    ------------------------------------------------------------     240
 Mafu-DRB*W060:02    ------------------------------------------------------------     240
 Mafu-DRB*W060:03    ------------------------------------------------------------     240

@@ -5,12 +5,6 @@
 This directory contains data for the IPD-MHC database. The IPD-MHC database is a specialist sequence database for sequences of the non-human major histocompatibility complex. This directory contains the IPD-MHC flat files and documentation. 
 
 --------------------------------------------------------------------------------
-Downloading and Cloning This Repository 
---------------------------------------------------------------------------------
-
-Due to the increasing file size for the MHC.dat, the repository now requires the use of the Git LFS tools (https://git-lfs.github.com) which handle files over 100MB. Please use these when cloning to ensure the larger files are downloaded correctly. If Git LFS is not used then large files will contain pointers to the Git LFS location rather than the data required. 
-
---------------------------------------------------------------------------------
 File Formats 
 --------------------------------------------------------------------------------
 
@@ -18,6 +12,7 @@ The top-level directory contains the following files;
 
 * LICENCE.md - a file detailing the licensing of data included in the IPD-MHC Database.
 * README.md - This README file
+* MHC.xml - An XML format file containing data from the IPD-MHC Database.
 * MHC.dat - An EMBL-ENA style format file containing data from the IPD-MHC Database, see http://www.ebi.ac.uk/ipd/imgt/hla/docs/manual.html for further details.
 * MHC_gen.fasta - a copy of the file in the fasta directory, includes the DNA sequence for all alleles, which have genomic sequences available. 
 * MHC_nuc.fasta - a copy of the file in the fasta directory, includes the DNA sequence for the CDS sequence of all alleles. 

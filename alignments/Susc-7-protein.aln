@@ -19,10 +19,10 @@ SLA-7*01:01         EGQDQSQDVEVVETRPSGDGTFQKWAALVVPPGEEQSYTCHVQQEGLQESLTLRWDPPQP
 SLA-7*03:01         ------------------------------------------------------------     300
 
 SLA-7*02:01         PVPIVGIIVGLVLVLVTGAVVTGVVIWRKKCSGGKVRKYQQAERSSRSENSGVCSMPFKA     360
-SLA-7*01:01         PVPIVGIIVGLVLVLVAGAVVTGVVIWRKKCSGGKVRKYQQAETA---------------     360
+SLA-7*01:01         PVPIVGIIVGLVLVLVAGAVVTGVVIWRKKCSGGKVRKYQQAETAVARTLVYV-------     360
 SLA-7*03:01         ------------------------------------------------------------     360
 
 SLA-7*02:01         ETLEALRWDSGWGRGDTTGLWGFFKWNNLSMWGAVRRSALM     401
-SLA-7*01:01         ---------------------------------VARTLVYV     401
+SLA-7*01:01         -----------------------------------------     401
 SLA-7*03:01         -----------------------------------------     401
 
