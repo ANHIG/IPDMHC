@@ -1,25 +1,30 @@
-Hyla-DQA1*01:01     ----------------------------------------SYGLSGQYTHEFDGDEEFYV      60
-Hyla-DQA1*22:01     ----------------------------------------SYGPSGQYTHEFDGDEEFYV      60
-Hyla-DQA1*22:02     ----------------------------------------FYGPSGQYTHEFDGDEEFYV      60
-Hyla-DQA1*22:03     ----------------------------------------SYGPSGQYTHEFDGDEEFYV      60
+HLA-DQA1*01:01:01:01  MILNKALLLGALALTTVMSPCGGEDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEEFYV    60
+Hyla-DQA1*01:01       ----------------------------------------SYGLSGQYTHEFDGDEEFYV    60
+Hyla-DQA1*22:01       ----------------------------------------SYGPSGQYTHEFDGDEEFYV    60
+Hyla-DQA1*22:02       ----------------------------------------FYGPSGQYTHEFDGDEEFYV    60
+Hyla-DQA1*22:03       ----------------------------------------SYGPSGQYTHEFDGDEEFYV    60
 
-Hyla-DQA1*01:01     DLERKETAWRWPELSNFGGFDPQGALRNLAVAKYNLDIMIK-------------------     120
-Hyla-DQA1*22:01     DLERKETVWQLPIFSKFRSFDPQGALTNIATIKYNLNIMIK-------------------     120
-Hyla-DQA1*22:02     DLERKETVWQLPIFSKFRSFDPQGALTNIATAKYNLNIVIK-------------------     120
-Hyla-DQA1*22:03     DLERKETVWQLPIFSKFTSFDPQGALTNIATGKYNLNIMIK-------------------     120
+HLA-DQA1*01:01:01:01  DLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSK   120
+Hyla-DQA1*01:01       DLERKETAWRWPELSNFGGFDPQGALRNLAVAKYNLDIMIK-------------------   120
+Hyla-DQA1*22:01       DLERKETVWQLPIFSKFRSFDPQGALTNIATIKYNLNIMIK-------------------   120
+Hyla-DQA1*22:02       DLERKETVWQLPIFSKFRSFDPQGALTNIATAKYNLNIVIK-------------------   120
+Hyla-DQA1*22:03       DLERKETVWQLPIFSKFTSFDPQGALTNIATGKYNLNIMIK-------------------   120
 
-Hyla-DQA1*01:01     ------------------------------------------------------------     180
-Hyla-DQA1*22:01     ------------------------------------------------------------     180
-Hyla-DQA1*22:02     ------------------------------------------------------------     180
-Hyla-DQA1*22:03     ------------------------------------------------------------     180
+HLA-DQA1*01:01:01:01  SPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFL   180
+Hyla-DQA1*01:01       ------------------------------------------------------------   180
+Hyla-DQA1*22:01       ------------------------------------------------------------   180
+Hyla-DQA1*22:02       ------------------------------------------------------------   180
+Hyla-DQA1*22:03       ------------------------------------------------------------   180
 
-Hyla-DQA1*01:01     ------------------------------------------------------------     240
-Hyla-DQA1*22:01     ------------------------------------------------------------     240
-Hyla-DQA1*22:02     ------------------------------------------------------------     240
-Hyla-DQA1*22:03     ------------------------------------------------------------     240
+HLA-DQA1*01:01:01:01  PSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTETVVCALGLSVGLVGIVVGTVFII   240
+Hyla-DQA1*01:01       ------------------------------------------------------------   240
+Hyla-DQA1*22:01       ------------------------------------------------------------   240
+Hyla-DQA1*22:02       ------------------------------------------------------------   240
+Hyla-DQA1*22:03       ------------------------------------------------------------   240
 
-Hyla-DQA1*01:01     ---------------     255
-Hyla-DQA1*22:01     ---------------     255
-Hyla-DQA1*22:02     ---------------     255
-Hyla-DQA1*22:03     ---------------     255
+HLA-DQA1*01:01:01:01  QGLRSVGASRHQGPL   255
+Hyla-DQA1*01:01       ---------------   255
+Hyla-DQA1*22:01       ---------------   255
+Hyla-DQA1*22:02       ---------------   255
+Hyla-DQA1*22:03       ---------------   255
 

@@ -1,30 +1,35 @@
-Patr-DRB4*01:04N    ----------------------------------RFLEQAKHECHFLNGTERVWNLIRYI      60
-Patr-DRB4*01:05     ----------------------------------RFLEQAKHECHFLNGTERVWNLIRYI      60
-Patr-DRB4*01:06     ------------------------------------LEQAKHECHFLNGTERVWNLIRYI      60
-Patr-DRB4*01:07     ------------------------------------LEQAKHECHFLNGTEWVWNLIRYI      60
-Patr-DRB4*02:01     MVCLKLPGGSCMAALTVTLMVLSFPLALAGDTRPRFLEQLKFECHFFNGTQRVRLLERYF      60
+HLA-DRB4*01:01:01:01  MVCLKLPGGSCMAALTVTLTVLSSPLALAGDTQPRFLEQAKCECHFLNGTERVWNLIRYI    60
+Patr-DRB4*01:04N      ----------------------------------RFLEQAKHECHFLNGTERVWNLIRYI    60
+Patr-DRB4*01:05       ----------------------------------RFLEQAKHECHFLNGTERVWNLIRYI    60
+Patr-DRB4*01:06       ------------------------------------LEQAKHECHFLNGTERVWNLIRYI    60
+Patr-DRB4*01:07       ------------------------------------LEQAKHECHFLNGTEWVWNLIRYI    60
+Patr-DRB4*02:01       MVCLKLPGGSCMAALTVTLMVLSFPLALAGDTRPRFLEQLKFECHFFNGTQRVRLLERYF    60
 
-Patr-DRB4*01:04N    YNQEEYARYNSDLGEYQAVTELGRPDAKYWNSQKDLLERTRAEVDTYCRYNYGVVESFTV     120
-Patr-DRB4*01:05     YNQEEYARYNSDLGEYQAVTELGRPDAKYWNSQKDLLERTRAEVDTYCRHNYGAVESFTV     120
-Patr-DRB4*01:06     YNQEEYARYNSDLGEYQAVTELGRPDAKYWNSQKDLLERTRAEVDTYCRHNYGVVES---     120
-Patr-DRB4*01:07     YNQEEYARYNSDLGEYQAVTELGRPDAKYWNSQKDLLERTRAEVDTYCRYNYGVVES---     120
-Patr-DRB4*02:01     YNQEEYARYNSDLGEYRAVTELGRPDAVYWNSQKDLLEQRRAAVDTYCRHNYGVVESFTV     120
+HLA-DRB4*01:01:01:01  YNQEEYARYNSDLGEYQAVTELGRPDAEYWNSQKDLLERRRAEVDTYCRYNYGVVESFTV   120
+Patr-DRB4*01:04N      YNQEEYARYNSDLGEYQAVTELGRPDAKYWNSQKDLLERTRAEVDTYCRYNYGVVESFTV   120
+Patr-DRB4*01:05       YNQEEYARYNSDLGEYQAVTELGRPDAKYWNSQKDLLERTRAEVDTYCRHNYGAVESFTV   120
+Patr-DRB4*01:06       YNQEEYARYNSDLGEYQAVTELGRPDAKYWNSQKDLLERTRAEVDTYCRHNYGVVES---   120
+Patr-DRB4*01:07       YNQEEYARYNSDLGEYQAVTELGRPDAKYWNSQKDLLERTRAEVDTYCRYNYGVVES---   120
+Patr-DRB4*02:01       YNQEEYARYNSDLGEYRAVTELGRPDAVYWNSQKDLLEQRRAAVDTYCRHNYGVVESFTV   120
 
-Patr-DRB4*01:04N    QRX---------------------------------------------------------     180
-Patr-DRB4*01:05     QRR---------------------------------------------------------     180
-Patr-DRB4*01:06     ------------------------------------------------------------     180
-Patr-DRB4*01:07     ------------------------------------------------------------     180
-Patr-DRB4*02:01     QRQVHPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKTGVVSTGLIQNG     180
+HLA-DRB4*01:01:01:01  QRRVQPKVTVYPSKTQPLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNG   180
+Patr-DRB4*01:04N      QRX---------------------------------------------------------   180
+Patr-DRB4*01:05       QRR---------------------------------------------------------   180
+Patr-DRB4*01:06       ------------------------------------------------------------   180
+Patr-DRB4*01:07       ------------------------------------------------------------   180
+Patr-DRB4*02:01       QRQVHPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKTGVVSTGLIQNG   180
 
-Patr-DRB4*01:04N    ------------------------------------------------------------     240
-Patr-DRB4*01:05     ------------------------------------------------------------     240
-Patr-DRB4*01:06     ------------------------------------------------------------     240
-Patr-DRB4*01:07     ------------------------------------------------------------     240
-Patr-DRB4*02:01     DWTFQTLVMLETVPRSGEVYTCQVEHPSMMSPLTVEWRARSESAQSKMLSGVGGFVLGLL     240
+HLA-DRB4*01:01:01:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSMMSPLTVQWSARSESAQSKMLSGVGGFVLGLL   240
+Patr-DRB4*01:04N      ------------------------------------------------------------   240
+Patr-DRB4*01:05       ------------------------------------------------------------   240
+Patr-DRB4*01:06       ------------------------------------------------------------   240
+Patr-DRB4*01:07       ------------------------------------------------------------   240
+Patr-DRB4*02:01       DWTFQTLVMLETVPRSGEVYTCQVEHPSMMSPLTVEWRARSESAQSKMLSGVGGFVLGLL   240
 
-Patr-DRB4*01:04N    --------------------------     266
-Patr-DRB4*01:05     --------------------------     266
-Patr-DRB4*01:06     --------------------------     266
-Patr-DRB4*01:07     --------------------------     266
-Patr-DRB4*02:01     FLGAGLFIYFRNQKGHSGLQPTGFLS     266
+HLA-DRB4*01:01:01:01  FLGTGLFIYFRNQKGHSGLQPTGLLS   266
+Patr-DRB4*01:04N      --------------------------   266
+Patr-DRB4*01:05       --------------------------   266
+Patr-DRB4*01:06       --------------------------   266
+Patr-DRB4*01:07       --------------------------   266
+Patr-DRB4*02:01       FLGAGLFIYFRNQKGHSGLQPTGFLS   266
 

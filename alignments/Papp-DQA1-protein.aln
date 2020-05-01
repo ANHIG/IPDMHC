@@ -1,25 +1,30 @@
-Papp-DQA1*01:01     ----------------------------------------TYGLSGQYTHEFDGDEQFYV      60
-Papp-DQA1*01:02     ----------------------------------------SYGPSGQYTHEFDGDEQFYV      60
-Papp-DQA1*05:01     ----------------------------------------SYGFSGQYSHEFDGDEQFYV      60
-Papp-DQA1*24:01     ----------------------------------------SYGPSGQYTHEFDGDEEFYV      60
+HLA-DQA1*01:01:01:01  MILNKALLLGALALTTVMSPCGGEDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEEFYV    60
+Papp-DQA1*01:01       ----------------------------------------TYGLSGQYTHEFDGDEQFYV    60
+Papp-DQA1*01:02       ----------------------------------------SYGPSGQYTHEFDGDEQFYV    60
+Papp-DQA1*05:01       ----------------------------------------SYGFSGQYSHEFDGDEQFYV    60
+Papp-DQA1*24:01       ----------------------------------------SYGPSGQYTHEFDGDEEFYV    60
 
-Papp-DQA1*01:01     DLERKETAWRWPELSKFGGFDPQGALRNLAVLKHNLNIVTK-------------------     120
-Papp-DQA1*01:02     DLGRKETAWRWPELSKFGGFDPQGALRNLATAKYNLNIMTK-------------------     120
-Papp-DQA1*05:01     DLERKETVWRLPVLSQFS-FDAQFALTNIAVGKQNLNYLMK-------------------     120
-Papp-DQA1*24:01     DLERKETVWQLPLFSKFRSFDPQGALRNLAVGKHNLNILIK-------------------     120
+HLA-DQA1*01:01:01:01  DLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSK   120
+Papp-DQA1*01:01       DLERKETAWRWPELSKFGGFDPQGALRNLAVLKHNLNIVTK-------------------   120
+Papp-DQA1*01:02       DLGRKETAWRWPELSKFGGFDPQGALRNLATAKYNLNIMTK-------------------   120
+Papp-DQA1*05:01       DLERKETVWRLPVLSQFS-FDAQFALTNIAVGKQNLNYLMK-------------------   120
+Papp-DQA1*24:01       DLERKETVWQLPLFSKFRSFDPQGALRNLAVGKHNLNILIK-------------------   120
 
-Papp-DQA1*01:01     ------------------------------------------------------------     180
-Papp-DQA1*01:02     ------------------------------------------------------------     180
-Papp-DQA1*05:01     ------------------------------------------------------------     180
-Papp-DQA1*24:01     ------------------------------------------------------------     180
+HLA-DQA1*01:01:01:01  SPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFL   180
+Papp-DQA1*01:01       ------------------------------------------------------------   180
+Papp-DQA1*01:02       ------------------------------------------------------------   180
+Papp-DQA1*05:01       ------------------------------------------------------------   180
+Papp-DQA1*24:01       ------------------------------------------------------------   180
 
-Papp-DQA1*01:01     ------------------------------------------------------------     240
-Papp-DQA1*01:02     ------------------------------------------------------------     240
-Papp-DQA1*05:01     ------------------------------------------------------------     240
-Papp-DQA1*24:01     ------------------------------------------------------------     240
+HLA-DQA1*01:01:01:01  PSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTETVVCALGLSVGLVGIVVGTVFII   240
+Papp-DQA1*01:01       ------------------------------------------------------------   240
+Papp-DQA1*01:02       ------------------------------------------------------------   240
+Papp-DQA1*05:01       ------------------------------------------------------------   240
+Papp-DQA1*24:01       ------------------------------------------------------------   240
 
-Papp-DQA1*01:01     ---------------     255
-Papp-DQA1*01:02     ---------------     255
-Papp-DQA1*05:01     ---------------     255
-Papp-DQA1*24:01     ---------------     255
+HLA-DQA1*01:01:01:01  QGLRSVGASRHQGPL   255
+Papp-DQA1*01:01       ---------------   255
+Papp-DQA1*01:02       ---------------   255
+Papp-DQA1*05:01       ---------------   255
+Papp-DQA1*24:01       ---------------   255
 

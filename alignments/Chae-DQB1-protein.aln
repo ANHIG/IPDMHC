@@ -1,20 +1,25 @@
-Chae-DQB1*15:01     ----------------------------------------FQFKGMCYFTNGTERVWSVD      60
-Chae-DQB1*18:01     ----------------------------------------YQFKGLCYFTNGTERVRLVT      60
-Chae-DQB1*18:02     ----------------------------------------YQFKGLCYFTNGTERVRGVT      60
+HLA-DQB1*05:01:01:01  MSWKKSLRIPGDLRVATVTLMLAILSSSLAEGRDSPEDFVYQFKGLCYFTNGTERVRGVT    60
+Chae-DQB1*15:01       ----------------------------------------FQFKGMCYFTNGTERVWSVD    60
+Chae-DQB1*18:01       ----------------------------------------YQFKGLCYFTNGTERVRLVT    60
+Chae-DQB1*18:02       ----------------------------------------YQFKGLCYFTNGTERVRGVT    60
 
-Chae-DQB1*15:01     RYIYNREEYVRFDSDVGLYLPVTPLGRSSAEYMNSQKEALESKRAELDTVCIHNYQLELR     120
-Chae-DQB1*18:01     RHIYNREEYVRFDSDWGEYRAVTPLGRPDAEYWNSQKDILESTRAELDTVCKHNYQSELR     120
-Chae-DQB1*18:02     RHIYNREEYVRFDSDWGEHRAVTPLGRSWAEYWNSQKDFLESTRASVDTVCRHNYQL---     120
+HLA-DQB1*05:01:01:01  RHIYNREEYVRFDSDVGVYRAVTPQGRPVAEYWNSQKEVLEGARASVDRVCRHNYEVAYR   120
+Chae-DQB1*15:01       RYIYNREEYVRFDSDVGLYLPVTPLGRSSAEYMNSQKEALESKRAELDTVCIHNYQLELR   120
+Chae-DQB1*18:01       RHIYNREEYVRFDSDWGEYRAVTPLGRPDAEYWNSQKDILESTRAELDTVCKHNYQSELR   120
+Chae-DQB1*18:02       RHIYNREEYVRFDSDWGEHRAVTPLGRSWAEYWNSQKDFLESTRASVDTVCRHNYQL---   120
 
-Chae-DQB1*15:01     T-----------------------------------------------------------     180
-Chae-DQB1*18:01     T-----------------------------------------------------------     180
-Chae-DQB1*18:02     ------------------------------------------------------------     180
+HLA-DQB1*05:01:01:01  GILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLI   180
+Chae-DQB1*15:01       T-----------------------------------------------------------   180
+Chae-DQB1*18:01       T-----------------------------------------------------------   180
+Chae-DQB1*18:02       ------------------------------------------------------------   180
 
-Chae-DQB1*15:01     ------------------------------------------------------------     240
-Chae-DQB1*18:01     ------------------------------------------------------------     240
-Chae-DQB1*18:02     --------------------ELHT------------------------------------     240
+HLA-DQB1*05:01:01:01  RNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKMLSGVGGFVL   240
+Chae-DQB1*15:01       ------------------------------------------------------------   240
+Chae-DQB1*18:01       ------------------------------------------------------------   240
+Chae-DQB1*18:02       --------------------ELHT------------------------------------   240
 
-Chae-DQB1*15:01     -----------------------------     269
-Chae-DQB1*18:01     -----------------------------     269
-Chae-DQB1*18:02     -----------------------------     269
+HLA-DQB1*05:01:01:01  GLIFLGLGLIIRQRSRKGPQGPPPAGLLH   269
+Chae-DQB1*15:01       -----------------------------   269
+Chae-DQB1*18:01       -----------------------------   269
+Chae-DQB1*18:02       -----------------------------   269
 

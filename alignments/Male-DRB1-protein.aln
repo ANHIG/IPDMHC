@@ -1,15 +1,20 @@
-Male-DRB1*03:01     ----------------------------------RFLEYSTSECHFFNGMERVRFLDRYF      60
-Male-DRB1*04:01     ----------------------------------RFLEQVKHECHFFNGTERVRFLERYF      60
+HLA-DRB1*01:01:01:01  MVCLKLPGGSCMTALTVTLMVLSSPLALAGDTRPRFLWQLKFECHFFNGTERVRLLERCI    60
+Male-DRB1*03:01       ----------------------------------RFLEYSTSECHFFNGMERVRFLDRYF    60
+Male-DRB1*04:01       ----------------------------------RFLEQVKHECHFFNGTERVRFLERYF    60
 
-Male-DRB1*03:01     YNQEEYVRFDSDVGEFRAVSELGRRSAEYWNSRKDILEDERAAVDT--------------     120
-Male-DRB1*04:01     YNQEEYVRFDSDVGEHRAVTELGRPSAEYWNSQKDILEDQRAAVDT--------------     120
+HLA-DRB1*01:01:01:01  YNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFTV   120
+Male-DRB1*03:01       YNQEEYVRFDSDVGEFRAVSELGRRSAEYWNSRKDILEDERAAVDT--------------   120
+Male-DRB1*04:01       YNQEEYVRFDSDVGEHRAVTELGRPSAEYWNSQKDILEDQRAAVDT--------------   120
 
-Male-DRB1*03:01     ------------------------------------------------------------     180
-Male-DRB1*04:01     ------------------------------------------------------------     180
+HLA-DRB1*01:01:01:01  QRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNG   180
+Male-DRB1*03:01       ------------------------------------------------------------   180
+Male-DRB1*04:01       ------------------------------------------------------------   180
 
-Male-DRB1*03:01     ------------------------------------------------------------     240
-Male-DRB1*04:01     ------------------------------------------------------------     240
+HLA-DRB1*01:01:01:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLL   240
+Male-DRB1*03:01       ------------------------------------------------------------   240
+Male-DRB1*04:01       ------------------------------------------------------------   240
 
-Male-DRB1*03:01     --------------------------     266
-Male-DRB1*04:01     --------------------------     266
+HLA-DRB1*01:01:01:01  FLGAGLFIYFRNQKGHSGLQPTGFLS   266
+Male-DRB1*03:01       --------------------------   266
+Male-DRB1*04:01       --------------------------   266
 

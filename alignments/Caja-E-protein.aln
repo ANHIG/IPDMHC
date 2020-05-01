@@ -1,24 +1,30 @@
-Caja-E*03:01:01     ------------------------------------------------------------      60
-Caja-E*03:01:02     ----------------------------------------PPLAALG------------S      60
-Caja-E*03:02        ------------------------------------------------------------      60
+HLA-E*01:01:01:01     MVDGTLLLLLSEALALTQTWAGSHSLKYFHTSVSRPGRGEPRFISVGYVDDTQFVRFDND    60
+Caja-E*03:01:01       ------------------------------------------------------------    60
+Caja-E*03:01:02       ----------------------------------------PPLAALG------------S    60
+Caja-E*03:02          ------------------------------------------------------------    60
 
-Caja-E*03:01:01     ---------------------------ARDTAQSFRVNLRTLLRYYNQSEAGSHTLQWLH     120
-Caja-E*03:01:02     PSPDRHLGELPLLEVFPH-----LRVPARPRGASL--HLRGIRG----------------     120
-Caja-E*03:02        ---------------------------ARDTAQSFRVNLRTLLRYYNQSEAGSHTLQWLH     120
+HLA-E*01:01:01:01     AASPRMVPRAPWMEQEGSEYWDRETRSARDTAQIFRVNLRTLRGYYNQSEAGSHTLQWMH   120
+Caja-E*03:01:01       ---------------------------ARDTAQSFRVNLRTLLRYYNQSEAGSHTLQWLH   120
+Caja-E*03:01:02       PSPDRHLGELPLLEVFPH-----LRVPARPRGASL--HLRGIRG----------------   120
+Caja-E*03:02          ---------------------------ARDTAQSFRVNLRTLLRYYNQSEAGSHTLQWLH   120
 
-Caja-E*03:01:01     GCDVGPDGRFLRGYEQFAYDGKDYLTLNEDLRSWTAADTAAQISQRKSEEACEAEHQRAY     180
-Caja-E*03:01:02     -------RHAVRTVRQRRRDSQD--------GAAGAVDGAAGTGVLGPGDTERQGHRTEF     180
-Caja-E*03:02        GCDLGPDGRFLRGYEQFAYDGKDYLTLNEDLRSWTAADTAAQISQRKSEEACEAEHQRAY     180
+HLA-E*01:01:01:01     GCELGPDRRFLRGYEQFAYDGKDYLTLNEDLRSWTAVDTAAQISEQKSNDASEAEHQRAY   180
+Caja-E*03:01:01       GCDVGPDGRFLRGYEQFAYDGKDYLTLNEDLRSWTAADTAAQISQRKSEEACEAEHQRAY   180
+Caja-E*03:01:02       -------RHAVRTVRQRRRDSQD--------GAAGAVDGAAGTGVLGPGDTERQGHRTEF   180
+Caja-E*03:02          GCDLGPDGRFLRGYEQFAYDGKDYLTLNEDLRSWTAADTAAQISQRKSEEACEAEHQRAY   180
 
-Caja-E*03:01:01     LEDTCVEWLRRYLENGKETLQRAEPPKTHVTHHPVSDHEATLRCWALGFY----------     240
-Caja-E*03:01:02     PSEPADPAPLLQPERGR------------VSHPPVA--------------------AWLR     240
-Caja-E*03:02        LEDTCVEWLRRYLENGKETLQRAEPPKTHVTHHPVSDHEATLRCWALGFY----------     240
+HLA-E*01:01:01:01     LEDTCVEWLHKYLEKGKETLLHLEPPKTHVTHHPISDHEATLRCWALGFYPAEITLTWQQ   240
+Caja-E*03:01:01       LEDTCVEWLRRYLENGKETLQRAEPPKTHVTHHPVSDHEATLRCWALGFY----------   240
+Caja-E*03:01:02       PSEPADPAPLLQPERGR------------VSHPPVA--------------------AWLR   240
+Caja-E*03:02          LEDTCVEWLRRYLENGKETLQRAEPPKTHVTHHPVSDHEATLRCWALGFY----------   240
 
-Caja-E*03:01:01     ------------------------------------------------------------     300
-Caja-E*03:01:02     RGA----------------------------------------RRALPPRVX--------     300
-Caja-E*03:02        ------------------------------------------------------------     300
+HLA-E*01:01:01:01     DGEGHTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPVTLRWKPASQ   300
+Caja-E*03:01:01       ------------------------------------------------------------   300
+Caja-E*03:01:02       RGA----------------------------------------RRALPPRVX--------   300
+Caja-E*03:02          ------------------------------------------------------------   300
 
-Caja-E*03:01:01     -----------------------------------------------------------     359
-Caja-E*03:01:02     -----------------------------------------------------------     359
-Caja-E*03:02        -----------------------------------------------------------     359
+HLA-E*01:01:01:01     PTIPIVGIIAGLVLLGSVVSGAVVAAVIWRKKSSGGKGGSYSKAEWSDSAQGSESHSLX   359
+Caja-E*03:01:01       -----------------------------------------------------------   359
+Caja-E*03:01:02       -----------------------------------------------------------   359
+Caja-E*03:02          -----------------------------------------------------------   359
 

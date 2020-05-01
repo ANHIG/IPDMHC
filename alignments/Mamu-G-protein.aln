@@ -1,30 +1,36 @@
-Mamu-G*02:01        ----------------------------------AVSRPGRGKPRFIAVGHVEDTQFVRL      60
-Mamu-G*02:02        ----------------------------------AVSRPGRGEPRFIPVGYVDDTQFVRL      60
-Mamu-G*02:03        ----------------------------------AVSRPGRGEPRFIAVGYVDDTQFVRF      60
-Mamu-G*02:04        ----------------------------------ALSRPGRGKPRFIAVGHVEDTQFLRL      60
+HLA-G*01:01:01:01     MVVMAPRTLFLLLSGALTLTETWAGSHSMRYFSAAVSRPGRGEPRFIAMGYVDDTQFVRF    60
+Mamu-G*02:01          ----------------------------------AVSRPGRGKPRFIAVGHVEDTQFVRL    60
+Mamu-G*02:02          ----------------------------------AVSRPGRGEPRFIPVGYVDDTQFVRL    60
+Mamu-G*02:03          ----------------------------------AVSRPGRGEPRFIAVGYVDDTQFVRF    60
+Mamu-G*02:04          ----------------------------------ALSRPGRGKPRFIAVGHVEDTQFLRL    60
 
-Mamu-G*02:01        DSDAASPRMEPRAPWVEQEGPEYWEEETRIAKAHAHTDRVNLRTLRSYYNQSQAGSHTLQ     120
-Mamu-G*02:02        DSDAASPRMEPRAPWVEQEGPEYWEEETRIAKAHAHTDRVNLRTLRSYYNQSEAGSHTLQ     120
-Mamu-G*02:03        DSDAASPRMEPRAPWVDQEGPEYWEEETRIAKAHAQTDRVNLRTLRSYYNQSEAGSHTLQ     120
-Mamu-G*02:04        DSDAASPRMEPRAPWVEQEGPEYWEEETRIAKAHAHTDRVNLRTLRSYYNQSQAGSHTLQ     120
+HLA-G*01:01:01:01     DSDSACPRMEPRAPWVEQEGPEYWEEETRNTKAHAQTDRMNLQTLRGYYNQSEASSHTLQ   120
+Mamu-G*02:01          DSDAASPRMEPRAPWVEQEGPEYWEEETRIAKAHAHTDRVNLRTLRSYYNQSQAGSHTLQ   120
+Mamu-G*02:02          DSDAASPRMEPRAPWVEQEGPEYWEEETRIAKAHAHTDRVNLRTLRSYYNQSEAGSHTLQ   120
+Mamu-G*02:03          DSDAASPRMEPRAPWVDQEGPEYWEEETRIAKAHAQTDRVNLRTLRSYYNQSEAGSHTLQ   120
+Mamu-G*02:04          DSDAASPRMEPRAPWVEQEGPEYWEEETRIAKAHAHTDRVNLRTLRSYYNQSQAGSHTLQ   120
 
-Mamu-G*02:01        WMIGCDLGPDGRLLCRCEQFAYDGKDYLALNEDLCSX-----------------------     180
-Mamu-G*02:02        WMIGCDLGPDGRLLCRCEQFAYDGKDYLALNEDLCSX-----------------------     180
-Mamu-G*02:03        WMIGCDLGPDGRLLRRCEQFAYDGKDYLALNEDLLSWTAADTVAQISKRKREAAKATERR     180
-Mamu-G*02:04        WMIGCDLGPDGRLLCRCEQFAYDGKDYLALNEDLCSX-----------------------     180
+HLA-G*01:01:01:01     WMIGCDLGSDGRLLRGYEQYAYDGKDYLALNEDLRSWTAADTAAQISKRKCEAANVAEQR   180
+Mamu-G*02:01          WMIGCDLGPDGRLLCRCEQFAYDGKDYLALNEDLCSX-----------------------   180
+Mamu-G*02:02          WMIGCDLGPDGRLLCRCEQFAYDGKDYLALNEDLCSX-----------------------   180
+Mamu-G*02:03          WMIGCDLGPDGRLLRRCEQFAYDGKDYLALNEDLLSWTAADTVAQISKRKREAAKATERR   180
+Mamu-G*02:04          WMIGCDLGPDGRLLCRCEQFAYDGKDYLALNEDLCSX-----------------------   180
 
-Mamu-G*02:01        ------------------------------------------------------------     240
-Mamu-G*02:02        ------------------------------------------------------------     240
-Mamu-G*02:03        RAYLEGTX----------------------------------------------------     240
-Mamu-G*02:04        ------------------------------------------------------------     240
+HLA-G*01:01:01:01     RAYLEGTCVEWLHRYLENGKEMLQRADPPKTHVTHHPVFDYEATLRCWALGFYPAEIILT   240
+Mamu-G*02:01          ------------------------------------------------------------   240
+Mamu-G*02:02          ------------------------------------------------------------   240
+Mamu-G*02:03          RAYLEGTX----------------------------------------------------   240
+Mamu-G*02:04          ------------------------------------------------------------   240
 
-Mamu-G*02:01        ------------------------------------------------------------     300
-Mamu-G*02:02        ------------------------------------------------------------     300
-Mamu-G*02:03        ------------------------------------------------------------     300
-Mamu-G*02:04        ------------------------------------------------------------     300
+HLA-G*01:01:01:01     WQRDGEDQTQDVELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPEPLMLRWKQ   300
+Mamu-G*02:01          ------------------------------------------------------------   300
+Mamu-G*02:02          ------------------------------------------------------------   300
+Mamu-G*02:03          ------------------------------------------------------------   300
+Mamu-G*02:04          ------------------------------------------------------------   300
 
-Mamu-G*02:01        --------------------------------------     338
-Mamu-G*02:02        --------------------------------------     338
-Mamu-G*02:03        --------------------------------------     338
-Mamu-G*02:04        --------------------------------------     338
+HLA-G*01:01:01:01     SSLPTIPIMGIVAGLVVLAAVVTGAAVAAVLWRKKSSD   338
+Mamu-G*02:01          --------------------------------------   338
+Mamu-G*02:02          --------------------------------------   338
+Mamu-G*02:03          --------------------------------------   338
+Mamu-G*02:04          --------------------------------------   338
 

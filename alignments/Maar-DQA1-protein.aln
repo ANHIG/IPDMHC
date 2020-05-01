@@ -1,15 +1,20 @@
-Maar-DQA1*01:01     ----------------------------------------TYGLSGQFTHEFDGDEQFYV      60
-Maar-DQA1*01:02     ----------------------------------------TYGLSGQYTHEFDGDEQFYV      60
+HLA-DQA1*01:01:01:01  MILNKALLLGALALTTVMSPCGGEDIVADHVASCGVNLYQFYGPSGQYTHEFDGDEEFYV    60
+Maar-DQA1*01:01       ----------------------------------------TYGLSGQFTHEFDGDEQFYV    60
+Maar-DQA1*01:02       ----------------------------------------TYGLSGQYTHEFDGDEQFYV    60
 
-Maar-DQA1*01:01     DLRRKETAWRWPELSKFGGFDPQGALRNLAVLKHNLNIVTK-------------------     120
-Maar-DQA1*01:02     DLERKETAWRWPELSKFGGFDPQGALRNLAVSKHNLNIMTK-------------------     120
+HLA-DQA1*01:01:01:01  DLERKETAWRWPEFSKFGGFDPQGALRNMAVAKHNLNIMIKRYNSTAATNEVPEVTVFSK   120
+Maar-DQA1*01:01       DLRRKETAWRWPELSKFGGFDPQGALRNLAVLKHNLNIVTK-------------------   120
+Maar-DQA1*01:02       DLERKETAWRWPELSKFGGFDPQGALRNLAVSKHNLNIMTK-------------------   120
 
-Maar-DQA1*01:01     ------------------------------------------------------------     180
-Maar-DQA1*01:02     ------------------------------------------------------------     180
+HLA-DQA1*01:01:01:01  SPVTLGQPNTLICLVDNIFPPVVNITWLSNGQSVTEGVSETSFLSKSDHSFFKISYLTFL   180
+Maar-DQA1*01:01       ------------------------------------------------------------   180
+Maar-DQA1*01:02       ------------------------------------------------------------   180
 
-Maar-DQA1*01:01     ------------------------------------------------------------     240
-Maar-DQA1*01:02     ------------------------------------------------------------     240
+HLA-DQA1*01:01:01:01  PSADEIYDCKVEHWGLDQPLLKHWEPEIPAPMSELTETVVCALGLSVGLVGIVVGTVFII   240
+Maar-DQA1*01:01       ------------------------------------------------------------   240
+Maar-DQA1*01:02       ------------------------------------------------------------   240
 
-Maar-DQA1*01:01     ---------------     255
-Maar-DQA1*01:02     ---------------     255
+HLA-DQA1*01:01:01:01  QGLRSVGASRHQGPL   255
+Maar-DQA1*01:01       ---------------   255
+Maar-DQA1*01:02       ---------------   255
 
