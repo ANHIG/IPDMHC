@@ -1,30 +1,35 @@
-Gogo-DPB1*01        ------------------------------------LYQVRQECYAFNGTQRFLERYIYN      60
-Gogo-DPB1*02        ------------------------------------LYQVRQECYAFNGTQRFLERYIYN      60
-Gogo-DPB1*03        ------------------------------------LYQVRQECYAFNGTQRYLERYIYN      60
-Gogo-DPB1*04        ------------------------------------LYQVRQECYAFNGTQRYLERYIYN      60
-Gogo-DPB1*05        ------------------------------------LYQVRQECYAFNRTQRFLERYIYN      60
+HLA-DPB1*01:01:01:01  MMVLQVSAAPRTVALTALLMVLLTSVVQGRATPENYVYQGRQECYAFNGTQRFLERYIYN    60
+Gogo-DPB1*01          ------------------------------------LYQVRQECYAFNGTQRFLERYIYN    60
+Gogo-DPB1*02          ------------------------------------LYQVRQECYAFNGTQRFLERYIYN    60
+Gogo-DPB1*03          ------------------------------------LYQVRQECYAFNGTQRYLERYIYN    60
+Gogo-DPB1*04          ------------------------------------LYQVRQECYAFNGTQRYLERYIYN    60
+Gogo-DPB1*05          ------------------------------------LYQVRQECYAFNRTQRFLERYIYN    60
 
-Gogo-DPB1*01        REEWVRFDSDVGEFRAVTEMGRPDAEYWNSQKDLLEEKRAVPDRICRHNYELDEAVTL--     120
-Gogo-DPB1*02        REEWVRFDSDVGEFRAVTELGRPAAEYWNSQKDLLEEKRAVPDRMCRHNYELDEAVTL--     120
-Gogo-DPB1*03        REEWVRFDSDVGEFRAVTEMGRPAAEYWNSQKDLLEEKRAVPDRICRHNYELDRPVTL--     120
-Gogo-DPB1*04        REEWVRFDSDVGEFRAVTEMGRPAAEYWNSQKDLLEEKRAVPDRICRHNYELDEAVTL--     120
-Gogo-DPB1*05        REEWVRFDSDVGEFRAVTEMGRPDAEYWNSQKDLLEEKRAVPDRICRHNYELDEAVTL--     120
+HLA-DPB1*01:01:01:01  REEYARFDSDVGEFRAVTELGRPAAEYWNSQKDILEEKRAVPDRVCRHNYELDEAVTLQR   120
+Gogo-DPB1*01          REEWVRFDSDVGEFRAVTEMGRPDAEYWNSQKDLLEEKRAVPDRICRHNYELDEAVTL--   120
+Gogo-DPB1*02          REEWVRFDSDVGEFRAVTELGRPAAEYWNSQKDLLEEKRAVPDRMCRHNYELDEAVTL--   120
+Gogo-DPB1*03          REEWVRFDSDVGEFRAVTEMGRPAAEYWNSQKDLLEEKRAVPDRICRHNYELDRPVTL--   120
+Gogo-DPB1*04          REEWVRFDSDVGEFRAVTEMGRPAAEYWNSQKDLLEEKRAVPDRICRHNYELDEAVTL--   120
+Gogo-DPB1*05          REEWVRFDSDVGEFRAVTEMGRPDAEYWNSQKDLLEEKRAVPDRICRHNYELDEAVTL--   120
 
-Gogo-DPB1*01        ------------------------------------------------------------     180
-Gogo-DPB1*02        ------------------------------------------------------------     180
-Gogo-DPB1*03        ------------------------------------------------------------     180
-Gogo-DPB1*04        ------------------------------------------------------------     180
-Gogo-DPB1*05        ------------------------------------------------------------     180
+HLA-DPB1*01:01:01:01  RVQPKVNVSPSKKGPLQHHNLLVCHVTDFYPGSIQVRWFLNGQEETAGVVSTNLIRNGDW   180
+Gogo-DPB1*01          ------------------------------------------------------------   180
+Gogo-DPB1*02          ------------------------------------------------------------   180
+Gogo-DPB1*03          ------------------------------------------------------------   180
+Gogo-DPB1*04          ------------------------------------------------------------   180
+Gogo-DPB1*05          ------------------------------------------------------------   180
 
-Gogo-DPB1*01        ------------------------------------------------------------     240
-Gogo-DPB1*02        ------------------------------------------------------------     240
-Gogo-DPB1*03        ------------------------------------------------------------     240
-Gogo-DPB1*04        ------------------------------------------------------------     240
-Gogo-DPB1*05        ------------------------------------------------------------     240
+HLA-DPB1*01:01:01:01  TFQILVMLEMTPQQGDVYICQVEHTSLDSPVTVEWKAQSDSAQSKTLTGAGGFVLGLIIC   240
+Gogo-DPB1*01          ------------------------------------------------------------   240
+Gogo-DPB1*02          ------------------------------------------------------------   240
+Gogo-DPB1*03          ------------------------------------------------------------   240
+Gogo-DPB1*04          ------------------------------------------------------------   240
+Gogo-DPB1*05          ------------------------------------------------------------   240
 
-Gogo-DPB1*01        ------------------     258
-Gogo-DPB1*02        ------------------     258
-Gogo-DPB1*03        ------------------     258
-Gogo-DPB1*04        ------------------     258
-Gogo-DPB1*05        ------------------     258
+HLA-DPB1*01:01:01:01  GVGIFMHRRSKKVQRGSA   258
+Gogo-DPB1*01          ------------------   258
+Gogo-DPB1*02          ------------------   258
+Gogo-DPB1*03          ------------------   258
+Gogo-DPB1*04          ------------------   258
+Gogo-DPB1*05          ------------------   258
 

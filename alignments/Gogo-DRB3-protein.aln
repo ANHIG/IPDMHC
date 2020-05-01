@@ -1,30 +1,35 @@
-Gogo-DRB3*01:01     ------------------------------------------------GVSEAPW--RFL      60
-Gogo-DRB3*01:07     ----------------------------------RFLELLKSECHFFNGTERVRFLERYI      60
-Gogo-DRB3*01:08     -----------------------------------FLELRKSECHFFNGTELVRYLDRYF      60
-Gogo-DRB3*04:01     ----------------------------------RFLELLKSECHFFNGTERVRFLERYI      60
-Gogo-DRB3*04:02     -----------------------------------FLELRKSECHFFNGTERVRFLERYI      60
+HLA-DRB3*01:01:02:01  MVCLKLPGGSSLAALTVTLMVLSSRLAFAGDTRPRFLELRKSECHFFNGTERVRYLDRYF    60
+Gogo-DRB3*01:01       ------------------------------------------------GVSEAPW--RFL    60
+Gogo-DRB3*01:07       ----------------------------------RFLELLKSECHFFNGTERVRFLERYI    60
+Gogo-DRB3*01:08       -----------------------------------FLELRKSECHFFNGTELVRYLDRYF    60
+Gogo-DRB3*04:01       ----------------------------------RFLELLKSECHFFNGTERVRFLERYI    60
+Gogo-DRB3*04:02       -----------------------------------FLELRKSECHFFNGTERVRFLERYI    60
 
-Gogo-DRB3*01:01     HGSAD---SDTDGAEL--------PTGFGWG-----------------------------     120
-Gogo-DRB3*01:07     HNQEEFVRFDSDVGEYRAVTELGRPDAESWNSQKDLLEQKRGQVDNYCRHNYGVGESFTV     120
-Gogo-DRB3*01:08     HNQEEFVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQKRGRVDN--------------     120
-Gogo-DRB3*04:01     HNQEEFVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEDERASVDTYWRYNYGIVESFTV     120
-Gogo-DRB3*04:02     HNQEEFVRFDSDVGEFRAVTELGRPAAEYWNSRKDVLEDERASVDT--------------     120
+HLA-DRB3*01:01:02:01  HNQEEFLRFDSDVGEYRAVTELGRPVAESWNSQKDLLEQKRGRVDNYCRHNYGVGESFTV   120
+Gogo-DRB3*01:01       HGSAD---SDTDGAEL--------PTGFGWG-----------------------------   120
+Gogo-DRB3*01:07       HNQEEFVRFDSDVGEYRAVTELGRPDAESWNSQKDLLEQKRGQVDNYCRHNYGVGESFTV   120
+Gogo-DRB3*01:08       HNQEEFVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQKRGRVDN--------------   120
+Gogo-DRB3*04:01       HNQEEFVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEDERASVDTYWRYNYGIVESFTV   120
+Gogo-DRB3*04:02       HNQEEFVRFDSDVGEFRAVTELGRPAAEYWNSRKDVLEDERASVDT--------------   120
 
-Gogo-DRB3*01:01     ------------------------------------------------------------     180
-Gogo-DRB3*01:07     QRR---------------------------------------------------------     180
-Gogo-DRB3*01:08     ------------------------------------------------------------     180
-Gogo-DRB3*04:01     QRR---------------------------------------------------------     180
-Gogo-DRB3*04:02     ------------------------------------------------------------     180
+HLA-DRB3*01:01:02:01  QRRVHPQVTVYPAKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNG   180
+Gogo-DRB3*01:01       ------------------------------------------------------------   180
+Gogo-DRB3*01:07       QRR---------------------------------------------------------   180
+Gogo-DRB3*01:08       ------------------------------------------------------------   180
+Gogo-DRB3*04:01       QRR---------------------------------------------------------   180
+Gogo-DRB3*04:02       ------------------------------------------------------------   180
 
-Gogo-DRB3*01:01     -------------------------HPTT-------------------------------     240
-Gogo-DRB3*01:07     ------------------------------------------------------------     240
-Gogo-DRB3*01:08     ------------------------------------------------------------     240
-Gogo-DRB3*04:01     ------------------------------------------------------------     240
-Gogo-DRB3*04:02     ------------------------------------------------------------     240
+HLA-DRB3*01:01:02:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSALTVEWRARSESAQSKMLSGVGGFVLGLL   240
+Gogo-DRB3*01:01       -------------------------HPTT-------------------------------   240
+Gogo-DRB3*01:07       ------------------------------------------------------------   240
+Gogo-DRB3*01:08       ------------------------------------------------------------   240
+Gogo-DRB3*04:01       ------------------------------------------------------------   240
+Gogo-DRB3*04:02       ------------------------------------------------------------   240
 
-Gogo-DRB3*01:01     FLGAAX--------------------     266
-Gogo-DRB3*01:07     --------------------------     266
-Gogo-DRB3*01:08     --------------------------     266
-Gogo-DRB3*04:01     --------------------------     266
-Gogo-DRB3*04:02     --------------------------     266
+HLA-DRB3*01:01:02:01  FLGAGLFIYFRNQKGHSGLQPTGFLS   266
+Gogo-DRB3*01:01       FLGAAX--------------------   266
+Gogo-DRB3*01:07       --------------------------   266
+Gogo-DRB3*01:08       --------------------------   266
+Gogo-DRB3*04:01       --------------------------   266
+Gogo-DRB3*04:02       --------------------------   266
 
