@@ -1,672 +1,672 @@
 HLA-DRA*01:01:01:01   TCACTAATGTGCTTCAGGTATATCCCTGTCTAGAAGTCAGATTGGGGTTAAAGAGTCTGT    60
 Patr-DRA*01:01:01     ------------------------------------------------------------    60
-Patr-DRA*01:01:02     ------------------------------------------------------------    60
-Patr-DRA*01:03:01     ------------------------------------------------------------    60
+Patr-DRA*01:01:02:01  ------------------------------------------------------------    60
+Patr-DRA*01:03:01:01  ------------------------------------------------------------    60
 Patr-DRA*01:03:02     ------------------------------------------------------------    60
 Patr-DRA*01:04        ------------------------------------------------------------    60
 
 HLA-DRA*01:01:01:01   CCGTGATTGACTAACAGTCTTAAATACTTGATTTGTTGTTGTTGTTGTCCTGTTTGTTTA   120
 Patr-DRA*01:01:01     ------------------------------------------------------------   120
-Patr-DRA*01:01:02     ------------------------------------------------------------   120
-Patr-DRA*01:03:01     ------------------------------------------------------------   120
+Patr-DRA*01:01:02:01  ------------------------------------------------------------   120
+Patr-DRA*01:03:01:01  ------------------------------------------------------------   120
 Patr-DRA*01:03:02     ------------------------------------------------------------   120
 Patr-DRA*01:04        ------------------------------------------------------------   120
 
 HLA-DRA*01:01:01:01   AGAACTTTACTTCTTTATCCAATGAACGGAGTATCTTGTGTCCTGGACCCTTTGCAAGAA   180
 Patr-DRA*01:01:01     ------------------------------------------------------------   180
-Patr-DRA*01:01:02     ------------------------------------------------------------   180
-Patr-DRA*01:03:01     ------------------------------------------------------------   180
+Patr-DRA*01:01:02:01  ------------------------------------------------------------   180
+Patr-DRA*01:03:01:01  ------------------------------------------------------------   180
 Patr-DRA*01:03:02     ------------------------------------------------------------   180
 Patr-DRA*01:04        ------------------------------------------------------------   180
 
 HLA-DRA*01:01:01:01   CCCTTCCCCTAGCAACAGATGCGTCATCTCAAAATATTTTTCTGATTGGCCAAAGAGTAA   240
 Patr-DRA*01:01:01     ------------------------------------------------------------   240
-Patr-DRA*01:01:02     ------------------------------------------------------------   240
-Patr-DRA*01:03:01     ------------------------------------------------------------   240
+Patr-DRA*01:01:02:01  ------------------------------------------------------------   240
+Patr-DRA*01:03:01:01  ------------------------------------------------------------   240
 Patr-DRA*01:03:02     ------------------------------------------------------------   240
 Patr-DRA*01:04        ------------------------------------------------------------   240
 
 HLA-DRA*01:01:01:01   TTGATTTGCATTTTAATGGTCAGACTCTATTACACCCCACATTCTCTTTTCTTTTATTCT   300
 Patr-DRA*01:01:01     ------------------------------------------------------------   300
-Patr-DRA*01:01:02     ------------------------------------------------------------   300
-Patr-DRA*01:03:01     ------------------------------------------------------------   300
+Patr-DRA*01:01:02:01  ------------------------------------------------------------   300
+Patr-DRA*01:03:01:01  ------------------------------------------------------------   300
 Patr-DRA*01:03:02     ------------------------------------------------------------   300
 Patr-DRA*01:04        ------------------------------------------------------------   300
 
 HLA-DRA*01:01:01:01   TGTCTGTTCTGCCTCACTCCCGAGCTCTACTGACTCCCAAAAGAGCGCCCAAGAAGAAAA   360
 Patr-DRA*01:01:01     -----------------------------------------------------------A   360
-Patr-DRA*01:01:02     -----------------------------------------------------------A   360
-Patr-DRA*01:03:01     -----------------------------------------------------------A   360
+Patr-DRA*01:01:02:01  -----------------------------------------------------------A   360
+Patr-DRA*01:03:01:01  -----------------------------------------------------------A   360
 Patr-DRA*01:03:02     -----------------------------------------------------------A   360
 Patr-DRA*01:04        -----------------------------------------------------------A   360
 
 HLA-DRA*01:01:01:01   TGGCCATAAGTGGAGTCCCTGTGCTAGGATTTTTCATCATAGCTGTGCTGATGAGCGCTC   420
 Patr-DRA*01:01:01     TGGCCGTAAGTGGAGTCCCTGTGCTAGGATTTTTCATCATAGCTGTGCTGATGGGCGCTC   420
-Patr-DRA*01:01:02     TGGCCGTAAGTGGAGTCCCTGTGCTAGGATTTTTCATCATAGCTGTGCTGATGGGCGCTC   420
-Patr-DRA*01:03:01     TGGCCGTAAGTGGAGTCCCTGTGCTAGGATTTTTCATCATAGCTGTGCTGATGAGCGCTC   420
+Patr-DRA*01:01:02:01  TGGCCGTAAGTGGAGTCCCTGTGCTAGGATTTTTCATCATAGCTGTGCTGATGGGCGCTC   420
+Patr-DRA*01:03:01:01  TGGCCGTAAGTGGAGTCCCTGTGCTAGGATTTTTCATCATAGCTGTGCTGATGAGCGCTC   420
 Patr-DRA*01:03:02     TGGCCGTAAGTGGAGTCCCTGTGCTAGGATTTTTCATCATAGCTGTGCTGATGAGCGCTC   420
 Patr-DRA*01:04        TGGCCGTAAGTGGAGTCCCTGTGCTAGGATTTTTCATCATAGCTGTGCTGATGGGCGCTC   420
 
 HLA-DRA*01:01:01:01   AGGAATCATGGGCTATCAAAGGTAGGTGCTGAGGGAATGAAATCTGGGACGATAGACTAC   480
 Patr-DRA*01:01:01     AGGAATCATGGGCTATCAAAG---------------------------------------   480
-Patr-DRA*01:01:02     AGGAATCATGGGCTATCAAAG---------------------------------------   480
-Patr-DRA*01:03:01     AGGAATCATGGGCTATCAAAG---------------------------------------   480
+Patr-DRA*01:01:02:01  AGGAATCATGGGCTATCAAAGGTAGGTGCTGAGGGAATGAAATCTGGGACGATAGACTAC   480
+Patr-DRA*01:03:01:01  AGGAATCATGGGCTATCAAAGGTAGGTGCTGAGGGAATGAAATCTGGGACGATAGACTAC   480
 Patr-DRA*01:03:02     AGGAATCATGGGCTATCAAAG---------------------------------------   480
 Patr-DRA*01:04        AGGAATCATGGGCTATCAAAG---------------------------------------   480
 
 HLA-DRA*01:01:01:01   GAAGCATTGGAGAAAAGACCTATGGACATTTGGAAGATAATGTGTGGAGTGAAAGAATAG   540
 Patr-DRA*01:01:01     ------------------------------------------------------------   540
-Patr-DRA*01:01:02     ------------------------------------------------------------   540
-Patr-DRA*01:03:01     ------------------------------------------------------------   540
+Patr-DRA*01:01:02:01  GAAGCATTGGAGAAAAGACCTATGGACATTTGGAAGATAATGTGTGGAGTGAAAGAATAG   540
+Patr-DRA*01:03:01:01  GAAGCATTGGAGAAAAGACCTATGGACATTTGGAAGATAATGTGTGGAGTGAAAGAATAG   540
 Patr-DRA*01:03:02     ------------------------------------------------------------   540
 Patr-DRA*01:04        ------------------------------------------------------------   540
 
 HLA-DRA*01:01:01:01   TGTGACAGGTATTATGTGGTCTCGACAGAAAGTATAACAAATTGTGGTTTGGTGGAGTTC   600
 Patr-DRA*01:01:01     ------------------------------------------------------------   600
-Patr-DRA*01:01:02     ------------------------------------------------------------   600
-Patr-DRA*01:03:01     ------------------------------------------------------------   600
+Patr-DRA*01:01:02:01  TGTGACAGGTATTATGTGGTCTAGACAGAAAGTATAACAAATTGTGGTTTGGTGGAGTTC   600
+Patr-DRA*01:03:01:01  TGTGACAGGTATTATGTGGTCTAGACAGAAAGTATAACAAATTGTGGTTTGGTGGAGTTC   600
 Patr-DRA*01:03:02     ------------------------------------------------------------   600
 Patr-DRA*01:04        ------------------------------------------------------------   600
 
 HLA-DRA*01:01:01:01   TTCCCTCACCACAAACTGAAGTAAGTCAAATTTGGTTTAGAGGGTCAAAACTGAGTTGTG   660
 Patr-DRA*01:01:01     ------------------------------------------------------------   660
-Patr-DRA*01:01:02     ------------------------------------------------------------   660
-Patr-DRA*01:03:01     ------------------------------------------------------------   660
+Patr-DRA*01:01:02:01  TTCCCTCACCACAAACTGAAGTAAGTCAAATTTGGTTTAGAGGATCAAAACTGAGTTGTG   660
+Patr-DRA*01:03:01:01  TTCCCTCACCACAAACTGAAGTAAGTCAAATTTGGTTTAGAGGATCAAAACTGAGTTGTG   660
 Patr-DRA*01:03:02     ------------------------------------------------------------   660
 Patr-DRA*01:04        ------------------------------------------------------------   660
 
 HLA-DRA*01:01:01:01   TATTGATGAATAGCACGGTCCTGCTACAAGCCAAACTGGGGGTGGGGGTGGGGGTGGGGG   720
 Patr-DRA*01:01:01     ------------------------------------------------------------   720
-Patr-DRA*01:01:02     ------------------------------------------------------------   720
-Patr-DRA*01:03:01     ------------------------------------------------------------   720
+Patr-DRA*01:01:02:01  TATTGATGAATAGCACGGTCCTGCTACAAGCCAAACTGGGGGTGGGGGTGGGGGTGGGGG   720
+Patr-DRA*01:03:01:01  TATTGATGAATAGCACGGTCCTGCTACAAGCCAAACTGGGGGTGGGGGTGGGGGTGGGGG   720
 Patr-DRA*01:03:02     ------------------------------------------------------------   720
 Patr-DRA*01:04        ------------------------------------------------------------   720
 
 HLA-DRA*01:01:01:01   AGGAAGAATATTTTCTGGCAAGCATTAACAAGTTATATTTCTGGGCTTTAATTATTCTTT   780
 Patr-DRA*01:01:01     ------------------------------------------------------------   780
-Patr-DRA*01:01:02     ------------------------------------------------------------   780
-Patr-DRA*01:03:01     ------------------------------------------------------------   780
+Patr-DRA*01:01:02:01  AGGAAGAATATTTTCTGGCAAGCATTAACAAGTTATATTTCTGGGCTTTAATTATTCTTT   780
+Patr-DRA*01:03:01:01  AGGAAGAATATTTTCTGGCAAGCATTAACAAGTTATATTTCTGGGCTTTAATTATTCTTT   780
 Patr-DRA*01:03:02     ------------------------------------------------------------   780
 Patr-DRA*01:04        ------------------------------------------------------------   780
 
 HLA-DRA*01:01:01:01   CTGGAAAATTAGTAAAATTAAAAACTAAAAACCACACATAGTTTTGCTAGAATTAAATGA   840
 Patr-DRA*01:01:01     ------------------------------------------------------------   840
-Patr-DRA*01:01:02     ------------------------------------------------------------   840
-Patr-DRA*01:03:01     ------------------------------------------------------------   840
+Patr-DRA*01:01:02:01  CTGGAAAATTAGTAAAATTAAAAACTAAAAACCACACATAGTTTTGCTAGAATTAAATGA   840
+Patr-DRA*01:03:01:01  CTGGAAAATTAGTAAAATTAAAAACTAAAAACCACACATAGTTTTGCTAGAATTAAATGA   840
 Patr-DRA*01:03:02     ------------------------------------------------------------   840
 Patr-DRA*01:04        ------------------------------------------------------------   840
 
 HLA-DRA*01:01:01:01   AAAAAAAAGTTATTAGCCCTGTTCTTATCTGAATACATGATACAGTAGTTATTTTTTGGA   900
 Patr-DRA*01:01:01     ------------------------------------------------------------   900
-Patr-DRA*01:01:02     ------------------------------------------------------------   900
-Patr-DRA*01:03:01     ------------------------------------------------------------   900
+Patr-DRA*01:01:02:01  AAAAAAAAGTTATTAGCCCTGTTCTTATCTGAATACATGATACAGTAGTTATTTTTTGGA   900
+Patr-DRA*01:03:01:01  AAAAAAAAGTTATTAGCCCTGTTCTTATCTGAATACATGATACAGTAGTTATTTTTTGGA   900
 Patr-DRA*01:03:02     ------------------------------------------------------------   900
 Patr-DRA*01:04        ------------------------------------------------------------   900
 
 HLA-DRA*01:01:01:01   GTGTAAATCCTGTCGGTATATATTGAGCACATATATTGTGTTGAAGATTACTAGAAGGAA   960
 Patr-DRA*01:01:01     ------------------------------------------------------------   960
-Patr-DRA*01:01:02     ------------------------------------------------------------   960
-Patr-DRA*01:03:01     ------------------------------------------------------------   960
+Patr-DRA*01:01:02:01  GTGTAAATCCTGTCGGTATATATTGAGCACATATATTGTGTTGAAGATTACTAGAAGGAA   960
+Patr-DRA*01:03:01:01  GTGTAAATCCTGTCGGTATATATTGAGCACATATATTGTGTTGAAGATTACTAGAAGGAA   960
 Patr-DRA*01:03:02     ------------------------------------------------------------   960
 Patr-DRA*01:04        ------------------------------------------------------------   960
 
 HLA-DRA*01:01:01:01   AAGTCATCAAAAAGCAACAATTTACCCCAGGAAAAGGGGAGGGAAGGCATGCTGATATGA  1020
 Patr-DRA*01:01:01     ------------------------------------------------------------  1020
-Patr-DRA*01:01:02     ------------------------------------------------------------  1020
-Patr-DRA*01:03:01     ------------------------------------------------------------  1020
+Patr-DRA*01:01:02:01  AAGTCATCAAAAAGCAACAATTTACCCCAGGAAAAGGGGAGGGAAGGCATGCTGATATGA  1020
+Patr-DRA*01:03:01:01  AAGTCATCAAAAAGCAACAATTTACCCCAGGAAAAGGGGAGGGAAGGCATGCTGATATGA  1020
 Patr-DRA*01:03:02     ------------------------------------------------------------  1020
 Patr-DRA*01:04        ------------------------------------------------------------  1020
 
 HLA-DRA*01:01:01:01   GTTGCCTCATGGGACAGTGATAGCCATTCCCTGCCTTCCCATCTCCATGGTACAGCAGAT  1080
 Patr-DRA*01:01:01     ------------------------------------------------------------  1080
-Patr-DRA*01:01:02     ------------------------------------------------------------  1080
-Patr-DRA*01:03:01     ------------------------------------------------------------  1080
+Patr-DRA*01:01:02:01  GTTGCCTCATGGGACAGTGATAGCCATTCCCTGCCTTCCCATCTCCATGGTACAGCAGAT  1080
+Patr-DRA*01:03:01:01  GTTGCCTCATGGGACAGTGATAGCCATTCCCTGCCTTCCCATCTCCATGGTACAGCAGAT  1080
 Patr-DRA*01:03:02     ------------------------------------------------------------  1080
 Patr-DRA*01:04        ------------------------------------------------------------  1080
 
 HLA-DRA*01:01:01:01   CTTATATCATGTTAACTTAGTAATATTTCCAAGAGAGTAGAAAAATAAGTAAGGAAATGG  1140
 Patr-DRA*01:01:01     ------------------------------------------------------------  1140
-Patr-DRA*01:01:02     ------------------------------------------------------------  1140
-Patr-DRA*01:03:01     ------------------------------------------------------------  1140
+Patr-DRA*01:01:02:01  CTTATATCATGTTAACTTAGTAATATTTCCAAGAGAGTAGAAAAATAAGTAAGGAAATGG  1140
+Patr-DRA*01:03:01:01  CTTATATCATGTTAACTTAGTAATATTTCCAAGAGAGTAGAAAAATAAGTAAGGAAATGG  1140
 Patr-DRA*01:03:02     ------------------------------------------------------------  1140
 Patr-DRA*01:04        ------------------------------------------------------------  1140
 
 HLA-DRA*01:01:01:01   GGAATCTGATATTATTGTCTCTCATCTCCAGAGCAACATTGGTGCTGTTGTAAAGATGTA  1200
 Patr-DRA*01:01:01     ------------------------------------------------------------  1200
-Patr-DRA*01:01:02     ------------------------------------------------------------  1200
-Patr-DRA*01:03:01     ------------------------------------------------------------  1200
+Patr-DRA*01:01:02:01  GGAATCTGATATTATTCTCTCTCATCTCCAGAGCAACACTGGTGCTGTTGTAAAGATGTA  1200
+Patr-DRA*01:03:01:01  GGAATCTGATATTATTCTCTCTCATCTCCAGAGCAACACTGGTGCTGTTGTAAAGATGTA  1200
 Patr-DRA*01:03:02     ------------------------------------------------------------  1200
 Patr-DRA*01:04        ------------------------------------------------------------  1200
 
 HLA-DRA*01:01:01:01   CTGTAGAAAAGTATTCTTCACCCAGCGTGACCCCCACAGAAGGTGTCAGGTAGACTTGAA  1260
 Patr-DRA*01:01:01     ------------------------------------------------------------  1260
-Patr-DRA*01:01:02     ------------------------------------------------------------  1260
-Patr-DRA*01:03:01     ------------------------------------------------------------  1260
+Patr-DRA*01:01:02:01  CTGTAGAAAAGTATTCTTCACCCAGAGTGACCCCCACAGAAGGTATCAGGTAGACTTGAA  1260
+Patr-DRA*01:03:01:01  CTGTAGAAAAGTATTCTTCACCCAGAGTGACCCCCACAGAAGGTATCAGGTAGACTTGAA  1260
 Patr-DRA*01:03:02     ------------------------------------------------------------  1260
 Patr-DRA*01:04        ------------------------------------------------------------  1260
 
 HLA-DRA*01:01:01:01   ATAAGCAAAGTAATAACCCAGCTCCCATACCCATAGTGGCAATTGTAGATTTCTATTGCC  1320
 Patr-DRA*01:01:01     ------------------------------------------------------------  1320
-Patr-DRA*01:01:02     ------------------------------------------------------------  1320
-Patr-DRA*01:03:01     ------------------------------------------------------------  1320
+Patr-DRA*01:01:02:01  ATAAGCAAAGTAATAACCCAGCTCCCATACCCATAGTGTCAATGGTAGATTTCTATTGCC  1320
+Patr-DRA*01:03:01:01  ATAAGCAAAGTAATAACCCAGCTCCCATACCCATAGTGTCAATGGTAGATTTCTATTGCC  1320
 Patr-DRA*01:03:02     ------------------------------------------------------------  1320
 Patr-DRA*01:04        ------------------------------------------------------------  1320
 
 HLA-DRA*01:01:01:01   CCAAAAGAGCCATACATAGGGATACTTACCTAGAAAGACAGAGGATCTTCCCTTGGTTTG  1380
 Patr-DRA*01:01:01     ------------------------------------------------------------  1380
-Patr-DRA*01:01:02     ------------------------------------------------------------  1380
-Patr-DRA*01:03:01     ------------------------------------------------------------  1380
+Patr-DRA*01:01:02:01  CCAAAAGAGCCATACATAGGGATACTTACCTAGAAAGACAGAGGCTCTTCCCTTGGTTTG  1380
+Patr-DRA*01:03:01:01  CCAAAAGAGCCATACATAGGGATACTTACCTAGAAAGACAGAGGCTCTTCCCTTGGTTTG  1380
 Patr-DRA*01:03:02     ------------------------------------------------------------  1380
 Patr-DRA*01:04        ------------------------------------------------------------  1380
 
 HLA-DRA*01:01:01:01   TGAAGAGGCAGCTAGTATATTTGTGTGTGTTTGCATAGATGCAAACGGTAAATAAATTCC  1440
 Patr-DRA*01:01:01     ------------------------------------------------------------  1440
-Patr-DRA*01:01:02     ------------------------------------------------------------  1440
-Patr-DRA*01:03:01     ------------------------------------------------------------  1440
+Patr-DRA*01:01:02:01  TGAAGAGGCAGCTAGTATATTTGTGTGTGTTTGCATAGATGCAAACGGTAAATAAATTCC  1440
+Patr-DRA*01:03:01:01  TGAAGAGGCAGCTAGTATATTTGTGTGTGTTTGCATAGATGCAAACGGTAAATAAATTCC  1440
 Patr-DRA*01:03:02     ------------------------------------------------------------  1440
 Patr-DRA*01:04        ------------------------------------------------------------  1440
 
 HLA-DRA*01:01:01:01   TAGGTTTATCAATACACAGTCAAACATTAAAATCTCTCATCTTGGCTGGGCACGGTGGCT  1500
 Patr-DRA*01:01:01     ------------------------------------------------------------  1500
-Patr-DRA*01:01:02     ------------------------------------------------------------  1500
-Patr-DRA*01:03:01     ------------------------------------------------------------  1500
+Patr-DRA*01:01:02:01  TAGGTTTATCAATACACAGTCAAACATTAAAATCTCTCATCTTGGCTGGGCACGGTGGCT  1500
+Patr-DRA*01:03:01:01  TAGGTTTATCAATACACAGTCAAACATTAAAATCTCTCATCTTGGCTGGGCACGGTGGCT  1500
 Patr-DRA*01:03:02     ------------------------------------------------------------  1500
 Patr-DRA*01:04        ------------------------------------------------------------  1500
 
 HLA-DRA*01:01:01:01   CACGCCTGTAATCCCAGCACTTTGGGAGGCCGAGGCGGGCGGATCACGAGGTCAAGAGAT  1560
 Patr-DRA*01:01:01     ------------------------------------------------------------  1560
-Patr-DRA*01:01:02     ------------------------------------------------------------  1560
-Patr-DRA*01:03:01     ------------------------------------------------------------  1560
+Patr-DRA*01:01:02:01  CACACCTGTAATCCCAGCACTTTGGGAGGCCGAGGTGGGCAGATCACGAGGTCAAGAGAT  1560
+Patr-DRA*01:03:01:01  CACACCTGTAATCCCAGCACTTTGGGAGGCCGAGGTGGGCAGATCACGAGGTCAAGAGAT  1560
 Patr-DRA*01:03:02     ------------------------------------------------------------  1560
 Patr-DRA*01:04        ------------------------------------------------------------  1560
 
 HLA-DRA*01:01:01:01   CGAGACCGTCCTGGGCAACATGGTGAAACCCCGTCTCTACTAAAAATACAAAAAATTAGC  1620
 Patr-DRA*01:01:01     ------------------------------------------------------------  1620
-Patr-DRA*01:01:02     ------------------------------------------------------------  1620
-Patr-DRA*01:03:01     ------------------------------------------------------------  1620
+Patr-DRA*01:01:02:01  CGAGACCGTCCTGGGCAACATGGTGAAACCCCGTCTCTACTAAAAATACAAAAAATTAGC  1620
+Patr-DRA*01:03:01:01  CGAGACCGTCCTGGGCAACATGGTGAAACCCCGTCTCTACTAAAAATACAAAAAATTAGC  1620
 Patr-DRA*01:03:02     ------------------------------------------------------------  1620
 Patr-DRA*01:04        ------------------------------------------------------------  1620
 
 HLA-DRA*01:01:01:01   TGGGTATGGTGGCACACGCCTGTAGTCCCAGCTACTCGGGAGGCTGAGGCAGGAGAATTG  1680
 Patr-DRA*01:01:01     ------------------------------------------------------------  1680
-Patr-DRA*01:01:02     ------------------------------------------------------------  1680
-Patr-DRA*01:03:01     ------------------------------------------------------------  1680
+Patr-DRA*01:01:02:01  TGGGTATGGTGGCACACGCCTGTAGTCCCAGCTACTCGGGAGGCTGAGGCAGG---ATTG  1680
+Patr-DRA*01:03:01:01  TGGGTATGGTGGCACACGCCTGTAGTCCCAGCTACTCGGGAGGCTGAGGCAGG---ATTG  1680
 Patr-DRA*01:03:02     ------------------------------------------------------------  1680
 Patr-DRA*01:04        ------------------------------------------------------------  1680
 
 HLA-DRA*01:01:01:01   CTTGAGCCCGGGAGGCGGAGGTTGCAGTGAGCTGAGATGGTGCCACTGCACTCCAGCCTG  1740
 Patr-DRA*01:01:01     ------------------------------------------------------------  1740
-Patr-DRA*01:01:02     ------------------------------------------------------------  1740
-Patr-DRA*01:03:01     ------------------------------------------------------------  1740
+Patr-DRA*01:01:02:01  CTTGAACCCGGGAGGCGGAGGTTGCAGTGAGCTGAGATGGTGCCACTGCACTCCAGCCTG  1740
+Patr-DRA*01:03:01:01  CTTGAACCCGGGAGGCGGAGGTTGCAGTGAGCTGAGATGGTGCCACTGCACTCCAGCCTG  1740
 Patr-DRA*01:03:02     ------------------------------------------------------------  1740
 Patr-DRA*01:04        ------------------------------------------------------------  1740
 
 HLA-DRA*01:01:01:01   GCGATAGAGCAAGACTCCGTCTCAAACAACCAAACCAAAACAAAACAAAATATCTCACCT  1800
 Patr-DRA*01:01:01     ------------------------------------------------------------  1800
-Patr-DRA*01:01:02     ------------------------------------------------------------  1800
-Patr-DRA*01:03:01     ------------------------------------------------------------  1800
+Patr-DRA*01:01:02:01  GCGATAGAGCAAGACTCCGTCTCAAACAACCAAACCAAAACAAAACAAAATATCTCACCT  1800
+Patr-DRA*01:03:01:01  GTGATAGAGCAAGACTCCGTCTCAAACAACCAAACCAAAACAAAACAAAATATCTCACCT  1800
 Patr-DRA*01:03:02     ------------------------------------------------------------  1800
 Patr-DRA*01:04        ------------------------------------------------------------  1800
 
 HLA-DRA*01:01:01:01   TATCTTTGAAGACTAAGGAAAAAAAAAATCTCCCACTCATCGATACACTCCACAGAGGCA  1860
 Patr-DRA*01:01:01     ------------------------------------------------------------  1860
-Patr-DRA*01:01:02     ------------------------------------------------------------  1860
-Patr-DRA*01:03:01     ------------------------------------------------------------  1860
+Patr-DRA*01:01:02:01  TATCTTTGAAGACTAAGGAAAAAAAAAATCTCCCACTCATCGATACACTCCACAGAGGCA  1860
+Patr-DRA*01:03:01:01  TATCTTTGAAGACTAAGGAAAAAAAAAATCTCCCACTCATCGATACACTCCACAGAGGCA  1860
 Patr-DRA*01:03:02     ------------------------------------------------------------  1860
 Patr-DRA*01:04        ------------------------------------------------------------  1860
 
 HLA-DRA*01:01:01:01   GCATACTCTCCCAGTGTAGCTTTCTCTTTTCATGTTCATTATTCCCTTGGTGTTGGTTAT  1920
 Patr-DRA*01:01:01     ------------------------------------------------------------  1920
-Patr-DRA*01:01:02     ------------------------------------------------------------  1920
-Patr-DRA*01:03:01     ------------------------------------------------------------  1920
+Patr-DRA*01:01:02:01  GCATACTCTCCAAGTGTAGCTTTCTCTTTTCATGTTCATTATTCCCTTGGTGTTGGTTAT  1920
+Patr-DRA*01:03:01:01  GCATACTCTCCAAGTGTAGCTTTCTCTTTTCATGTTCATTATTCCCTTGGTGTTGGTTAT  1920
 Patr-DRA*01:03:02     ------------------------------------------------------------  1920
 Patr-DRA*01:04        ------------------------------------------------------------  1920
 
 HLA-DRA*01:01:01:01   TCTCAATGTCAATCGTAACAGAACATCTTCCATAATAACAGTCCCAATTTAAGGAGCATT  1980
 Patr-DRA*01:01:01     ------------------------------------------------------------  1980
-Patr-DRA*01:01:02     ------------------------------------------------------------  1980
-Patr-DRA*01:03:01     ------------------------------------------------------------  1980
+Patr-DRA*01:01:02:01  TCTCAATGTCAATCATAATAGAATATCTTCCATAATAACAGTCCCAATTTAAGGAGCATT  1980
+Patr-DRA*01:03:01:01  TCTCAATGTCAATCATAATAGAATATCTTCCATAATAACAGTCCCAATTTAAGGAGCATT  1980
 Patr-DRA*01:03:02     ------------------------------------------------------------  1980
 Patr-DRA*01:04        ------------------------------------------------------------  1980
 
 HLA-DRA*01:01:01:01   AAGATAAAAGGTGGAATTGCCAAGGTCAATCCAGACGAGAACCTTCTCATAGAGGTAACC  2040
 Patr-DRA*01:01:01     ------------------------------------------------------------  2040
-Patr-DRA*01:01:02     ------------------------------------------------------------  2040
-Patr-DRA*01:03:01     ------------------------------------------------------------  2040
+Patr-DRA*01:01:02:01  AAGATAAAAGGTGGAATTGCCAAGGTCAATCCAGACGAGAACCTTCTCATAGAGGTAACC  2040
+Patr-DRA*01:03:01:01  AAGATAAAAGGTGGAATTGCCAAGGTCAATCCAGACGAGAACCTTCTCATAGAGGTAACC  2040
 Patr-DRA*01:03:02     ------------------------------------------------------------  2040
 Patr-DRA*01:04        ------------------------------------------------------------  2040
 
 HLA-DRA*01:01:01:01   ACCGTGTGGGTTTGGATGCTGGGAAGCAGGGGGACTATGACGCTACAAGGTCTCAGTCTT  2100
 Patr-DRA*01:01:01     ------------------------------------------------------------  2100
-Patr-DRA*01:01:02     ------------------------------------------------------------  2100
-Patr-DRA*01:03:01     ------------------------------------------------------------  2100
+Patr-DRA*01:01:02:01  ACCGTGTGGGTTTGGATGCTGGGAAGCAGGGGGACTATGACGCTACAAGGTCTCAGTCTT  2100
+Patr-DRA*01:03:01:01  ACCGTGTGGGTTTGGATGCTGGGAAGCAGGGGGACTATGACGCTACAAGGTCTCAGTCTT  2100
 Patr-DRA*01:03:02     ------------------------------------------------------------  2100
 Patr-DRA*01:04        ------------------------------------------------------------  2100
 
 HLA-DRA*01:01:01:01   AATTTTTGGAGTACTTCAGTCCCCAGGTATATTTTCCATAGATTTGGCCCTTAAATAAAG  2160
 Patr-DRA*01:01:01     ------------------------------------------------------------  2160
-Patr-DRA*01:01:02     ------------------------------------------------------------  2160
-Patr-DRA*01:03:01     ------------------------------------------------------------  2160
+Patr-DRA*01:01:02:01  AATTTTTGGAGTACTTCAGTCCCCAGGTATATTTTCCATAGATTTGGCCCTTAAATAAAA  2160
+Patr-DRA*01:03:01:01  AATTTTTGGAGTACTTCAGTCCCCAGGTATATTTTCCATAGATTTGGCCCTTAAATAAAA  2160
 Patr-DRA*01:03:02     ------------------------------------------------------------  2160
 Patr-DRA*01:04        ------------------------------------------------------------  2160
 
 HLA-DRA*01:01:01:01   AGAAGCTTCTGACTCTAAAATGTAAACAGTGCTTGTTACAGTCTTGTTGATATATTAAGA  2220
 Patr-DRA*01:01:01     ------------------------------------------------------------  2220
-Patr-DRA*01:01:02     ------------------------------------------------------------  2220
-Patr-DRA*01:03:01     ------------------------------------------------------------  2220
+Patr-DRA*01:01:02:01  AGAAGCTTCTGACTCTAAAATGTAAACAGTGCTTGTTACAGTCTTGTTGATATATTAAGA  2220
+Patr-DRA*01:03:01:01  AGAAGCTTCTGACTCTAAAATGTAAACAGTGCTTGTTACAGTCTTGTTGATATATTAAGA  2220
 Patr-DRA*01:03:02     ------------------------------------------------------------  2220
 Patr-DRA*01:04        ------------------------------------------------------------  2220
 
 HLA-DRA*01:01:01:01   AATTACTCACCTTATCTCATTTAATCTTAAAAACAAACCCCTGACAGGATCAAAACCACA  2280
 Patr-DRA*01:01:01     ------------------------------------------------------------  2280
-Patr-DRA*01:01:02     ------------------------------------------------------------  2280
-Patr-DRA*01:03:01     ------------------------------------------------------------  2280
+Patr-DRA*01:01:02:01  AATTACTCACCTTATCTCATTTAATCTTAAAAACAAACCCCTGACAGGATCAAAACCACA  2280
+Patr-DRA*01:03:01:01  AATTACTCACCTTATCTCATTTAATCTTAAAAACAAACCCCTGACAGGATCAAAACCACA  2280
 Patr-DRA*01:03:02     ------------------------------------------------------------  2280
 Patr-DRA*01:04        ------------------------------------------------------------  2280
 
 HLA-DRA*01:01:01:01   GCAGGACTACATAATAGGAAAACTATACATAAATAGGTAGAATAATCTGCTCAGGATCAC  2340
 Patr-DRA*01:01:01     ------------------------------------------------------------  2340
-Patr-DRA*01:01:02     ------------------------------------------------------------  2340
-Patr-DRA*01:03:01     ------------------------------------------------------------  2340
+Patr-DRA*01:01:02:01  GCAGGGCTACATAATAGGAAAACTATACATAAATAGGTAGAATAATCTGCTCAGGATCAC  2340
+Patr-DRA*01:03:01:01  GCAGGGCTACATAATAGGAAAACTATACATAAATAGGTAGAATAATCTGCTCAGGATCAC  2340
 Patr-DRA*01:03:02     ------------------------------------------------------------  2340
 Patr-DRA*01:04        ------------------------------------------------------------  2340
 
 HLA-DRA*01:01:01:01   TAGGTAAGTTGCTGAATAAGAATTCAAGATGTTTTTGATCCCAGAGTTTAAAACCCAACC  2400
 Patr-DRA*01:01:01     ------------------------------------------------------------  2400
-Patr-DRA*01:01:02     ------------------------------------------------------------  2400
-Patr-DRA*01:03:01     ------------------------------------------------------------  2400
+Patr-DRA*01:01:02:01  TAGGTAAGTTGCTGAATAAGAATTCAAGATGTTTTTGATCCCAGAGTTTAAAACCCAACC  2400
+Patr-DRA*01:03:01:01  TAGGTAAGTTGCTGAATAAGAATTCAAGATGTTTTTGATCCCAGAGTTTAAAACCCAACC  2400
 Patr-DRA*01:03:02     ------------------------------------------------------------  2400
 Patr-DRA*01:04        ------------------------------------------------------------  2400
 
 HLA-DRA*01:01:01:01   TTTCAAACAGTGTTTCCTTCTTCTTAGAGTACAATGTTCTGAGAAAGAGATCCTCTGGAA  2460
 Patr-DRA*01:01:01     ------------------------------------------------------------  2460
-Patr-DRA*01:01:02     ------------------------------------------------------------  2460
-Patr-DRA*01:03:01     ------------------------------------------------------------  2460
+Patr-DRA*01:01:02:01  TTTCAAACAGCGTTTCTCTCTTCTTAGAGTACAATGTTCTGAGAAAGAGATGCTCTGGAA  2460
+Patr-DRA*01:03:01:01  TTTCAAACAGCGTTTCTCTCTTCTTAGAGTACAATGTTCTGAGAAAGAGATGCTCTGGAA  2460
 Patr-DRA*01:03:02     ------------------------------------------------------------  2460
 Patr-DRA*01:04        ------------------------------------------------------------  2460
 
 HLA-DRA*01:01:01:01   TTCTGGCCTAAGTGTATTTAATGCCCGGGTAAAGAAAGTGAGAGAACATTTCTCTTTAGG  2520
 Patr-DRA*01:01:01     ------------------------------------------------------------  2520
-Patr-DRA*01:01:02     ------------------------------------------------------------  2520
-Patr-DRA*01:03:01     ------------------------------------------------------------  2520
+Patr-DRA*01:01:02:01  TTCTGGCCTAAGTGTATTTAATGCCCGGGTAAAGAAAGTGAGAGAACATTTCTCTTTAGG  2520
+Patr-DRA*01:03:01:01  TTCTGGCCTAAGTGTATTTAATGCCCGGGTAAAGAAAGTGAGAGAACATTTCTCTTTAGG  2520
 Patr-DRA*01:03:02     ------------------------------------------------------------  2520
 Patr-DRA*01:04        ------------------------------------------------------------  2520
 
 HLA-DRA*01:01:01:01   GGCTGCTGCTGGATTTCTAAAAAGAAAATAATTTCTCAGCTAGTAACATGGAGCCAAACA  2580
 Patr-DRA*01:01:01     ------------------------------------------------------------  2580
-Patr-DRA*01:01:02     ------------------------------------------------------------  2580
-Patr-DRA*01:03:01     ------------------------------------------------------------  2580
+Patr-DRA*01:01:02:01  GGCTGCTGCTGGATTTCTAAAAAGAAAATAATTTCTCAGCTACTAACATGGAGCCAAACA  2580
+Patr-DRA*01:03:01:01  GGCTGCTGCTGGATTTCTAAAAAGAAAATAATTTCTCAGCTACTAACATGGAGCCAAACA  2580
 Patr-DRA*01:03:02     ------------------------------------------------------------  2580
 Patr-DRA*01:04        ------------------------------------------------------------  2580
 
 HLA-DRA*01:01:01:01   ACAGCTTCACAAGACTCTGGGTTCTTTAGCCCTCATCTCCTTCAATCCACCCTCTTTATA  2640
 Patr-DRA*01:01:01     ------------------------------------------------------------  2640
-Patr-DRA*01:01:02     ------------------------------------------------------------  2640
-Patr-DRA*01:03:01     ------------------------------------------------------------  2640
+Patr-DRA*01:01:02:01  ACAGCTTCACAAGACTGTGGGTTCTTTAGCCCTCATCTCCTTCAATCCACCCTCTTTTTA  2640
+Patr-DRA*01:03:01:01  ACAGCTTCACAAGACTGTGGGTTCTTTAGCCCTCATCTCCTTCAATCCACCCTCTTTTTA  2640
 Patr-DRA*01:03:02     ------------------------------------------------------------  2640
 Patr-DRA*01:04        ------------------------------------------------------------  2640
 
 HLA-DRA*01:01:01:01   ACCAGTCCTTCTTGTTTTTCCCCTCCCAGCTTTGTTCAGCAGCATGCCCTTCACCCAGAC  2700
 Patr-DRA*01:01:01     ------------------------------------------------------------  2700
-Patr-DRA*01:01:02     ------------------------------------------------------------  2700
-Patr-DRA*01:03:01     ------------------------------------------------------------  2700
+Patr-DRA*01:01:02:01  ACCAGTTCTTCCTGTTTCTCCCCTCCCAGCTTTGTTCAGCAGCATGCCCTTCACCCAGAC  2700
+Patr-DRA*01:03:01:01  ACCAGTTCTTCCTGTTTCTCCCCTCCCAGCTTTGTTCAGCAGCATGCCCTTCACCCAGAC  2700
 Patr-DRA*01:03:02     ------------------------------------------------------------  2700
 Patr-DRA*01:04        ------------------------------------------------------------  2700
 
 HLA-DRA*01:01:01:01   CTTGTCTTGTCACTCATCCCTACTCGCCATCATTCTTTCATTCCTCTTGGCCCAATCTCT  2760
 Patr-DRA*01:01:01     ------------------------------------------------------------  2760
-Patr-DRA*01:01:02     ------------------------------------------------------------  2760
-Patr-DRA*01:03:01     ------------------------------------------------------------  2760
+Patr-DRA*01:01:02:01  CTTGTCTTGTCACTCATCTCTACTTGCCATCATTCTTTCATTCCTCTTGGCCCAATCTCT  2760
+Patr-DRA*01:03:01:01  CTTGTCTTGTCACTCATCTCTACTTGCCATCATTCTTTCATTCCTCTTGGCCCAATCTCT  2760
 Patr-DRA*01:03:02     ------------------------------------------------------------  2760
 Patr-DRA*01:04        ------------------------------------------------------------  2760
 
 HLA-DRA*01:01:01:01   CTCCACCACTTCCTGCCTACATGTATGTAGGTTATTCATTTCCCTCTCTTGATTCCCCCC  2820
 Patr-DRA*01:01:01     ------------------------------------------------------------  2820
-Patr-DRA*01:01:02     ------------------------------------------------------------  2820
-Patr-DRA*01:03:01     ------------------------------------------------------------  2820
+Patr-DRA*01:01:02:01  CTCCACCACTTCCTGCCTACATGTATGTAGGTTATTCATTTCCCTCTCTTGATTCCCCCC  2820
+Patr-DRA*01:03:01:01  CTCCACCACTTCCTGCCTACATGTATGTAGGTTATTCATTTCCCTCTCTTGATTCCCCCC  2820
 Patr-DRA*01:03:02     ------------------------------------------------------------  2820
 Patr-DRA*01:04        ------------------------------------------------------------  2820
 
 HLA-DRA*01:01:01:01   ACCCAACTCTCTTTCTCCATTTCTTGCCTTTCAGAAGAACATGTGATCATCCAGGCCGAG  2880
 Patr-DRA*01:01:01     ----------------------------------AAGAACATGTGATCATCCAGGCCGAG  2880
-Patr-DRA*01:01:02     ----------------------------------AAGAACATGTGATCATCCAGGCCGAG  2880
-Patr-DRA*01:03:01     ----------------------------------AAGAACATGTGATCATCCAGGCCGAG  2880
+Patr-DRA*01:01:02:01  ACCCAACTCTCTTTCTCCATTTCTTGCTTTTCAGAAGAACATGTGATCATCCAGGCCGAG  2880
+Patr-DRA*01:03:01:01  ACCCAACTCTCTTTCTCCATTTCTTGCTTTTCAGAAGAACATGTGATCATCCAGGCCGAG  2880
 Patr-DRA*01:03:02     ----------------------------------AAGAACATGTGATCATCCAGGCCGAG  2880
 Patr-DRA*01:04        ----------------------------------AAGAACATGTGATCATCCAGGCCGAG  2880
 
 HLA-DRA*01:01:01:01   TTCTATCTGAATCCTGACCAATCAGGCGAGTTTATGTTTGACTTTGATGGTGATGAGATT  2940
 Patr-DRA*01:01:01     TTCTATCTGAATCCTGACCAATCAGGCGAGTTTATGTTTGACTTTGATGGTGATGAGATT  2940
-Patr-DRA*01:01:02     TTCTATCTGAATCCTGACCAATCAGGCGAGTTTATGTTTGACTTTGATGGTGATGAGATT  2940
-Patr-DRA*01:03:01     TTCTATCTGAATCCTGACCAATCAGGCGAGTTTATGTTTGACTTTGATGGTGATGAGATT  2940
+Patr-DRA*01:01:02:01  TTCTATCTGAATCCTGACCAATCAGGCGAGTTTATGTTTGACTTTGATGGTGATGAGATT  2940
+Patr-DRA*01:03:01:01  TTCTATCTGAATCCTGACCAATCAGGCGAGTTTATGTTTGACTTTGATGGTGATGAGATT  2940
 Patr-DRA*01:03:02     TTCTATCTGAATCCTGACCAATCAGGCGAGTTTATGTTTGACTTTGATGGTGATGAGATT  2940
 Patr-DRA*01:04        TTCTATCTGAATCCTGACCAATCAGGCGAGTTTATGTTTGACTTTGATGGTGATGAGATT  2940
 
 HLA-DRA*01:01:01:01   TTCCATGTGGATATGGCAAAGAAGGAGACGGTCTGGCGGCTTGAAGAATTTGGACGATTT  3000
 Patr-DRA*01:01:01     TTCCACGTGGATATGGCAAAGAAGGAGACGGTCTGGCGGCTTGAAGAATTTGGACGATTT  3000
-Patr-DRA*01:01:02     TTCCACGTGGATATGGCAAAGAAGGAGACGGTCTGGCGGCTTGAAGAATTTGGACGATTT  3000
-Patr-DRA*01:03:01     TTCCACGTGGATATGGCAAAGAAGGAGACGGTCTGGCGGCTTGAAGAATTTGGACGATTT  3000
+Patr-DRA*01:01:02:01  TTCCACGTGGATATGGCAAAGAAGGAGACGGTCTGGCGGCTTGAAGAATTTGGACGATTT  3000
+Patr-DRA*01:03:01:01  TTCCACGTGGATATGGCAAAGAAGGAGACGGTCTGGCGGCTTGAAGAATTTGGACGATTT  3000
 Patr-DRA*01:03:02     TTCCACGTGGATATGGCAAAGAAGGAGACGGTCTGGCGGCTTGAAGAATTTGGACGATTT  3000
 Patr-DRA*01:04        TTCCACGTGGATATGGCAAAGAAGGAGACGGTCTGGCGGCTTGAAGAATTTGGACGATTT  3000
 
 HLA-DRA*01:01:01:01   GCCAGCTTTGAGGCTCAAGGTGCATTGGCCAACATAGCTGTGGACAAAGCCAACCTGGAA  3060
 Patr-DRA*01:01:01     GCCAGCTTTGAGGCTCAAGGTGCATTGGCCAACATAGCTGTGGACAAAGCCAACCTGGAA  3060
-Patr-DRA*01:01:02     GCCAGCTTTGAGGCTCAAGGTGCATTGGCCAACATAGCTGTGGACAAAGCCAACCTGGAA  3060
-Patr-DRA*01:03:01     GCCAGCTTTGAGGCTCAAGGTGCATTGGCCAACATAGCTGTGGACAAAGCCAACCTGGAA  3060
+Patr-DRA*01:01:02:01  GCCAGCTTTGAGGCTCAAGGTGCATTGGCCAACATAGCTGTGGACAAAGCCAACCTGGAA  3060
+Patr-DRA*01:03:01:01  GCCAGCTTTGAGGCTCAAGGTGCATTGGCCAACATAGCTGTGGACAAAGCCAACCTGGAA  3060
 Patr-DRA*01:03:02     GCCAGCTTTGAGGCTCAAGGTGCATTGGCCAACATAGCTGTGGACAAAGCCAACCTGGAA  3060
 Patr-DRA*01:04        GCCAGCTTTGAGGCTCAAGGTGCATTGGCCAACATAGCTGTGGACAAAGCCAACCTGGAA  3060
 
 HLA-DRA*01:01:01:01   ATCATGACAAAGCGCTCCAACTATACTCCGATCACCAATGGTACCTCCCTCTCTGCTGCA  3120
 Patr-DRA*01:01:01     ATCATGACAAAGCGCTCCAACTATACTCCGATCACCAATGGTACCTCCCTCTCTGCTGCA  3120
-Patr-DRA*01:01:02     ATCATGACAAAGCGCTCCAACTATACTCCGATCACCAATGGTACCTCCCTCTCTGCTGCA  3120
-Patr-DRA*01:03:01     ATCATGACAAAGCGCTCCAACTATACTCCGATCACCAATG--------------------  3120
+Patr-DRA*01:01:02:01  ATCATGACAAAGCGCTCCAACTATACTCCGATCACCAATGGTACCTCCCTCTCTGCTGCA  3120
+Patr-DRA*01:03:01:01  ATCATGACAAAGCGCTCCAACTATACTCCGATCACCAATGGTACCTCCCTCTCTGCTGCA  3120
 Patr-DRA*01:03:02     ATCATGACAAAGCGCTCCAACTATACTCCAATCACCAATG--------------------  3120
 Patr-DRA*01:04        ATCATGACAAAGCGCTCCAACTATACTCCGATCACCAATG--------------------  3120
 
 HLA-DRA*01:01:01:01   CTCCTGGACATGGGAATCCATAGTTTGAAAGTAGTTGCTTCAGCTCTTTGTGTTAGATTA  3180
 Patr-DRA*01:01:01     CTCCTGGACATGGGAATCCATAGTTTGAAAGTAGTTGCTTCAGCTCTTTGTGTTAGATTA  3180
-Patr-DRA*01:01:02     CTCCTGGACATGGGAATCCATAGTTTGAAAGTAGTTGCTTCAGCTCTTTGTGTTAGATTA  3180
-Patr-DRA*01:03:01     ------------------------------------------------------------  3180
+Patr-DRA*01:01:02:01  CTCCTGGACATGGGAATCCATAGTTTGAAAGTAGTTGCTTCAGCTCTTTGTGTTAGATTA  3180
+Patr-DRA*01:03:01:01  CTCCTGGACATGGGAATCCATAGTTTGAAAGTAGTTGCTTCAGCTCTTTGTGTTAGATTA  3180
 Patr-DRA*01:03:02     ------------------------------------------------------------  3180
 Patr-DRA*01:04        ------------------------------------------------------------  3180
 
 HLA-DRA*01:01:01:01   TTGTAACTGATTTTCCCTCCAAGGGCCTAACCTTGCCATTAACAAGCCCCAAATTCTCAT  3240
 Patr-DRA*01:01:01     TTGTAACTGATTTTCCCTCCAAGGGCCTAACCTTGCCATTAACAAGCCCCAAATTCTCAT  3240
-Patr-DRA*01:01:02     TTGTAACTGATTTTCCCTCCAAGGGCCTAACCTTGCCATTAACAAGCCCCAAATTCTCAT  3240
-Patr-DRA*01:03:01     ------------------------------------------------------------  3240
+Patr-DRA*01:01:02:01  TTGTAACTGATTTTCCCTCCAAGGGCCTAACCTTGCCATTAACAAGCCCCAAATTCTCAT  3240
+Patr-DRA*01:03:01:01  TTGTAACTGATTTTCCCTCCAAGGGCCTAACCTTGCCATTAACAAGCCCCAAATTCTCAT  3240
 Patr-DRA*01:03:02     ------------------------------------------------------------  3240
 Patr-DRA*01:04        ------------------------------------------------------------  3240
 
 HLA-DRA*01:01:01:01   GCCAGAGGTCTGAGAACTTTATGGGTTTGATCCTATCTTGTTGTGCTCAAGTCTTGTCTC  3300
 Patr-DRA*01:01:01     GCCAGAGGTCTGAGAACTTTGTGGGTTTGATCCTATCTTGTTGTGCTCAAGTCTTGTCTC  3300
-Patr-DRA*01:01:02     GCCAGAGGTCTGAGAACTTTATGGGTTTGATCCTATCTTGTTGTGCTCAAGTCTTGTCTC  3300
-Patr-DRA*01:03:01     ------------------------------------------------------------  3300
+Patr-DRA*01:01:02:01  GCCAGAGGTCTGAGAACTTTATGGGTTTGATCCTATCTTGTTGTGCTCAAGTCTTGTCTC  3300
+Patr-DRA*01:03:01:01  GCCAGAGGTCTGAGAACTTTGTGGGTTTGATCCTATCTTGTTGTGCTCAAGTCTTGTCTC  3300
 Patr-DRA*01:03:02     ------------------------------------------------------------  3300
 Patr-DRA*01:04        ------------------------------------------------------------  3300
 
 HLA-DRA*01:01:01:01   TGTCATCCATGGTCTCCTACGAAGTCATTGCCCTAAGTTCATGCTAGGGGAGCCAGAAGG  3360
 Patr-DRA*01:01:01     TGTCATCCATGGTCTCCTACGAAGTCATTGCCCTAAGTTCATGCTGGGGGAGCCAGAAGG  3360
-Patr-DRA*01:01:02     TGTCATCCATGGTCTCCTACGAAGTCATTGCCCTAAGTTCATGCTGGGGGAGCCAGAAGG  3360
-Patr-DRA*01:03:01     ------------------------------------------------------------  3360
+Patr-DRA*01:01:02:01  TGTCATCCATGGTCTCCTACGAAGTCATTGCCCTAAGTTCATGCTGGGGGAGCCAGAAGG  3360
+Patr-DRA*01:03:01:01  TGTCATCCATGGTCTCCTACGAAGTCATTGCCCTAAGTTCATGCTGGGGGAGCCAGAAGG  3360
 Patr-DRA*01:03:02     ------------------------------------------------------------  3360
 Patr-DRA*01:04        ------------------------------------------------------------  3360
 
 HLA-DRA*01:01:01:01   GAAGTCCTTGGATATCTTATACCTCAATATTGGCTCAATTTCTTGGGGAGGGGGTGCTGT  3420
 Patr-DRA*01:01:01     GAAGTCCTTGGATATCTTATACCTCAATATTGGCTCAATTTCTTGGGGAGGGGGTGCTGT  3420
-Patr-DRA*01:01:02     GAAGTCCTTGGATATCTTATACCTCAATATTGGCTCAATTTCTTGGGGAGGGGGTGCTGT  3420
-Patr-DRA*01:03:01     ------------------------------------------------------------  3420
+Patr-DRA*01:01:02:01  GAAGTCCTTGGATATCTTATACCTCAATATTGGCTCAATTTCTTGGGGAGGGGGTGCTGT  3420
+Patr-DRA*01:03:01:01  GAAGTCCTTGGATATCTTATACCTCAATATTGGCTCAATTTCTTGGGGAGGGGGTGCTGT  3420
 Patr-DRA*01:03:02     ------------------------------------------------------------  3420
 Patr-DRA*01:04        ------------------------------------------------------------  3420
 
 HLA-DRA*01:01:01:01   CAGAGATTGTTATCTGAGGATGTGACATAGATTTCTCAGGGCACAATTTCAACTACTTTT  3480
 Patr-DRA*01:01:01     CAGAGATTGTTATCTGAGGATGTGACATAGATTTCTCAGGGCACAATTTCAACTACTTTT  3480
-Patr-DRA*01:01:02     CAGAGATTGTTATCTGAGGATGTGACATAGATTTCTCAGGGCACAATTTCAACTACTTTT  3480
-Patr-DRA*01:03:01     ------------------------------------------------------------  3480
+Patr-DRA*01:01:02:01  CAGAGATTGTTATCTGAGGATGTGACATAGATTTCTCAGGGCACAATTTCAACTACTTTT  3480
+Patr-DRA*01:03:01:01  CAGAGATTGTTATCTGAGGATGTGACATAGATTTCTCAGGGCACAATTTCAACTACTTTT  3480
 Patr-DRA*01:03:02     ------------------------------------------------------------  3480
 Patr-DRA*01:04        ------------------------------------------------------------  3480
 
 HLA-DRA*01:01:01:01   TCAGCTTTAGGGTTTTTAGATACGTTTGTACCACAATTGAGCATGGGAGGGAGAGGGGTG  3540
 Patr-DRA*01:01:01     TCAGCTTTAGGGTTTTTAGATAGGTTTGTACCACAATTGAGCATGGGAGGGAAAGGGGTG  3540
-Patr-DRA*01:01:02     TCAGCTTTAGGGTTTTTAGATAGGTTTGTACCACAATTGAGCATGGGAGGGAAAGGGGTG  3540
-Patr-DRA*01:03:01     ------------------------------------------------------------  3540
+Patr-DRA*01:01:02:01  TCAGCTTTAGGGTTTTTAGATAGGTTTGTACCACAATTGAGCATGGGAGGGAAAGGGGTG  3540
+Patr-DRA*01:03:01:01  TCAGCTTTAGGGTTTTTAGATAGGTTTGTACCACAATTGAGCATGGGAGGGAAAGGGGTG  3540
 Patr-DRA*01:03:02     ------------------------------------------------------------  3540
 Patr-DRA*01:04        ------------------------------------------------------------  3540
 
 HLA-DRA*01:01:01:01   AGCCTAAGCAGTGATGGCTGATTTCTGTCACGTCTGTCATGTGTCCCCCAGTACCTCCAG  3600
 Patr-DRA*01:01:01     AGCCTAAGCAGTGATGGCTGATTTCTGTCATGTCTGTCATGTGTCCCCCAGTACCTCCAG  3600
-Patr-DRA*01:01:02     AGCCTAAGCAGTGATGGCTGATTTCTGTCATGTCTGTCATGTGTCCCCCAGTACCTCCAG  3600
-Patr-DRA*01:03:01     ---------------------------------------------------TACCTCCAG  3600
+Patr-DRA*01:01:02:01  AGCCTAAGCAGTGATGGCTGATTTCTGTCATGTCTGTCATGTGTCCCCCAGTACCTCCAG  3600
+Patr-DRA*01:03:01:01  AGCCTAAGCAGTGATGGCTGATTTCTGTCATGTCTGTCATGTGTCCCCCAGTACCTCCAG  3600
 Patr-DRA*01:03:02     ---------------------------------------------------TACCTCCAG  3600
 Patr-DRA*01:04        ---------------------------------------------------TACCTCCAG  3600
 
 HLA-DRA*01:01:01:01   AGGTAACTGTGCTCACGAACAGCCCTGTGGAACTGAGAGAGCCCAACGTCCTCATCTGTT  3660
 Patr-DRA*01:01:01     AGGTAACTGTGCTCACAAACAGCCCTGTGGAACTGAGAGAGCCCAACATCCTCATCTGTT  3660
-Patr-DRA*01:01:02     AGGTAACTGTGCTCACAAACAGCCCTGTGGAACTGAGAGAGCCCAACATCCTCATCTGTT  3660
-Patr-DRA*01:03:01     AGGTAACTGTGCTCACAAACAGCCCTGTGGAACTGAGAGAGCCCAACATCCTCATCTGTT  3660
+Patr-DRA*01:01:02:01  AGGTAACTGTGCTCACAAACAGCCCTGTGGAACTGAGAGAGCCCAACATCCTCATCTGTT  3660
+Patr-DRA*01:03:01:01  AGGTAACTGTGCTCACAAACAGCCCTGTGGAACTGAGAGAGCCCAACATCCTCATCTGTT  3660
 Patr-DRA*01:03:02     AGGTAACTGTGCTCACAAACAGCCCTGTGGAACTGAGAGAGCCCAACATCCTCATCTGTT  3660
 Patr-DRA*01:04        AGGTAACTGTGCTCACAAACAGCCCTGTGGAACTGAGAGAGCCCAACATCCTCATCTGTT  3660
 
 HLA-DRA*01:01:01:01   TCATCGACAAGTTCACCCCACCAGTGGTCAATGTCACGTGGCTTCGAAATGGAAAACCTG  3720
 Patr-DRA*01:01:01     TCATCGACAAGTTCACCCCACCAGTGGTCAATGTCACGTGGCTTCGAAATGGAAAACCTG  3720
-Patr-DRA*01:01:02     TCATCGACAAGTTCACCCCACCAGTGGTCAATGTCACGTGGCTTCGAAATGGAAAACCTG  3720
-Patr-DRA*01:03:01     TCATCGACAAGTTCACCCCACCAGTGGTCAATGTCACGTGGCTTCGAAATGGAAAACCTG  3720
+Patr-DRA*01:01:02:01  TCATCGACAAGTTCACCCCACCAGTGGTCAATGTCACGTGGCTTCGAAATGGAAAACCTG  3720
+Patr-DRA*01:03:01:01  TCATCGACAAGTTCACCCCACCAGTGGTCAATGTCACGTGGCTTCGAAATGGAAAACCTG  3720
 Patr-DRA*01:03:02     TCATAGACAAGTTCACCCCACCAGTGGTCAATGTCACGTGGCTTCGAAATGGAAAACCTG  3720
 Patr-DRA*01:04        TCATCGACAAGTTCACCCCACCAGTGGTCAATGTCACGTGGCTTCAAAATGGAAAACCTG  3720
 
 HLA-DRA*01:01:01:01   TCACCACAGGAGTGTCAGAGACAGTCTTCCTGCCCAGGGAAGACCACCTTTTCCGCAAGT  3780
 Patr-DRA*01:01:01     TCACCACAGGAGTGTCAGAGACAGTCTTCCTGCCCAGGGAAGACCACCTTTTCCGCAAGT  3780
-Patr-DRA*01:01:02     TCACCACAGGAGTGTCAGAGACAGTCTTCCTGCCCAGGGAAGACCACCTTTTCCGCAAGT  3780
-Patr-DRA*01:03:01     TCACCACAGGAGTGTCAGAGACAGTCTTCCTGCCCAGGGAAGACCACCTTTTCCGCAAGT  3780
+Patr-DRA*01:01:02:01  TCACCACAGGAGTGTCAGAGACAGTCTTCCTGCCCAGGGAAGACCACCTTTTCCGCAAGT  3780
+Patr-DRA*01:03:01:01  TCACCACAGGAGTGTCAGAGACAGTCTTCCTGCCCAGGGAAGACCACCTTTTCCGCAAGT  3780
 Patr-DRA*01:03:02     TCACCACAGGAGTGTCAGAGACAGTCTTCCTGCCCAGGGAAGACCACCTTTTCCGCAAGT  3780
 Patr-DRA*01:04        TCACCACAGGAGTGTCAGAGACAGTCTTCCTGCCCAGGGAAGACCACCTTTTCCGCAAGT  3780
 
 HLA-DRA*01:01:01:01   TCCACTATCTCCCCTTCCTGCCCTCAACTGAGGACGTTTACGACTGCAGGGTGGAGCACT  3840
 Patr-DRA*01:01:01     TCCACTATCTCCCCTTCCTGCCCTCAACTGAGGACGTTTACGACTGCAGGGTGGAACACT  3840
-Patr-DRA*01:01:02     TCCACTATCTCCCCTTCCTGCCCTCAACTGAGGACGTTTATGACTGCAGGGTGGAACACT  3840
-Patr-DRA*01:03:01     TCCACTATCTCCCCTTCCTGCCCTCAACTGAGGACGTTTACGACTGCAGGGTGGAACACT  3840
+Patr-DRA*01:01:02:01  TCCACTATCTCCCCTTCCTGCCCTCAACTGAGGACGTTTATGACTGCAGGGTGGAACACT  3840
+Patr-DRA*01:03:01:01  TCCACTATCTCCCCTTCCTGCCCTCAACTGAGGACGTTTACGACTGCAGGGTGGAACACT  3840
 Patr-DRA*01:03:02     TCCACTATCTCCCCTTCCTGCCCTCAACTGAGGACGTTTACGACTGCAGGGTGGAGCACT  3840
 Patr-DRA*01:04        TCCACTATCTCCCCTTCCTGCCCTCAACTGAGGACGTTTACGACTGCAGGGTGGAACACT  3840
 
 HLA-DRA*01:01:01:01   GGGGCTTGGATGAGCCTCTTCTCAAGCACTGGGGTATGGACCAACACTCAATCTCCTTTA  3900
 Patr-DRA*01:01:01     GGGGCTTGGATGAGCCTCTTCTCAAGCACTGGGGTATGGACCATCACTCAATCTCCTTTA  3900
-Patr-DRA*01:01:02     GGGGCTTGGATGAGCCTCTTCTCAAGCACTGGGGTATGGACCATCACTCAATCTCCTTTA  3900
-Patr-DRA*01:03:01     GGGGCTTGGATGAGCCTCTTCTCAAGCACTGGG---------------------------  3900
+Patr-DRA*01:01:02:01  GGGGCTTGGATGAGCCTCTTCTCAAGCACTGGGGTATGGACCATCACTCAATCTCCTTTA  3900
+Patr-DRA*01:03:01:01  GGGGCTTGGATGAGCCTCTTCTCAAGCACTGGGGTATGGACCATCACTCAATCTCCTTTA  3900
 Patr-DRA*01:03:02     GGGGCTTGGATGAGCCTCTTCTCAAGCACTGGG---------------------------  3900
 Patr-DRA*01:04        GGGGCTTGGATGAGCCTCTTCTCAAGCACTGGG---------------------------  3900
 
 HLA-DRA*01:01:01:01   TTTCAAGGTTTCCTCCTATGATGCTTGTGTGAAACTCGGTGTTCTAACTGTTTCATAATA  3960
 Patr-DRA*01:01:01     TTTCAAGGTTTCCTCCTATGATGCTTGTGTGAAACTCGGTGTTCTAACTGTTTCATAATA  3960
-Patr-DRA*01:01:02     TTTCAAGGTTTCCTCCTATGATGCTTGTGTGAAACTCGGTGTTCTAACTGTTTCATAATA  3960
-Patr-DRA*01:03:01     ------------------------------------------------------------  3960
+Patr-DRA*01:01:02:01  TTTCAAGGTTTCCTCCTATGATGCTTGTGTGAAACTCGGTGTTCTAACTGTTTCATAATA  3960
+Patr-DRA*01:03:01:01  TTTCAAGGTTTCCTCCTATGATGCTTGTGTGAAACTCGGTGTTCTAACTGTTTCATAATA  3960
 Patr-DRA*01:03:02     ------------------------------------------------------------  3960
 Patr-DRA*01:04        ------------------------------------------------------------  3960
 
 HLA-DRA*01:01:01:01   TCTGCTACAATTAATATAACTGTCTTCTCCTACTATCCAGCTTCCTCCTTTTTTTAATCT  4020
 Patr-DRA*01:01:01     TCTGCTACAATTAATATAACTGTCTTCTCCTATTACCCAGCTTCCTCCTCTTTTTAATCT  4020
-Patr-DRA*01:01:02     TCTGCTACAATTAATATAACTGTCTTCTCCTATTACCCAGCTTCCTCCTCTTTTTAATCT  4020
-Patr-DRA*01:03:01     ------------------------------------------------------------  4020
+Patr-DRA*01:01:02:01  TCTGCTACAATTAATATAACTGTCTTCTCCTATTACCCAGCTTCCTCCTCTTTTTAATCT  4020
+Patr-DRA*01:03:01:01  TCTGCTACAATTAATATAACTGTCTTCTCCTATTACCCAGCTTCCTCCTCTTTTTAATCT  4020
 Patr-DRA*01:03:02     ------------------------------------------------------------  4020
 Patr-DRA*01:04        ------------------------------------------------------------  4020
 
 HLA-DRA*01:01:01:01   GTAATTCTCTCAATACATCATTCTGTCTTCCTCTTCTTTAATCTATGAATAACTTTTCTC  4080
 Patr-DRA*01:01:01     TTAGTTCTCTCAGTACATCATTCTGTCTTCCTCTTCTTTAATCTATGAATAACTTTTCTC  4080
-Patr-DRA*01:01:02     TTAGTTCTCTCAGTACATCATTCTGTCTTCCTCTTCTTTAATCTATGAATAACTTTTCTC  4080
-Patr-DRA*01:03:01     ------------------------------------------------------------  4080
+Patr-DRA*01:01:02:01  TTAGTTCTCTCAGTACATCATTCTGTCTTCCTCTTCTTTAATCTATGAATAACTTTTCTC  4080
+Patr-DRA*01:03:01:01  TTAGTTCTCTCAGTACATCATTCTGTCTTCCTCTTCTTTAATCTATGAATAACTTTTCTC  4080
 Patr-DRA*01:03:02     ------------------------------------------------------------  4080
 Patr-DRA*01:04        ------------------------------------------------------------  4080
 
 HLA-DRA*01:01:01:01   TTTATTAAGAACCCTACATTTGATTCTGAGTGTTACTTCTTCCCACACTCATTACCATGT  4140
 Patr-DRA*01:01:01     TTTATTAAGTACCCTACACTTGATTCTGAGTGTTACTTCTTCCCACACTCATTACCATGT  4140
-Patr-DRA*01:01:02     TTTATTAAGTACCCTACACTTGATTCTGAGTGTTACTTCTTCCCACACTCATTACCATGT  4140
-Patr-DRA*01:03:01     ------------------------------------------------------------  4140
+Patr-DRA*01:01:02:01  TTTATTAAGTACCCTACACTTGATTCTGAGTGTTACTTCTTCCCACACTCATTACCATGT  4140
+Patr-DRA*01:03:01:01  TTTATTAAGTACCCTACACTTGATTCTGAGTGTTACTTCTTCCCACACTCATTACCATGT  4140
 Patr-DRA*01:03:02     ------------------------------------------------------------  4140
 Patr-DRA*01:04        ------------------------------------------------------------  4140
 
 HLA-DRA*01:01:01:01   ACTCTGCCTTATCTCCCCCCAGAGTTTGATGCTCCAAGCCCTCTCCCAGAGACTACAGAG  4200
 Patr-DRA*01:01:01     ATTCTGCCTTATTTCCCCCCAGAGTTTGATGCTCCAAGCCCTCTCCCAGAGACTACAGAG  4200
-Patr-DRA*01:01:02     ATTCTGCCTTATTTCCCCCCAGAGTTTGATGCTCCAAGCCCTCTCCCAGAGACTACAGAG  4200
-Patr-DRA*01:03:01     ----------------------AGTTTGATGCTCCAAGCCCTCTCCCAGAGACTACAGAG  4200
+Patr-DRA*01:01:02:01  ATTCTGCCTTATTTCCCCCCAGAGTTTGATGCTCCAAGCCCTCTCCCAGAGACTACAGAG  4200
+Patr-DRA*01:03:01:01  ATTCTGCCTTATTTCCCCCCAGAGTTTGATGCTCCAAGCCCTCTCCCAGAGACTACAGAG  4200
 Patr-DRA*01:03:02     ----------------------AGTTTGATGCTCCAAGCCCTCTCCCAGAGACTACAGAG  4200
 Patr-DRA*01:04        ----------------------AGTTTGATGCTCCAAGCCCTCTCCCAGAGACTACAGAG  4200
 
 HLA-DRA*01:01:01:01   AACGTGGTGTGTGCCCTGGGCCTGACTGTGGGTCTGGTGGGCATCATTATTGGGACCATC  4260
 Patr-DRA*01:01:01     AACGTGGTGTGTGCCCTGGGCCTGACTGTGGGTCTGGTGGGCATCATCATTGGGACCATC  4260
-Patr-DRA*01:01:02     AACGTGGTGTGTGCCCTGGGCCTGACTGTGGGTCTGGTGGGCATCATCATTGGGACCATC  4260
-Patr-DRA*01:03:01     AACGTGGTGTGTGCCCTGGGCCTGACTGTGGGTCTGGTGGGCATCATCATTGGGACCATC  4260
+Patr-DRA*01:01:02:01  AACGTGGTGTGTGCCCTGGGCCTGACTGTGGGTCTGGTGGGCATCATCATTGGGACCATC  4260
+Patr-DRA*01:03:01:01  AACGTGGTGTGTGCCCTGGGCCTGACTGTGGGTCTGGTGGGCATCATCATTGGGACCATC  4260
 Patr-DRA*01:03:02     AATGTGGTGTGTGCCCTGGGCCTGACTGTGGGTCTGGTGGGCATCATTATTGGGACCATC  4260
 Patr-DRA*01:04        AACGTGGTGTGTGCCCTGGGCCTGACTGTGGGTCTGGTGGGCATCATCATTGGGACCATC  4260
 
 HLA-DRA*01:01:01:01   TTCATCATCAAGGGAGTGCGCAAAAGCAATGCAGCAGAACGCAGGGGGCCTCTGTAAGGC  4320
 Patr-DRA*01:01:01     TTCATCATCAAGGGTGTGCGCAAAAGCAATGCAGCAGAACGCAGGGGGCCTCTGTGA---  4320
-Patr-DRA*01:01:02     TTCATCATCAAGGGTGTGCGCAAAAGCAATGCAGCAGAACGCAGGGGGCCTCTGTGA---  4320
-Patr-DRA*01:03:01     TTCATCATCAAGGGTGTGCGCAAAAGCAATGCAGCAGAACGCAGGGGGCCTCTGTGA---  4320
+Patr-DRA*01:01:02:01  TTCATCATCAAGGGTGTGCGCAAAAGCAATGCAGCAGAACGCAGGGGGCCTCTGTGA---  4320
+Patr-DRA*01:03:01:01  TTCATCATCAAGGGTGTGCGCAAAAGCAATGCAGCAGAACGCAGGGGGCCTCTGTGA---  4320
 Patr-DRA*01:03:02     TTCATCATCAAGGGAGTGCGCAAAAGCAATGCAGCAGAACGCAGGGGGCCTCTGTAA---  4320
 Patr-DRA*01:04        TTCATCATCAAGGGTGTGCGCAAAAGCAATGCAGCAGAACGCAGGGGGCCTCTGTGA---  4320
 
 HLA-DRA*01:01:01:01   ACATGGAGGTGAGTTAGGTGTGGTCAGAGGAAGACATATATGGAGATATCTGAGGGAGGA  4380
 Patr-DRA*01:01:01     ------------------------------------------------------------  4380
-Patr-DRA*01:01:02     ------------------------------------------------------------  4380
-Patr-DRA*01:03:01     ------------------------------------------------------------  4380
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  4380
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  4380
 Patr-DRA*01:03:02     ------------------------------------------------------------  4380
 Patr-DRA*01:04        ------------------------------------------------------------  4380
 
 HLA-DRA*01:01:01:01   AAACAGGGTGGGGAAAGGAAATGTAATGCATTTAAGAGACAAGGTAGGAACAGATGTGGC  4440
 Patr-DRA*01:01:01     ------------------------------------------------------------  4440
-Patr-DRA*01:01:02     ------------------------------------------------------------  4440
-Patr-DRA*01:03:01     ------------------------------------------------------------  4440
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  4440
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  4440
 Patr-DRA*01:03:02     ------------------------------------------------------------  4440
 Patr-DRA*01:04        ------------------------------------------------------------  4440
 
 HLA-DRA*01:01:01:01   TCTTGATTTCTCTTTGCTAGAATGAATCAGACATTGGTATCATCTGGTATCCCAAAGCTT  4500
 Patr-DRA*01:01:01     ------------------------------------------------------------  4500
-Patr-DRA*01:01:02     ------------------------------------------------------------  4500
-Patr-DRA*01:03:01     ------------------------------------------------------------  4500
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  4500
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  4500
 Patr-DRA*01:03:02     ------------------------------------------------------------  4500
 Patr-DRA*01:04        ------------------------------------------------------------  4500
 
 HLA-DRA*01:01:01:01   CAGGGTCTGTCATCCCTTTCTATAGACGGGCACCTTGATCACGGCTCCAGTCTTAGAAAT  4560
 Patr-DRA*01:01:01     ------------------------------------------------------------  4560
-Patr-DRA*01:01:02     ------------------------------------------------------------  4560
-Patr-DRA*01:03:01     ------------------------------------------------------------  4560
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  4560
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  4560
 Patr-DRA*01:03:02     ------------------------------------------------------------  4560
 Patr-DRA*01:04        ------------------------------------------------------------  4560
 
 HLA-DRA*01:01:01:01   CATCTCCAGTACCTAAAACCATTGTTTCACATTAGAATACTGAGTCTAGGGATCTAGAAA  4620
 Patr-DRA*01:01:01     ------------------------------------------------------------  4620
-Patr-DRA*01:01:02     ------------------------------------------------------------  4620
-Patr-DRA*01:03:01     ------------------------------------------------------------  4620
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  4620
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  4620
 Patr-DRA*01:03:02     ------------------------------------------------------------  4620
 Patr-DRA*01:04        ------------------------------------------------------------  4620
 
 HLA-DRA*01:01:01:01   ATACATTAGAATATGGAGTCTAGGGATCTAGAAAATACTGAGTCTAGGGATCTAGAAAAA  4680
 Patr-DRA*01:01:01     ------------------------------------------------------------  4680
-Patr-DRA*01:01:02     ------------------------------------------------------------  4680
-Patr-DRA*01:03:01     ------------------------------------------------------------  4680
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  4680
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  4680
 Patr-DRA*01:03:02     ------------------------------------------------------------  4680
 Patr-DRA*01:04        ------------------------------------------------------------  4680
 
 HLA-DRA*01:01:01:01   TAAGCCTCAAGATTTGGGCACATCCTAGCTTGTATTTCCTGGGGCAGGTCATCAGTTCAG  4740
 Patr-DRA*01:01:01     ------------------------------------------------------------  4740
-Patr-DRA*01:01:02     ------------------------------------------------------------  4740
-Patr-DRA*01:03:01     ------------------------------------------------------------  4740
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  4740
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  4740
 Patr-DRA*01:03:02     ------------------------------------------------------------  4740
 Patr-DRA*01:04        ------------------------------------------------------------  4740
 
 HLA-DRA*01:01:01:01   AAGCATTTCCAGATCCTGGCTCCTTTCAGGTTAGGGTCAATTCATTGCATGAAATGGGAA  4800
 Patr-DRA*01:01:01     ------------------------------------------------------------  4800
-Patr-DRA*01:01:02     ------------------------------------------------------------  4800
-Patr-DRA*01:03:01     ------------------------------------------------------------  4800
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  4800
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  4800
 Patr-DRA*01:03:02     ------------------------------------------------------------  4800
 Patr-DRA*01:04        ------------------------------------------------------------  4800
 
 HLA-DRA*01:01:01:01   TCTCTTAGAGGCCAATGCCTGCTTTTGCTTCTTTAGTCTCAAATGTAGTATGAGAAACTC  4860
 Patr-DRA*01:01:01     ------------------------------------------------------------  4860
-Patr-DRA*01:01:02     ------------------------------------------------------------  4860
-Patr-DRA*01:03:01     ------------------------------------------------------------  4860
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  4860
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  4860
 Patr-DRA*01:03:02     ------------------------------------------------------------  4860
 Patr-DRA*01:04        ------------------------------------------------------------  4860
 
 HLA-DRA*01:01:01:01   TAAAAAAAGGTAAAGCATGGTTGCTTATTATGTTCAGTTGGAGAGTAGGAACTAACTGTA  4920
 Patr-DRA*01:01:01     ------------------------------------------------------------  4920
-Patr-DRA*01:01:02     ------------------------------------------------------------  4920
-Patr-DRA*01:03:01     ------------------------------------------------------------  4920
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  4920
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  4920
 Patr-DRA*01:03:02     ------------------------------------------------------------  4920
 Patr-DRA*01:04        ------------------------------------------------------------  4920
 
 HLA-DRA*01:01:01:01   TACAGTTAGTTCATGTTGGAAAGGTTAGATGAACATTGAAAGAATTTTGCAAAGTCAAAG  4980
 Patr-DRA*01:01:01     ------------------------------------------------------------  4980
-Patr-DRA*01:01:02     ------------------------------------------------------------  4980
-Patr-DRA*01:03:01     ------------------------------------------------------------  4980
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  4980
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  4980
 Patr-DRA*01:03:02     ------------------------------------------------------------  4980
 Patr-DRA*01:04        ------------------------------------------------------------  4980
 
 HLA-DRA*01:01:01:01   GATTAAGAGAGAAGAGGAAGGAATCTGAAGCAAGGAGCTCAAAACGGATCTTAAATTCCT  5040
 Patr-DRA*01:01:01     ------------------------------------------------------------  5040
-Patr-DRA*01:01:02     ------------------------------------------------------------  5040
-Patr-DRA*01:03:01     ------------------------------------------------------------  5040
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5040
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5040
 Patr-DRA*01:03:02     ------------------------------------------------------------  5040
 Patr-DRA*01:04        ------------------------------------------------------------  5040
 
 HLA-DRA*01:01:01:01   TGGTAACTATGTGTGTCTTGCTATAGGTGATGGTGTTTCTTAGAGAGAAGATCACTGAAG  5100
 Patr-DRA*01:01:01     ------------------------------------------------------------  5100
-Patr-DRA*01:01:02     ------------------------------------------------------------  5100
-Patr-DRA*01:03:01     ------------------------------------------------------------  5100
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5100
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5100
 Patr-DRA*01:03:02     ------------------------------------------------------------  5100
 Patr-DRA*01:04        ------------------------------------------------------------  5100
 
 HLA-DRA*01:01:01:01   AAACTTCTGCTTTAATGACTTTACAAAGCTGGCAATATTACAATCCTTGACCTCAGTGAA  5160
 Patr-DRA*01:01:01     ------------------------------------------------------------  5160
-Patr-DRA*01:01:02     ------------------------------------------------------------  5160
-Patr-DRA*01:03:01     ------------------------------------------------------------  5160
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5160
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5160
 Patr-DRA*01:03:02     ------------------------------------------------------------  5160
 Patr-DRA*01:04        ------------------------------------------------------------  5160
 
 HLA-DRA*01:01:01:01   AGCAGTCATCTTCAGCGTTTTCCAGCCCTATAGCCACCCCAAGTGTGGTTATGCCTCCTC  5220
 Patr-DRA*01:01:01     ------------------------------------------------------------  5220
-Patr-DRA*01:01:02     ------------------------------------------------------------  5220
-Patr-DRA*01:03:01     ------------------------------------------------------------  5220
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5220
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5220
 Patr-DRA*01:03:02     ------------------------------------------------------------  5220
 Patr-DRA*01:04        ------------------------------------------------------------  5220
 
 HLA-DRA*01:01:01:01   GATTGCTCCGTACTCTAACATCTAGCTGGCTTCCCTGTCTATTGCCTTTTCCTGTATCTA  5280
 Patr-DRA*01:01:01     ------------------------------------------------------------  5280
-Patr-DRA*01:01:02     ------------------------------------------------------------  5280
-Patr-DRA*01:03:01     ------------------------------------------------------------  5280
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5280
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5280
 Patr-DRA*01:03:02     ------------------------------------------------------------  5280
 Patr-DRA*01:04        ------------------------------------------------------------  5280
 
 HLA-DRA*01:01:01:01   TTTTCCTCTATTTCCTATCATTTTATTATCACCATGCAATGCCTCTGGAATAAAACATAC  5340
 Patr-DRA*01:01:01     ------------------------------------------------------------  5340
-Patr-DRA*01:01:02     ------------------------------------------------------------  5340
-Patr-DRA*01:03:01     ------------------------------------------------------------  5340
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5340
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5340
 Patr-DRA*01:03:02     ------------------------------------------------------------  5340
 Patr-DRA*01:04        ------------------------------------------------------------  5340
 
 HLA-DRA*01:01:01:01   AGGAGTCTGTCTCTGCTATGGAATGCCCCATGGGGCATCTCTTGTGTACTTATTGTTTAA  5400
 Patr-DRA*01:01:01     ------------------------------------------------------------  5400
-Patr-DRA*01:01:02     ------------------------------------------------------------  5400
-Patr-DRA*01:03:01     ------------------------------------------------------------  5400
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5400
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5400
 Patr-DRA*01:03:02     ------------------------------------------------------------  5400
 Patr-DRA*01:04        ------------------------------------------------------------  5400
 
 HLA-DRA*01:01:01:01   GGTTTCCTCAAACTGTGATTTTTCTGAACACAATAAACTATTTTGATGATCTTGGGTGGA  5460
 Patr-DRA*01:01:01     ------------------------------------------------------------  5460
-Patr-DRA*01:01:02     ------------------------------------------------------------  5460
-Patr-DRA*01:03:01     ------------------------------------------------------------  5460
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5460
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5460
 Patr-DRA*01:03:02     ------------------------------------------------------------  5460
 Patr-DRA*01:04        ------------------------------------------------------------  5460
 
 HLA-DRA*01:01:01:01   ATTTTTGGTGTTTAAGCCAGTTCTTTGGGTGGCGGTGGGGGGTGGGGAGTCGGTCCTGGG  5520
 Patr-DRA*01:01:01     ------------------------------------------------------------  5520
-Patr-DRA*01:01:02     ------------------------------------------------------------  5520
-Patr-DRA*01:03:01     ------------------------------------------------------------  5520
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5520
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5520
 Patr-DRA*01:03:02     ------------------------------------------------------------  5520
 Patr-DRA*01:04        ------------------------------------------------------------  5520
 
 HLA-DRA*01:01:01:01   GAATATATGTGATCCTTTCCCGGTAAAATATCTGAATGTTGAATTTATCTTATAAATTCT  5580
 Patr-DRA*01:01:01     ------------------------------------------------------------  5580
-Patr-DRA*01:01:02     ------------------------------------------------------------  5580
-Patr-DRA*01:03:01     ------------------------------------------------------------  5580
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5580
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5580
 Patr-DRA*01:03:02     ------------------------------------------------------------  5580
 Patr-DRA*01:04        ------------------------------------------------------------  5580
 
 HLA-DRA*01:01:01:01   AGAATTCATCAGACATATCCCGGTTCATTTGGGCTTGGTCTCATTTTGTGCATCTGCAGG  5640
 Patr-DRA*01:01:01     ------------------------------------------------------------  5640
-Patr-DRA*01:01:02     ------------------------------------------------------------  5640
-Patr-DRA*01:03:01     ------------------------------------------------------------  5640
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5640
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5640
 Patr-DRA*01:03:02     ------------------------------------------------------------  5640
 Patr-DRA*01:04        ------------------------------------------------------------  5640
 
 HLA-DRA*01:01:01:01   CAACCCTCTTGTTGTGGTCTAGTCCTCATCAGGAAAACCTAAAGTGGGGTTGGTTTGTTG  5700
 Patr-DRA*01:01:01     ------------------------------------------------------------  5700
-Patr-DRA*01:01:02     ------------------------------------------------------------  5700
-Patr-DRA*01:03:01     ------------------------------------------------------------  5700
+Patr-DRA*01:01:02:01  ------------------------------------------------------------  5700
+Patr-DRA*01:03:01:01  ------------------------------------------------------------  5700
 Patr-DRA*01:03:02     ------------------------------------------------------------  5700
 Patr-DRA*01:04        ------------------------------------------------------------  5700
 
 HLA-DRA*01:01:01:01   GGAGATCTCTA  5711
 Patr-DRA*01:01:01     -----------  5711
-Patr-DRA*01:01:02     -----------  5711
-Patr-DRA*01:03:01     -----------  5711
+Patr-DRA*01:01:02:01  -----------  5711
+Patr-DRA*01:03:01:01  -----------  5711
 Patr-DRA*01:03:02     -----------  5711
 Patr-DRA*01:04        -----------  5711
 

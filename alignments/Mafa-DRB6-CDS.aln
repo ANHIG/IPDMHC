@@ -34,6 +34,10 @@ Mafa-DRB6*01:30       ---------------------------AGTGTCGTATCTTCAATGGGTCTGAGCAGGT
 Mafa-DRB6*01:31       ---------------------------AGTGTCATATCTTCAATGGGACTGAGCGGGTGC    60
 Mafa-DRB6*01:32       ---------------------------AGTGTCATATCTTCAATGGGACTGAGCGGGTGC    60
 Mafa-DRB6*01:33       ---------------------------AGTGTCATATCTTCAATGGGACTGAGCGGGTGC    60
+Mafa-DRB6*01:34       CAGGTTTCTTGGAGCAGGCTAAGTGTGAGTGTCCTATCTTCAATGGGACTGAGCGGGTGC    60
+Mafa-DRB6*01:35       CAGGTTTCTTGGAGCAGGCTAAGTGTGAGTGTCGTATCTTCAATGGGACTGAGCGGGTGC    60
+Mafa-DRB6*01:36       CAGGTTTCTTGGAGCAGGCTAAGTGTGAGTGTCATATCTTCAATGGGACTGAGCCGGTGC    60
+Mafa-DRB6*01:37       CAGGTTTCTTGGAGCAGGCTAAGTGTGAGTGTCCTATCTTCAATGGGACTGAGTGGGTGC    60
 
 HLA-DRB1*01:01:01:01  GGTTGCTGGAAAGATGCATCTATAACC----AAGAGGAGTCCGTGCGCTTCGACAGCGAC   120
 Mafa-DRB6*01:01       GGTACCTGAACAGATACATCCATAAAC----GGGAGGAGAACCTGCGCTTCGACAGCGAC   120
@@ -71,6 +75,10 @@ Mafa-DRB6*01:30       AGTACCTGAACAGAAACATCCATAAAC----GGGGGGAGAACCTGGGCTTCCACAGCG
 Mafa-DRB6*01:31       GGTACCTGAACAGAAACATCCATAAAC----AGGAGGAGAACCTGCGCTTCCACAGCGAC   120
 Mafa-DRB6*01:32       AGTACCTGAACAGATACATCCATAAAC----GGGAGGAGAACCTGCGCTTCCACAGCGAC   120
 Mafa-DRB6*01:33       GGTACCTGAACAGAAACATCCATAAAT----GGGAGGAGAACCTGCGCTTCCACAGCGAC   120
+Mafa-DRB6*01:34       AGTACCTGAACAGATACATCCATAAAC----GGGAGGAGAACCTGCGCTTCCACAGCGAC   120
+Mafa-DRB6*01:35       AGTACCCGAACAGAAACATCCATAAAC----GGGAGGAGAACCTGCGCTTCCACAGCGAC   120
+Mafa-DRB6*01:36       AGTACCTGAACAGATACATCCATAAAC----GGGAGGAGAACCTGCGTTTCCACAGCGAC   120
+Mafa-DRB6*01:37       AGTACCTGAACAGATACATCCATAAAC----GGGAGGAGAACCTGCGCTTCCACAGCGAC   120
 
 HLA-DRB1*01:01:01:01  GTGGGGGAGTACCGGGCGGTGACGGAGCTGG---GGCGGCCTGATGCCGAGTACTGGAAC   180
 Mafa-DRB6*01:01       GTGGGGGAGTTCCAGGCGGTGACGGAACTGG---GGCGGCCTGTCGCGGAGAACTGGAAC   180
@@ -108,6 +116,10 @@ Mafa-DRB6*01:30       GTGGGGGAGTTCCAGGCGGTGACGCAACTGG---GGCGGCCTGTCACAGAGT------
 Mafa-DRB6*01:31       GTGGGGGAGTTCCAGGCGGTGACGGAACTGGGGTGGC----------------CTGTCAC   180
 Mafa-DRB6*01:32       GTCGGGGAGTTCCAGGAGGTGACGGAACTGG---GGCGGCTTGTCACAGAGT--------   180
 Mafa-DRB6*01:33       GTGCGAGAGTTCCAGGCGGTGACGGAACTGG---AGCGGCCTGTCGCGGAGAACTGGAAC   180
+Mafa-DRB6*01:34       CTGGGGGAGTTCCAGGCGGTGATGGAACTGG---GGTGGCCTGTCGCGGAGAACTGGAAC   180
+Mafa-DRB6*01:35       CTGGGGGAGTTCCAGGCGGTGATGGAACTGGGGTGGC----------------CTGTCAC   180
+Mafa-DRB6*01:36       CTGGGGGAGTTCCAGGCGGTGATGGAACTGGGGTGGC----------------CTGTCAC   180
+Mafa-DRB6*01:37       CTGGGGGAGTTCCAGGCGGTGATGGAACTGG---GGCGACCTGTCACAGAGT--------   180
 
 HLA-DRB1*01:01:01:01  AGCCAGAAGGACCTCCTGGAGCAGAGGCGGGCCGCGGTGGACACCTACTGCAGACACAAC   240
 Mafa-DRB6*01:01       AGCCAGAAGGGCATCCTGGAGGAGAAGCGGGACAAGGTGGACACCTACTGCAGATACAAT   240
@@ -145,6 +157,10 @@ Mafa-DRB6*01:30       ------------------------------------------------------TACA
 Mafa-DRB6*01:31       AG-------------------------------------------------AGTTACAAT   240
 Mafa-DRB6*01:32       ------------------------------------------------------TACAAT   240
 Mafa-DRB6*01:33       AGCCAGAAGGGCATCCTGGAGGAGAAGCCGGACTAGGTGGACATCTACTGCAGATACAAT   240
+Mafa-DRB6*01:34       AGCCAGAAGGGCATCCTGGAGGAGAAGCGGGACAAGGTGGACTACTACTGCAGATACAAT   240
+Mafa-DRB6*01:35       AG-------------------------------------------------AGTTACAAT   240
+Mafa-DRB6*01:36       AG-------------------------------------------------AGTTACAAT   240
+Mafa-DRB6*01:37       ------------------------------------------------------TACAAT   240
 
 HLA-DRB1*01:01:01:01  TACGGGGTTGGTGAGAGCTTCACAGTGCAGCGGCGAG---TTGAGCCTAAGGTGACTGTG   300
 Mafa-DRB6*01:01       TAACGGGTTTTTGAGAGCTTC---------------------------------------   300
@@ -182,6 +198,10 @@ Mafa-DRB6*01:30       TACCGGGTTTTTGAGAGCTT--------------------------------------
 Mafa-DRB6*01:31       TGTGGGGTTTTTGAGAGCTT----------------------------------------   300
 Mafa-DRB6*01:32       TACAGGGTTTTTGAGAGCTT----------------------------------------   300
 Mafa-DRB6*01:33       TAGGGGGTTCTTGAGAGCTT----------------------------------------   300
+Mafa-DRB6*01:34       TACAGGGTTTTTGAGAGCTTCACAGAGCAGCGATGAG-----------------------   300
+Mafa-DRB6*01:35       TACGGGGTTTTTGAGAGCTTCACAGTGCAGTGATGA------------------------   300
+Mafa-DRB6*01:36       TACGGGGTTTTTGAGACCTTCACAGAGCAGCGATGAG-----------------------   300
+Mafa-DRB6*01:37       TGTGGGGTTTTTGAGAGCTTCACAGTGCAGCGATGAG-----------------------   300
 
 HLA-DRB1*01:01:01:01  TATCCTTCAAAGACCCAGCCCCTGCAGCACCACAACCTCCTGGTCTGCTCTGTGAGTGGT   360
 Mafa-DRB6*01:01       ------------------------------------------------------------   360
@@ -219,6 +239,10 @@ Mafa-DRB6*01:30       ----------------------------------------------------------
 Mafa-DRB6*01:31       ------------------------------------------------------------   360
 Mafa-DRB6*01:32       ------------------------------------------------------------   360
 Mafa-DRB6*01:33       ------------------------------------------------------------   360
+Mafa-DRB6*01:34       ------------------------------------------------------------   360
+Mafa-DRB6*01:35       ------------------------------------------------------------   360
+Mafa-DRB6*01:36       ------------------------------------------------------------   360
+Mafa-DRB6*01:37       ------------------------------------------------------------   360
 
 HLA-DRB1*01:01:01:01  TTCTATCCAGGCAGCATTGAAGTCAGGTGGTTCCGGAACGGCCAGGAAGAGAAGGCTGGG   420
 Mafa-DRB6*01:01       ------------------------------------------------------------   420
@@ -256,6 +280,10 @@ Mafa-DRB6*01:30       ----------------------------------------------------------
 Mafa-DRB6*01:31       ------------------------------------------------------------   420
 Mafa-DRB6*01:32       ------------------------------------------------------------   420
 Mafa-DRB6*01:33       ------------------------------------------------------------   420
+Mafa-DRB6*01:34       ------------------------------------------------------------   420
+Mafa-DRB6*01:35       ------------------------------------------------------------   420
+Mafa-DRB6*01:36       ------------------------------------------------------------   420
+Mafa-DRB6*01:37       ------------------------------------------------------------   420
 
 HLA-DRB1*01:01:01:01  GTGGTGTCCACAGGCCTGATCCAGAATGGAGATTGGACCTTCCAGACCCTGGTGATGCTG   480
 Mafa-DRB6*01:01       ------------------------------------------------------------   480
@@ -293,6 +321,10 @@ Mafa-DRB6*01:30       ----------------------------------------------------------
 Mafa-DRB6*01:31       ------------------------------------------------------------   480
 Mafa-DRB6*01:32       ------------------------------------------------------------   480
 Mafa-DRB6*01:33       ------------------------------------------------------------   480
+Mafa-DRB6*01:34       ------------------------------------------------------------   480
+Mafa-DRB6*01:35       ------------------------------------------------------------   480
+Mafa-DRB6*01:36       ------------------------------------------------------------   480
+Mafa-DRB6*01:37       ------------------------------------------------------------   480
 
 HLA-DRB1*01:01:01:01  GAAACAGTTCCTCGGAGTGGAGAGGTTTACACCTGCCAAGTGGAGCACCCAAGTGTGACG   540
 Mafa-DRB6*01:01       ------------------------------------------------------------   540
@@ -330,6 +362,10 @@ Mafa-DRB6*01:30       ----------------------------------------------------------
 Mafa-DRB6*01:31       ------------------------------------------------------------   540
 Mafa-DRB6*01:32       ------------------------------------------------------------   540
 Mafa-DRB6*01:33       ------------------------------------------------------------   540
+Mafa-DRB6*01:34       ------------------------------------------------------------   540
+Mafa-DRB6*01:35       ------------------------------------------------------------   540
+Mafa-DRB6*01:36       ------------------------------------------------------------   540
+Mafa-DRB6*01:37       ------------------------------------------------------------   540
 
 HLA-DRB1*01:01:01:01  AGCCCTCTCACAGTGGAATGGA   562
 Mafa-DRB6*01:01       ----------------------   562
@@ -367,4 +403,8 @@ Mafa-DRB6*01:30       ----------------------   562
 Mafa-DRB6*01:31       ----------------------   562
 Mafa-DRB6*01:32       ----------------------   562
 Mafa-DRB6*01:33       ----------------------   562
+Mafa-DRB6*01:34       ----------------------   562
+Mafa-DRB6*01:35       ----------------------   562
+Mafa-DRB6*01:36       ----------------------   562
+Mafa-DRB6*01:37       ----------------------   562
 

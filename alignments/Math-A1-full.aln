@@ -2,6 +2,7 @@ HLA-A*01:01:01:01     CAGGAGCAGAGGGGTCAGGGCGAAGTCCCAGGGCCCCAGGCGTGGCTCTCAGGGTCTC
 Math-A1*001:01        ------------------------------------------------------------    60
 Math-A1*001:02        ------------------------------------------------------------    60
 Math-A1*004:01        ------------------------------------------------------------    60
+Math-A1*004:02        ------------------------------------------------------------    60
 Math-A1*040:01        ------------------------------------------------------------    60
 Math-A1*054:01        ------------------------------------------------------------    60
 Math-A1*057:01        ------------------------------------------------------------    60
@@ -13,6 +14,7 @@ HLA-A*01:01:01:01     GCCCCGAAGGCGGTGTATGGATTGGGGAGTCCCAGCCTTGGGGATTCCCCAACTCCGC
 Math-A1*001:01        ------------------------------------------------------------   120
 Math-A1*001:02        ------------------------------------------------------------   120
 Math-A1*004:01        ------------------------------------------------------------   120
+Math-A1*004:02        ------------------------------------------------------------   120
 Math-A1*040:01        ------------------------------------------------------------   120
 Math-A1*054:01        ------------------------------------------------------------   120
 Math-A1*057:01        ------------------------------------------------------------   120
@@ -24,6 +26,7 @@ HLA-A*01:01:01:01     TTTCTTTTCTCCCTCTCCCAACCTACGTAGGGTCCTTCATCCTGGATACTCACGACGC
 Math-A1*001:01        ------------------------------------------------------------   180
 Math-A1*001:02        ------------------------------------------------------------   180
 Math-A1*004:01        ------------------------------------------------------------   180
+Math-A1*004:02        ------------------------------------------------------------   180
 Math-A1*040:01        ------------------------------------------------------------   180
 Math-A1*054:01        ------------------------------------------------------------   180
 Math-A1*057:01        ------------------------------------------------------------   180
@@ -35,6 +38,7 @@ HLA-A*01:01:01:01     ACCCAGTTCTCACTCCCATTGGGTGTCGGGTTTCCAGAGAAGCCAATCAGTGTCGTCG
 Math-A1*001:01        ------------------------------------------------------------   240
 Math-A1*001:02        ------------------------------------------------------------   240
 Math-A1*004:01        ------------------------------------------------------------   240
+Math-A1*004:02        ------------------------------------------------------------   240
 Math-A1*040:01        ------------------------------------------------------------   240
 Math-A1*054:01        ------------------------------------------------------------   240
 Math-A1*057:01        ------------------------------------------------------------   240
@@ -46,6 +50,7 @@ HLA-A*01:01:01:01     GTCGCTGTTCTAAAGTCCGCACGCACCCACCGGGACTCAGATTCTCCCCAGACGCCGA
 Math-A1*001:01        ------------------------------------------------------------   300
 Math-A1*001:02        ------------------------------------------------------------   300
 Math-A1*004:01        ------------------------------------------------------------   300
+Math-A1*004:02        ------------------------------------------------------------   300
 Math-A1*040:01        ------------------------------------------------------------   300
 Math-A1*054:01        ------------------------------------------------------------   300
 Math-A1*057:01        ------------------------------------------------------------   300
@@ -57,6 +62,7 @@ HLA-A*01:01:01:01     ATGGCCGTCATGGCGCCCCGAACCCTCCTCCTGCTACTCTCGGGGGCCCTGGCCCTGA
 Math-A1*001:01        ATGGCGATCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGTCCTGACC   360
 Math-A1*001:02        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGTCCTGACC   360
 Math-A1*004:01        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
+Math-A1*004:02        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
 Math-A1*040:01        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
 Math-A1*054:01        ATGGTGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCGCTGGCCCTGACC   360
 Math-A1*057:01        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
@@ -68,6 +74,7 @@ HLA-A*01:01:01:01     CAGACCTGGGCGGGTGAGTGCGGGGTCGGGAGGGAAACCGCCTCTGCGGGGAGAAGCA
 Math-A1*001:01        CAGACCCGGGCGG-----------------------------------------------   420
 Math-A1*001:02        CAGACCCGGGCGG-----------------------------------------------   420
 Math-A1*004:01        CAGACCCGGGCGG-----------------------------------------------   420
+Math-A1*004:02        CAGACCCGGGCGG-----------------------------------------------   420
 Math-A1*040:01        CAGACCCGGGCGG-----------------------------------------------   420
 Math-A1*054:01        CAGACCTGGGCCG-----------------------------------------------   420
 Math-A1*057:01        CAGACCCGGGCGG-----------------------------------------------   420
@@ -79,6 +86,7 @@ HLA-A*01:01:01:01     GGGCCCTCCTGGCGGGGGCGCAGGACCGGGGGAGCCGCGCCGGGAGGAGGGTCGGGCA
 Math-A1*001:01        ------------------------------------------------------------   480
 Math-A1*001:02        ------------------------------------------------------------   480
 Math-A1*004:01        ------------------------------------------------------------   480
+Math-A1*004:02        ------------------------------------------------------------   480
 Math-A1*040:01        ------------------------------------------------------------   480
 Math-A1*054:01        ------------------------------------------------------------   480
 Math-A1*057:01        ------------------------------------------------------------   480
@@ -90,6 +98,7 @@ HLA-A*01:01:01:01     TCTCAGCCACTGCTCGCCCCCAGGCTCCCACTCCATGAGGTATTTCTTCACATCCGTG
 Math-A1*001:01        -----------------------GCTCTCACTCCATGAGGTATTTCTACACCTCCATGTC   540
 Math-A1*001:02        -----------------------GCTCTCACTCCATGAGGTATTTCTACACCTCCATGTC   540
 Math-A1*004:01        -----------------------GCTCCCACTCCATGAGCTATTTCTACACCTACATGTC   540
+Math-A1*004:02        -----------------------GCTCGCACTCCATGAGCTATTTCTACACCTACATGTC   540
 Math-A1*040:01        -----------------------GCTCCCACTCCATGAGCTATTTCTACACCTACATGTC   540
 Math-A1*054:01        -----------------------GCTCGCACTCCATGAGGTATTTCTACACCTCCGTGTC   540
 Math-A1*057:01        -----------------------GCTCGCACTCCATGAGGTATTTCTACACCTCCATGTC   540
@@ -101,6 +110,7 @@ HLA-A*01:01:01:01     CCGGCCCGGCCGCGGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAG
 Math-A1*001:01        CCGGCCCGGCCGCGGGCAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTT   600
 Math-A1*001:02        CCGGCCCGGCCGCGGGCAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTT   600
 Math-A1*004:01        CCGGCCCGGCCGCGGGGAGCCCCGCTTCGTCGCCGTGGGCTACGTGGACGACACGCAGTT   600
+Math-A1*004:02        CCGGCCCGGCCGCGGGGAGCCCCGCTTCGTCGCCGTGGGCTACGTGGACGACACGCAGTT   600
 Math-A1*040:01        CCGGCCTGGCCGCGGGGAGCCCCGCTTCGTCGCCGTGGGCTACGTGGACGACACGCAGTT   600
 Math-A1*054:01        CCGGCCCGGCCGCGGGCAGCCCCGCTTCATGTCCGTGGGCTACGTGGACGACACGCAGTT   600
 Math-A1*057:01        CCGGCCCGGCCGCGGGCAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTT   600
@@ -112,6 +122,7 @@ HLA-A*01:01:01:01     CGTGCGGTTCGACAGCGACGCCGCGAGCCAGAAGATGGAGCCGCGGGCGCCGTGGATA
 Math-A1*001:01        CGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGGTGGAGCCGCGGGCGCCGTGGGTGGA   660
 Math-A1*001:02        CGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGCCGTGGGTGGA   660
 Math-A1*004:01        CGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGCCGTGGGTGGA   660
+Math-A1*004:02        CGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGCCGTGGGTGGA   660
 Math-A1*040:01        CGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGCCGTGGGTGGA   660
 Math-A1*054:01        CGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGGATGGAGCCGCGGGCGCCGTGGGTGGA   660
 Math-A1*057:01        CGTGCGGTTCGACAGCGACGCCGCGAGCCAAAGGATGGAGCCGCGGGCGCCGTGGGTGGA   660
@@ -123,6 +134,7 @@ HLA-A*01:01:01:01     GCAGGAGGGGCCGGAGTATTGGGACCAGGAGACACGGAATATGAAGGCCCACTCACAG
 Math-A1*001:01        GCAGGAGGGGCCGGAGTATTGGGACCGGGAGACACGGAACATGAAGGCCGAGACACAGAA   720
 Math-A1*001:02        GCAGGAGGGGCCGGAGTATTGGGACCGGGAGACACGGAACATGAAGGCCGAGACACAGAA   720
 Math-A1*004:01        GCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGATCATGAAGACCGAGACACAGAA   720
+Math-A1*004:02        GCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGATCATGAAGACCGAGACACAGAA   720
 Math-A1*040:01        GCAGGAGGGGCCGGAGTATTGGGACCGGAGCACACGGATCATGAAGGCCGAGACACAGAA   720
 Math-A1*054:01        GCAGGAGGGGCCGGAGTATTGGGACCGGGAGACACGGATCTCCAAGGCCAACACACAGAC   720
 Math-A1*057:01        GCAGGAGGGTCCAGAGTATTGGGACTCGCAGACACGGATCATGAAGGCCGACACACAGAC   720
@@ -134,6 +146,7 @@ HLA-A*01:01:01:01     TGACCGAGCGAACCTGGGGACCCTGCGCGGCTACTACAACCAGAGCGAGGACGGTGAG
 Math-A1*001:01        TGCCCCAGTGAACCTGCGGAACCTGCTCCGCTACTACAACCAGAGCGAGGCCG-------   780
 Math-A1*001:02        TGCCCCAGTGAACCTGCGGAACCTGCTCCGCTACTACAACCAGAGCGAGGCCG-------   780
 Math-A1*004:01        TGCCCCAGTGGCCCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG-------   780
+Math-A1*004:02        TGCCCCAGTGGCCCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG-------   780
 Math-A1*040:01        TGCCCCAGTGGCCCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG-------   780
 Math-A1*054:01        CTACCGAGAGGGCCTGCAGATCCTGCGCGGCTACTACAACCAGAGCGAGGCCG-------   780
 Math-A1*057:01        CTACCGAGAGAGCCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG-------   780
@@ -145,6 +158,7 @@ HLA-A*01:01:01:01     ACCCCGGCCCGGGGCGCAGGTCACGACCCCTCATCCCCCACGGACGGGCCAGGTCGCC
 Math-A1*001:01        ------------------------------------------------------------   840
 Math-A1*001:02        ------------------------------------------------------------   840
 Math-A1*004:01        ------------------------------------------------------------   840
+Math-A1*004:02        ------------------------------------------------------------   840
 Math-A1*040:01        ------------------------------------------------------------   840
 Math-A1*054:01        ------------------------------------------------------------   840
 Math-A1*057:01        ------------------------------------------------------------   840
@@ -156,6 +170,7 @@ HLA-A*01:01:01:01     CAGTCTCCGGGTCCGAGATCCACCCCGAAGCCGCGGGACTCCGAGACCCTTGTCCCGG
 Math-A1*001:01        ------------------------------------------------------------   900
 Math-A1*001:02        ------------------------------------------------------------   900
 Math-A1*004:01        ------------------------------------------------------------   900
+Math-A1*004:02        ------------------------------------------------------------   900
 Math-A1*040:01        ------------------------------------------------------------   900
 Math-A1*054:01        ------------------------------------------------------------   900
 Math-A1*057:01        ------------------------------------------------------------   900
@@ -167,6 +182,7 @@ HLA-A*01:01:01:01     GAGGCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTTAGGCCAAAAATCCCCCCGGG
 Math-A1*001:01        ------------------------------------------------------------   960
 Math-A1*001:02        ------------------------------------------------------------   960
 Math-A1*004:01        ------------------------------------------------------------   960
+Math-A1*004:02        ------------------------------------------------------------   960
 Math-A1*040:01        ------------------------------------------------------------   960
 Math-A1*054:01        ------------------------------------------------------------   960
 Math-A1*057:01        ------------------------------------------------------------   960
@@ -178,6 +194,7 @@ HLA-A*01:01:01:01     GGTCGGGGCGGGGCGGGGCTCGGGGGACTGGGCTGACCGCGGGGTCGGGGCCAGGTTC
 Math-A1*001:01        ------------------------------------------------------GGTCTC  1020
 Math-A1*001:02        ------------------------------------------------------GGTCTC  1020
 Math-A1*004:01        ------------------------------------------------------GGTCTC  1020
+Math-A1*004:02        ------------------------------------------------------GGTCTC  1020
 Math-A1*040:01        ------------------------------------------------------GGTCTC  1020
 Math-A1*054:01        ------------------------------------------------------GGTCTC  1020
 Math-A1*057:01        ------------------------------------------------------GGTCTC  1020
@@ -189,6 +206,7 @@ HLA-A*01:01:01:01     ACACCATCCAGATAATGTATGGCTGCGACGTGGGGCCGGACGGGCGCTTCCTCCGCGG
 Math-A1*001:01        ACACCCTCCAGAGGATGGTTGGCTGCGACCTGGGGCCCGACGGGCGCCTCCTCCGCGGGT  1080
 Math-A1*001:02        ACACCGTCCAGAGGATGTACGGCTGCGACCTGGGGCCCGACGGGCGCCTCCTCCGCGGGT  1080
 Math-A1*004:01        ACACCTACCAGATGATGTACGGCTGCGACCTGGGGCCCGACGGGCGCCTCCTCCGCGGGT  1080
+Math-A1*004:02        ACACCTACCAGATAATGTACGGCTGCGACCTGGGGCCCGACGGGCGCCTCCTCCGCGGGT  1080
 Math-A1*040:01        ACACCTTCCAGACGATGTACGGCTGCGACCTGGGGCCCGACGGGCGCCTCCTCCGCGGGT  1080
 Math-A1*054:01        ACACCTACCAGAAGATGTACGGCTGCGACCTGGGGCCCGACGGGCGCCTCCTCCGCGGGT  1080
 Math-A1*057:01        ACACCGTCCAGAGGATGTACGGCTGCGACCTGGGGCCCGACGGGCGCCTCCTCCGCGGGT  1080
@@ -200,6 +218,7 @@ HLA-A*01:01:01:01     ACCGGCAGGACGCCTACGACGGCAAGGATTACATCGCCCTGAACGAGGACCTGCGCTC
 Math-A1*001:01        ATGAACAGTCCGCCTACGACGGCAAGGATTACATCGCCCTGAACGAGGACCTGCGCTCCT  1140
 Math-A1*001:02        ATGAACAGTCCGCCTACGACGGCAAGGATTACATCGCCCTGAACGAGGACCTGCGCTCCT  1140
 Math-A1*004:01        ATGACCAGTTCGCCTACGACGGCAAGGATTACATCGCCCTGAACGACGACCTGCGTTCCT  1140
+Math-A1*004:02        ATGACCAGTTCGCCTACGACGGCAGTGATTACATCGCCCTGAACGAGGACCTGCGTTCCT  1140
 Math-A1*040:01        ATGACCAGTACGCCTACGACGGCAAGGATTACATCGCCCTGAACGACGACCTGCGCTCCT  1140
 Math-A1*054:01        ATAGCCAGTACGCCTACGACGGCAGGGATTACATCGCCCTGAACGGGGACCTGCGTTCCT  1140
 Math-A1*057:01        ATGAACAGTTCGCCTACGACGGCAAGGATTACATCTCCCTGAACGAGGACCTGCGCTCCT  1140
@@ -211,6 +230,7 @@ HLA-A*01:01:01:01     GGACCGCGGCGGACATGGCAGCTCAGATCACCAAGCGCAAGTGGGAGGCGGTCCATGC
 Math-A1*001:01        GGACCGCGGCGGACGTGGCGGCTCAGAACACCCAGCGCAAGTGGGAGGCGGCGGATGTGG  1200
 Math-A1*001:02        GGACCGCGGCGGACGTGGCGGCTCAGAACACCCAGCGCAAGTGGGAGGCGGCGGATGTGG  1200
 Math-A1*004:01        GGACAGCCGCGGACTTGGCGGCTCAGAACACCCAGCGGAAGTGGGAGGCGGCGGGTGTGG  1200
+Math-A1*004:02        GGACAGCCGCGGACTTGGCGGCTCAGAACACCCAGCGGAAGTGGGAGGCGGCGGGTGTGG  1200
 Math-A1*040:01        GGACGGCCGCGGACTTGGCGGCTCAGAACACCCAGCGCAAGTGGGAGGCGGCGGGTGTGG  1200
 Math-A1*054:01        GGACGGCAGCGGACATGGCGGCTCAGAACACCCAGCGGAAGTGGGAGGCGGCGGGTGTGG  1200
 Math-A1*057:01        GGACCGCCGCGGACTTGGCGGCTCAGAACACCCAGCGGAAGTGGGAGGCGGCGGGTGTGG  1200
@@ -222,6 +242,7 @@ HLA-A*01:01:01:01     CGGAGCAGCGGAGAGTCTACCTGGAGGGCCGGTGCGTGGACGGGCTCCGCAGATACCT
 Math-A1*001:01        CGGAGAGCATGAGAGCCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCCCAGATACCTGG  1260
 Math-A1*001:02        CGGAGAGCATGAGAGCCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCCCAGATACCTGG  1260
 Math-A1*004:01        CGGAGCAGCACAGAACCTACCTGGAGGGCCTGTGCGTGGAGTGGCTCCGCAGATACCTGG  1260
+Math-A1*004:02        CGGAGCAGCACAGAACCTACCTGGAGGGCCTGTGCGTGGAGTGGCTCCGCAGATACCTGG  1260
 Math-A1*040:01        CGGAGCAGGACAGAGTCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCGCAGACACCTGG  1260
 Math-A1*054:01        CGGAGCGGTTCAGAACCTACGTGGAGGGCCGATGTGTGGAGTCACTCCGCAGATACCTGG  1260
 Math-A1*057:01        CGGAGCAGGACAGAGTCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCGCAGATACTTGG  1260
@@ -233,6 +254,7 @@ HLA-A*01:01:01:01     AGAACGGGAAGGAGACGCTGCAGCGCACGGGTACCAGGGGCCACGGGGCGCCTCCCTG
 Math-A1*001:01        AGAAGGGGAAGGAGACGCTGCAGCGCACGG------------------------------  1320
 Math-A1*001:02        AGAAGGGGAAGGAGACGCTGCAGCGCACGG------------------------------  1320
 Math-A1*004:01        AGAACGGGAAGGAGACGCTGCAGCGCGCGG------------------------------  1320
+Math-A1*004:02        AGAACGGGAAGGAGACGCTGCAGCGCGCGG------------------------------  1320
 Math-A1*040:01        AGAACGGGAAGGAGACGCTGCAGCGCGCGG------------------------------  1320
 Math-A1*054:01        AGAACGGGAAGGAGACGCTGCAGCGCGCGG------------------------------  1320
 Math-A1*057:01        AGAACGGGAAGGAGACGCTGCAGCGCGCGG------------------------------  1320
@@ -244,6 +266,7 @@ HLA-A*01:01:01:01     CGCCTATAGATCTCCCGGGCTGGCCTCCCACAAGGAGGGGAGACAATTGGGACCAACA
 Math-A1*001:01        ------------------------------------------------------------  1380
 Math-A1*001:02        ------------------------------------------------------------  1380
 Math-A1*004:01        ------------------------------------------------------------  1380
+Math-A1*004:02        ------------------------------------------------------------  1380
 Math-A1*040:01        ------------------------------------------------------------  1380
 Math-A1*054:01        ------------------------------------------------------------  1380
 Math-A1*057:01        ------------------------------------------------------------  1380
@@ -255,6 +278,7 @@ HLA-A*01:01:01:01     AGAATATCACCCTCCCTCTGGTCCTGAGGGAGAGGAATCCTCCTGGGTTTCCAGATCC
 Math-A1*001:01        ------------------------------------------------------------  1440
 Math-A1*001:02        ------------------------------------------------------------  1440
 Math-A1*004:01        ------------------------------------------------------------  1440
+Math-A1*004:02        ------------------------------------------------------------  1440
 Math-A1*040:01        ------------------------------------------------------------  1440
 Math-A1*054:01        ------------------------------------------------------------  1440
 Math-A1*057:01        ------------------------------------------------------------  1440
@@ -266,6 +290,7 @@ HLA-A*01:01:01:01     TACCAGAGAGTGACTCTGAGGTTCCGCCCTGCTCTCTGACACAATTAAGGGATAAAAT
 Math-A1*001:01        ------------------------------------------------------------  1500
 Math-A1*001:02        ------------------------------------------------------------  1500
 Math-A1*004:01        ------------------------------------------------------------  1500
+Math-A1*004:02        ------------------------------------------------------------  1500
 Math-A1*040:01        ------------------------------------------------------------  1500
 Math-A1*054:01        ------------------------------------------------------------  1500
 Math-A1*057:01        ------------------------------------------------------------  1500
@@ -277,6 +302,7 @@ HLA-A*01:01:01:01     CTGAAGGAGTGACGGGAAGACGATCCCTCGAATACTGATGAGTGGTTCCCTTTGACAC
 Math-A1*001:01        ------------------------------------------------------------  1560
 Math-A1*001:02        ------------------------------------------------------------  1560
 Math-A1*004:01        ------------------------------------------------------------  1560
+Math-A1*004:02        ------------------------------------------------------------  1560
 Math-A1*040:01        ------------------------------------------------------------  1560
 Math-A1*054:01        ------------------------------------------------------------  1560
 Math-A1*057:01        ------------------------------------------------------------  1560
@@ -288,6 +314,7 @@ HLA-A*01:01:01:01     GCAGCAGCCTTGGGCCCGTGACTTTTCCTCTCAGGCCTTGTTCTCTGCTTCACACTCA
 Math-A1*001:01        ------------------------------------------------------------  1620
 Math-A1*001:02        ------------------------------------------------------------  1620
 Math-A1*004:01        ------------------------------------------------------------  1620
+Math-A1*004:02        ------------------------------------------------------------  1620
 Math-A1*040:01        ------------------------------------------------------------  1620
 Math-A1*054:01        ------------------------------------------------------------  1620
 Math-A1*057:01        ------------------------------------------------------------  1620
@@ -299,6 +326,7 @@ HLA-A*01:01:01:01     GTGTGTGGGGGTCTGAGTCCAGCACTTCTGAGTCTCTCAGCCTCCACTCAGGTCAGGA
 Math-A1*001:01        ------------------------------------------------------------  1680
 Math-A1*001:02        ------------------------------------------------------------  1680
 Math-A1*004:01        ------------------------------------------------------------  1680
+Math-A1*004:02        ------------------------------------------------------------  1680
 Math-A1*040:01        ------------------------------------------------------------  1680
 Math-A1*054:01        ------------------------------------------------------------  1680
 Math-A1*057:01        ------------------------------------------------------------  1680
@@ -310,6 +338,7 @@ HLA-A*01:01:01:01     AGAAGTCGCTGTTCCCTTCTCAGGGAATAGAAGATTATCCCAGGTGCCTGTGTCCAGG
 Math-A1*001:01        ------------------------------------------------------------  1740
 Math-A1*001:02        ------------------------------------------------------------  1740
 Math-A1*004:01        ------------------------------------------------------------  1740
+Math-A1*004:02        ------------------------------------------------------------  1740
 Math-A1*040:01        ------------------------------------------------------------  1740
 Math-A1*054:01        ------------------------------------------------------------  1740
 Math-A1*057:01        ------------------------------------------------------------  1740
@@ -321,6 +350,7 @@ HLA-A*01:01:01:01     GGTGTCTGGGTTCTGTGCTCTCTTCCCCATCCCGGGTGTCCTGTCCATTCTCAAGATG
 Math-A1*001:01        ------------------------------------------------------------  1800
 Math-A1*001:02        ------------------------------------------------------------  1800
 Math-A1*004:01        ------------------------------------------------------------  1800
+Math-A1*004:02        ------------------------------------------------------------  1800
 Math-A1*040:01        ------------------------------------------------------------  1800
 Math-A1*054:01        ------------------------------------------------------------  1800
 Math-A1*057:01        ------------------------------------------------------------  1800
@@ -332,6 +362,7 @@ HLA-A*01:01:01:01     CACATGCGTGCTGGTGGAGTGTCCCATGACAGATGCAAAATGCCTGAATTTTCTGACT
 Math-A1*001:01        ------------------------------------------------------------  1860
 Math-A1*001:02        ------------------------------------------------------------  1860
 Math-A1*004:01        ------------------------------------------------------------  1860
+Math-A1*004:02        ------------------------------------------------------------  1860
 Math-A1*040:01        ------------------------------------------------------------  1860
 Math-A1*054:01        ------------------------------------------------------------  1860
 Math-A1*057:01        ------------------------------------------------------------  1860
@@ -343,6 +374,7 @@ HLA-A*01:01:01:01     TCCCGTCAGACCCCCCCAAGACACATATGACCCACCACCCCATCTCTGACCATGAGGC
 Math-A1*001:01        ---------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCA  1920
 Math-A1*001:02        ---------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCA  1920
 Math-A1*004:01        ---------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACTATGAGGCCA  1920
+Math-A1*004:02        ---------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACTATGAGGCCA  1920
 Math-A1*040:01        ---------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGATCATGAGGCCA  1920
 Math-A1*054:01        ---------ACCCCCCCAAGACACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCA  1920
 Math-A1*057:01        ---------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCA  1920
@@ -354,6 +386,7 @@ HLA-A*01:01:01:01     CCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCG
 Math-A1*001:01        CCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGG  1980
 Math-A1*001:02        CCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGG  1980
 Math-A1*004:01        CCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGG  1980
+Math-A1*004:02        CCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGG  1980
 Math-A1*040:01        CCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGG  1980
 Math-A1*054:01        CCCTGAGATGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGG  1980
 Math-A1*057:01        CCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGG  1980
@@ -365,6 +398,7 @@ HLA-A*01:01:01:01     ATGGGGAGGACCAGACCCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGGGATGG
 Math-A1*001:01        ATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAA  2040
 Math-A1*001:02        ATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAA  2040
 Math-A1*004:01        ACGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAA  2040
+Math-A1*004:02        ACGGGGAGGACCAAACTCAGGACACGGAGCTTGTGGAGACCAGGCCTGCAGGAGATGGAA  2040
 Math-A1*040:01        AGGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAA  2040
 Math-A1*054:01        ATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAA  2040
 Math-A1*057:01        ATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAA  2040
@@ -376,6 +410,7 @@ HLA-A*01:01:01:01     CCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTG
 Math-A1*001:01        CCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGTC  2100
 Math-A1*001:02        CCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGTC  2100
 Math-A1*004:01        CCTTCCAGAAGTGGGCGGCTGTGGTTGTGCCTTCTGGAAAAGAGCATAGATACACCTGTC  2100
+Math-A1*004:02        CCTTCCAGAAGTGGGCGGCTGTGGTTGTGCCTTCTGGAAAAGAGCATAGATACACCTGTC  2100
 Math-A1*040:01        CCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGTC  2100
 Math-A1*054:01        CCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTC  2100
 Math-A1*057:01        CCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGTC  2100
@@ -387,6 +422,7 @@ HLA-A*01:01:01:01     ATGTGCAGCATGAGGGTCTGCCCAAGCCCCTCACCCTGAGATGGGGTAAGGAGGGAGA
 Math-A1*001:01        ATGTGCAGCATGAGGGTCTGCCCAAGCCCCACACCCTGAAATGGG---------------  2160
 Math-A1*001:02        ATGTGCAGCATGAGGGTCTGCCCAAGCCCCACACCCTGAAATGGG---------------  2160
 Math-A1*004:01        ATGTGCAGCATGAGGGTCTGCCCGAGCCCCTCACCTTGAGATGGG---------------  2160
+Math-A1*004:02        ATGTGCAGCATGAGGGTCTGCCCGAGCCCCTCACCTTGAGATGGG---------------  2160
 Math-A1*040:01        ATGTGCAACATGAGGGTCTGCCCGAGCCCCTCACCCTGAGATGGG---------------  2160
 Math-A1*054:01        ATGTGCAGCGTGAGGGTCTGCCCAAGCCCCTCACCTTGAGATGGG---------------  2160
 Math-A1*057:01        ATGTGCAGCATGAGGGTCTGCCCAAGCCCCTCACCTTGAGATGGG---------------  2160
@@ -398,6 +434,7 @@ HLA-A*01:01:01:01     GGGGTGTCATGTCTCTTAGGGAAAGCAGGAGCCTCTCTGGAGACCTTTAGCAGGGTCA
 Math-A1*001:01        ------------------------------------------------------------  2220
 Math-A1*001:02        ------------------------------------------------------------  2220
 Math-A1*004:01        ------------------------------------------------------------  2220
+Math-A1*004:02        ------------------------------------------------------------  2220
 Math-A1*040:01        ------------------------------------------------------------  2220
 Math-A1*054:01        ------------------------------------------------------------  2220
 Math-A1*057:01        ------------------------------------------------------------  2220
@@ -409,6 +446,7 @@ HLA-A*01:01:01:01     GCCCCTCACCTTCCCCTCTTTTCCCAGAGCTGTCTTCCCAGCCCACCATCCCCATCGT
 Math-A1*001:01        ---------------------------AGCTGTCTTCCCAGTCCACCATCCCCATGGTGG  2280
 Math-A1*001:02        ---------------------------AGCTGTCTTCCCAGTCCACCATCCCCATGGTGG  2280
 Math-A1*004:01        ---------------------------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGG  2280
+Math-A1*004:02        ---------------------------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGG  2280
 Math-A1*040:01        ---------------------------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGG  2280
 Math-A1*054:01        ---------------------------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGG  2280
 Math-A1*057:01        ---------------------------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGG  2280
@@ -420,6 +458,7 @@ HLA-A*01:01:01:01     GCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGATCACTGGAGCTGTGGTCGCTGC
 Math-A1*001:01        GCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTGGTTGCTGCTG  2340
 Math-A1*001:02        GCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTGGTTGCTGCTG  2340
 Math-A1*004:01        GCATCATTGCTGGCCTGGTTCTGCTTGGAGCTGTGGTCACTGGAGCTGTGGTTGCTGTTG  2340
+Math-A1*004:02        GCATCATTGCTGGCCTGGTTCTGCTTGGAGCTGTGGTCACTGGAGCTGTGGTTGCTGTTG  2340
 Math-A1*040:01        GCATCATTGCTGGCCTGGTTCTGCTTGGAGCTGTGGTCACTGGAGCTGTGGTTGCTGTTG  2340
 Math-A1*054:01        GCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTGGTCGCTGCTG  2340
 Math-A1*057:01        GCATCGTTGCTGGCCTGGTTCTCCTTGGAACTGTGGTCACTGGAGCTGTGGTCGCTGTTG  2340
@@ -431,6 +470,7 @@ HLA-A*01:01:01:01     TGATGTGGAGGAGGAAGAGCTCAGGTGGAGAAGGGGTGAAGGGTGGGGTCTGAGATTT
 Math-A1*001:01        TGATGTGGAGGAGGAAGAGCTCAG------------------------------------  2400
 Math-A1*001:02        TGATGTGGAGGAGGAAGAGCTCAG------------------------------------  2400
 Math-A1*004:01        TGATGTGGAGGAGGAAGAGCTCAG------------------------------------  2400
+Math-A1*004:02        TGATGTGGAGGAGGAAGAGCTCAG------------------------------------  2400
 Math-A1*040:01        TGATGTGGAGGAGGAAGAGCTCAG------------------------------------  2400
 Math-A1*054:01        TGATGTGGAGGAGGAAGAGCTCAG------------------------------------  2400
 Math-A1*057:01        TGATGTGGAGGAGGAAGAGCTCAG------------------------------------  2400
@@ -442,6 +482,7 @@ HLA-A*01:01:01:01     TGTCTCACTGAGGGTTCCAAGCCCCAGCTAGAAATGTGCCCTGTCTCATTACTGGGAA
 Math-A1*001:01        ------------------------------------------------------------  2460
 Math-A1*001:02        ------------------------------------------------------------  2460
 Math-A1*004:01        ------------------------------------------------------------  2460
+Math-A1*004:02        ------------------------------------------------------------  2460
 Math-A1*040:01        ------------------------------------------------------------  2460
 Math-A1*054:01        ------------------------------------------------------------  2460
 Math-A1*057:01        ------------------------------------------------------------  2460
@@ -453,6 +494,7 @@ HLA-A*01:01:01:01     ACCTTCCACAATCATGGGCCGACCCAGCCTGGGCCCTGTGTGCCAGCACTTACTCTTT
 Math-A1*001:01        ------------------------------------------------------------  2520
 Math-A1*001:02        ------------------------------------------------------------  2520
 Math-A1*004:01        ------------------------------------------------------------  2520
+Math-A1*004:02        ------------------------------------------------------------  2520
 Math-A1*040:01        ------------------------------------------------------------  2520
 Math-A1*054:01        ------------------------------------------------------------  2520
 Math-A1*057:01        ------------------------------------------------------------  2520
@@ -464,6 +506,7 @@ HLA-A*01:01:01:01     TAAAGCACCTGTTAAAATGAAGGACAGATTTATCACCTTGATTACGGCGGTGATGGGA
 Math-A1*001:01        ------------------------------------------------------------  2580
 Math-A1*001:02        ------------------------------------------------------------  2580
 Math-A1*004:01        ------------------------------------------------------------  2580
+Math-A1*004:02        ------------------------------------------------------------  2580
 Math-A1*040:01        ------------------------------------------------------------  2580
 Math-A1*054:01        ------------------------------------------------------------  2580
 Math-A1*057:01        ------------------------------------------------------------  2580
@@ -475,6 +518,7 @@ HLA-A*01:01:01:01     TGATCCCAGCAGTCACAAGTCACAGGGGAAGGTCCCTGAGGACAGACCTCAGGAGGGC
 Math-A1*001:01        ------------------------------------------------------------  2640
 Math-A1*001:02        ------------------------------------------------------------  2640
 Math-A1*004:01        ------------------------------------------------------------  2640
+Math-A1*004:02        ------------------------------------------------------------  2640
 Math-A1*040:01        ------------------------------------------------------------  2640
 Math-A1*054:01        ------------------------------------------------------------  2640
 Math-A1*057:01        ------------------------------------------------------------  2640
@@ -486,6 +530,7 @@ HLA-A*01:01:01:01     TTGGTCCAGGACCCACACCTGCTTTCTTCATGTTTCCTGATCCCGCCCTGGGTCTGCA
 Math-A1*001:01        ------------------------------------------------------------  2700
 Math-A1*001:02        ------------------------------------------------------------  2700
 Math-A1*004:01        ------------------------------------------------------------  2700
+Math-A1*004:02        ------------------------------------------------------------  2700
 Math-A1*040:01        ------------------------------------------------------------  2700
 Math-A1*054:01        ------------------------------------------------------------  2700
 Math-A1*057:01        ------------------------------------------------------------  2700
@@ -497,6 +542,7 @@ HLA-A*01:01:01:01     CACACATTTCTGGAAACTTCTCTGGGGTCCAAGACTAGGAGGTTCCTCTAGGACCTTA
 Math-A1*001:01        ------------------------------------------------------------  2760
 Math-A1*001:02        ------------------------------------------------------------  2760
 Math-A1*004:01        ------------------------------------------------------------  2760
+Math-A1*004:02        ------------------------------------------------------------  2760
 Math-A1*040:01        ------------------------------------------------------------  2760
 Math-A1*054:01        ------------------------------------------------------------  2760
 Math-A1*057:01        ------------------------------------------------------------  2760
@@ -508,6 +554,7 @@ HLA-A*01:01:01:01     GCCCTGGCTCCTTTCTGGTATCTCACAGGACATTTTCTTCCCACAGATAGAAAAGGAG
 Math-A1*001:01        ----------------------------------------------ATAGAAAAGGAGGG  2820
 Math-A1*001:02        ----------------------------------------------ATAGAAAAGGAGGG  2820
 Math-A1*004:01        ----------------------------------------------ATAGAAAAGGAGGG  2820
+Math-A1*004:02        ----------------------------------------------ATAGAAAAGGAGGG  2820
 Math-A1*040:01        ----------------------------------------------ATAGAAAAGGAGGG  2820
 Math-A1*054:01        ----------------------------------------------ATAGAAAAGGAGGG  2820
 Math-A1*057:01        ----------------------------------------------ATAGAAAAGGAGGG  2820
@@ -519,6 +566,7 @@ HLA-A*01:01:01:01     AGTTACACTCAGGCTGCAAGTAAGTATGAAGGAGGCTGATGCCTGAGGTCCTTGGGAT
 Math-A1*001:01        AGCTACTCTCAGGCTGCAA-----------------------------------------  2880
 Math-A1*001:02        AGCTACTCTCAGGCTGCAA-----------------------------------------  2880
 Math-A1*004:01        AGCTACTCTCAGGCTGCAA-----------------------------------------  2880
+Math-A1*004:02        AGCTACTCTCAGGCTGCAA-----------------------------------------  2880
 Math-A1*040:01        AGCTACTCTCAGGCTGCAA-----------------------------------------  2880
 Math-A1*054:01        AGCTACTCTCAGGCTGCAA-----------------------------------------  2880
 Math-A1*057:01        AACTACTCTCAGGCTGCAA-----------------------------------------  2880
@@ -530,6 +578,7 @@ HLA-A*01:01:01:01     TGTGTTTGGGAGCCCATGGGGGAGCTCACCCACCCCACAATTCCTCCTCTAGCCACAT
 Math-A1*001:01        ------------------------------------------------------------  2940
 Math-A1*001:02        ------------------------------------------------------------  2940
 Math-A1*004:01        ------------------------------------------------------------  2940
+Math-A1*004:02        ------------------------------------------------------------  2940
 Math-A1*040:01        ------------------------------------------------------------  2940
 Math-A1*054:01        ------------------------------------------------------------  2940
 Math-A1*057:01        ------------------------------------------------------------  2940
@@ -541,6 +590,7 @@ HLA-A*01:01:01:01     TCTGTGGGATCTGACCAGGTTCTGTTTTTGTTCTACCCCAGGCAGTGACAGTGCCCAG
 Math-A1*001:01        -----------------------------------------GCAGTGACAGTGCCCAGGG  3000
 Math-A1*001:02        -----------------------------------------GCAGTGACAGTGCCCAGGG  3000
 Math-A1*004:01        -----------------------------------------GCAGTGACAGTGCCCAGGG  3000
+Math-A1*004:02        -----------------------------------------GCAGTGACAGTGCCCAGGG  3000
 Math-A1*040:01        -----------------------------------------GCAGTGACAGTGCCCAGGG  3000
 Math-A1*054:01        -----------------------------------------GCAGTGACAGTGCCCAGGG  3000
 Math-A1*057:01        -----------------------------------------GCAGTGACAGTGCCCAGGG  3000
@@ -552,6 +602,7 @@ HLA-A*01:01:01:01     CTCTGATGTGTCTCTCACAGCTTGTAAAGGTGAGAGCTTGGAGGGCCTGATGTGTGTT
 Math-A1*001:01        CTCTGATGTGTCTCTCACGGCTTGTAAAG-------------------------------  3060
 Math-A1*001:02        CTCTGATGTGTCTCTCACGGCTTGTAAAG-------------------------------  3060
 Math-A1*004:01        CTCTGATGTGTCTCTCACAGCTTGTAAAG-------------------------------  3060
+Math-A1*004:02        CTCTGATGTGTCTCTCACAGCTTGTAAAG-------------------------------  3060
 Math-A1*040:01        CTCTGATGTGTCTCTCACAGCTTGTAAAG-------------------------------  3060
 Math-A1*054:01        CTCTGATGTGTCTCTCACGGCTTGTAAAG-------------------------------  3060
 Math-A1*057:01        CTCTGATGTGTCTCTCACGGCTTGTAAAG-------------------------------  3060
@@ -563,6 +614,7 @@ HLA-A*01:01:01:01     GTGTTGGGTGGAACAGTGGACACAGCTGTGCTATGGGGTTTCTTTGCGTTGGATGTAT
 Math-A1*001:01        ------------------------------------------------------------  3120
 Math-A1*001:02        ------------------------------------------------------------  3120
 Math-A1*004:01        ------------------------------------------------------------  3120
+Math-A1*004:02        ------------------------------------------------------------  3120
 Math-A1*040:01        ------------------------------------------------------------  3120
 Math-A1*054:01        ------------------------------------------------------------  3120
 Math-A1*057:01        ------------------------------------------------------------  3120
@@ -574,6 +626,7 @@ HLA-A*01:01:01:01     AGCATGCGATGGGCTGTTTAAGGTGTGACCCCTCACTGTGATGGATATGAATTTGTTC
 Math-A1*001:01        ------------------------------------------------------------  3180
 Math-A1*001:02        ------------------------------------------------------------  3180
 Math-A1*004:01        ------------------------------------------------------------  3180
+Math-A1*004:02        ------------------------------------------------------------  3180
 Math-A1*040:01        ------------------------------------------------------------  3180
 Math-A1*054:01        ------------------------------------------------------------  3180
 Math-A1*057:01        ------------------------------------------------------------  3180
@@ -585,6 +638,7 @@ HLA-A*01:01:01:01     GAATATTTTTTTCTATAGTGTGAGACAGCTGCCTTGTGTGGGACTGAGAGGCAAGAGT
 Math-A1*001:01        ------------------TGTGA-------------------------------------  3240
 Math-A1*001:02        ------------------TGTGA-------------------------------------  3240
 Math-A1*004:01        ------------------TGTGA-------------------------------------  3240
+Math-A1*004:02        ------------------TGTGA-------------------------------------  3240
 Math-A1*040:01        ------------------TGTGA-------------------------------------  3240
 Math-A1*054:01        ------------------TGTGA-------------------------------------  3240
 Math-A1*057:01        ------------------TGTGA-------------------------------------  3240
@@ -596,6 +650,7 @@ HLA-A*01:01:01:01     TTCCTGCCCTTCCCTTTGTGACTTGAAGAACCCTGACTTTGTTTCTGCAAAGGCACCT
 Math-A1*001:01        ------------------------------------------------------------  3300
 Math-A1*001:02        ------------------------------------------------------------  3300
 Math-A1*004:01        ------------------------------------------------------------  3300
+Math-A1*004:02        ------------------------------------------------------------  3300
 Math-A1*040:01        ------------------------------------------------------------  3300
 Math-A1*054:01        ------------------------------------------------------------  3300
 Math-A1*057:01        ------------------------------------------------------------  3300
@@ -607,6 +662,7 @@ HLA-A*01:01:01:01     ATGTGTCTGTGTTCGTGTAGGCATAATGTGAGGAGGTGGGGAGAGCACCCCACCCCCA
 Math-A1*001:01        ------------------------------------------------------------  3360
 Math-A1*001:02        ------------------------------------------------------------  3360
 Math-A1*004:01        ------------------------------------------------------------  3360
+Math-A1*004:02        ------------------------------------------------------------  3360
 Math-A1*040:01        ------------------------------------------------------------  3360
 Math-A1*054:01        ------------------------------------------------------------  3360
 Math-A1*057:01        ------------------------------------------------------------  3360
@@ -618,6 +674,7 @@ HLA-A*01:01:01:01     TCCACCATGACCCTCTTCCCACGCTGACCTGTGCTCCCTCTCCAATCATCTTTCCTGT
 Math-A1*001:01        ------------------------------------------------------------  3420
 Math-A1*001:02        ------------------------------------------------------------  3420
 Math-A1*004:01        ------------------------------------------------------------  3420
+Math-A1*004:02        ------------------------------------------------------------  3420
 Math-A1*040:01        ------------------------------------------------------------  3420
 Math-A1*054:01        ------------------------------------------------------------  3420
 Math-A1*057:01        ------------------------------------------------------------  3420
@@ -629,6 +686,7 @@ HLA-A*01:01:01:01     CAGAGAGGTGGGGCTGAGGTGTCTCCATCTCTGTCTCAACTTCATGGTGCACTGAGCT
 Math-A1*001:01        ------------------------------------------------------------  3480
 Math-A1*001:02        ------------------------------------------------------------  3480
 Math-A1*004:01        ------------------------------------------------------------  3480
+Math-A1*004:02        ------------------------------------------------------------  3480
 Math-A1*040:01        ------------------------------------------------------------  3480
 Math-A1*054:01        ------------------------------------------------------------  3480
 Math-A1*057:01        ------------------------------------------------------------  3480
@@ -640,6 +698,7 @@ HLA-A*01:01:01:01     AACTTCTTCCTTCCCTATTAAAA  3503
 Math-A1*001:01        -----------------------  3503
 Math-A1*001:02        -----------------------  3503
 Math-A1*004:01        -----------------------  3503
+Math-A1*004:02        -----------------------  3503
 Math-A1*040:01        -----------------------  3503
 Math-A1*054:01        -----------------------  3503
 Math-A1*057:01        -----------------------  3503

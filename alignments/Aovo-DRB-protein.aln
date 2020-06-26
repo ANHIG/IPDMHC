@@ -19,6 +19,7 @@ Aovo-DRB*W091:02      ----------------------------------RFLEQAKGECHFLNGTERVRFLER
 Aovo-DRB*W092:01      ----------------------------------RFLFQTTSECYFFNGTERVLYLDRYF    60
 Aovo-DRB*W092:02      ----------------------------------RFLFQTTSECYFFNGTERVRYLDRYF    60
 Aovo-DRB*W093:01      ----------------------------------RFLELIKFECHFFNGTERVRFLERQI    60
+Aovo-DRB*W110:01      ----------------------------------RFLEQGKSECHFFNGTERVQFLERYF    60
 
 HLA-DRB1*01:01:01:01  YNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFTV   120
 Aovo-DRB*W013:01:01   YNQEEFVRFDSDVGEYRAVTELGRRTAEYFNSLKDFMEETRAAVDTYCKHNYGVVESFTV   120
@@ -41,6 +42,7 @@ Aovo-DRB*W091:02      YNQEEVLRFDSDVGEFRAVTELGRPSAEKYNSQKDILETRRAAVDTFCRHNYGVFESF
 Aovo-DRB*W092:01      YNQEEFVRFDSDVGEYRAVTELGRPVAEKLNSQKDILEDRRASVDTYCKHNYGVGESFTV   120
 Aovo-DRB*W092:02      YNQEEVVRFDSDVGEYRAVTELGRPVAEKLNSQKDILEDRRASVDTYCKHNYGVGESFTV   120
 Aovo-DRB*W093:01      HNQEEYLRFDSDVGEYRAVTELGRPDAESWNSQKDLMEDRRAAVDTYCRHNYGVVESFTV   120
+Aovo-DRB*W110:01      YNQEEYVRFDSDVGEYRAVTELGRPDAEYWNSQKDYVEQKRGRVDNYCRHNYGVVESFTV   120
 
 HLA-DRB1*01:01:01:01  QRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNG   180
 Aovo-DRB*W013:01:01   QR----------------------------------------------------------   180
@@ -63,6 +65,7 @@ Aovo-DRB*W091:02      QRR-------------------------------------------------------
 Aovo-DRB*W092:01      QRR---------------------------------------------------------   180
 Aovo-DRB*W092:02      QRR---------------------------------------------------------   180
 Aovo-DRB*W093:01      QRR---------------------------------------------------------   180
+Aovo-DRB*W110:01      QRRVQPKVTVYPAKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNNQEEKAGVVSTGLIHNG   180
 
 HLA-DRB1*01:01:01:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLL   240
 Aovo-DRB*W013:01:01   ------------------------------------------------------------   240
@@ -85,6 +88,7 @@ Aovo-DRB*W091:02      ----------------------------------------------------------
 Aovo-DRB*W092:01      ------------------------------------------------------------   240
 Aovo-DRB*W092:02      ------------------------------------------------------------   240
 Aovo-DRB*W093:01      ------------------------------------------------------------   240
+Aovo-DRB*W110:01      DWTFQTLVMLETVPQSGEVYTCQVEHPSMMSPLTVQWRAQSESAQSKMLSGVGGFVLGLL   240
 
 HLA-DRB1*01:01:01:01  FLGAGLFIYFRNQKGHSGLQPTGFLS   266
 Aovo-DRB*W013:01:01   --------------------------   266
@@ -107,4 +111,5 @@ Aovo-DRB*W091:02      --------------------------   266
 Aovo-DRB*W092:01      --------------------------   266
 Aovo-DRB*W092:02      --------------------------   266
 Aovo-DRB*W093:01      --------------------------   266
+Aovo-DRB*W110:01      FLGAGLFIYFRNQKGGSGLQPTGLLS   266
 

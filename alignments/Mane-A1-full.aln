@@ -57,7 +57,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------    60
 Mane-A1*074:02        ------------------------------------------------------------    60
 Mane-A1*082:01:01     ------------------------------------------------------------    60
-Mane-A1*082:01:02     ------------------------------------------------------------    60
+Mane-A1*082:01:02:01  ------------------------------------------------------------    60
 Mane-A1*082:01:03     ------------------------------------------------------------    60
 Mane-A1*082:02        ------------------------------------------------------------    60
 Mane-A1*082:03        ------------------------------------------------------------    60
@@ -147,7 +147,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------   120
 Mane-A1*074:02        ------------------------------------------------------------   120
 Mane-A1*082:01:01     ------------------------------------------------------------   120
-Mane-A1*082:01:02     ------------------------------------------------------------   120
+Mane-A1*082:01:02:01  ------------------------------------------------------------   120
 Mane-A1*082:01:03     ------------------------------------------------------------   120
 Mane-A1*082:02        ------------------------------------------------------------   120
 Mane-A1*082:03        ------------------------------------------------------------   120
@@ -237,7 +237,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------   180
 Mane-A1*074:02        ------------------------------------------------------------   180
 Mane-A1*082:01:01     ------------------------------------------------------------   180
-Mane-A1*082:01:02     ------------------------------------------------------------   180
+Mane-A1*082:01:02:01  ------------------------------------------------------------   180
 Mane-A1*082:01:03     ------------------------------------------------------------   180
 Mane-A1*082:02        ------------------------------------------------------------   180
 Mane-A1*082:03        ------------------------------------------------------------   180
@@ -327,7 +327,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------   240
 Mane-A1*074:02        ------------------------------------------------------------   240
 Mane-A1*082:01:01     ------------------------------------------------------------   240
-Mane-A1*082:01:02     ------------------------------------------------------------   240
+Mane-A1*082:01:02:01  ------------------------------------------------------------   240
 Mane-A1*082:01:03     ------------------------------------------------------------   240
 Mane-A1*082:02        ------------------------------------------------------------   240
 Mane-A1*082:03        ------------------------------------------------------------   240
@@ -417,7 +417,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------   300
 Mane-A1*074:02        ------------------------------------------------------------   300
 Mane-A1*082:01:01     ------------------------------------------------------------   300
-Mane-A1*082:01:02     ------------------------------------------------------------   300
+Mane-A1*082:01:02:01  ------------------------------------------------------------   300
 Mane-A1*082:01:03     ------------------------------------------------------------   300
 Mane-A1*082:02        ------------------------------------------------------------   300
 Mane-A1*082:03        ------------------------------------------------------------   300
@@ -507,7 +507,7 @@ Mane-A1*073:01        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGA
 Mane-A1*074:01        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
 Mane-A1*074:02        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGCTGCTCTCAGGGGCCCTGGCCCTGACC   360
 Mane-A1*082:01:01     ATGGTGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCCCTGGCCCTGACC   360
-Mane-A1*082:01:02     ATGGTGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCGCTGGCCCTGACC   360
+Mane-A1*082:01:02:01  ATGGTGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCGCTGGCCCTGACC   360
 Mane-A1*082:01:03     ATGGTGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCGCTGGCCCTGACC   360
 Mane-A1*082:02        ATGGTGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCCCTGGCCCTGACC   360
 Mane-A1*082:03        ATGGTGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCCCTGGCCCTGACC   360
@@ -597,7 +597,7 @@ Mane-A1*073:01        CAGACCCGGGCGG---------------------------------------------
 Mane-A1*074:01        CAGACCTGGGCGA-----------------------------------------------   420
 Mane-A1*074:02        CAGACCTGGGCGA-----------------------------------------------   420
 Mane-A1*082:01:01     CAGACCTGGGCCG-----------------------------------------------   420
-Mane-A1*082:01:02     CAGACCTGGGCCG-----------------------------------------------   420
+Mane-A1*082:01:02:01  CAGACCTGGGCCG-----------------------------------------------   420
 Mane-A1*082:01:03     CAGACCTGGGCCG-----------------------------------------------   420
 Mane-A1*082:02        CAGACCTGGGCCG-----------------------------------------------   420
 Mane-A1*082:03        CAGACCTGGGCCG-----------------------------------------------   420
@@ -687,7 +687,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------   480
 Mane-A1*074:02        ------------------------------------------------------------   480
 Mane-A1*082:01:01     ------------------------------------------------------------   480
-Mane-A1*082:01:02     ------------------------------------------------------------   480
+Mane-A1*082:01:02:01  ------------------------------------------------------------   480
 Mane-A1*082:01:03     ------------------------------------------------------------   480
 Mane-A1*082:02        ------------------------------------------------------------   480
 Mane-A1*082:03        ------------------------------------------------------------   480
@@ -777,7 +777,7 @@ Mane-A1*073:01        -----------------------GCTCCCACTCCATGAGGTATTTCTACACCTCCATG
 Mane-A1*074:01        -----------------------GCTCGCACTCCATGAGGTATTTCTACACCTCCGTGTC   540
 Mane-A1*074:02        -----------------------GCTCCCACTCCATGAGGTATTTCTACACCTCCGTGTC   540
 Mane-A1*082:01:01     -----------------------GCTCCCACTCCATGAGGTATTTCTACACCTCCGTGTC   540
-Mane-A1*082:01:02     -----------------------GCTCCCACTCCATGAGGTATTTCTACACCTCCGTGTC   540
+Mane-A1*082:01:02:01  -----------------------GCTCCCACTCCATGAGGTATTTCTACACCTCCGTGTC   540
 Mane-A1*082:01:03     -----------------------GCTCCCACTCCATGAGGTATTTCTACACCTCCGTGTC   540
 Mane-A1*082:02        -----------------------GCTCCCACTCCATGAGGTATTTCTACACCTCCGTGTC   540
 Mane-A1*082:03        -----------------------GCTCCCACTCCATGAGGTATTTCTACACCTCCGTGTC   540
@@ -867,7 +867,7 @@ Mane-A1*073:01        CCGGCCCGGCCGCGGGCAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAG
 Mane-A1*074:01        CCGGCCCGGCCGCGGGCAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTT   600
 Mane-A1*074:02        CCGGCCCGGCCGCGGGCAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGACACGCAGTT   600
 Mane-A1*082:01:01     CCGGCCCGGCCGCGGGCAGCCCCGCTTCATGTCCGTGGGCTACGTGGACGACACGCAGTT   600
-Mane-A1*082:01:02     CCGGCCCGGCCGCGGGCAGCCCCGCTTCATGTCCGTGGGCTACGTGGACGACACGCAGTT   600
+Mane-A1*082:01:02:01  CCGGCCCGGCCGCGGGCAGCCCCGCTTCATGTCCGTGGGCTACGTGGACGACACGCAGTT   600
 Mane-A1*082:01:03     CCGGCCCGGCCGCGGGCAGCCCCGCTTCATGTCCGTGGGCTACGTGGACGACACGCAGTT   600
 Mane-A1*082:02        CCGGCCCGGCCGCGGGCAGCCCCGCTTCATGTCCGTGGGCTACGTGGACGACACGCAGTT   600
 Mane-A1*082:03        CCGGCCCGGCCGCGGGCAGCCCCGCTTCATGTCCGTGGGCTACGTGGACGACACGCAGTT   600
@@ -957,7 +957,7 @@ Mane-A1*073:01        CGTGCGGTTCGACAGCGACGCCGCGAGCCAAAGGATGGAGCCGCGGGCGCCGTGGGTG
 Mane-A1*074:01        CCTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGCTGGAGCCGCGGGCGCCGTGGGTGGA   660
 Mane-A1*074:02        CGTGCGGTTTGACAGCGACGCCGAGAGTCCGAGGATGGAGCCGCGGGCGCCGTGGGTGGA   660
 Mane-A1*082:01:01     CGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGAGAGGAGCCGCGGGCGCCGTGGGTGGA   660
-Mane-A1*082:01:02     CGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGAGAGGAGCCGCGGGCGCCGTGGGTGGA   660
+Mane-A1*082:01:02:01  CGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGAGAGGAGCCGCGGGCGCCGTGGGTGGA   660
 Mane-A1*082:01:03     CGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGAGAGGAGCCGCGGGCGCCGTGGGTGGA   660
 Mane-A1*082:02        CGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGAGAGGAGCCGCGGGCGCCGTGGGTGGA   660
 Mane-A1*082:03        CGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGAGAGGAGCCGCGGGCGCCGTGGGTGGA   660
@@ -1047,7 +1047,7 @@ Mane-A1*073:01        GCAGGAGGGTCCAGAGTATTGGGAAGAGGAGACACGGATCATGAAGGCCGACA-CACA
 Mane-A1*074:01        GCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGA-TCTGCAAGGCCGAGACACAGA   720
 Mane-A1*074:02        GCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGA-TCTGCAAGACCACGACACAGA   720
 Mane-A1*082:01:01     GCAGGAGGGGCCGGAGTATTGGGACCGAAACACACGGA-TCTGCAAGACCAACACACAGA   720
-Mane-A1*082:01:02     GCAGGAGGGGCCGGAGTATTGGGACCGAAACACACGGA-TCTGCAAGACCAACACACAGA   720
+Mane-A1*082:01:02:01  GCAGGAGGGGCCGGAGTATTGGGACCGAAACACACGGA-TCTGCAAGACCAACACACAGA   720
 Mane-A1*082:01:03     GCAGGAGGGGCCGGAGTATTGGGACCGAAACACACGGA-TCTGCAAGACCAACACACAGA   720
 Mane-A1*082:02        GCAGGAGGGGCCGGAGTATTGGGACCGAAACACACGGA-TCTGCAAGACCAACACACAGA   720
 Mane-A1*082:03        GCAGGAGGGGCCGGAGTATTGGGACCGAAACACACGGATCTGCAAGGCCGACA-CACAGA   720
@@ -1137,7 +1137,7 @@ Mane-A1*073:01        CCTACCGAGAGAACCTGCGGACCGCGCTCCGCTACTACAACCAGAGCGAGGCCG----
 Mane-A1*074:01        CCTACCGAGAGAACCTGCGGACCCTGCTCCGCTACTACAACCAGAGCGAGGCCG------   780
 Mane-A1*074:02        CCTACCGAGAGAACCTGCGGACCGCGCTCCGCTACTACAACCAGAGCGAGGCCG------   780
 Mane-A1*082:01:01     CCTACCGAGAGAACCTGCGGAACCTTCGCGGCTACTACAACCAGAGCGAGGCCG------   780
-Mane-A1*082:01:02     CCTACCGAGAGAACCTGCGGAACCTTCGCGGCTACTACAACCAGAGCGAGGCCG------   780
+Mane-A1*082:01:02:01  CCTACCGAGAGAACCTGCGGAACCTTCGCGGCTACTACAACCAGAGCGAGGCCG------   780
 Mane-A1*082:01:03     CCTACCGAGAGAACCTGCGGAACCTTCGCGGCTACTACAACCAGAGCGAGGCCG------   780
 Mane-A1*082:02        CCTACCGAGAGAACCTGCGGAACCTTCGCGGCTACTACAACCAGAGCGAGGCCG------   780
 Mane-A1*082:03        CCTACCGAGAGAACCTGCGGAACCTTCGCGGCTACTACAACCAGAGCGAGGCCG------   780
@@ -1227,7 +1227,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------   840
 Mane-A1*074:02        ------------------------------------------------------------   840
 Mane-A1*082:01:01     ------------------------------------------------------------   840
-Mane-A1*082:01:02     ------------------------------------------------------------   840
+Mane-A1*082:01:02:01  ------------------------------------------------------------   840
 Mane-A1*082:01:03     ------------------------------------------------------------   840
 Mane-A1*082:02        ------------------------------------------------------------   840
 Mane-A1*082:03        ------------------------------------------------------------   840
@@ -1317,7 +1317,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------   900
 Mane-A1*074:02        ------------------------------------------------------------   900
 Mane-A1*082:01:01     ------------------------------------------------------------   900
-Mane-A1*082:01:02     ------------------------------------------------------------   900
+Mane-A1*082:01:02:01  ------------------------------------------------------------   900
 Mane-A1*082:01:03     ------------------------------------------------------------   900
 Mane-A1*082:02        ------------------------------------------------------------   900
 Mane-A1*082:03        ------------------------------------------------------------   900
@@ -1407,7 +1407,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------   960
 Mane-A1*074:02        ------------------------------------------------------------   960
 Mane-A1*082:01:01     ------------------------------------------------------------   960
-Mane-A1*082:01:02     ------------------------------------------------------------   960
+Mane-A1*082:01:02:01  ------------------------------------------------------------   960
 Mane-A1*082:01:03     ------------------------------------------------------------   960
 Mane-A1*082:02        ------------------------------------------------------------   960
 Mane-A1*082:03        ------------------------------------------------------------   960
@@ -1497,7 +1497,7 @@ Mane-A1*073:01        -------------------------------------------------------GGT
 Mane-A1*074:01        -------------------------------------------------------GGTCT  1020
 Mane-A1*074:02        -------------------------------------------------------GGTCT  1020
 Mane-A1*082:01:01     -------------------------------------------------------GGTCT  1020
-Mane-A1*082:01:02     -------------------------------------------------------GGTCT  1020
+Mane-A1*082:01:02:01  -------------------------------------------------------GGTCT  1020
 Mane-A1*082:01:03     -------------------------------------------------------GGTCT  1020
 Mane-A1*082:02        -------------------------------------------------------GGTCT  1020
 Mane-A1*082:03        -------------------------------------------------------GGTCT  1020
@@ -1587,7 +1587,7 @@ Mane-A1*073:01        CACACCTTCCAGACGATGTACGGCTGCGACCTGGGGCCCGACGGGCGCCTCCTCCGCG
 Mane-A1*074:01        CACACTGTCCAGATAATGTACGGCTGCGACCTGGGACCCGACGGGCGCCTCCTCCGCGGG  1080
 Mane-A1*074:02        CACACCATCCAGACGATGTACGGCTGCGACCTGGGGCCCGACGGGCGCCTCCTCCGCGGG  1080
 Mane-A1*082:01:01     CACACCCTCCAGAGGATGTACGGCTGCGACCTGGGACCCGACGGGCGCCTCCTCCGCGGG  1080
-Mane-A1*082:01:02     CACACCCTCCAGAGGATGTACGGCTGCGACCTGGGACCCGACGGGCGCCTCCTCCGCGGG  1080
+Mane-A1*082:01:02:01  CACACCCTCCAGAGGATGTACGGCTGCGACCTGGGACCCGACGGGCGCCTCCTCCGCGGG  1080
 Mane-A1*082:01:03     CACACCCTCCAGAGGATGTACGGCTGCGACCTGGGACCCGACGGGCGCCTCCTCCGCGGG  1080
 Mane-A1*082:02        CACACCCTCCAGAGGATGTACGGCTGCGACCTGGGACCCGACGGGCGCCTCCTCCGCGGG  1080
 Mane-A1*082:03        CACACCCTCCAGAGGATGTACGGCTGCGACCTGGGACCCGACGGGCGCCTCCTCCGCGGG  1080
@@ -1677,7 +1677,7 @@ Mane-A1*073:01        TATGACCAGTCCGCCTACGACGGCAAGGATTACATCGCCCTGAACGAGGACCTGCGCT
 Mane-A1*074:01        TATGACCAGTACGCCTACGACGGCAAGGATTACATCGCCCTGAACGAGGACCTGCGCTCC  1140
 Mane-A1*074:02        TATGAACAGTTCGCCTACGACGGCAAGGATTACATCGCCCTGAACGAGGACCTGCGCTCC  1140
 Mane-A1*082:01:01     TATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTGAACGAGGACCTGCGCTCC  1140
-Mane-A1*082:01:02     TATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTGAACGAGGACCTGCGCTCC  1140
+Mane-A1*082:01:02:01  TATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTGAACGAGGACCTGCGCTCC  1140
 Mane-A1*082:01:03     TATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTGAACGAGGACCTGCGCTCC  1140
 Mane-A1*082:02        TATGACCAGTTCGCCTACGACGGCAGGGATTACATCGCCCTGAACGAGGACCTGCGCTCC  1140
 Mane-A1*082:03        TATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTGAACGAGGACCTGCGCTCC  1140
@@ -1767,7 +1767,7 @@ Mane-A1*073:01        TGGACCGCCGCGGACTTGGCGGCTCAGAACACCCAGCGGAAGTGGGAGGCGGCGGGTG
 Mane-A1*074:01        TGGACGGCCGCGGACATGGCGGCTCAGAACACCCAGCGCAAGTGGGAGGCGGCGGGTGTG  1200
 Mane-A1*074:02        TGGACGGCCGCGGACATGGCGGCTCAGAACACCCAGCGCAAGTGGGAGGCGGCGGGTGTG  1200
 Mane-A1*082:01:01     TGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGCAAGTGGGAGGCGGCGGGTGCG  1200
-Mane-A1*082:01:02     TGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGCAAGTGGGAGGCGGCGGGTGCG  1200
+Mane-A1*082:01:02:01  TGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGCAAGTGGGAGGCGGCGGGTGCG  1200
 Mane-A1*082:01:03     TGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGCAAGTGGGAGGCGGCGGGTGCG  1200
 Mane-A1*082:02        TGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGCAAGTGGGAGGCGGCGGGTGCG  1200
 Mane-A1*082:03        TGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGCAAGTGGGAGGCGGCGGGTGCG  1200
@@ -1857,7 +1857,7 @@ Mane-A1*073:01        GCGGAGCAGGACAGAGTCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCGCAGATACC
 Mane-A1*074:01        GCGGAGCGGCAGAGAACCTACCTGGAGGGGACGTGCGTGGAGTGGCTCCACAGACACCTG  1260
 Mane-A1*074:02        GCGGAGCGGCAGAGAACCTACCTGGAGGGGACGTGCGTGGAGTGGCTCCACAGACACCTG  1260
 Mane-A1*082:01:01     GCGGAGCAGATCAGAGCCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCGCAGACACCTG  1260
-Mane-A1*082:01:02     GCGGAGCAGATCAGAGCCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCGCAGACACCTG  1260
+Mane-A1*082:01:02:01  GCGGAGCAGATCAGAGCCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCGCAGACACCTG  1260
 Mane-A1*082:01:03     GCGGAGCAGATCAGAGCCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCGCAGACACCTG  1260
 Mane-A1*082:02        GCGGAGCAGATCAGAGCCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCGCAGACACCTG  1260
 Mane-A1*082:03        GCGGAGCAGATCAGAGCCTACCTGGAGGGCGAGTGCCTGGAGTGGCTCCGCAGACACCTG  1260
@@ -1947,7 +1947,7 @@ Mane-A1*073:01        GAGAACGGGAAGGAGACGCTGCAGCGCGCGG---------------------------
 Mane-A1*074:01        GAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------------------------  1320
 Mane-A1*074:02        GAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------------------------  1320
 Mane-A1*082:01:01     GAGAACGGGAAGGAGACACTGCAGCGCGCGG-----------------------------  1320
-Mane-A1*082:01:02     GAGAACGGGAAGGAGACACTGCAGCGCGCGG-----------------------------  1320
+Mane-A1*082:01:02:01  GAGAACGGGAAGGAGACACTGCAGCGCGCGG-----------------------------  1320
 Mane-A1*082:01:03     GAGAACGGGAAGGAGACACTGCAGCGCGCGG-----------------------------  1320
 Mane-A1*082:02        GAGAACGGGAAGGAGACACTGCAGCGCGCGG-----------------------------  1320
 Mane-A1*082:03        GAGAACGGGAAGGAGACACTGCAGCGCGCGG-----------------------------  1320
@@ -2037,7 +2037,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  1380
 Mane-A1*074:02        ------------------------------------------------------------  1380
 Mane-A1*082:01:01     ------------------------------------------------------------  1380
-Mane-A1*082:01:02     ------------------------------------------------------------  1380
+Mane-A1*082:01:02:01  ------------------------------------------------------------  1380
 Mane-A1*082:01:03     ------------------------------------------------------------  1380
 Mane-A1*082:02        ------------------------------------------------------------  1380
 Mane-A1*082:03        ------------------------------------------------------------  1380
@@ -2127,7 +2127,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  1440
 Mane-A1*074:02        ------------------------------------------------------------  1440
 Mane-A1*082:01:01     ------------------------------------------------------------  1440
-Mane-A1*082:01:02     ------------------------------------------------------------  1440
+Mane-A1*082:01:02:01  ------------------------------------------------------------  1440
 Mane-A1*082:01:03     ------------------------------------------------------------  1440
 Mane-A1*082:02        ------------------------------------------------------------  1440
 Mane-A1*082:03        ------------------------------------------------------------  1440
@@ -2217,7 +2217,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  1500
 Mane-A1*074:02        ------------------------------------------------------------  1500
 Mane-A1*082:01:01     ------------------------------------------------------------  1500
-Mane-A1*082:01:02     ------------------------------------------------------------  1500
+Mane-A1*082:01:02:01  ------------------------------------------------------------  1500
 Mane-A1*082:01:03     ------------------------------------------------------------  1500
 Mane-A1*082:02        ------------------------------------------------------------  1500
 Mane-A1*082:03        ------------------------------------------------------------  1500
@@ -2307,7 +2307,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  1560
 Mane-A1*074:02        ------------------------------------------------------------  1560
 Mane-A1*082:01:01     ------------------------------------------------------------  1560
-Mane-A1*082:01:02     ------------------------------------------------------------  1560
+Mane-A1*082:01:02:01  ------------------------------------------------------------  1560
 Mane-A1*082:01:03     ------------------------------------------------------------  1560
 Mane-A1*082:02        ------------------------------------------------------------  1560
 Mane-A1*082:03        ------------------------------------------------------------  1560
@@ -2397,7 +2397,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  1620
 Mane-A1*074:02        ------------------------------------------------------------  1620
 Mane-A1*082:01:01     ------------------------------------------------------------  1620
-Mane-A1*082:01:02     ------------------------------------------------------------  1620
+Mane-A1*082:01:02:01  ------------------------------------------------------------  1620
 Mane-A1*082:01:03     ------------------------------------------------------------  1620
 Mane-A1*082:02        ------------------------------------------------------------  1620
 Mane-A1*082:03        ------------------------------------------------------------  1620
@@ -2487,7 +2487,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  1680
 Mane-A1*074:02        ------------------------------------------------------------  1680
 Mane-A1*082:01:01     ------------------------------------------------------------  1680
-Mane-A1*082:01:02     ------------------------------------------------------------  1680
+Mane-A1*082:01:02:01  ------------------------------------------------------------  1680
 Mane-A1*082:01:03     ------------------------------------------------------------  1680
 Mane-A1*082:02        ------------------------------------------------------------  1680
 Mane-A1*082:03        ------------------------------------------------------------  1680
@@ -2577,7 +2577,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  1740
 Mane-A1*074:02        ------------------------------------------------------------  1740
 Mane-A1*082:01:01     ------------------------------------------------------------  1740
-Mane-A1*082:01:02     ------------------------------------------------------------  1740
+Mane-A1*082:01:02:01  ------------------------------------------------------------  1740
 Mane-A1*082:01:03     ------------------------------------------------------------  1740
 Mane-A1*082:02        ------------------------------------------------------------  1740
 Mane-A1*082:03        ------------------------------------------------------------  1740
@@ -2667,7 +2667,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  1800
 Mane-A1*074:02        ------------------------------------------------------------  1800
 Mane-A1*082:01:01     ------------------------------------------------------------  1800
-Mane-A1*082:01:02     ------------------------------------------------------------  1800
+Mane-A1*082:01:02:01  ------------------------------------------------------------  1800
 Mane-A1*082:01:03     ------------------------------------------------------------  1800
 Mane-A1*082:02        ------------------------------------------------------------  1800
 Mane-A1*082:03        ------------------------------------------------------------  1800
@@ -2757,7 +2757,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  1860
 Mane-A1*074:02        ------------------------------------------------------------  1860
 Mane-A1*082:01:01     ------------------------------------------------------------  1860
-Mane-A1*082:01:02     ------------------------------------------------------------  1860
+Mane-A1*082:01:02:01  ------------------------------------------------------------  1860
 Mane-A1*082:01:03     ------------------------------------------------------------  1860
 Mane-A1*082:02        ------------------------------------------------------------  1860
 Mane-A1*082:03        ------------------------------------------------------------  1860
@@ -2847,7 +2847,7 @@ Mane-A1*073:01        ----------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGG
 Mane-A1*074:01        ----------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCC  1920
 Mane-A1*074:02        ----------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCC  1920
 Mane-A1*082:01:01     ----------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCC  1920
-Mane-A1*082:01:02     ----------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCC  1920
+Mane-A1*082:01:02:01  ----------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCC  1920
 Mane-A1*082:01:03     ----------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCC  1920
 Mane-A1*082:02        ----------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCC  1920
 Mane-A1*082:03        ----------ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCC  1920
@@ -2937,7 +2937,7 @@ Mane-A1*073:01        ACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGGGATCACACTGACATGGAAGC
 Mane-A1*074:01        ACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGG  1980
 Mane-A1*074:02        ACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGG  1980
 Mane-A1*082:01:01     ACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGG  1980
-Mane-A1*082:01:02     ACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGG  1980
+Mane-A1*082:01:02:01  ACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGG  1980
 Mane-A1*082:01:03     ACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGG  1980
 Mane-A1*082:02        ACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGG  1980
 Mane-A1*082:03        ACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGG  1980
@@ -3027,7 +3027,7 @@ Mane-A1*073:01        GATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATG
 Mane-A1*074:01        GATGGAGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGA  2040
 Mane-A1*074:02        GATGGAGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGA  2040
 Mane-A1*082:01:01     GATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGA  2040
-Mane-A1*082:01:02     GATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGA  2040
+Mane-A1*082:01:02:01  GATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGA  2040
 Mane-A1*082:01:03     GATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGA  2040
 Mane-A1*082:02        GATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGA  2040
 Mane-A1*082:03        GATGGGGAGGACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGA  2040
@@ -3117,7 +3117,7 @@ Mane-A1*073:01        ACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCT
 Mane-A1*074:01        ACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGT  2100
 Mane-A1*074:02        ACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGT  2100
 Mane-A1*082:01:01     ACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGT  2100
-Mane-A1*082:01:02     ACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGT  2100
+Mane-A1*082:01:02:01  ACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGT  2100
 Mane-A1*082:01:03     ACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGT  2100
 Mane-A1*082:02        ACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGT  2100
 Mane-A1*082:03        ACCTTCCAGAAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGT  2100
@@ -3207,7 +3207,7 @@ Mane-A1*073:01        CATGTGCAGCATGAGGGTCTGCCCGAGCCCCTCACCTTGAGATGGG------------
 Mane-A1*074:01        CATGTGCAGCATGAGGGTCTGCCCAAGCCCCTCACCCTGAAATGGG--------------  2160
 Mane-A1*074:02        CATGTGCAGCATGAGGGTCTGCCCAAGCCCCTCACCCTGAAATGGG--------------  2160
 Mane-A1*082:01:01     CATGTGCAGCATGAGGGTCTGCCCAAGCCCCTCACCCTGAGATGGG--------------  2160
-Mane-A1*082:01:02     CATGTGCAGCATGAGGGTCTGCCCAAGCCCCTCACCCTGAGATGGG--------------  2160
+Mane-A1*082:01:02:01  CATGTGCAGCATGAGGGTCTGCCCAAGCCCCTCACCCTGAGATGGG--------------  2160
 Mane-A1*082:01:03     CATGTGCAGCATGAGGGTCTGCCCAAGCCCCTCACCCTGAGATGGG--------------  2160
 Mane-A1*082:02        CATGTGCAGCATGAGGGTCTGCCCAAGCCCCTCACCCTGAGATGGG--------------  2160
 Mane-A1*082:03        CATGTGCAGCATGAGGGTCTGCCCAAGCCCCTCACCCTGAGATGGG--------------  2160
@@ -3297,7 +3297,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  2220
 Mane-A1*074:02        ------------------------------------------------------------  2220
 Mane-A1*082:01:01     ------------------------------------------------------------  2220
-Mane-A1*082:01:02     ------------------------------------------------------------  2220
+Mane-A1*082:01:02:01  ------------------------------------------------------------  2220
 Mane-A1*082:01:03     ------------------------------------------------------------  2220
 Mane-A1*082:02        ------------------------------------------------------------  2220
 Mane-A1*082:03        ------------------------------------------------------------  2220
@@ -3387,7 +3387,7 @@ Mane-A1*073:01        ----------------------------AGCCGTCTTCCCAGTCCACCATCCCCATCG
 Mane-A1*074:01        ----------------------------AGCCGTCTTCCCAGTTCACCATCCCCATCGTG  2280
 Mane-A1*074:02        ----------------------------AGCCGTCTTCCCAGTTCACCATCCCCATCGTG  2280
 Mane-A1*082:01:01     ----------------------------AGCCGTCTTCCCAGTCCACCATCCCCATGGTG  2280
-Mane-A1*082:01:02     ----------------------------AGCCGTCTTCCCAGTCCACCATCCCCATGGTG  2280
+Mane-A1*082:01:02:01  ----------------------------AGCCGTCTTCCCAGTCCACCATCCCCATGGTG  2280
 Mane-A1*082:01:03     ----------------------------AGCCGTCTTCCCAGTCCACCATCCCCATGGTG  2280
 Mane-A1*082:02        ----------------------------AGCCGTCTTCCCAGTCCACCATCCCCATGGTG  2280
 Mane-A1*082:03        ----------------------------AGCCGTCTTCCCAGTCCACCATCCCCATGGTG  2280
@@ -3477,7 +3477,7 @@ Mane-A1*073:01        GGCATCGTTGCTGGCCTGGTTCTCCTTGGAACTGTGGTCACTGGAGCTGTG--GTCGC
 Mane-A1*074:01        GGCATCATTGCTGGCCTGGTTCTCCTTGGAACTGTGGTCACTGGAGCTGTG--GTTGCTG  2340
 Mane-A1*074:02        GGCATCATTGCTGGCCTGGTTCTCCTTGGAACTGTGGTCACTGGAGCTGTG--GTTGCTG  2340
 Mane-A1*082:01:01     GGCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTG  2340
-Mane-A1*082:01:02     GGCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTG  2340
+Mane-A1*082:01:02:01  GGCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTG  2340
 Mane-A1*082:01:03     GGCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTG  2340
 Mane-A1*082:02        GGCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTG  2340
 Mane-A1*082:03        GGCATCATTGCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTG  2340
@@ -3567,7 +3567,7 @@ Mane-A1*073:01        TTGTGATGTGGAGGAGGAAGAGCTCAG-------------------------------
 Mane-A1*074:01        CTGTGATGTGGAGGAGGAAGAGCTCAG---------------------------------  2400
 Mane-A1*074:02        CTGTGATGTGGAGGAGGAAGAGCTCAG---------------------------------  2400
 Mane-A1*082:01:01     CTGTGATGTGGAGGAGGAAGAGCTCAG---------------------------------  2400
-Mane-A1*082:01:02     CTGTGATGTGGAGGAGGAAGAGCTCAG---------------------------------  2400
+Mane-A1*082:01:02:01  CTGTGATGTGGAGGAGGAAGAGCTCAG---------------------------------  2400
 Mane-A1*082:01:03     CTGTGATGTGGAGGAGGAAGAGCTCAG---------------------------------  2400
 Mane-A1*082:02        CTGTGATGTGGAGGAGGAAGAGCTCAG---------------------------------  2400
 Mane-A1*082:03        CTGTGATGTGGAGGAGGAAGAGCTCAG---------------------------------  2400
@@ -3657,7 +3657,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  2460
 Mane-A1*074:02        ------------------------------------------------------------  2460
 Mane-A1*082:01:01     ------------------------------------------------------------  2460
-Mane-A1*082:01:02     ------------------------------------------------------------  2460
+Mane-A1*082:01:02:01  ------------------------------------------------------------  2460
 Mane-A1*082:01:03     ------------------------------------------------------------  2460
 Mane-A1*082:02        ------------------------------------------------------------  2460
 Mane-A1*082:03        ------------------------------------------------------------  2460
@@ -3747,7 +3747,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  2520
 Mane-A1*074:02        ------------------------------------------------------------  2520
 Mane-A1*082:01:01     ------------------------------------------------------------  2520
-Mane-A1*082:01:02     ------------------------------------------------------------  2520
+Mane-A1*082:01:02:01  ------------------------------------------------------------  2520
 Mane-A1*082:01:03     ------------------------------------------------------------  2520
 Mane-A1*082:02        ------------------------------------------------------------  2520
 Mane-A1*082:03        ------------------------------------------------------------  2520
@@ -3837,7 +3837,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  2580
 Mane-A1*074:02        ------------------------------------------------------------  2580
 Mane-A1*082:01:01     ------------------------------------------------------------  2580
-Mane-A1*082:01:02     ------------------------------------------------------------  2580
+Mane-A1*082:01:02:01  ------------------------------------------------------------  2580
 Mane-A1*082:01:03     ------------------------------------------------------------  2580
 Mane-A1*082:02        ------------------------------------------------------------  2580
 Mane-A1*082:03        ------------------------------------------------------------  2580
@@ -3927,7 +3927,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  2640
 Mane-A1*074:02        ------------------------------------------------------------  2640
 Mane-A1*082:01:01     ------------------------------------------------------------  2640
-Mane-A1*082:01:02     ------------------------------------------------------------  2640
+Mane-A1*082:01:02:01  ------------------------------------------------------------  2640
 Mane-A1*082:01:03     ------------------------------------------------------------  2640
 Mane-A1*082:02        ------------------------------------------------------------  2640
 Mane-A1*082:03        ------------------------------------------------------------  2640
@@ -4017,7 +4017,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  2700
 Mane-A1*074:02        ------------------------------------------------------------  2700
 Mane-A1*082:01:01     ------------------------------------------------------------  2700
-Mane-A1*082:01:02     ------------------------------------------------------------  2700
+Mane-A1*082:01:02:01  ------------------------------------------------------------  2700
 Mane-A1*082:01:03     ------------------------------------------------------------  2700
 Mane-A1*082:02        ------------------------------------------------------------  2700
 Mane-A1*082:03        ------------------------------------------------------------  2700
@@ -4107,7 +4107,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  2760
 Mane-A1*074:02        ------------------------------------------------------------  2760
 Mane-A1*082:01:01     ------------------------------------------------------------  2760
-Mane-A1*082:01:02     ------------------------------------------------------------  2760
+Mane-A1*082:01:02:01  ------------------------------------------------------------  2760
 Mane-A1*082:01:03     ------------------------------------------------------------  2760
 Mane-A1*082:02        ------------------------------------------------------------  2760
 Mane-A1*082:03        ------------------------------------------------------------  2760
@@ -4197,7 +4197,7 @@ Mane-A1*073:01        -------------------------------------------------ATAGAAAAG
 Mane-A1*074:01        -------------------------------------------------ATAGAAAAGGA  2820
 Mane-A1*074:02        -------------------------------------------------ATAGAAAAGGA  2820
 Mane-A1*082:01:01     -------------------------------------------------ATAGAAAAGGA  2820
-Mane-A1*082:01:02     -------------------------------------------------ATAGAAAAGGA  2820
+Mane-A1*082:01:02:01  -------------------------------------------------ATAGAAAAGGA  2820
 Mane-A1*082:01:03     -------------------------------------------------ATAGAAAAGGA  2820
 Mane-A1*082:02        -------------------------------------------------ATAGAAAAGGA  2820
 Mane-A1*082:03        -------------------------------------------------ATAGAAAAGGA  2820
@@ -4287,7 +4287,7 @@ Mane-A1*073:01        GGGAACTACTCTCAGGCTGCAA------------------------------------
 Mane-A1*074:01        GGGAGCTACTCTCAGGCTGCAA--------------------------------------  2880
 Mane-A1*074:02        GGGAGCTACTCTCAGGCTGCAA--------------------------------------  2880
 Mane-A1*082:01:01     GGGAGCTACTCTCAGGCTGCAA--------------------------------------  2880
-Mane-A1*082:01:02     GGGAGCTACTCTCAGGCTGCAA--------------------------------------  2880
+Mane-A1*082:01:02:01  GGGAGCTACTCTCAGGCTGCAA--------------------------------------  2880
 Mane-A1*082:01:03     GGGAGCTACTCTCAGGCTGCAA--------------------------------------  2880
 Mane-A1*082:02        GGGAGCTACTCTCAGGCTGCAA--------------------------------------  2880
 Mane-A1*082:03        GGGAGCTACTCTCAGGCTGCAA--------------------------------------  2880
@@ -4377,7 +4377,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  2940
 Mane-A1*074:02        ------------------------------------------------------------  2940
 Mane-A1*082:01:01     ------------------------------------------------------------  2940
-Mane-A1*082:01:02     ------------------------------------------------------------  2940
+Mane-A1*082:01:02:01  ------------------------------------------------------------  2940
 Mane-A1*082:01:03     ------------------------------------------------------------  2940
 Mane-A1*082:02        ------------------------------------------------------------  2940
 Mane-A1*082:03        ------------------------------------------------------------  2940
@@ -4467,7 +4467,7 @@ Mane-A1*073:01        --------------------------------------------GCAGTGACAGTGCC
 Mane-A1*074:01        --------------------------------------------GCAGTGACAGTGCCCA  3000
 Mane-A1*074:02        --------------------------------------------GCAGTGACAGTGCCCA  3000
 Mane-A1*082:01:01     --------------------------------------------GCAGTGACAGTGCCCA  3000
-Mane-A1*082:01:02     --------------------------------------------GCAGTGACAGTGCCCA  3000
+Mane-A1*082:01:02:01  --------------------------------------------GCAGTGACAGTGCCCA  3000
 Mane-A1*082:01:03     --------------------------------------------GCAGTGACAGTGCCCA  3000
 Mane-A1*082:02        --------------------------------------------GCAGTGACAGTGCCCA  3000
 Mane-A1*082:03        --------------------------------------------GCAGTGACAGTGCCCA  3000
@@ -4557,7 +4557,7 @@ Mane-A1*073:01        GGGCTCTGATGTGTCTCTCACGGCTTGTAAAG--------------------------
 Mane-A1*074:01        GGGATCTGATGTGTCTCTCACGGCTTGTAAAG----------------------------  3060
 Mane-A1*074:02        GGGATCTGATGTGTCTCTCACGGCTTGTAAAG----------------------------  3060
 Mane-A1*082:01:01     GGGCTCTGATGTGTCTCTCACGGCTTGTAAAG----------------------------  3060
-Mane-A1*082:01:02     GGGATCTGATGTGTCTCTTACGGCTTGTAAAG----------------------------  3060
+Mane-A1*082:01:02:01  GGGATCTGATGTGTCTCTTACGGCTTGTAAAG----------------------------  3060
 Mane-A1*082:01:03     GGGCTCTGATGTGTCTCTCACGGCTTGTAAAG----------------------------  3060
 Mane-A1*082:02        GGGCTCTGATGTGTCTCTCACGGCTTGTAAAG----------------------------  3060
 Mane-A1*082:03        GGGCTCTGATGTGTCTCTCACGGCTTGTAAAG----------------------------  3060
@@ -4647,7 +4647,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  3120
 Mane-A1*074:02        ------------------------------------------------------------  3120
 Mane-A1*082:01:01     ------------------------------------------------------------  3120
-Mane-A1*082:01:02     ------------------------------------------------------------  3120
+Mane-A1*082:01:02:01  ------------------------------------------------------------  3120
 Mane-A1*082:01:03     ------------------------------------------------------------  3120
 Mane-A1*082:02        ------------------------------------------------------------  3120
 Mane-A1*082:03        ------------------------------------------------------------  3120
@@ -4737,7 +4737,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  3180
 Mane-A1*074:02        ------------------------------------------------------------  3180
 Mane-A1*082:01:01     ------------------------------------------------------------  3180
-Mane-A1*082:01:02     ------------------------------------------------------------  3180
+Mane-A1*082:01:02:01  ------------------------------------------------------------  3180
 Mane-A1*082:01:03     ------------------------------------------------------------  3180
 Mane-A1*082:02        ------------------------------------------------------------  3180
 Mane-A1*082:03        ------------------------------------------------------------  3180
@@ -4827,7 +4827,7 @@ Mane-A1*073:01        ---------------------TGTGA--------------------------------
 Mane-A1*074:01        ---------------------TGTGA----------------------------------  3240
 Mane-A1*074:02        ---------------------TGTGA----------------------------------  3240
 Mane-A1*082:01:01     ---------------------TGTGA----------------------------------  3240
-Mane-A1*082:01:02     ---------------------TGTGA----------------------------------  3240
+Mane-A1*082:01:02:01  ---------------------TGTGA----------------------------------  3240
 Mane-A1*082:01:03     ---------------------TGTGA----------------------------------  3240
 Mane-A1*082:02        ---------------------TGTGA----------------------------------  3240
 Mane-A1*082:03        ---------------------TGTGA----------------------------------  3240
@@ -4917,7 +4917,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  3300
 Mane-A1*074:02        ------------------------------------------------------------  3300
 Mane-A1*082:01:01     ------------------------------------------------------------  3300
-Mane-A1*082:01:02     ------------------------------------------------------------  3300
+Mane-A1*082:01:02:01  ------------------------------------------------------------  3300
 Mane-A1*082:01:03     ------------------------------------------------------------  3300
 Mane-A1*082:02        ------------------------------------------------------------  3300
 Mane-A1*082:03        ------------------------------------------------------------  3300
@@ -5007,7 +5007,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  3360
 Mane-A1*074:02        ------------------------------------------------------------  3360
 Mane-A1*082:01:01     ------------------------------------------------------------  3360
-Mane-A1*082:01:02     ------------------------------------------------------------  3360
+Mane-A1*082:01:02:01  ------------------------------------------------------------  3360
 Mane-A1*082:01:03     ------------------------------------------------------------  3360
 Mane-A1*082:02        ------------------------------------------------------------  3360
 Mane-A1*082:03        ------------------------------------------------------------  3360
@@ -5097,7 +5097,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  3420
 Mane-A1*074:02        ------------------------------------------------------------  3420
 Mane-A1*082:01:01     ------------------------------------------------------------  3420
-Mane-A1*082:01:02     ------------------------------------------------------------  3420
+Mane-A1*082:01:02:01  ------------------------------------------------------------  3420
 Mane-A1*082:01:03     ------------------------------------------------------------  3420
 Mane-A1*082:02        ------------------------------------------------------------  3420
 Mane-A1*082:03        ------------------------------------------------------------  3420
@@ -5187,7 +5187,7 @@ Mane-A1*073:01        ----------------------------------------------------------
 Mane-A1*074:01        ------------------------------------------------------------  3480
 Mane-A1*074:02        ------------------------------------------------------------  3480
 Mane-A1*082:01:01     ------------------------------------------------------------  3480
-Mane-A1*082:01:02     ------------------------------------------------------------  3480
+Mane-A1*082:01:02:01  ------------------------------------------------------------  3480
 Mane-A1*082:01:03     ------------------------------------------------------------  3480
 Mane-A1*082:02        ------------------------------------------------------------  3480
 Mane-A1*082:03        ------------------------------------------------------------  3480
@@ -5277,7 +5277,7 @@ Mane-A1*073:01        --------------------------  3506
 Mane-A1*074:01        --------------------------  3506
 Mane-A1*074:02        --------------------------  3506
 Mane-A1*082:01:01     --------------------------  3506
-Mane-A1*082:01:02     --------------------------  3506
+Mane-A1*082:01:02:01  --------------------------  3506
 Mane-A1*082:01:03     --------------------------  3506
 Mane-A1*082:02        --------------------------  3506
 Mane-A1*082:03        --------------------------  3506

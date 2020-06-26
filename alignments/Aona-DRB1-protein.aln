@@ -26,6 +26,9 @@ Aona-DRB1*03:26       ----------------------------------RFLFQTTYECHFFNGTERVRFLDR
 Aona-DRB1*03:27       ----------------------------------RFLFQTTSECHFFNGTERVRYLDRYF    60
 Aona-DRB1*03:28       ----------------------------------RFLFQTTSECHFFNGTERVRFLDRYF    60
 Aona-DRB1*03:29       ----------------------------------RFLFQTTSECHFFNGTERVRYLDRYF    60
+Aona-DRB1*03:30       ----------------------------------RFLFQTTSECYFFNGTERVRFLDRYF    60
+Aona-DRB1*03:31       ----------------------------------RFLFQTTSECHFFNGTERVRFLDRYL    60
+Aona-DRB1*03:32       ----------------------------------RFLFQTTSECHFFNGTERVRYLDRYF    60
 
 HLA-DRB1*01:01:01:01  YNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFTV   120
 Aona-DRB1*03:01       YNQEEYVRFDSDVGEYRAVTELGRRSAEYWNSQKDFLEERRALVDTYCRYNYGVAESFTV   120
@@ -55,6 +58,9 @@ Aona-DRB1*03:26       YNQEEYVRFDSDVGEYRAVTELGRRSAEYWNSQKDFLEERRALVDTYCRYNYGVAESF
 Aona-DRB1*03:27       YNQEEYVRFDSDVGEFRAVTELGRPDAEYWNSQKDLMEDRRAQVDTYCRHNYGVGESF--   120
 Aona-DRB1*03:28       YNQEEYVRFDSDVGEYRAVTELGRRSAEYWNSQKDFLEERRALVDTYCRYNYGVAESFTV   120
 Aona-DRB1*03:29       YNQEEYVRFDSDVGEYRAVTELGRPDAEYWNSQKDYVERKRGRVDNYCRHNYGVGESFTV   120
+Aona-DRB1*03:30       YNQEEYVRFDSDVGEYRAVTELGRPDAESWNSQKDLMEDRRAAVDTYCRHNYGVVESFTV   120
+Aona-DRB1*03:31       YNQKEYVRFDSDVGEYRAVTELGRPDAEYWNSQKDYVEQKRGQVDNYCRHNYGVFESFTV   120
+Aona-DRB1*03:32       YNQKEYVRFDSDVGEYRAVTELGRPDAEYWNSQKDYVEQKRGRVDNYCRHNYGVVESFTV   120
 
 HLA-DRB1*01:01:01:01  QRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNG   180
 Aona-DRB1*03:01       QR----------------------------------------------------------   180
@@ -84,6 +90,9 @@ Aona-DRB1*03:26       ----------------------------------------------------------
 Aona-DRB1*03:27       ------------------------------------------------------------   180
 Aona-DRB1*03:28       QRR---------------------------------------------------------   180
 Aona-DRB1*03:29       QRR---------------------------------------------------------   180
+Aona-DRB1*03:30       QRRVQPKVTVYPAKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNDQEEKAGVVSTGLIQNG   180
+Aona-DRB1*03:31       QRRVQPKVTVYPAKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNNQEEKAGVVSTGLIHNG   180
+Aona-DRB1*03:32       Q-----------------------------------------------------------   180
 
 HLA-DRB1*01:01:01:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLL   240
 Aona-DRB1*03:01       ------------------------------------------------------------   240
@@ -113,6 +122,9 @@ Aona-DRB1*03:26       ----------------------------------------------------------
 Aona-DRB1*03:27       ------------------------------------------------------------   240
 Aona-DRB1*03:28       ------------------------------------------------------------   240
 Aona-DRB1*03:29       ------------------------------------------------------------   240
+Aona-DRB1*03:30       DWTFQTLVMLETVPQSGEVYTCQVEHPSVTTPITVQWRAQSESAQSKMLSGVGGFVLGLL   240
+Aona-DRB1*03:31       DWTFQTLVMLETVPQSGEVYTCQVEHPSMTTPLTVQWRAQSESAQSKMLSGVGGFVLGLL   240
+Aona-DRB1*03:32       ------------------------------------------------------------   240
 
 HLA-DRB1*01:01:01:01  FLGAGLFIYFRNQKGHSGLQPTGFLS   266
 Aona-DRB1*03:01       --------------------------   266
@@ -142,4 +154,7 @@ Aona-DRB1*03:26       --------------------------   266
 Aona-DRB1*03:27       --------------------------   266
 Aona-DRB1*03:28       --------------------------   266
 Aona-DRB1*03:29       --------------------------   266
+Aona-DRB1*03:30       FLGAGLFIYFRNQKGHSGLQPTGLLS   266
+Aona-DRB1*03:31       FLGAGLFIYFRNQKGGSGLQPTGLLS   266
+Aona-DRB1*03:32       --------------------------   266
 

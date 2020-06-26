@@ -1,10 +1,25 @@
 HLA-DPB1*01:01:01:01  MMVLQVSAAPRTVALTALLMVLLTSVVQGRATPENYVYQGRQECYAFNGTQRFLERYIYN    60
+Mamu-DPB2*01:01       ----------------------------------NSVYQERQECYAFNGTQRFVDGLIYN    60
+Mamu-DPB2*01:02       ----------------------------------NSVYQERQECYAFNGTQRFADGLIYN    60
+Mamu-DPB2*01:03       ----------------------------------NSVYQERQECYAFNGTQRFVDGLIYN    60
 
 HLA-DPB1*01:01:01:01  REEYARFDSDVGEFRAVTELGRPAAEYWNSQKDILEEKRAVPDRVCRHNYELDEAVTLQR   120
+Mamu-DPB2*01:01       REDYVHFDSAVGEFLAVMELGRPTGEYLNSQKDFMERKRAEVDKMCRHKYELMEPPLRQR   120
+Mamu-DPB2*01:02       REDYVHFDSAVGEFLAVMELGRPTGEYLSSQKDFMERKRAEVDRMCRHKYELMEPPLRQR   120
+Mamu-DPB2*01:03       REDYVHFDSAVGEFLAVMELGRPTGEYLNSQKDFMERRRAEVDKMCRHKYELMEPPLRQR   120
 
 HLA-DPB1*01:01:01:01  RVQPKVNVSPSKKGPLQHHNLLVCHVTDFYPGSIQVRWFLNGQEETAGVVSTNLIRNGDW   180
+Mamu-DPB2*01:01       R-----------------------------------------------------------   180
+Mamu-DPB2*01:02       R-----------------------------------------------------------   180
+Mamu-DPB2*01:03       R-----------------------------------------------------------   180
 
 HLA-DPB1*01:01:01:01  TFQILVMLEMTPQQGDVYICQVEHTSLDSPVTVEWKAQSDSAQSKTLTGAGGFVLGLIIC   240
+Mamu-DPB2*01:01       ------------------------------------------------------------   240
+Mamu-DPB2*01:02       ------------------------------------------------------------   240
+Mamu-DPB2*01:03       ------------------------------------------------------------   240
 
 HLA-DPB1*01:01:01:01  GVGIFMHRRSKKVQRGSA   258
+Mamu-DPB2*01:01       ------------------   258
+Mamu-DPB2*01:02       ------------------   258
+Mamu-DPB2*01:03       ------------------   258
 
