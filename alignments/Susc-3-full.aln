@@ -14,6 +14,7 @@ SLA-3*03:09           ---------------------------CTGTCGGGAACCCTGGCCCTGACTGGTACCC
 SLA-3*03:10           ATGGGGCCCCGAGCCCTCTTCTTGCTGCTGTCGGGGACCCTGGCCCTGACTGGTACCCGG    60
 SLA-3*03:11           ------------------------------------------------------------    60
 SLA-3*03:12           ------------------------------------------------------------    60
+SLA-3*03:13           ATGGGGCCCCGAGCCCTCTTCTTGCTGCTGTCGGGGACCCTGGCCCTGACTGGTACCCGG    60
 SLA-3*04:01           ATGGGGCCCCGAGCCCTCTTCCTGCTGCTCTCGGGGGCCCTGGCCCTGACTGGGACCCGG    60
 SLA-3*04:02           ATGGGGCCCCGAGCCCTCGTTCTGCTGCTCTCGGGGGCCCTGGCCCTGACTGGGACCCGG    60
 SLA-3*04:03           ATGGGGCCCCGAGCCCTCGTTCTGCTGCTCTCGGGGGCCCTGGCCCTGACTGGGACCCGG    60
@@ -34,6 +35,7 @@ SLA-3*05:08           ATGGGGCCCCGAGCCCTCGTCCTGCTGCTGTCGGGGACCCTGGCCCTGACTGGGACCC
 SLA-3*06:01           ATGGGGCCCCGAGCCCTCTTCTTGCTGCTGTCGGGGACCCTGGCCCTGACTGGTACCCGG    60
 SLA-3*06:02           ATGGGGCCTGGAGCCCTCTTCTTGCTGCTGTCGGGGACCCTGGCCCTGACTGGTACCCGG    60
 SLA-3*06:03           ATGGGGCCCCGAGCCCTCTTCTTGCTGCTGTCGGGGACCCTGGCCCTGACTGGTACCCGG    60
+SLA-3*06:04           ------------------------------------------------------------    60
 SLA-3*07:01:01        ATGGGGCCCCGAGCCCTCTTCTTGCTGCTGTCGGGGACCCTGGCCCTGACTGGTACCCGG    60
 SLA-3*07:01:02        ATGGGGCCCCGAGCCCTCTTCTTGCTGCTGTCGGGGACCCTGGCCCTGACTGGTACCCGG    60
 SLA-3*07:02           ATGGGGCCCCGAGCCCTCTTCTTGCTGCTGTCGGGGACCCTGGCCCTGACTGGTACCCGG    60
@@ -56,6 +58,7 @@ SLA-3*03:09           GAGG------------------------------------------------------
 SLA-3*03:10           GAGG--------------------------------------------------------   120
 SLA-3*03:11           ------------------------------------------------------------   120
 SLA-3*03:12           ------------------------------------------------------------   120
+SLA-3*03:13           GAGG--------------------------------------------------------   120
 SLA-3*04:01           GCGG--------------------------------------------------------   120
 SLA-3*04:02           GCGG--------------------------------------------------------   120
 SLA-3*04:03           GCGG--------------------------------------------------------   120
@@ -76,6 +79,7 @@ SLA-3*05:08           GCGG------------------------------------------------------
 SLA-3*06:01           GAGG--------------------------------------------------------   120
 SLA-3*06:02           GAGG--------------------------------------------------------   120
 SLA-3*06:03           GAGG--------------------------------------------------------   120
+SLA-3*06:04           ------------------------------------------------------------   120
 SLA-3*07:01:01        GAGG--------------------------------------------------------   120
 SLA-3*07:01:02        GAGGGTGAGTGCGGGATCCGGGCACAAGGCCGCTGCGGGGAGGAGCGAGGGCACCGCCTG   120
 SLA-3*07:02           GAGG--------------------------------------------------------   120
@@ -98,6 +102,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------   180
 SLA-3*03:11           ------------------------------------------------------------   180
 SLA-3*03:12           ------------------------------------------------------------   180
+SLA-3*03:13           ------------------------------------------------------------   180
 SLA-3*04:01           ------------------------------------------------------------   180
 SLA-3*04:02           ------------------------------------------------------------   180
 SLA-3*04:03           ------------------------------------------------------------   180
@@ -118,6 +123,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------   180
 SLA-3*06:02           ------------------------------------------------------------   180
 SLA-3*06:03           ------------------------------------------------------------   180
+SLA-3*06:04           ------------------------------------------------------------   180
 SLA-3*07:01:01        ------------------------------------------------------------   180
 SLA-3*07:01:02        GGAGTCGGGTGGGGGCAGGACCCACGGGGAAGGTGCGACTCAGCTGTTCCGGCCCAGACC   180
 SLA-3*07:02           ------------------------------------------------------------   180
@@ -140,6 +146,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------   240
 SLA-3*03:11           ------------------------------------------------------------   240
 SLA-3*03:12           ------------------------------------------------------------   240
+SLA-3*03:13           ------------------------------------------------------------   240
 SLA-3*04:01           ------------------------------------------------------------   240
 SLA-3*04:02           ------------------------------------------------------------   240
 SLA-3*04:03           ------------------------------------------------------------   240
@@ -160,6 +167,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------   240
 SLA-3*06:02           ------------------------------------------------------------   240
 SLA-3*06:03           ------------------------------------------------------------   240
+SLA-3*06:04           ------------------------------------------------------------   240
 SLA-3*07:01:01        ------------------------------------------------------------   240
 SLA-3*07:01:02        CGCCACTTCACCCCGTCCTGTCCTGTCCCTCCCTTGTTTCCTGCCCCTCTGCTCACCGCC   240
 SLA-3*07:02           ------------------------------------------------------------   240
@@ -182,6 +190,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------   300
 SLA-3*03:11           ------------------------------------------------------------   300
 SLA-3*03:12           ------------------------------------------------------------   300
+SLA-3*03:13           ------------------------------------------------------------   300
 SLA-3*04:01           ------------------------------------------------------------   300
 SLA-3*04:02           ------------------------------------------------------------   300
 SLA-3*04:03           ------------------------------------------------------------   300
@@ -202,6 +211,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------   300
 SLA-3*06:02           ------------------------------------------------------------   300
 SLA-3*06:03           ------------------------------------------------------------   300
+SLA-3*06:04           ------------------------------------------------------------   300
 SLA-3*07:01:01        ------------------------------------------------------------   300
 SLA-3*07:01:02        CCCTAACCCGGGGCCCTTCTCCGACCTCCACCCCTTTCCCGCCTCCCCAGCCCCGAGCTC   300
 SLA-3*07:02           ------------------------------------------------------------   300
@@ -224,6 +234,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------   360
 SLA-3*03:11           ------------------------------------------------------------   360
 SLA-3*03:12           ------------------------------------------------------------   360
+SLA-3*03:13           ------------------------------------------------------------   360
 SLA-3*04:01           ------------------------------------------------------------   360
 SLA-3*04:02           ------------------------------------------------------------   360
 SLA-3*04:03           ------------------------------------------------------------   360
@@ -244,6 +255,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------   360
 SLA-3*06:02           ------------------------------------------------------------   360
 SLA-3*06:03           ------------------------------------------------------------   360
+SLA-3*06:04           ------------------------------------------------------------   360
 SLA-3*07:01:01        ------------------------------------------------------------   360
 SLA-3*07:01:02        CCTGCCCGGTCCCGGCCCCACCACCTCCCACTCGGAGCCCCGCGCCGAGAGGAGGGTCGT   360
 SLA-3*07:02           ------------------------------------------------------------   360
@@ -266,6 +278,7 @@ SLA-3*03:09           ---------------------GTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTC
 SLA-3*03:10           ---------------------GTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTCCC   420
 SLA-3*03:11           ---------------------GTCCCCACTCCCTGAGCTATTTCTTCACCGCCGTGTCCC   420
 SLA-3*03:12           ---------------------GTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTCCC   420
+SLA-3*03:13           ---------------------GTCCCCACTCCCTGAGCTATTTCTTCACCGCCGTGTCCC   420
 SLA-3*04:01           ---------------------GTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTCCC   420
 SLA-3*04:02           ---------------------GTCCCCACTCCCTGAGATATTTCGACACCGCCCTGTCCC   420
 SLA-3*04:03           ---------------------GTCCCCACTCCCTGAGATATTTCGACACCGCCCTGTCCC   420
@@ -286,6 +299,7 @@ SLA-3*05:08           ---------------------GTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTC
 SLA-3*06:01           ---------------------GTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTCCC   420
 SLA-3*06:02           ---------------------GTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTCCC   420
 SLA-3*06:03           ---------------------GTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTCCC   420
+SLA-3*06:04           ---------------------GTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTCCC   420
 SLA-3*07:01:01        ---------------------GTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTCCC   420
 SLA-3*07:01:02        GTCTCACCCTCCCGCCCCCAGGTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTCCC   420
 SLA-3*07:02           ---------------------GTCCCCACTCCCTGAGGTATTTCGACACCGCCGTGTCCC   420
@@ -308,6 +322,7 @@ SLA-3*03:09           GGCCCGACCGCGGGAAGCCCCGTTTCATCTCCGTCGGCTACGTGGACGACACGCAGTT
 SLA-3*03:10           GGCCCGACCGCGGGAAGACCCGTTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCG   480
 SLA-3*03:11           GGCCCGACCGCGGGAAGCCCCGTTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCG   480
 SLA-3*03:12           GGCCCGACCGCGGGAAGCCCCGTTTCATCTCCGTCGGCTACGTGGATGACACGCAGTTCG   480
+SLA-3*03:13           GGCCCGACCGCGGGAAGCCCCGTTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCG   480
 SLA-3*04:01           GGCCCGACCGCGGGAAGCCCCGTTTCATCGAAGTCGGCTACGTGGACGACACGCAGTTCG   480
 SLA-3*04:02           GGCCCGACCGCGGGAAGCCCCGTTTCATCGAAGTCGGCTACGTGGACGACACGCAGTTCG   480
 SLA-3*04:03           GGCCCGACCGCGGGAAGCCCCGTTTCATCGAAGTCGGCTACGTGGACGACACGCAGTTCG   480
@@ -328,6 +343,7 @@ SLA-3*05:08           GGCCCGACCGCGGGAAGCCCCGTTTCATCGAAGTCGGCTACGTGGACGACACGCAGTT
 SLA-3*06:01           GGCCCGACCGCGGGAAGCCCCGTTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCG   480
 SLA-3*06:02           GGCCCGACCGCGGGAAGCCCCGTTTCACCTCCGTCGGCTACGTGGACGACACGCAGTTCG   480
 SLA-3*06:03           GGCCCGACCGCGGGAAGCCCCGTTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCG   480
+SLA-3*06:04           GGCCCGACCGCGGGAAGCCCCGTTTCACCTCCGTCGGCTACGTGGACGACACGCAGTTCG   480
 SLA-3*07:01:01        GGCCCGACCGCGGGAAGCCCCGTTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCG   480
 SLA-3*07:01:02        GGCCCGACCGCGGGAAGCCCCGTTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCG   480
 SLA-3*07:02           GGCCCGACCGCGGGAAGCCCCGTTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCG   480
@@ -350,6 +366,7 @@ SLA-3*03:09           TGCGGTTCGACAGCGACGCCCCCAATCCGCGGATGGAGCCGCGGGCGCCGTGGATAGA
 SLA-3*03:10           TGCGGTTCGACAGCGACGCCCCCAATCCGCGGATGGAGCCGCGGGCGCCGTGGATACAGC   540
 SLA-3*03:11           TGCGGTTCGACAGCTACGCCCCGAATCCGCGGATGGAGCCGCGGGCGCAGTGGATACAGC   540
 SLA-3*03:12           TGCGGTTCGACAGCGACGCCCCCAATCCGCGGATGGAGCCGCGGGCGCCGTGGATAGAGA   540
+SLA-3*03:13           TGCGGTTCGACAGCTACGCCCCGAATCCGCGGATGGAGCCGCGGGCGCAGTGGATACAGC   540
 SLA-3*04:01           TGCGGTTCGACAGCGACGCCCCCAATCCGCGGATGGAGCCTCGGGTGCCGTGGATAGAGA   540
 SLA-3*04:02           TGCGGTTCGACAGCGACGCCCCCAATCCGCGGATGGAGCCGCGGGCGCCGTGGATAGAGA   540
 SLA-3*04:03           TGCGGTTCGACAGCGACGCCCCCAATCCGCGGATGGAGCCGCGGGCGCCGTGGATAGAGA   540
@@ -370,6 +387,7 @@ SLA-3*05:08           TGTGGTTCGACAGCGACGCCCCGAATCCGCGGATGGAGCCGCGGGCGCCGTGGATAGA
 SLA-3*06:01           TGCGGTTCGACAGCGACGCCCCGAATCCGCGGATGGAGCCGCGGGCGCCGTGGATAGAGC   540
 SLA-3*06:02           TGCGGTTCGACAGCGACGCCCCGAATCCGCGGATGGAGCCGCGGGCGCCGTGGATCGAAC   540
 SLA-3*06:03           TGCGGTTCGACAGCGACGCCCCCAATCCGCGGATGGAGCCGCGGGCGCCGTGGATACAGC   540
+SLA-3*06:04           TGCGGTTCGACAGCGACGCCCCGAATCCGCGGATGGAGCCGCGGGCGCCGTGGATCGAAC   540
 SLA-3*07:01:01        TGCGGTTCGACAGCGACGCCCCGAATCCGCGGATGGAGCCGCGGGCGCCGTGGATAAAGC   540
 SLA-3*07:01:02        TGCGGTTCGACAGCGACGCCCCGAATCCGCGGATGGAGCCGCGGGCGCCGTGGATAAAGC   540
 SLA-3*07:02           TGCGGTTCGACAGCGACGCCCCGAATCCGCGGATGGAGCCGCGGGCGCCGTGGATAAAGC   540
@@ -392,6 +410,7 @@ SLA-3*03:09           AGGACG---------AGCAGAAGTATTGGGATGAGGAGACGCAGAACGCCATGGGCAG
 SLA-3*03:10           AGGAGG---------GGCAGGACTATTGGGATCGGGAGACGCAGAACGCCATGGGCAGCG   600
 SLA-3*03:11           AGGAGG---------GGCAGGAGTATTGGGATCGGGAGACACAGATCAGCAAGGACAACG   600
 SLA-3*03:12           AGGAGG---------AGCAGAAGTATTGGGATCAGCAGACGCAGAACGCCATGGGCAGCG   600
+SLA-3*03:13           AGGAGG---------GGCAGGAGTATTGGGATCGGGAGACACAGATCAGCAAGGACAACG   600
 SLA-3*04:01           AGGAGG---------GGCAGGAGTATTGGGATAAGGAGACGGAGAACGCCATGGGCAGCG   600
 SLA-3*04:02           AGGCGG---------AGCAGAAGTATTGGGATGAGGAGACGCAGAACGCCATGGGCAGCG   600
 SLA-3*04:03           AGGCGG---------AGCAGAAGTATTGGGATGAGGAGACGCAGAACGCCATGGGCAGCG   600
@@ -412,6 +431,7 @@ SLA-3*05:08           AGGAGG---------GTCAGGAGTATTGGGATCGGGAGACACAGATCAGCAAGGACAA
 SLA-3*06:01           AGGAGG---------GGCAGGAGTATTGGGATGAGGAGACGCGGAACGCCATGGGCAGCG   600
 SLA-3*06:02           AGGAGA---------GGCAGGAGTATTGGGATGAGGAGACGCGGAACGCCATGGGCAGCG   600
 SLA-3*06:03           AGGAGG---------GGCAGAAGTATTGGGATGAGGAGACGCAGAACGCCATGGGCAGCG   600
+SLA-3*06:04           AGGAGA---------GGCAGGAGTATTGGGATGAGGAGACGCGGAACGCCATGGGCAGCG   600
 SLA-3*07:01:01        AGGAGGGGCAGGAGTGGCAGGAGTATTGGGATGAGGAGACGCGGAACGCCATGGGCAGCG   600
 SLA-3*07:01:02        AGGAGGGGCAGGAGTGGCAGGAGTATTGGGATGAGGAGACGCGGAACGCCATGGGCAGCG   600
 SLA-3*07:02           AGGAGGGGCAGGAGTGGCAGGAGTATTGGGATGAGGAGACGCGGAACGCCATGGGCAGCG   600
@@ -434,6 +454,7 @@ SLA-3*03:09           CACAGACTTTCCGAGTGAACCTGAAGAACCTGCGCGGCTACTACAACCAGAGCGAGGC
 SLA-3*03:10           CACAGACTTTCCGAGTGAACCTGAACAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
 SLA-3*03:11           CACAGAGATACCGAGTGAACCTGAACACCCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
 SLA-3*03:12           CACAGACTTTCCGAGTGAACCTGAAGACCCTGCGCGGCTACTACAGCCAGAGCGAGGCCG   660
+SLA-3*03:13           CACAGAGATACCGAGTGAACCTGAACACCCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
 SLA-3*04:01           CACAGACTTTCCGAGTGAACCTGAAAAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
 SLA-3*04:02           CACAGACTTTCCGAGTGAACCTGAAAAAGCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
 SLA-3*04:03           CACAGACTTTCCGAGTGAACCTGAAAAAGCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
@@ -454,6 +475,7 @@ SLA-3*05:08           CACAGACTTACCGAGTGAACCTGAACAACCTGCGCGGCTACTACAACCAGAGCGAGGC
 SLA-3*06:01           CACAGACTTTCCGAGTGAACCTGAACAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
 SLA-3*06:02           CACAGACTTTCCGAGTGAACCTGAACAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
 SLA-3*06:03           CACAGACTTTCCGAGTGAACCTGAACAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
+SLA-3*06:04           CACAGACTTTCCGAGTGAACCTGAACAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
 SLA-3*07:01:01        CACAGACTTTCCGAGTGAACCTGAACAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
 SLA-3*07:01:02        CACAGACTTTCCGAGTGAACCTGAACAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
 SLA-3*07:02           CACAGACTTTCCGAGTGAACCTGAACAACCTGCGCGGCTACTACAACCAGAGCGAGGCCG   660
@@ -476,6 +498,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------   720
 SLA-3*03:11           ------------------------------------------------------------   720
 SLA-3*03:12           ------------------------------------------------------------   720
+SLA-3*03:13           ------------------------------------------------------------   720
 SLA-3*04:01           ------------------------------------------------------------   720
 SLA-3*04:02           ------------------------------------------------------------   720
 SLA-3*04:03           ------------------------------------------------------------   720
@@ -496,6 +519,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------   720
 SLA-3*06:02           ------------------------------------------------------------   720
 SLA-3*06:03           ------------------------------------------------------------   720
+SLA-3*06:04           ------------------------------------------------------------   720
 SLA-3*07:01:01        ------------------------------------------------------------   720
 SLA-3*07:01:02        GTGAGCGAGGCGGGCCCGGGTCCAGCTCACGACCCCCATCCCCATCCCCAGGGACGGACC   720
 SLA-3*07:02           ------------------------------------------------------------   720
@@ -518,6 +542,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------   780
 SLA-3*03:11           ------------------------------------------------------------   780
 SLA-3*03:12           ------------------------------------------------------------   780
+SLA-3*03:13           ------------------------------------------------------------   780
 SLA-3*04:01           ------------------------------------------------------------   780
 SLA-3*04:02           ------------------------------------------------------------   780
 SLA-3*04:03           ------------------------------------------------------------   780
@@ -538,6 +563,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------   780
 SLA-3*06:02           ------------------------------------------------------------   780
 SLA-3*06:03           ------------------------------------------------------------   780
+SLA-3*06:04           ------------------------------------------------------------   780
 SLA-3*07:01:01        ------------------------------------------------------------   780
 SLA-3*07:01:02        GGGGTCACCCCGACCTCCGGGTCCAAGGGTCACCCCGGCATTTC-GGACCCGCCCAGCCC   780
 SLA-3*07:02           ------------------------------------------------------------   780
@@ -560,6 +586,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------   840
 SLA-3*03:11           ------------------------------------------------------------   840
 SLA-3*03:12           ------------------------------------------------------------   840
+SLA-3*03:13           ------------------------------------------------------------   840
 SLA-3*04:01           ------------------------------------------------------------   840
 SLA-3*04:02           ------------------------------------------------------------   840
 SLA-3*04:03           ------------------------------------------------------------   840
@@ -580,6 +607,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------   840
 SLA-3*06:02           ------------------------------------------------------------   840
 SLA-3*06:03           ------------------------------------------------------------   840
+SLA-3*06:04           ------------------------------------------------------------   840
 SLA-3*07:01:01        ------------------------------------------------------------   840
 SLA-3*07:01:02        CCGACCCGGAAGGACCGGCGGGGACTTTCCCCCGGTTTCGTTTTCACTCTAGGTTGAACC   840
 SLA-3*07:02           ------------------------------------------------------------   840
@@ -602,6 +630,7 @@ SLA-3*03:09           ----------------------------------------------GGTCTCACACCC
 SLA-3*03:10           ----------------------------------------------GGTCTCACACCATC   900
 SLA-3*03:11           ----------------------------------------------GGTCTCACACCCTC   900
 SLA-3*03:12           ----------------------------------------------GGTCTCACACCCTC   900
+SLA-3*03:13           ----------------------------------------------GGTCTCACACCCTC   900
 SLA-3*04:01           ----------------------------------------------GGTCTCACACCCTC   900
 SLA-3*04:02           ----------------------------------------------GGTCTCACACCCTC   900
 SLA-3*04:03           ----------------------------------------------GGTCTCACACCCTC   900
@@ -622,6 +651,7 @@ SLA-3*05:08           ----------------------------------------------GGTCTCACACCC
 SLA-3*06:01           ----------------------------------------------GGTCTCACACCCTC   900
 SLA-3*06:02           ----------------------------------------------GGTCTCACACCTAC   900
 SLA-3*06:03           ----------------------------------------------GGTCTCACACCCTC   900
+SLA-3*06:04           ----------------------------------------------GGTCTCACACCCTC   900
 SLA-3*07:01:01        ----------------------------------------------GGTCTCACACCCTC   900
 SLA-3*07:01:02        CCGGGTTGGTCGTGGCGGGGGCGTGGCTGACTCGGGGCGGGGTCAGGGTCTCACACCCTC   900
 SLA-3*07:02           ----------------------------------------------GGTCTCACACCCTC   900
@@ -644,6 +674,7 @@ SLA-3*03:09           CAGAGCATGTATGGCTGCGACGTGGGACCAGACGGGCTCTTCCTCCACGGGTACCATC
 SLA-3*03:10           CAGAGCATGTACGGCTGCGACGTGGGACCAGACGGGCTCTTCCTCCACGGGTACCATCAG   960
 SLA-3*03:11           CAGGTCATGTACGGCTGCGACGTGGGACCAGACGGGCTCTTCCTCCACGGGTACCATCAG   960
 SLA-3*03:12           CAGAGCATGTATGGCTGCGACGTGGGACCAGACGGGCTCTTCCTCCACGGGTACCATCAG   960
+SLA-3*03:13           CAGGTCATGTACGGCTGCGACGTGGGACCAGACGGGCTCTTCCTCCACGGGTACCATCAG   960
 SLA-3*04:01           CAGAGCATGTACGGCTGCGACGTGGGACCAGACGGGCTCCTCCTCCGCGGGTACAGTCAG   960
 SLA-3*04:02           CAGAGCATGTACGGCTGCGACGTGGGACCAGACGGGCTCCTCCTCCGCGGGTACAGTCAG   960
 SLA-3*04:03           CAGAGCATGTACGGCTGCGACGTGGGACCAGACGGGCTCCTCCTCCGCGGGTACAGTCAG   960
@@ -664,6 +695,7 @@ SLA-3*05:08           CAGAGCATGTACGGCTGCGACGTGGGACCAGACGGGCTCTTCCTCCGCGGGTACAGTC
 SLA-3*06:01           CAGAGCATGTACGGCTGCGACGTGGGGCCAGACTGGCTCTTCCTCCGCGGGTACAGTCAG   960
 SLA-3*06:02           CAGTGGATGTACGGCTGCGACGTGGGGCCAGACTGGCTCTTCCTCCGCGGGTACAGTCAG   960
 SLA-3*06:03           CAGAGCATGTACGGCTGCGACGTGGGGCCAGACTGGCTCTTCCTCCGCGGGTACAGTCAG   960
+SLA-3*06:04           CAGAGCATGTACGGCTGCGACGTGGGGCCAGACTGGCTCTTCCTCCGCGGGTACAGTCAG   960
 SLA-3*07:01:01        CAGAGCATGTACGGCTGCGACGTGGGACCAGACTGGCTCTTCCTCCGCGGGTACAGTCAG   960
 SLA-3*07:01:02        CAGAGCATGTACGGCTGCGACGTGGGGCCAGACTGGCTCTTCCTCCGCGGGTACAGTCAG   960
 SLA-3*07:02           CAGAGCATGTACGGCTGCGACGTGGGACCAGACTGGCTCTTCCTCCGCGGGTACAGTCAG   960
@@ -686,6 +718,7 @@ SLA-3*03:09           GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCG
 SLA-3*03:10           GACGCCTACGACGGCGCCGATTACGTCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
 SLA-3*03:11           GACGCCTACGACGGCGCCGATTACCTCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
 SLA-3*03:12           GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
+SLA-3*03:13           GACGCCTACGACGGCGCCGATTACCTCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
 SLA-3*04:01           GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
 SLA-3*04:02           GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
 SLA-3*04:03           GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
@@ -706,6 +739,7 @@ SLA-3*05:08           TTCGCCTACGACGGCACGGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCG
 SLA-3*06:01           GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
 SLA-3*06:02           GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
 SLA-3*06:03           GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
+SLA-3*06:04           GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
 SLA-3*07:01:01        GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
 SLA-3*07:01:02        GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
 SLA-3*07:02           GACGCCTACGACGGCGCCGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCG  1020
@@ -728,6 +762,7 @@ SLA-3*03:09           GCGGACACGGCGGCTCAGATCGCCAAGCGCAAGTGGGAGGCGGCCGATGCGGCTGAGC
 SLA-3*03:10           GCGGACACGGCGGCTCAGATCTCCAAGCGCAAGCAGGAGGAGGCCGATGTGGCGGAGCAG  1080
 SLA-3*03:11           GCGGACACGGCGGCTCAGATCTCCAAGCGCAAGTGGGAGGCGGCCGATGCGGCGGAGCAG  1080
 SLA-3*03:12           GCGGACACGGCGGCTCAGATCTCCAAGCGCAAGAGGGAGGCGGCCAATGAGGCGGAGCGG  1080
+SLA-3*03:13           GCGGACACGGCGGCTCAGATCTCCAAGCGCAAGAGGGAGGCGGCCGATGCGGCGGAGCAG  1080
 SLA-3*04:01           GCGGACACGGCGGCTCAGATCACCAAGCGCAAGAGGGAGGCGGCCGATGCGGCGGAGCAA  1080
 SLA-3*04:02           GCGGACACGGCGGCTCAGATCACCAAGCGCAAGAGGGAGGC---CGATGCGGCGGAGCAA  1080
 SLA-3*04:03           GCGGACACGGCGGCTCAGATCACCAAGCGCAAGAGGGAGGC---CGATGCGGCGGAGCAA  1080
@@ -748,6 +783,7 @@ SLA-3*05:08           GCGGACACGGCGGCTCAGATCACCAAGCGCAAGAGGGAGGCGGCCGATGCGGCGGAGC
 SLA-3*06:01           GCGGACACGGCGGCTCAGATCACCAAGCGCAAGTGGGAGGCGGCCGATGAGGCGGAGCAA  1080
 SLA-3*06:02           GCGGACACGGCGGCTCAGATCACCAAGCGCAAGAGGGAGGCGGCCGATGCGGCGGAGCAA  1080
 SLA-3*06:03           GCGGACACGGCGGCTCAGATCTCCAAGCGCAAGTGGGAGGCGGCCGATGCGGCGGAGCAA  1080
+SLA-3*06:04           GCGGACACGGCGGCTCAGATCACCAAGCGCAAGAGGGAGGCGGCCGATGCGGCGGAGCAA  1080
 SLA-3*07:01:01        GCGGACACGGCGGCTCAGATCACCAAGCGCAAGAGGGAGGCGGCCGATGCGGCGGAGCAA  1080
 SLA-3*07:01:02        GCGGACACGGCGGCTCAGATCACCAAGCGCAAGAGGGAGGCGGCCGATGCGGCGGAGCAA  1080
 SLA-3*07:02           GCGGACACGGCGGCTCAGATCACCAAGCGCAAGAGGGAGGCGGCCGATGCGGCGGAGCAA  1080
@@ -762,7 +798,7 @@ SLA-3*03:01           TGGAGGAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGGAGATGG
 SLA-3*03:02           TGGAGGAGCTACCTGGAGGGCGCGTGTGTGGAGGGGCTCCAGAAATACCTGGATTTGGGG  1140
 SLA-3*03:03           TGGAGGAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGGAGATGGGA  1140
 SLA-3*03:04           TGGAGGAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGGAGATGGGA  1140
-SLA-3*03:05           TGGAGGAGCTACCTGGAGGGC---------------------------------------  1140
+SLA-3*03:05           TGGAGGAGCTACCTGGAGGGCGCGTGTGTGGAGGGGCTCCAGAAATACCTGGAGATGGGG  1140
 SLA-3*03:06           TGGAGGAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGGAGATGGGG  1140
 SLA-3*03:07           TGGAGGAGCTACCTGGAGGGCGCGTGTGTGGAGGGGCTCCAGAAATACCTGGAGATGGGG  1140
 SLA-3*03:08           TGGAGGAGCTACCTGGAGGGCGCG------------------------------------  1140
@@ -770,6 +806,7 @@ SLA-3*03:09           TGGAGGAGCTACCTGGAGGGCGCGTGTGTGGTG-------------------------
 SLA-3*03:10           TGGAGGAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGCAGATGGGG  1140
 SLA-3*03:11           TGGAGGAGCTACCTGGAGGGCGCGTGTGTGGAGGGGCTCCAGAAATACCTGGAGATGGGG  1140
 SLA-3*03:12           ATGAGGAGCTACCTGCAGGGCCGGTGTGTGGAGTGGCTCCAGAAATACCTGGAGATGGGG  1140
+SLA-3*03:13           TGGAGGAGCTACCTGGAGGGCGCGTGTGTGGAGGGGCTCCAGAAATACCTGGAGATGGGG  1140
 SLA-3*04:01           ATGAGAAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGCAGATGGGG  1140
 SLA-3*04:02           ATGAGAAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGGAGATGGGG  1140
 SLA-3*04:03           ATGAGAAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGGAGATGGGG  1140
@@ -790,6 +827,7 @@ SLA-3*05:08           ATGAGAAGCTACCTGGAGGGCGCCTGTGTGGAGGGGCTCCAGAAATACCTGGAGATGG
 SLA-3*06:01           ATGAGAAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGCAGATGGGG  1140
 SLA-3*06:02           ATGAGAAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGGAGATGGGG  1140
 SLA-3*06:03           ATGAGAAGCTACCTGGAGGGCGCGTGTGTGGAGTCGCTCCGCAGATACCTGCAGATGGGG  1140
+SLA-3*06:04           ATGAGAAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGGAGATGGGG  1140
 SLA-3*07:01:01        ATGAGAAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGCAGATGGGG  1140
 SLA-3*07:01:02        ATGAGAAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGCAGATGGGG  1140
 SLA-3*07:02           ATGAGAAGCTACCTGGAGGGCGCGTGTGTGGAGTGGCTCCAGAAATACCTGCAGATGGGG  1140
@@ -804,7 +842,7 @@ SLA-3*03:01           AATAACACGCTGCAGCGCGCAG------------------------------------
 SLA-3*03:02           AAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*03:03           AATAACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*03:04           AATAACACGCTGCAGCGCGCAG--------------------------------------  1200
-SLA-3*03:05           ------------------------------------------------------------  1200
+SLA-3*03:05           AAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*03:06           GAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*03:07           AAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*03:08           ------------------------------------------------------------  1200
@@ -812,6 +850,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           AAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*03:11           GAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*03:12           AAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
+SLA-3*03:13           GAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*04:01           AAGGACACGCTGCAGCACGCAG--------------------------------------  1200
 SLA-3*04:02           AAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*04:03           AAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
@@ -832,6 +871,7 @@ SLA-3*05:08           AAGGACACGCTGCAGCGCGCAG------------------------------------
 SLA-3*06:01           AATAACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*06:02           AAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*06:03           AATAACACGCTGCAGCGCGCAG--------------------------------------  1200
+SLA-3*06:04           AAGGACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*07:01:01        AATAACACGCTGCAGCGCGCAG--------------------------------------  1200
 SLA-3*07:01:02        AATAACACGCTGCAGCGCGCAGGTATCAGGGGCCGCGGGGCCTCCACCATCTCCCCTCCG  1200
 SLA-3*07:02           AATAACACGCTGCAGCGCGCAG--------------------------------------  1200
@@ -854,6 +894,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  1260
 SLA-3*03:11           ------------------------------------------------------------  1260
 SLA-3*03:12           ------------------------------------------------------------  1260
+SLA-3*03:13           ------------------------------------------------------------  1260
 SLA-3*04:01           ------------------------------------------------------------  1260
 SLA-3*04:02           ------------------------------------------------------------  1260
 SLA-3*04:03           ------------------------------------------------------------  1260
@@ -874,6 +915,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  1260
 SLA-3*06:02           ------------------------------------------------------------  1260
 SLA-3*06:03           ------------------------------------------------------------  1260
+SLA-3*06:04           ------------------------------------------------------------  1260
 SLA-3*07:01:01        ------------------------------------------------------------  1260
 SLA-3*07:01:02        GAGGGAGCTGCCTTCCCACAAGGAGAGGAAAAGGGGGTCCCTGCGGGAAAGCCCCCCACT  1260
 SLA-3*07:02           ------------------------------------------------------------  1260
@@ -896,6 +938,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  1320
 SLA-3*03:11           ------------------------------------------------------------  1320
 SLA-3*03:12           ------------------------------------------------------------  1320
+SLA-3*03:13           ------------------------------------------------------------  1320
 SLA-3*04:01           ------------------------------------------------------------  1320
 SLA-3*04:02           ------------------------------------------------------------  1320
 SLA-3*04:03           ------------------------------------------------------------  1320
@@ -916,6 +959,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  1320
 SLA-3*06:02           ------------------------------------------------------------  1320
 SLA-3*06:03           ------------------------------------------------------------  1320
+SLA-3*06:04           ------------------------------------------------------------  1320
 SLA-3*07:01:01        ------------------------------------------------------------  1320
 SLA-3*07:01:02        GCCTGTCCTGAGAGGGAGGAGTCCACCTAGGTTCCCAGCTTCTCCACAAGACAGGGACTC  1320
 SLA-3*07:02           ------------------------------------------------------------  1320
@@ -938,6 +982,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  1380
 SLA-3*03:11           ------------------------------------------------------------  1380
 SLA-3*03:12           ------------------------------------------------------------  1380
+SLA-3*03:13           ------------------------------------------------------------  1380
 SLA-3*04:01           ------------------------------------------------------------  1380
 SLA-3*04:02           ------------------------------------------------------------  1380
 SLA-3*04:03           ------------------------------------------------------------  1380
@@ -958,6 +1003,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  1380
 SLA-3*06:02           ------------------------------------------------------------  1380
 SLA-3*06:03           ------------------------------------------------------------  1380
+SLA-3*06:04           ------------------------------------------------------------  1380
 SLA-3*07:01:01        ------------------------------------------------------------  1380
 SLA-3*07:01:02        CCCAGGGGGTCTGACTTCTCCACAGGACAGTTAAGGAAGCCTGTCTCTTTTGGGGTGAAG  1380
 SLA-3*07:02           ------------------------------------------------------------  1380
@@ -980,6 +1026,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  1440
 SLA-3*03:11           ------------------------------------------------------------  1440
 SLA-3*03:12           ------------------------------------------------------------  1440
+SLA-3*03:13           ------------------------------------------------------------  1440
 SLA-3*04:01           ------------------------------------------------------------  1440
 SLA-3*04:02           ------------------------------------------------------------  1440
 SLA-3*04:03           ------------------------------------------------------------  1440
@@ -1000,6 +1047,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  1440
 SLA-3*06:02           ------------------------------------------------------------  1440
 SLA-3*06:03           ------------------------------------------------------------  1440
+SLA-3*06:04           ------------------------------------------------------------  1440
 SLA-3*07:01:01        ------------------------------------------------------------  1440
 SLA-3*07:01:02        GGGGGAGACCATCCGTGAAAGGACTGCTCAGCGGTGCCCTTTGACCCTGGCCGCCATCTT  1440
 SLA-3*07:02           ------------------------------------------------------------  1440
@@ -1022,6 +1070,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  1500
 SLA-3*03:11           ------------------------------------------------------------  1500
 SLA-3*03:12           ------------------------------------------------------------  1500
+SLA-3*03:13           ------------------------------------------------------------  1500
 SLA-3*04:01           ------------------------------------------------------------  1500
 SLA-3*04:02           ------------------------------------------------------------  1500
 SLA-3*04:03           ------------------------------------------------------------  1500
@@ -1042,6 +1091,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  1500
 SLA-3*06:02           ------------------------------------------------------------  1500
 SLA-3*06:03           ------------------------------------------------------------  1500
+SLA-3*06:04           ------------------------------------------------------------  1500
 SLA-3*07:01:01        ------------------------------------------------------------  1500
 SLA-3*07:01:02        GGGAACCATGACTTTCTCAGGCCTGGTCTCAGCCTGCGAACAGCTTTGCATCCTGGACAC  1500
 SLA-3*07:02           ------------------------------------------------------------  1500
@@ -1064,6 +1114,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  1560
 SLA-3*03:11           ------------------------------------------------------------  1560
 SLA-3*03:12           ------------------------------------------------------------  1560
+SLA-3*03:13           ------------------------------------------------------------  1560
 SLA-3*04:01           ------------------------------------------------------------  1560
 SLA-3*04:02           ------------------------------------------------------------  1560
 SLA-3*04:03           ------------------------------------------------------------  1560
@@ -1084,6 +1135,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  1560
 SLA-3*06:02           ------------------------------------------------------------  1560
 SLA-3*06:03           ------------------------------------------------------------  1560
+SLA-3*06:04           ------------------------------------------------------------  1560
 SLA-3*07:01:01        ------------------------------------------------------------  1560
 SLA-3*07:01:02        CACCTTGCCTGAGTCATTCAGCCTCCACCAACGTCAGGAACAGGACTCTGTATTCTTCCC  1560
 SLA-3*07:02           ------------------------------------------------------------  1560
@@ -1106,6 +1158,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  1620
 SLA-3*03:11           ------------------------------------------------------------  1620
 SLA-3*03:12           ------------------------------------------------------------  1620
+SLA-3*03:13           ------------------------------------------------------------  1620
 SLA-3*04:01           ------------------------------------------------------------  1620
 SLA-3*04:02           ------------------------------------------------------------  1620
 SLA-3*04:03           ------------------------------------------------------------  1620
@@ -1126,6 +1179,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  1620
 SLA-3*06:02           ------------------------------------------------------------  1620
 SLA-3*06:03           ------------------------------------------------------------  1620
+SLA-3*06:04           ------------------------------------------------------------  1620
 SLA-3*07:01:01        ------------------------------------------------------------  1620
 SLA-3*07:01:02        CTTAAGTCCTGGAGCCTCCTACCTCAATCTCACCCTGATTCTAGGCTCTTCCAAGGACTA  1620
 SLA-3*07:02           ------------------------------------------------------------  1620
@@ -1148,6 +1202,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  1680
 SLA-3*03:11           ------------------------------------------------------------  1680
 SLA-3*03:12           ------------------------------------------------------------  1680
+SLA-3*03:13           ------------------------------------------------------------  1680
 SLA-3*04:01           ------------------------------------------------------------  1680
 SLA-3*04:02           ------------------------------------------------------------  1680
 SLA-3*04:03           ------------------------------------------------------------  1680
@@ -1168,6 +1223,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  1680
 SLA-3*06:02           ------------------------------------------------------------  1680
 SLA-3*06:03           ------------------------------------------------------------  1680
+SLA-3*06:04           ------------------------------------------------------------  1680
 SLA-3*07:01:01        ------------------------------------------------------------  1680
 SLA-3*07:01:02        GGAGCTATTCCCAGATACCCAAGTCCAGGCTGGTGTCTGGCTTTTGTGCTTCCTTTCAAA  1680
 SLA-3*07:02           ------------------------------------------------------------  1680
@@ -1190,6 +1246,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  1740
 SLA-3*03:11           ------------------------------------------------------------  1740
 SLA-3*03:12           ------------------------------------------------------------  1740
+SLA-3*03:13           ------------------------------------------------------------  1740
 SLA-3*04:01           ------------------------------------------------------------  1740
 SLA-3*04:02           ------------------------------------------------------------  1740
 SLA-3*04:03           ------------------------------------------------------------  1740
@@ -1210,6 +1267,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  1740
 SLA-3*06:02           ------------------------------------------------------------  1740
 SLA-3*06:03           ------------------------------------------------------------  1740
+SLA-3*06:04           ------------------------------------------------------------  1740
 SLA-3*07:01:01        ------------------------------------------------------------  1740
 SLA-3*07:01:02        CCCATTGTCCTGGCCCTTCACCCAGTGGCCCAGGCAGGGGACCCACAGGGTGAATTTTCT  1740
 SLA-3*07:02           ------------------------------------------------------------  1740
@@ -1232,6 +1290,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ----------------AGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACCTG  1800
 SLA-3*03:11           ------------------------------------------------------------  1800
 SLA-3*03:12           ------------------------------------------------------------  1800
+SLA-3*03:13           ----------------AGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACCTG  1800
 SLA-3*04:01           ----------------AGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACCTC  1800
 SLA-3*04:02           ----------------AGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACCTG  1800
 SLA-3*04:03           ----------------AGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACCTG  1800
@@ -1252,6 +1311,7 @@ SLA-3*05:08           ----------------AGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACC
 SLA-3*06:01           ----------------AGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACCTG  1800
 SLA-3*06:02           ----------------AGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACCTC  1800
 SLA-3*06:03           ----------------AGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACCTG  1800
+SLA-3*06:04           ------------------------------------------------------------  1800
 SLA-3*07:01:01        ----------------AGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACCTG  1800
 SLA-3*07:01:02        GATTCTTCTTCCTCAGAGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACCTG  1800
 SLA-3*07:02           ----------------AGCCTCCAAAGACACATGTGACCCGCCACCCCAGCTCTGACCTG  1800
@@ -1274,6 +1334,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           GGGGTCACCTTGAGGTGCTGGGCCCTGGGCTTCTACCCTAAGGAGATCTCCCTGACCTGG  1860
 SLA-3*03:11           ------------------------------------------------------------  1860
 SLA-3*03:12           ------------------------------------------------------------  1860
+SLA-3*03:13           GGGGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTAAGGAGATCTCCCTGACCTGG  1860
 SLA-3*04:01           GGGGTCACCTTGAGGTGCTGGGCCCTGGGCTTCTACCCTAAGGAGATCTCCCTGACCTGG  1860
 SLA-3*04:02           GGGGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTAAGGAGATCTCCCTGACCTGG  1860
 SLA-3*04:03           GGGGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTAAGGAGATCTCCCTGACCTGG  1860
@@ -1294,6 +1355,7 @@ SLA-3*05:08           GGGGTCACCTTGAGGTGCTGGGCCCTGGGCTTCTACCCTAAGGAGATCTCCCTGACCT
 SLA-3*06:01           GGGGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTAAGGAGATCTCCCTGACCTGG  1860
 SLA-3*06:02           GGGGTCACCCTGAGGTGCTGGGCCATGGGCTTCTACCCTAAGGAGATCTCCCTGACCTGG  1860
 SLA-3*06:03           GGGGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTAAGGAGATCTCCCTGACCTGG  1860
+SLA-3*06:04           ------------------------------------------------------------  1860
 SLA-3*07:01:01        GGGGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTAAGGAGATCTCCCTGACCTGG  1860
 SLA-3*07:01:02        GGGGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTAAGGAGATCTCCCTGACCTGG  1860
 SLA-3*07:02           GGGGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTAAGGAGATCTCCCTGACCTGG  1860
@@ -1316,6 +1378,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           CAGCGGGAGGGCCAGGACCAGAGCCAGG------------ACATGGAGCTGGTGGAGACC  1920
 SLA-3*03:11           ------------------------------------------------------------  1920
 SLA-3*03:12           ------------------------------------------------------------  1920
+SLA-3*03:13           CAGCGGGAGGGCCAGGACCAGAGCCAGG------------ACATGGAGCTGGTGGAGACC  1920
 SLA-3*04:01           CAGCGCGAGGGCCAGGACCAGAGCCAGG------------ACATGGAGCTGGTGGAGACC  1920
 SLA-3*04:02           CAGCGGGAGGGCCAGGACCAGAGCCAGG------------ACATGGAGCTGGTGGAGACC  1920
 SLA-3*04:03           CAGCGGGAGGGCCAGGACCAGGGCCAGGACCAGAGCCAGTACATGGAGCTGGTGGAGACC  1920
@@ -1336,6 +1399,7 @@ SLA-3*05:08           CAGCGCGAGGGCCAGGACCAGAGCCAGG------------ACATGGAGCTGGTGGAGA
 SLA-3*06:01           CAGCGCGAGGGCCAGGACCAGAGCCAAG------------ACATGGAGCTGGTGGAGACC  1920
 SLA-3*06:02           CAGCGCGAGGGCCAGGACCAGAGCCAGG------------ACATGGAGCTGGTGGAGACC  1920
 SLA-3*06:03           CAGCGCGAGGGCCAGGACCAGAGCCAAG------------ACATGGAGCTGGTGGAGACC  1920
+SLA-3*06:04           ------------------------------------------------------------  1920
 SLA-3*07:01:01        CAGCGCGAGGGCCAGGACCAGAGCCAAG------------ACATGGAGCTGGTGGAGACC  1920
 SLA-3*07:01:02        CAGCGCGAGGGCCAGGACCAGAGCCAAG------------ACATGGAGCTGGTGGAGACC  1920
 SLA-3*07:02           CAGCGCGAGGGCCAGGACCAGAGCCAAG------------ACATGGAGCTGGTGGAGACC  1920
@@ -1358,6 +1422,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAGAG  1980
 SLA-3*03:11           ------------------------------------------------------------  1980
 SLA-3*03:12           ------------------------------------------------------------  1980
+SLA-3*03:13           AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAGAG  1980
 SLA-3*04:01           AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAGAG  1980
 SLA-3*04:02           AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAGAG  1980
 SLA-3*04:03           AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAGAG  1980
@@ -1378,6 +1443,7 @@ SLA-3*05:08           AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAG
 SLA-3*06:01           AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAGAG  1980
 SLA-3*06:02           AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAGAG  1980
 SLA-3*06:03           AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAGAG  1980
+SLA-3*06:04           ------------------------------------------------------------  1980
 SLA-3*07:01:01        AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAGAG  1980
 SLA-3*07:01:02        AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAGAG  1980
 SLA-3*07:02           AGGCCCTCAGGGGATGGGACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTCCTGGAGAG  1980
@@ -1400,6 +1466,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           GAGCAGAGCTACACCTGCCATGTGCAGCACGAGGGCCTGCAGGAGCCCCTCACCCTGAGA  2040
 SLA-3*03:11           ------------------------------------------------------------  2040
 SLA-3*03:12           ------------------------------------------------------------  2040
+SLA-3*03:13           GAGCAGAGCTACACCTGCCATGTGCAGCACGAGGGCCTGCAGGAGCCCCTCACCCTGAGA  2040
 SLA-3*04:01           GAGCAGAGCTACACCTGCCATGTGCAGCACGAGGGCCTGCAGGAGCCCCTCACCCTGAGA  2040
 SLA-3*04:02           GAGCAGAGCTACACCTGCCATGTGCAGCACGAGGGCCTGCAGGAGCCCCTCACCCTGAGA  2040
 SLA-3*04:03           GAGCAGAGCTACACCTGCCATGTGCAGCACGAGGGCCTGCAGGAGCCCCTCACCCTGAGA  2040
@@ -1420,6 +1487,7 @@ SLA-3*05:08           GAGCAGAGCTACACCTGCCATGTGCAGCACGAGGGCCTGCAGGAGCCACTCACCCTGA
 SLA-3*06:01           GAGCAGAGCTACACCTGCCATGTGCAGCATGAGGGCCTGCAGGAGCCCCTCACCCTGAGA  2040
 SLA-3*06:02           GAGCAGAGCTACACCTGCCATGTGCAGCACGAGGGCCTGCAGGAGCCCCTCACCCTGAGA  2040
 SLA-3*06:03           GAGCAGAGCTACACCTGCCATGTGCAGCACGAGGGCCTGCAGGAGCCCCTCACCCTGAGA  2040
+SLA-3*06:04           ------------------------------------------------------------  2040
 SLA-3*07:01:01        GAGCAGAGCTACACCTGCCATGTGCAGCACGAGGGCCTGCAGGAGCCCCTCACCCTGAGA  2040
 SLA-3*07:01:02        GAGCAGAGCTACACCTGCCATGTGCAGCACGAGGGCCTGCAGGAGCCCCTCACCCTGAGA  2040
 SLA-3*07:02           GAGCAGAGCTACACCTGCCATGTGCAGCACGAGGGCCTGCAGGAGCCCCTCACCCTGAGA  2040
@@ -1442,6 +1510,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           TGGG--------------------------------------------------------  2100
 SLA-3*03:11           ------------------------------------------------------------  2100
 SLA-3*03:12           ------------------------------------------------------------  2100
+SLA-3*03:13           TGGG--------------------------------------------------------  2100
 SLA-3*04:01           TGGG--------------------------------------------------------  2100
 SLA-3*04:02           TGGG--------------------------------------------------------  2100
 SLA-3*04:03           TGGG--------------------------------------------------------  2100
@@ -1462,6 +1531,7 @@ SLA-3*05:08           TGGG------------------------------------------------------
 SLA-3*06:01           TGGG--------------------------------------------------------  2100
 SLA-3*06:02           TGGG--------------------------------------------------------  2100
 SLA-3*06:03           TGGG--------------------------------------------------------  2100
+SLA-3*06:04           ------------------------------------------------------------  2100
 SLA-3*07:01:01        TGGG--------------------------------------------------------  2100
 SLA-3*07:01:02        TGGGGTAAGGAGGGACCTGGGGGCGGAGCCTCTTCTCAGACAAAGCAGAAGCCCTTCTGG  2100
 SLA-3*07:02           TGGG--------------------------------------------------------  2100
@@ -1484,6 +1554,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  2160
 SLA-3*03:11           ------------------------------------------------------------  2160
 SLA-3*03:12           ------------------------------------------------------------  2160
+SLA-3*03:13           ------------------------------------------------------------  2160
 SLA-3*04:01           ------------------------------------------------------------  2160
 SLA-3*04:02           ------------------------------------------------------------  2160
 SLA-3*04:03           ------------------------------------------------------------  2160
@@ -1504,6 +1575,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  2160
 SLA-3*06:02           ------------------------------------------------------------  2160
 SLA-3*06:03           ------------------------------------------------------------  2160
+SLA-3*06:04           ------------------------------------------------------------  2160
 SLA-3*07:01:01        ------------------------------------------------------------  2160
 SLA-3*07:01:02        AGACTTCCA-CAAGGTCAGGGCTCAAGCCTGAGGAGGGCACTCACCTCGCCCTTTGTTCC  2160
 SLA-3*07:02           ------------------------------------------------------------  2160
@@ -1526,6 +1598,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ---ACCCTGCTCAGCCCCCCGTCCCCATCGTGGGCATCATTGTTGGCCTGGTTCTC---A  2220
 SLA-3*03:11           ------------------------------------------------------------  2220
 SLA-3*03:12           ------------------------------------------------------------  2220
+SLA-3*03:13           ---ACCCTCCTCAGCACCCCGTACCCATCATGGGCATCATTGTTGGCCTGGTTCTT---G  2220
 SLA-3*04:01           ---ACCCTCCTCAGCCCCCCGTCCCCATCGTGGGCATCATTGTTGGCCTGGTTCTC---G  2220
 SLA-3*04:02           ---ACCCTCCTCAGCCCCCCGTCCCCATCGTGGGCATCATTGTTGGCCTGGTTCTC---G  2220
 SLA-3*04:03           ---ACCCTCCTCAGCCCCCCGTCCCCATCGTGGGCATCATTGTTGGCCTGGTTCTC---G  2220
@@ -1546,6 +1619,7 @@ SLA-3*05:08           ---ACCCTGCTCAGCCCCCCGTCCCCATCGTGGGCATCATTGTTGGCCTGGTTCTC--
 SLA-3*06:01           ---ACCCTCCTCAGCCCCCCGTCCCCATCGTGGGCATCATTGTTGGCCTGGTTCTC---G  2220
 SLA-3*06:02           ---ACCCTCCTCAGCCCCCCGTCCCCATCGTGGGCATCATTGTTGGCCTGGTTCTC---G  2220
 SLA-3*06:03           ---ACCCTCCTCAGCCCCCCGTCCCCATCGTGGGCATCATTGTTGGCCTGGTTCTC---G  2220
+SLA-3*06:04           ------------------------------------------------------------  2220
 SLA-3*07:01:01        ---ACCCTCCTCAGCCCCCCGTCCCCATCGTGGGCATCATTGTTGGCCTGGTTCTC---G  2220
 SLA-3*07:01:02        CAGACCCTCCTCAGCCCCCCGTCCCCATCGTGGGCATCATTGTTGGCCTGGTTCTC---G  2220
 SLA-3*07:02           ---ACCCTCCTCAGCCCCCCGTCCCCATCGTGGGCATCATTGTTGGCCTGGTTCTC---G  2220
@@ -1568,6 +1642,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           TCCTGGTCGCTGGAGCCATGGTGGCTGGAGTTGTGATCTGGAGGAAGAAGCGCTCAG---  2280
 SLA-3*03:11           ------------------------------------------------------------  2280
 SLA-3*03:12           ------------------------------------------------------------  2280
+SLA-3*03:13           TCCTGGTCGCTGGAGCTGTGGTGGCTGGAGTTGTGATCTGGAGGAAGAAGCGCTCAG---  2280
 SLA-3*04:01           TCCTGGTCGCTGGAGCCGTGGTGACTGGAGTTGTGATCTGGAGGAAGAAGCGCTCAG---  2280
 SLA-3*04:02           TCCTGGTCGCTGGAGCCATGGTGACTGGAGTTGTGATCTGGAGGAAGAAGCGCTCAG---  2280
 SLA-3*04:03           TCCTGGTCGCTGGAGCCATGGTGACTGGAGTTGTGATCTGGAGGAAGAAGCGCTCAG---  2280
@@ -1588,6 +1663,7 @@ SLA-3*05:08           TCCTGGTCGCTGGAGCCATGGTGGCTGGAGTTGTGATCTGGAGGAAGAAGCGCTCAG-
 SLA-3*06:01           TCCTGGTTGCTGGAGCCGTGGTGGCTGGAGTTGTGATCTGGAGGAAGAAGCGCCCAG---  2280
 SLA-3*06:02           TCCTGGTTGCTGGAGCCGTGGTGGCTGGAGTTGTGATCTGGAGGAAGAAGCGCCCAG---  2280
 SLA-3*06:03           TCCTGGTTGCTGGAGCCGTGGTGGCTGGAGTTGTGATCTGGAGGAAGAAGCGCCCAG---  2280
+SLA-3*06:04           ------------------------------------------------------------  2280
 SLA-3*07:01:01        TCCTGGTTGCTGGAGCCGTGGTGGCTGGAGTTGTGATCTGGAGGAAGAAGCGCCCAG---  2280
 SLA-3*07:01:02        TCCTGGTTGCTGGAGCCGTGGTGGCTGGAGTTGTGATCTGGAGGAAGAAGCGCCCAGGTA  2280
 SLA-3*07:02           TCCTGGTCGCTGGAGCCATGGTGGCTGGAGTTGTGATCTGGAGGAAGAAGCGCTCAG---  2280
@@ -1610,6 +1686,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  2340
 SLA-3*03:11           ------------------------------------------------------------  2340
 SLA-3*03:12           ------------------------------------------------------------  2340
+SLA-3*03:13           ------------------------------------------------------------  2340
 SLA-3*04:01           ------------------------------------------------------------  2340
 SLA-3*04:02           ------------------------------------------------------------  2340
 SLA-3*04:03           ------------------------------------------------------------  2340
@@ -1630,6 +1707,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  2340
 SLA-3*06:02           ------------------------------------------------------------  2340
 SLA-3*06:03           ------------------------------------------------------------  2340
+SLA-3*06:04           ------------------------------------------------------------  2340
 SLA-3*07:01:01        ------------------------------------------------------------  2340
 SLA-3*07:01:02        GG-AAGGGAGCGGGGATCTGAGTCTCCTTGTGTCAC-GGGGGTTTCAAGCCCAGGTGGAA  2340
 SLA-3*07:02           ------------------------------------------------------------  2340
@@ -1652,6 +1730,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  2400
 SLA-3*03:11           ------------------------------------------------------------  2400
 SLA-3*03:12           ------------------------------------------------------------  2400
+SLA-3*03:13           ------------------------------------------------------------  2400
 SLA-3*04:01           ------------------------------------------------------------  2400
 SLA-3*04:02           ------------------------------------------------------------  2400
 SLA-3*04:03           ------------------------------------------------------------  2400
@@ -1672,6 +1751,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  2400
 SLA-3*06:02           ------------------------------------------------------------  2400
 SLA-3*06:03           ------------------------------------------------------------  2400
+SLA-3*06:04           ------------------------------------------------------------  2400
 SLA-3*07:01:01        ------------------------------------------------------------  2400
 SLA-3*07:01:02        GTTGACCTGCCTTATTCCTGGGACATCCCCTCCACACACATGTGCTGAGTCTGGGGCTGA  2400
 SLA-3*07:02           ------------------------------------------------------------  2400
@@ -1694,6 +1774,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  2460
 SLA-3*03:11           ------------------------------------------------------------  2460
 SLA-3*03:12           ------------------------------------------------------------  2460
+SLA-3*03:13           ------------------------------------------------------------  2460
 SLA-3*04:01           ------------------------------------------------------------  2460
 SLA-3*04:02           ------------------------------------------------------------  2460
 SLA-3*04:03           ------------------------------------------------------------  2460
@@ -1714,6 +1795,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  2460
 SLA-3*06:02           ------------------------------------------------------------  2460
 SLA-3*06:03           ------------------------------------------------------------  2460
+SLA-3*06:04           ------------------------------------------------------------  2460
 SLA-3*07:01:01        ------------------------------------------------------------  2460
 SLA-3*07:01:02        GCGCTGCCACGTACCCTTCTTTGAAGCACATGTGATAGTCAAAGACTAATTATTCCCCAG  2460
 SLA-3*07:02           ------------------------------------------------------------  2460
@@ -1736,6 +1818,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  2520
 SLA-3*03:11           ------------------------------------------------------------  2520
 SLA-3*03:12           ------------------------------------------------------------  2520
+SLA-3*03:13           ------------------------------------------------------------  2520
 SLA-3*04:01           ------------------------------------------------------------  2520
 SLA-3*04:02           ------------------------------------------------------------  2520
 SLA-3*04:03           ------------------------------------------------------------  2520
@@ -1756,6 +1839,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  2520
 SLA-3*06:02           ------------------------------------------------------------  2520
 SLA-3*06:03           ------------------------------------------------------------  2520
+SLA-3*06:04           ------------------------------------------------------------  2520
 SLA-3*07:01:01        ------------------------------------------------------------  2520
 SLA-3*07:01:02        GATAATTCCAGTTGGCGTCTAGTTTCTCAGCACTTGAAGGTCAGAGGTGAAGGACCCCAC  2520
 SLA-3*07:02           ------------------------------------------------------------  2520
@@ -1778,6 +1862,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  2580
 SLA-3*03:11           ------------------------------------------------------------  2580
 SLA-3*03:12           ------------------------------------------------------------  2580
+SLA-3*03:13           ------------------------------------------------------------  2580
 SLA-3*04:01           ------------------------------------------------------------  2580
 SLA-3*04:02           ------------------------------------------------------------  2580
 SLA-3*04:03           ------------------------------------------------------------  2580
@@ -1798,6 +1883,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  2580
 SLA-3*06:02           ------------------------------------------------------------  2580
 SLA-3*06:03           ------------------------------------------------------------  2580
+SLA-3*06:04           ------------------------------------------------------------  2580
 SLA-3*07:01:01        ------------------------------------------------------------  2580
 SLA-3*07:01:02        TGAGGAGAGGCGTCCAGGAGGGCAGTTGGTCCAGTCTCCCCCACATCTCCTTGCTGTATA  2580
 SLA-3*07:02           ------------------------------------------------------------  2580
@@ -1820,6 +1906,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  2640
 SLA-3*03:11           ------------------------------------------------------------  2640
 SLA-3*03:12           ------------------------------------------------------------  2640
+SLA-3*03:13           ------------------------------------------------------------  2640
 SLA-3*04:01           ------------------------------------------------------------  2640
 SLA-3*04:02           ------------------------------------------------------------  2640
 SLA-3*04:03           ------------------------------------------------------------  2640
@@ -1840,6 +1927,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  2640
 SLA-3*06:02           ------------------------------------------------------------  2640
 SLA-3*06:03           ------------------------------------------------------------  2640
+SLA-3*06:04           ------------------------------------------------------------  2640
 SLA-3*07:01:01        ------------------------------------------------------------  2640
 SLA-3*07:01:02        CTCCTGATCCTGTCCTGGATTTTTGTTGAAAGTTCTACACTGGTTGTGAGATCCAGGACT  2640
 SLA-3*07:02           ------------------------------------------------------------  2640
@@ -1862,6 +1950,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  2700
 SLA-3*03:11           ------------------------------------------------------------  2700
 SLA-3*03:12           ------------------------------------------------------------  2700
+SLA-3*03:13           ------------------------------------------------------------  2700
 SLA-3*04:01           ------------------------------------------------------------  2700
 SLA-3*04:02           ------------------------------------------------------------  2700
 SLA-3*04:03           ------------------------------------------------------------  2700
@@ -1882,6 +1971,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  2700
 SLA-3*06:02           ------------------------------------------------------------  2700
 SLA-3*06:03           ------------------------------------------------------------  2700
+SLA-3*06:04           ------------------------------------------------------------  2700
 SLA-3*07:01:01        ------------------------------------------------------------  2700
 SLA-3*07:01:02        A-GGTTTCTTGTAGGATCTTATGGCTCAGTTTTCTTTTTGGCCTCTCACATAAATGTTAT  2700
 SLA-3*07:02           ------------------------------------------------------------  2700
@@ -1904,6 +1994,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ----------GTGAAAAAGGAGGGAGCTACACTCAGGCTGCAG-----------------  2760
 SLA-3*03:11           ------------------------------------------------------------  2760
 SLA-3*03:12           ------------------------------------------------------------  2760
+SLA-3*03:13           ----------GTGAAAAAGGAGGGAGCTACACTCAGGCTGCAG-----------------  2760
 SLA-3*04:01           ----------GTGAAAAAGGAGGGAGCTACACTCAGGCTGCAG-----------------  2760
 SLA-3*04:02           ----------GTGAAAAAGGAGGGAGCTACACTCAGGCTGCAG-----------------  2760
 SLA-3*04:03           ----------GTGAAAAAGGAGGGAGCTACACTCAGGCTGCAG-----------------  2760
@@ -1924,6 +2015,7 @@ SLA-3*05:08           ----------GTGAAAAAGGAGGGAGCTACACTCAGGCTGCAG---------------
 SLA-3*06:01           ----------GTGAAAAAGGAGGGAGCTACACTCAGGCTGCAG-----------------  2760
 SLA-3*06:02           ----------GTGAAAAAGGAGGGAGCTACACTCAGGCTGCAG-----------------  2760
 SLA-3*06:03           ----------GTGAAAAAGGAGGGAGCTACACTCAGGCTGCAG-----------------  2760
+SLA-3*06:04           ------------------------------------------------------------  2760
 SLA-3*07:01:01        ----------GTGAAAAAGGAGGGAGCTACACTCAGGCTGCAG-----------------  2760
 SLA-3*07:01:02        CTTCCCCCAGGTGAAAAAGGAGGGAGCTACACTCAGGCTGCAGGTCAGTGTGGAGGGTTG  2760
 SLA-3*07:02           ----------GTGAAAAAGGAGGGAGCTACACTCAGGCTGCAG-----------------  2760
@@ -1946,6 +2038,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  2820
 SLA-3*03:11           ------------------------------------------------------------  2820
 SLA-3*03:12           ------------------------------------------------------------  2820
+SLA-3*03:13           ------------------------------------------------------------  2820
 SLA-3*04:01           ------------------------------------------------------------  2820
 SLA-3*04:02           ------------------------------------------------------------  2820
 SLA-3*04:03           ------------------------------------------------------------  2820
@@ -1966,6 +2059,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  2820
 SLA-3*06:02           ------------------------------------------------------------  2820
 SLA-3*06:03           ------------------------------------------------------------  2820
+SLA-3*06:04           ------------------------------------------------------------  2820
 SLA-3*07:01:01        ------------------------------------------------------------  2820
 SLA-3*07:01:02        TGATGCCTGAGGCCCTGGTGGTGCAGACAGGAGGCCGTGGGGGGAGCTCACCCACCTTCT  2820
 SLA-3*07:02           ------------------------------------------------------------  2820
@@ -1988,6 +2082,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           -----------------------------------------------------GCAGTGA  2880
 SLA-3*03:11           ------------------------------------------------------------  2880
 SLA-3*03:12           ------------------------------------------------------------  2880
+SLA-3*03:13           -----------------------------------------------------GCAGTGA  2880
 SLA-3*04:01           -----------------------------------------------------GCAGTGA  2880
 SLA-3*04:02           -----------------------------------------------------GCAGTGA  2880
 SLA-3*04:03           -----------------------------------------------------GCAGTGA  2880
@@ -2008,6 +2103,7 @@ SLA-3*05:08           -----------------------------------------------------GCAGT
 SLA-3*06:01           -----------------------------------------------------GCAGTGA  2880
 SLA-3*06:02           -----------------------------------------------------GCAGTGA  2880
 SLA-3*06:03           -----------------------------------------------------GCAGTGA  2880
+SLA-3*06:04           ------------------------------------------------------------  2880
 SLA-3*07:01:01        -----------------------------------------------------GCAGTGA  2880
 SLA-3*07:01:02        CTCGTCTTCTCTCTTGGGGGTCCTGACCCCGTCCTGCTTTTGCTCTCCCCCAGGCAGTGA  2880
 SLA-3*07:02           -----------------------------------------------------GCAGTGA  2880
@@ -2030,6 +2126,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           CAGTGCCCAGGGCTCCGATGTGTACCTCATCAAGGATCCTAGAG----------------  2940
 SLA-3*03:11           ------------------------------------------------------------  2940
 SLA-3*03:12           ------------------------------------------------------------  2940
+SLA-3*03:13           CAGTTCCCAGGGCTCCGATGTGTACCTCATCAAGGATCCTAGAG----------------  2940
 SLA-3*04:01           CAGTGCCCAGGGCTCCGATGTGTCCCTTACCAAGGATCCTAGAG----------------  2940
 SLA-3*04:02           CAGTGCCCAGGGCTCCGATGTGTCCCTTACCAAGGATCCTAGAG----------------  2940
 SLA-3*04:03           CAGTGCCCAGGGCTCCGATGTGTCCCTTACCAAGGATCCTAGAG----------------  2940
@@ -2050,6 +2147,7 @@ SLA-3*05:08           CAGTGCCCAGGGCTCTGATGTGTCCCTCACCCAGGATCCTAGAG--------------
 SLA-3*06:01           CAGTGCCCAGGGCTCTGATGTGTCCCTCACCAAGGATCCTAGAG----------------  2940
 SLA-3*06:02           CAGTGCCCAGGGCTCTGATGTGTCTCTCACCAAGGATCCTAGAG----------------  2940
 SLA-3*06:03           CAGTGCCCAGGGCTCTGATGTGTCCCTCACCAAGGATCCTAGAG----------------  2940
+SLA-3*06:04           ------------------------------------------------------------  2940
 SLA-3*07:01:01        CAGTGCCCAGGGCTCTGATGTGTCCCTCACCAAGGATCCTAGAG----------------  2940
 SLA-3*07:01:02        CAGTGCCCAGGGCTCTGATGTGTCCCTCACCAAGGATCCTAGAGGTGAGACCCTGGAGGG  2940
 SLA-3*07:02           CAGTGCCCAGGGCTCTGATGTGTCCCTCACCCAGGATCCTAGAG----------------  2940
@@ -2072,6 +2170,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  3000
 SLA-3*03:11           ------------------------------------------------------------  3000
 SLA-3*03:12           ------------------------------------------------------------  3000
+SLA-3*03:13           ------------------------------------------------------------  3000
 SLA-3*04:01           ------------------------------------------------------------  3000
 SLA-3*04:02           ------------------------------------------------------------  3000
 SLA-3*04:03           ------------------------------------------------------------  3000
@@ -2092,6 +2191,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  3000
 SLA-3*06:02           ------------------------------------------------------------  3000
 SLA-3*06:03           ------------------------------------------------------------  3000
+SLA-3*06:04           ------------------------------------------------------------  3000
 SLA-3*07:01:01        ------------------------------------------------------------  3000
 SLA-3*07:01:02        CCTAGATGGGAGGGGGGTTGGGGCAGAGGGGGTGCCCTGGGTGACCGGGATCTTTGAGGG  3000
 SLA-3*07:02           ------------------------------------------------------------  3000
@@ -2114,6 +2214,7 @@ SLA-3*03:09           ----------------------------------------------------------
 SLA-3*03:10           ------------------------------------------------------------  3060
 SLA-3*03:11           ------------------------------------------------------------  3060
 SLA-3*03:12           ------------------------------------------------------------  3060
+SLA-3*03:13           ------------------------------------------------------------  3060
 SLA-3*04:01           ------------------------------------------------------------  3060
 SLA-3*04:02           ------------------------------------------------------------  3060
 SLA-3*04:03           ------------------------------------------------------------  3060
@@ -2134,6 +2235,7 @@ SLA-3*05:08           ----------------------------------------------------------
 SLA-3*06:01           ------------------------------------------------------------  3060
 SLA-3*06:02           ------------------------------------------------------------  3060
 SLA-3*06:03           ------------------------------------------------------------  3060
+SLA-3*06:04           ------------------------------------------------------------  3060
 SLA-3*07:01:01        ------------------------------------------------------------  3060
 SLA-3*07:01:02        GGACGTTTGGAGCATGTGGGGATATTGAGCATGTCAGCCCTTCCTTGACTGACCTGCCTG  3060
 SLA-3*07:02           ------------------------------------------------------------  3060
@@ -2156,6 +2258,7 @@ SLA-3*03:09           -----------------------------  3089
 SLA-3*03:10           -----------------------------  3089
 SLA-3*03:11           -----------------------------  3089
 SLA-3*03:12           -----------------------------  3089
+SLA-3*03:13           ------------------------TGTGA  3089
 SLA-3*04:01           ------------------------TGTGA  3089
 SLA-3*04:02           ------------------------TGTGA  3089
 SLA-3*04:03           ------------------------TGTGA  3089
@@ -2176,6 +2279,7 @@ SLA-3*05:08           ------------------------TGTGA  3089
 SLA-3*06:01           ------------------------TGTGA  3089
 SLA-3*06:02           ------------------------TGTGA  3089
 SLA-3*06:03           ------------------------TGTGA  3089
+SLA-3*06:04           -----------------------------  3089
 SLA-3*07:01:01        ------------------------TGTGA  3089
 SLA-3*07:01:02        TTTCCTGATGATTTTCTTTCCCAGTGTGA  3089
 SLA-3*07:02           ------------------------TGTGA  3089

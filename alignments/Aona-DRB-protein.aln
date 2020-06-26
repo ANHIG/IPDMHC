@@ -30,6 +30,7 @@ Aona-DRB*W029:08      ----------------------------------RFLEQTKSECHFLNGTERVRLLQR
 Aona-DRB*W029:09      ----------------------------------RFLEQTKSECHFFTGTERVRLLQRYF    60
 Aona-DRB*W029:10      ----------------------------------RFLEQTKSECHFLNGTERVRLLQRYF    60
 Aona-DRB*W030:01:01   ----------------------------------RFLEQVKYECHFLNGTERVRYLERLI    60
+Aona-DRB*W030:01:02   ----------------------------------RFLEQVKYECHFLNGTERVRYLERLI    60
 Aona-DRB*W030:02      ----------------------------------RFLEQVKYECHFLNGTERVRYLERYF    60
 Aona-DRB*W038:01      ----------------------------------RFLEQAKYECHFLNGTERVRFLERHI    60
 Aona-DRB*W038:02      ----------------------------------RFLEQAKYECHFLNGTERVRFLERHI    60
@@ -55,6 +56,9 @@ Aona-DRB*W047:10      ----------------------------------RFLEQVKHECHFFNGTERERFLDR
 Aona-DRB*W047:11      ----------------------------------RFLEQVKHECHFFNGTERVRFLDRYF    60
 Aona-DRB*W089:01      ----------------------------------RFLEQTKSECHFLNGTERVRYLDRYF    60
 Aona-DRB*W091:01      ----------------------------------RFLEQAKCECHFLNGTERVRFLERYF    60
+Aona-DRB*W091:02      ----------------------------------RFLEQAKCECHFLNGTERVRFLERYF    60
+Aona-DRB*W091:03      ----------------------------------RFLEQAKCECHFLNGTERVRFLERYF    60
+Aona-DRB*W109:01      ----------------------------------RFLEQAKGECHFLNGTERVRLLARHI    60
 
 HLA-DRB1*01:01:01:01  YNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFTV   120
 Aona-DRB*W013:01      YNQEEYVRFDSDVGEYRAVTELGRPEAEYFNSLKDFMEETRAAVDTYCKHNYGVVESFTV   120
@@ -88,6 +92,7 @@ Aona-DRB*W029:08      YNQEEYARFDSDVGEFRAVTELGRPDAEYWNSLKERLEYLRAAVDTYCRHNYGVGESF
 Aona-DRB*W029:09      YNQEEYARFDSDVGEFRAVTELGRPDAEYWNSLKERLEYLRAAVDTYCRHNYGVVEGF--   120
 Aona-DRB*W029:10      YNQEEYARFDSDVGEFRAVTELGRPDAEYWNSLKERLEYLRAAVDTYCRHNYGVFESFTV   120
 Aona-DRB*W030:01:01   YNREEFVRFDSDVGEYRAVTELGRPSAEKLNSQKDILEDRRASVDTYCKHNYGVGESFTV   120
+Aona-DRB*W030:01:02   YNREEFVRFDSDVGEYRAVTELGRPSAEKLNSQKDILEDRRASVDTYCKHNYGVGESFTV   120
 Aona-DRB*W030:02      YNREEFVRFDSDVGEYRAVTELGRPSAEKLNSQKDILEDRRAAVDTYCKHNYGVGESFTV   120
 Aona-DRB*W038:01      HNQEEYARFDSDVGEYRAVTELGRRTAEYWNSQKDILEVRRAQVDTVCRHNYGVGESF--   120
 Aona-DRB*W038:02      HNQEEYARFDSDVGEYRAVTELGRRTAEYWNSQKDILEDRRAQVDTVCRHNYGVGESF--   120
@@ -113,6 +118,9 @@ Aona-DRB*W047:10      YNQEEYVRFDSDVGEFRAVTELGRPDAEYWNSQKDLMEDRRAQVDTYCRHNYGVGESF
 Aona-DRB*W047:11      YNQEEYVRFDSDVGEYRAVTELGRRSAEYWNSQKDFLEERRALVDTYCRYNYGVAESFTV   120
 Aona-DRB*W089:01      YNQEEYVRFDSDVGEYRAVTELGRRTAEYWNSQKDYVEQKRGRVDNYCRHNYGVAESFTV   120
 Aona-DRB*W091:01      YNQEEVLRFDSDVGEFRAVTELGRPEAESWNSQKDILETRRAAVDTFCRHNYGVGESFTV   120
+Aona-DRB*W091:02      YNQEEVLRFDSDVGEFLAVTELGRPEAESWNSQKDILETRRAAVDTFCRHNYGVGESFTV   120
+Aona-DRB*W091:03      YNQEEVLRFDSDVGEFRAVTELGRPSAEKYNSQKDILETRRAAVDT-CRHNYGVAESFTV   120
+Aona-DRB*W109:01      HNQEEYVRFDSDVGEYRAVTELGRPIAEYANSLKERLEYLRAAVDTCCRHNYRILESFTV   120
 
 HLA-DRB1*01:01:01:01  QRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNG   180
 Aona-DRB*W013:01      QR----------------------------------------------------------   180
@@ -146,6 +154,7 @@ Aona-DRB*W029:08      QRR-------------------------------------------------------
 Aona-DRB*W029:09      ------------------------------------------------------------   180
 Aona-DRB*W029:10      QRR---------------------------------------------------------   180
 Aona-DRB*W030:01:01   QR----------------------------------------------------------   180
+Aona-DRB*W030:01:02   QRRVQPKVTVYPAKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNDQEEKAGVVSTGLIHNG   180
 Aona-DRB*W030:02      QRR---------------------------------------------------------   180
 Aona-DRB*W038:01      ------------------------------------------------------------   180
 Aona-DRB*W038:02      ------------------------------------------------------------   180
@@ -171,6 +180,9 @@ Aona-DRB*W047:10      QR--------------------------------------------------------
 Aona-DRB*W047:11      QR----------------------------------------------------------   180
 Aona-DRB*W089:01      QRR---------------------------------------------------------   180
 Aona-DRB*W091:01      QRR---------------------------------------------------------   180
+Aona-DRB*W091:02      Q-----------------------------------------------------------   180
+Aona-DRB*W091:03      Q-----------------------------------------------------------   180
+Aona-DRB*W109:01      QRRVQPKVTVYPAKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIHNG   180
 
 HLA-DRB1*01:01:01:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLL   240
 Aona-DRB*W013:01      ------------------------------------------------------------   240
@@ -204,6 +216,7 @@ Aona-DRB*W029:08      ----------------------------------------------------------
 Aona-DRB*W029:09      ------------------------------------------------------------   240
 Aona-DRB*W029:10      ------------------------------------------------------------   240
 Aona-DRB*W030:01:01   ------------------------------------------------------------   240
+Aona-DRB*W030:01:02   DWTFQTLVMLETVPQSGEVYTCQVEHPSVTSPLTVQWRAQSESAQSKMLSGVGGFVLGLL   240
 Aona-DRB*W030:02      ------------------------------------------------------------   240
 Aona-DRB*W038:01      ------------------------------------------------------------   240
 Aona-DRB*W038:02      ------------------------------------------------------------   240
@@ -229,6 +242,9 @@ Aona-DRB*W047:10      ----------------------------------------------------------
 Aona-DRB*W047:11      ------------------------------------------------------------   240
 Aona-DRB*W089:01      ------------------------------------------------------------   240
 Aona-DRB*W091:01      ------------------------------------------------------------   240
+Aona-DRB*W091:02      ------------------------------------------------------------   240
+Aona-DRB*W091:03      ------------------------------------------------------------   240
+Aona-DRB*W109:01      DWTFQTLVMLETVPQSGEVYTCQVEHPSVMTPLTVQWRAQSESAQSKMLSGVGGFVLGLL   240
 
 HLA-DRB1*01:01:01:01  FLGAGLFIYFRNQKGHSGLQPTGFLS   266
 Aona-DRB*W013:01      --------------------------   266
@@ -262,6 +278,7 @@ Aona-DRB*W029:08      --------------------------   266
 Aona-DRB*W029:09      --------------------------   266
 Aona-DRB*W029:10      --------------------------   266
 Aona-DRB*W030:01:01   --------------------------   266
+Aona-DRB*W030:01:02   FLGAGLFIYFRNQKGHSGLQPTGLLS   266
 Aona-DRB*W030:02      --------------------------   266
 Aona-DRB*W038:01      --------------------------   266
 Aona-DRB*W038:02      --------------------------   266
@@ -287,4 +304,7 @@ Aona-DRB*W047:10      --------------------------   266
 Aona-DRB*W047:11      --------------------------   266
 Aona-DRB*W089:01      --------------------------   266
 Aona-DRB*W091:01      --------------------------   266
+Aona-DRB*W091:02      --------------------------   266
+Aona-DRB*W091:03      --------------------------   266
+Aona-DRB*W109:01      FLGAGLFIYFRNQKGHSGLQPSGLLS   266
 

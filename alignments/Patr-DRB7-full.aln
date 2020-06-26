@@ -1,558 +1,855 @@
 HLA-DRB1*01:01:01:01  GAAAGACCTGAAAGATCACGGTGCCTTCATTTCAACTGTGAGACATGAAGTAATTTTCCC    60
-Patr-DRB7*01:01N      ------------------------------------------------------------    60
+Patr-DRB7*01:01:01:01N------------------------------------------------------------    60
 
 HLA-DRB1*01:01:01:01  AAATCTACAACATTAAGATATGGTGCAATAAGGACCAGATTAAAGGTCTCCTGATTTGCG   120
-Patr-DRB7*01:01N      ------------------------------------------------------------   120
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   120
 
 HLA-DRB1*01:01:01:01  GCCATGTTCCCTCCATCTCCTTTACTCCTAAACACACTCACACTCACTACTGCAAATAGT   180
-Patr-DRB7*01:01N      ------------------------------------------------------------   180
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   180
 
 HLA-DRB1*01:01:01:01  TGTCTTGTCAAGTGGGAAATGAATGCTCTTACAAGGCTCAAACTTGTGAACACATCACTG   240
-Patr-DRB7*01:01N      ------------------------------------------------------------   240
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   240
 
 HLA-DRB1*01:01:01:01  ACCAGCACAGAGCTGGCTACAATAGCTCCCCAATTAAGGTGTTTTACATGCAACTGGTTC   300
-Patr-DRB7*01:01N      ------------------------------------------------------------   300
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   300
 
 HLA-DRB1*01:01:01:01  AAACCTTCCAAGTGCTAAATTAAAACAATCCTTTAAAGAAGGAAATTCTGTTTCAGAAGA   360
-Patr-DRB7*01:01N      ------------------------------------------------------------   360
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   360
 
 HLA-DRB1*01:01:01:01  GGACCTTCATACAGCATCTCTGACCAGCAACTGATGATGCTATTGAACTCAGATGCTGAT   420
-Patr-DRB7*01:01N      ------------------------------------------------------------   420
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   420
 
 HLA-DRB1*01:01:01:01  TGGTTCTCCAACACGAGATTACCCAACCCAGGAGCAAGGAAATCAGTAACTTCCTCCCTA   480
-Patr-DRB7*01:01N      ------------------------------------------------------------   480
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   480
 
 HLA-DRB1*01:01:01:01  TAACTTGGAATGTGGGTGGAGGGGTTCATAGTTCTCCCTGAGTGAGACTTGCCTGCTTCT   540
-Patr-DRB7*01:01N      ------------------------------------------------------------   540
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   540
 
 HLA-DRB1*01:01:01:01  CTGGCCCCTGGTCCTGTCCTGTTCTCCAGCATGGTGTGTCTGAAGCTCCCTGGAGGCTCC   600
-Patr-DRB7*01:01N      ------------------------------------------------------------   600
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   600
 
 HLA-DRB1*01:01:01:01  TGCATGACAGCGCTGACAGTGACACTGATGGTGCTGAGCTCCCCACTGGCTTTGGCTGGG   660
-Patr-DRB7*01:01N      ------------------------------------------------------------   660
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   660
 
 HLA-DRB1*01:01:01:01  GACACCCGACGTAAGTGCACATTGCGGGTGCTGAGCTACTATGGGGTGGGGAAAATAGGG   720
-Patr-DRB7*01:01N      ------------------------------------------------------------   720
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   720
 
 HLA-DRB1*01:01:01:01  AGTTTTGTTAACATTGTGCCCAGGCCATGTCCCTTAAGAAATTGTGACGTTTTCTTCAGA   780
-Patr-DRB7*01:01N      ------------------------------------------------------------   780
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   780
 
 HLA-DRB1*01:01:01:01  GATTGCCCATCTTTATCATTGGATCCCAAATTATTTCCTCCATAAAAGGAGCTTGGGTAC   840
-Patr-DRB7*01:01N      ------------------------------------------------------------   840
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   840
 
 HLA-DRB1*01:01:01:01  TTGCCCTCTTCATGAGACTTGTGTAAGGGGCCTTTGCACAAGTCATTTCTTTTCAAATCT   900
-Patr-DRB7*01:01N      ------------------------------------------------------------   900
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   900
 
 HLA-DRB1*01:01:01:01  CCACCAATAAAACCTTTGCATCACATGTCCTCAGGGTCTTTAGAGGATTTAGAAATAAGG   960
-Patr-DRB7*01:01N      ------------------------------------------------------------   960
+Patr-DRB7*01:01:01:01N------------------------------------------------------------   960
 
 HLA-DRB1*01:01:01:01  ATTCTAAAATAAATTCCCCATACAGCACTTCCCTTTATTATGTTGACTTATGTCAGACAA  1020
-Patr-DRB7*01:01N      ------------------------------------------------------------  1020
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1020
 
 HLA-DRB1*01:01:01:01  AAGGAGGTTCTTACTGAAAATTTTGTGGGAGTCAAGGGAATTCAAAGGGTCTCTCCTAGA  1080
-Patr-DRB7*01:01N      ------------------------------------------------------------  1080
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1080
 
 HLA-DRB1*01:01:01:01  CGATCCAGTGTTAGGTTCCCCACAGGACCTTTGGTGTTGGCCATAGTCCTCATATGTGAG  1140
-Patr-DRB7*01:01N      ------------------------------------------------------------  1140
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1140
 
 HLA-DRB1*01:01:01:01  GATGGACCCAGTGGCCTCCCCATTATCTCCTTTCTTTTCTTGCTGAACTCCAATGTTTAT  1200
-Patr-DRB7*01:01N      ------------------------------------------------------------  1200
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1200
 
 HLA-DRB1*01:01:01:01  AAGGCCTGTATCCCTGTAGCGTATGTAGGTTCTCTGACAGAAGTTATACTTAGTGCTCTT  1260
-Patr-DRB7*01:01N      ------------------------------------------------------------  1260
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1260
 
 HLA-DRB1*01:01:01:01  CCTTTCTTGTGGGGAAAAGTCCCTGGAACTGAAGCTGAGATTGTTAGTACTTGGAGTCAC  1320
-Patr-DRB7*01:01N      ------------------------------------------------------------  1320
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1320
 
 HLA-DRB1*01:01:01:01  CTTACAGATACAGAGCATTTATGAGGTATTCTTTGGTGCCTAAAGAACTTAAGGCATCCT  1380
-Patr-DRB7*01:01N      ------------------------------------------------------------  1380
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1380
 
 HLA-DRB1*01:01:01:01  CTGAAAAACTAGCCCAGGTTCGTGTTCATTATGAATCTTTTTTAACCTTTCTGTACTTGT  1440
-Patr-DRB7*01:01N      ------------------------------------------------------------  1440
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1440
 
 HLA-DRB1*01:01:01:01  TTCTCTTGCATCTCCTATGTGCTCTAACTAGACATGACAGAAGAGATTTAACTAATGTAT  1500
-Patr-DRB7*01:01N      ------------------------------------------------------------  1500
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1500
 
 HLA-DRB1*01:01:01:01  AAATTATATGAAATTCTATTTTTTAAGTCAAAAATAATCAACTATCAGAAATTTAATAAT  1560
-Patr-DRB7*01:01N      ------------------------------------------------------------  1560
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1560
 
 HLA-DRB1*01:01:01:01  GTTCAAACTATATACTCTGTGTGGGGTTACCGAGATGATGTGAACATTGTTCACGTCTCA  1620
-Patr-DRB7*01:01N      ------------------------------------------------------------  1620
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1620
 
 HLA-DRB1*01:01:01:01  TAGGGCTGAAAGTCAATGGGCAAGTCTTGGGAACTCATTGTCTTACTGGGGTCTTGTCCT  1680
-Patr-DRB7*01:01N      ------------------------------------------------------------  1680
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1680
 
 HLA-DRB1*01:01:01:01  AAATTTCCTAGGTTCACCCATCATGCCCTCAGCTTTCCTTAACTAGCCATGTCTGCTTAC  1740
-Patr-DRB7*01:01N      ------------------------------------------------------------  1740
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1740
 
 HLA-DRB1*01:01:01:01  CTCTTCCTCCAGTTTCTATTTTTCCCCAGCTATGTTGTCATCATTTCCAGAAATCTCTAA  1800
-Patr-DRB7*01:01N      ------------------------------------------------------------  1800
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1800
 
 HLA-DRB1*01:01:01:01  AGCTTGCACAGAACCTTAGCACTATGCGATTCATTGAAAGAGACTTTTTTTCTCTTTTTG  1860
-Patr-DRB7*01:01N      ------------------------------------------------------------  1860
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1860
 
 HLA-DRB1*01:01:01:01  AGGTAGGGCCTGGCTCTGTCACCCAGTCTATAGCTCAGTGGTGTGATCGAGGCTCACTGC  1920
-Patr-DRB7*01:01N      ------------------------------------------------------------  1920
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1920
 
 HLA-DRB1*01:01:01:01  AACCTCTGCCACCCATGCTCAAGTGATCCTCCCTCCTCAGGCTCCAGAGTAGCTGGGAAT  1980
-Patr-DRB7*01:01N      ------------------------------------------------------------  1980
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  1980
 
 HLA-DRB1*01:01:01:01  ACAGGCAGGCAACCACGCCCAGCTAATTTTTGTAATTTTGGTAGACATGAGATTTTGCCA  2040
-Patr-DRB7*01:01N      ------------------------------------------------------------  2040
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2040
 
 HLA-DRB1*01:01:01:01  TGTTGCCCAGGCTGGTCTTAAACTGCTGGTTTCAAGCAATCCTCCTGCCTTGGCCTCCCA  2100
-Patr-DRB7*01:01N      ------------------------------------------------------------  2100
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2100
 
 HLA-DRB1*01:01:01:01  ACATGCTAGGATTATAGATGTGAGCCACTGTGCCCAGGCAAAAAGAAATGACTCTTAATA  2160
-Patr-DRB7*01:01N      ------------------------------------------------------------  2160
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2160
 
 HLA-DRB1*01:01:01:01  AAAAAATTTCCTTTTTCTTAAATCACTGTTTCTTTATCTGTGAATTCTTCTTCCAACTAG  2220
-Patr-DRB7*01:01N      ------------------------------------------------------------  2220
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2220
 
 HLA-DRB1*01:01:01:01  AAGGAGGAGAAAAAAGAAGTTTGCCTGTATTTCTCACCAGGAGGAGAAGGGGTCTAGTGT  2280
-Patr-DRB7*01:01N      ------------------------------------------------------------  2280
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2280
 
 HLA-DRB1*01:01:01:01  GACATTAAAATGAAAGGGTGCTGGAGCTTGAGCCCCTTCTTGCTTTCCAGGATCCCTACA  2340
-Patr-DRB7*01:01N      ------------------------------------------------------------  2340
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2340
 
 HLA-DRB1*01:01:01:01  GTGATCAGTTCCCATACCCTGGTTTATTCATGTAAACCACACTTATTTTTCTCAGCAGCT  2400
-Patr-DRB7*01:01N      ------------------------------------------------------------  2400
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2400
 
 HLA-DRB1*01:01:01:01  ACTCTTTACTGGGCTCCATTCTAGGTTCAAATCATTCTATTTGATTAAGTTAGAGAGCGT  2460
-Patr-DRB7*01:01N      ------------------------------------------------------------  2460
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2460
 
 HLA-DRB1*01:01:01:01  CCCTACTCTCATGGAAGTTACACAAGAGTAGAGGAGACAGACACTAACCCAATAAGCATT  2520
-Patr-DRB7*01:01N      ------------------------------------------------------------  2520
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2520
 
 HLA-DRB1*01:01:01:01  TAACAAAGAAGATAATGTTAGAGAGTCATAGTGCACTGAAGAAAAGACATCAGGTTTGTG  2580
-Patr-DRB7*01:01N      ------------------------------------------------------------  2580
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2580
 
 HLA-DRB1*01:01:01:01  AAAAAGAGAGACATGGATTCACCTACTTTAGTTCATATGTTAGGGAGCTCCACCTGAGAA  2640
-Patr-DRB7*01:01N      ------------------------------------------------------------  2640
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2640
 
 HLA-DRB1*01:01:01:01  AGTGACATTCAGCTGAGACAACAAAATAAGTAGACAGTCGTGAAGATCTAAGGGATGAAA  2700
-Patr-DRB7*01:01N      ------------------------------------------------------------  2700
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2700
 
 HLA-DRB1*01:01:01:01  GTTCCAGGGAGACCAAATGGCGGGAAAGCCCTGGTGTGGGAAACTATGTGGAGGGAGAGA  2760
-Patr-DRB7*01:01N      ------------------------------------------------------------  2760
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2760
 
 HLA-DRB1*01:01:01:01  AAGAAAGCTAGAGGGGCTGAAGTATAGAAAGCAACGAAATGGAGAGGCAGAAGATGAGGT  2820
-Patr-DRB7*01:01N      ------------------------------------------------------------  2820
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2820
 
 HLA-DRB1*01:01:01:01  AGGACACAGAGAGGAAGTCAGGAGCCTCATCATTATAGGCTCTGATGTCCACGGTAAAAA  2880
-Patr-DRB7*01:01N      ------------------------------------------------------------  2880
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2880
 
 HLA-DRB1*01:01:01:01  AAATTTGAATTTTATTATTTATTTACCTATTTATTTGTTTATTTATTTTATTTTATTTTG  2940
-Patr-DRB7*01:01N      ------------------------------------------------------------  2940
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  2940
 
 HLA-DRB1*01:01:01:01  TGATGGAGTCTCTCTCTGTTGCCCAGGCTAGATGGCAGTGGCACAATCTCGGCTCACTGC  3000
-Patr-DRB7*01:01N      ------------------------------------------------------------  3000
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3000
 
 HLA-DRB1*01:01:01:01  AACCTCCGCCTCCTGGGTTCAAGCAATTCTCCTGCCTCAGCCTCCCAATTAGCTGGGGCC  3060
-Patr-DRB7*01:01N      ------------------------------------------------------------  3060
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3060
 
 HLA-DRB1*01:01:01:01  ACAGGTGCATGCCACCACACCTGGCTAATTTTTTGTATTTTTAGTAGGGATAGGATTTCA  3120
-Patr-DRB7*01:01N      ------------------------------------------------------------  3120
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3120
 
 HLA-DRB1*01:01:01:01  CCGTGTTAGCCAGGATGGTCTCGATCTCCTGACCTCGTGATCCGCCCGCCTTGGCCTCCC  3180
-Patr-DRB7*01:01N      ------------------------------------------------------------  3180
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3180
 
 HLA-DRB1*01:01:01:01  AAAGTGCTGGGATTATAGGCGTGAGCCACTGCACCCGGCCTATATTCAATTTTTAAAACT  3240
-Patr-DRB7*01:01N      ------------------------------------------------------------  3240
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3240
 
 HLA-DRB1*01:01:01:01  AATTCTAGCTACTCTGTGGGGATTGGATTGTTGGGGTTCACCAGTGGTTAGGAAGACTAT  3300
-Patr-DRB7*01:01N      ------------------------------------------------------------  3300
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3300
 
 HLA-DRB1*01:01:01:01  TTAGGAGCACAGCAGGGAATTCTCCAGGGAAAACAAGCTTGTGGCTTCATGGAGTGCATT  3360
-Patr-DRB7*01:01N      ------------------------------------------------------------  3360
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3360
 
 HLA-DRB1*01:01:01:01  AGTGATAAAGACGGTGAAGAAGATAAAGTGGACAGACTCGGCATGTATTTTTGCTTAGCT  3420
-Patr-DRB7*01:01N      ------------------------------------------------------------  3420
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3420
 
 HLA-DRB1*01:01:01:01  TGTTAATGAATTACTGTAAAGGGGGTAGAGCTTATTCCTAAGGATTTTCTTTTGACAAAT  3480
-Patr-DRB7*01:01N      ------------------------------------------------------------  3480
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3480
 
 HLA-DRB1*01:01:01:01  AAGTGGGTGGTAGTGTTGTTTATTGAGATAGGAAAAACTATGGGAGGAAATGATTTGAAG  3540
-Patr-DRB7*01:01N      ------------------------------------------------------------  3540
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3540
 
 HLA-DRB1*01:01:01:01  TGGGTGGTTTGAAATAAAAGTTTTGTTTAAATATGAGATGATTGACTGACATTTATGTGG  3600
-Patr-DRB7*01:01N      ------------------------------------------------------------  3600
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3600
 
 HLA-DRB1*01:01:01:01  AGCAATCAGAAGGTCAATGGCATTTAAGAGACTCATGGTGAGGCTAGGGCTTCAGGTATT  3660
-Patr-DRB7*01:01N      ------------------------------------------------------------  3660
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3660
 
 HLA-DRB1*01:01:01:01  TATGTTGGAGGCATCAATACGTGTAGTGTGTTAAATTCCAGGGAGTGGAAGAGGATACAT  3720
-Patr-DRB7*01:01N      ------------------------------------------------------------  3720
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3720
 
 HLA-DRB1*01:01:01:01  AGGGAGATGGATTGTGTGGAGAAACAAGAAGAGGGCACAGGCCAGCAAAGGGGGCTGAGA  3780
-Patr-DRB7*01:01N      ------------------------------------------------------------  3780
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3780
 
 HLA-DRB1*01:01:01:01  AAGAGCCCAGGGATGTTGGAGAAAAACCAAGAGAACATCATGTATGTAAGTCAAGGAAAA  3840
-Patr-DRB7*01:01N      ------------------------------------------------------------  3840
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3840
 
 HLA-DRB1*01:01:01:01  CAGATTTTTTTCAAGGAGAAGGGAGAGGCCAATTGTGGTGAGTACCACTAAGAGGAGGGG  3900
-Patr-DRB7*01:01N      ------------------------------------------------------------  3900
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3900
 
 HLA-DRB1*01:01:01:01  GAAGTGAGAATATGACAGAGAAGCAAGTGCTGGGATTGGTGGAGTTGATATTTGCAGTCA  3960
-Patr-DRB7*01:01N      ------------------------------------------------------------  3960
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  3960
 
 HLA-DRB1*01:01:01:01  ATGGAGTATCCAGGGAGGAAACTGGATTGGACCATTTGGAGAGCAAATAAAAGTGAGGAC  4020
-Patr-DRB7*01:01N      ------------------------------------------------------------  4020
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4020
 
 HLA-DRB1*01:01:01:01  GAGGTTAAGGTTGACTGTTCTGTGTAGAGAGCTTCAGGGAAGGATTGTTCTCTGGGTTCA  4080
-Patr-DRB7*01:01N      ------------------------------------------------------------  4080
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4080
 
 HLA-DRB1*01:01:01:01  GGGAGCCAGCTGAACCTAAAGGAAAAGGCTAAAGAAGCTGAAGAGAAGGAGGAGGACCTG  4140
-Patr-DRB7*01:01N      ------------------------------------------------------------  4140
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4140
 
 HLA-DRB1*01:01:01:01  TGAACCAGAGATGCTCAGCCATTATTAGCAAGGAAATACAAGAGAGCCCCTGTGTGCAGT  4200
-Patr-DRB7*01:01N      ------------------------------------------------------------  4200
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4200
 
 HLA-DRB1*01:01:01:01  GGTGACTACTCATGCAAAATGTCACACAGCCAATATTTAACACAGCCAGGATTTCACACA  4260
-Patr-DRB7*01:01N      ------------------------------------------------------------  4260
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4260
 
 HLA-DRB1*01:01:01:01  GCCAATATTTATTAGTGACATAGAATATATTTGTTATTGCTCTAGGTCATGAGAATGGAG  4320
-Patr-DRB7*01:01N      ------------------------------------------------------------  4320
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4320
 
 HLA-DRB1*01:01:01:01  TGACAAAATGAATCCGGTCGCCATCAGTATATGCCACATAACATTTTGCAGTGACTGTGT  4380
-Patr-DRB7*01:01N      ------------------------------------------------------------  4380
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4380
 
 HLA-DRB1*01:01:01:01  GCCAGGCCTATGAATTTCAGTATTCAATTTCAATAATGATCCTGTTGTATCTGTGGTATT  4440
-Patr-DRB7*01:01N      ------------------------------------------------------------  4440
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4440
 
 HLA-DRB1*01:01:01:01  TAAAAACATATACATCTCTGTAATCTAAAATTGAGAGGTTATAAGTAAAACCCAGTATTA  4500
-Patr-DRB7*01:01N      ------------------------------------------------------------  4500
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4500
 
 HLA-DRB1*01:01:01:01  CAAATTTAGTGCTGGAAATTGATTGCAGTTTAAATCTGAGCATATAGAAAGTCCCTTTCT  4560
-Patr-DRB7*01:01N      ------------------------------------------------------------  4560
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4560
 
 HLA-DRB1*01:01:01:01  TCTATGTCAGCAGATGCCTTTTGTGTGAGGTTTAGGTATACTGCATTATTAGACATAAAC  4620
-Patr-DRB7*01:01N      ------------------------------------------------------------  4620
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4620
 
 HLA-DRB1*01:01:01:01  CAGTGTTTCTGCCCTATGTTTTCAGAATGACAATTCTTTATGAAACTAATAGAAGAACAG  4680
-Patr-DRB7*01:01N      ------------------------------------------------------------  4680
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4680
 
 HLA-DRB1*01:01:01:01  AAGACAATTGCAAAATCATGATGAAGATACTAATTGCTTTAGAATTAAGGAATACAAATA  4740
-Patr-DRB7*01:01N      ------------------------------------------------------------  4740
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4740
 
 HLA-DRB1*01:01:01:01  ATGTGAGCTGCAGTTATAGGGATCAAAAAAGTTACAATGGGAATGTATTTGAGTGTTTAT  4800
-Patr-DRB7*01:01N      ------------------------------------------------------------  4800
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4800
 
 HLA-DRB1*01:01:01:01  TATGTGATCAGTGCTAAGAAGTGTCATCATTTAATTTTACACTTAACAGTAATCCTGTGA  4860
-Patr-DRB7*01:01N      ------------------------------------------------------------  4860
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4860
 
 HLA-DRB1*01:01:01:01  GGATTATGCTATTATTAAATGCACTTGATACATTACAAAAAGGCTTATGGTTGATATAAA  4920
-Patr-DRB7*01:01N      ------------------------------------------------------------  4920
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4920
 
 HLA-DRB1*01:01:01:01  TTGACCCAAGTAGAAGAGATCATGTTTTTATTCAGGTTTTCTGATTCTAGAGTTTGAGAG  4980
-Patr-DRB7*01:01N      ------------------------------------------------------------  4980
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  4980
 
 HLA-DRB1*01:01:01:01  TTTGACCATCATTAGTGAGTAGTGACTATATTGTGTCTGAATTATTGACAGAATTTCTGA  5040
-Patr-DRB7*01:01N      ------------------------------------------------------------  5040
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5040
 
 HLA-DRB1*01:01:01:01  TATTCATATGTACCAGGTTGTTTCTTAGAGTGGGAGCAGAGATGCAAGGGCTGCTAGTTC  5100
-Patr-DRB7*01:01N      ------------------------------------------------------------  5100
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5100
 
 HLA-DRB1*01:01:01:01  CGATGTGTAGGAGAAACTATCATTCATTTTGCATTTATCATTTTAAACGTTCTATATGTC  5160
-Patr-DRB7*01:01N      ------------------------------------------------------------  5160
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5160
 
 HLA-DRB1*01:01:01:01  TATCCTGGGCATGTGTTGAAGAACACAAGGAAGTATTAAATCACTCCTTCTTCTGAAGTT  5220
-Patr-DRB7*01:01N      ------------------------------------------------------------  5220
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5220
 
 HLA-DRB1*01:01:01:01  TGACTGGCAAAATTGGGCTAGAGTTACGAAATAAAATACAGGTTCCTAGTGAAATCTGAA  5280
-Patr-DRB7*01:01N      ------------------------------------------------------------  5280
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5280
 
 HLA-DRB1*01:01:01:01  TTTCAGATACACAACCATAATTTATTGGAAATCCAAATTTAACTGGATATCTTCTATTAT  5340
-Patr-DRB7*01:01N      ------------------------------------------------------------  5340
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5340
 
 HLA-DRB1*01:01:01:01  TCTCTGTTCTAGAACTCCACACTTCTAACATTTCTCATTCCTGTCTAAGCTCTTGTGTGT  5400
-Patr-DRB7*01:01N      ------------------------------------------------------------  5400
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5400
 
 HLA-DRB1*01:01:01:01  TTGGTTTTTGGCCATCGCTTTCACTGCTCTTTAAGCTCCCCCAGTAGAGTGGAGAGGTCT  5460
-Patr-DRB7*01:01N      ------------------------------------------------------------  5460
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5460
 
 HLA-DRB1*01:01:01:01  GTTTTCCCTCGTTTGGATTCCTACAGGCAGCGCAGGCCTGGCACAAGGTCATCACTAAGG  5520
-Patr-DRB7*01:01N      ------------------------------------------------------------  5520
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5520
 
 HLA-DRB1*01:01:01:01  AAGTGTTCACAGGGTGAAGGCGGTGGGTGCTGTTGAAGGAACCGGTAAAGCCTGTGGGAT  5580
-Patr-DRB7*01:01N      ------------------------------------------------------------  5580
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5580
 
 HLA-DRB1*01:01:01:01  GAGAGAAGGAGCAGAGAGTGTTTTTGGGGTGGAGGCTCCCAGGAGGAGGCGGGACGGGCT  5640
-Patr-DRB7*01:01N      ------------------------------------------------------------  5640
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5640
 
 HLA-DRB1*01:01:01:01  GCGGTGCTGGGCGGATCCTCCTCCAGCTCCTGCTTGGAGGTCTCCAGAACAGGCTGGAGG  5700
-Patr-DRB7*01:01N      ------------------------------------------------------------  5700
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5700
 
 HLA-DRB1*01:01:01:01  CAGGGAGGGGGTCCCAAAAGCCTGGGGATGAGAAGGGGTTTTCCCGCATGGTCCCCCAGG  5760
-Patr-DRB7*01:01N      ------------------------------------------------------------  5760
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5760
 
 HLA-DRB1*01:01:01:01  CCCCCGTTCGCCTCAGGAAGACGGAGGATGAGCTCCTGGGCTGCTGGTGGTGGGCGTTGC  5820
-Patr-DRB7*01:01N      ------------------------------------------------------------  5820
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5820
 
 HLA-DRB1*01:01:01:01  GGGTGGGGCCGGTTAAGGTTCCCAGTGCCCGCACCCTGCCCAGGGAGCCCCGGATGGTGG  5880
-Patr-DRB7*01:01N      ------------------------------------------------------------  5880
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5880
 
 HLA-DRB1*01:01:01:01  CGTCGCTGTCAGTGTCTTCTCAGGAGGCTGCCCGTGTGACCGGATCCTTCGTGTCCCCAC  5940
-Patr-DRB7*01:01N      ------------------------------------------------------------  5940
+Patr-DRB7*01:01:01:01N------------------------------------------------------------  5940
 
 HLA-DRB1*01:01:01:01  AGCACGTTTCTTGTGGCAGCTTAAGTTTGAATGTCATTTCTTCAATGGGACGGAGCGGGT  6000
-Patr-DRB7*01:01N      --CACGTTTCTTGGAGCAGGCTAAGTCTGAGTGTCATTTCTTCAATGGGACGGA------  6000
+Patr-DRB7*01:01:01:01N--CACGTTTCTTGGAGCAGGCTAAGTCTGAGTGTCATTTCTTCAATGGGACGGA------  6000
 
 HLA-DRB1*01:01:01:01  GCGGTTGCTGGAAAGATGCATCTATAACCAAGAGGAGTCCGTGCGCTTCGACAGCGACGT  6060
-Patr-DRB7*01:01N      GCGGTACCTGTAAAGATACTTCTATAACCAAGAGGAGTACGTGCGCTTCAACAGCGACAT  6060
+Patr-DRB7*01:01:01:01NGCGGTACCTGTAAAGATACTTCTATAACCAAGAGGAGTACGTGCGCTTCAACAGCGACAT  6060
 
 HLA-DRB1*01:01:01:01  GGGGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGATGCCGAGTACTGGAACAGCCA  6120
-Patr-DRB7*01:01N      GGGGGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTGATGCCGAGTACTGGAACAGCCA  6120
+Patr-DRB7*01:01:01:01NGGGGGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTGATGCCGAGTACTGGAACAGCCA  6120
 
 HLA-DRB1*01:01:01:01  GAAGGACCTCCTGGAGCAGAGGCGGGCCGCGGTGGACACCTACTGCAGACACAACTACGG  6180
-Patr-DRB7*01:01N      GAAGGACATCCTGGAGCAGAAGCGGGCCGAAGTGGACAACTACTGCAGACACAACTATGG  6180
+Patr-DRB7*01:01:01:01NGAAGGACATCCTGGAGCAGAAGCGGGCCGAAGTGGACAACTACTGCAGACACAACTATGG  6180
 
 HLA-DRB1*01:01:01:01  GGTTGGTGAGAGCTTCACAGTGCAGCGGCGAGGTGAGCGCGGCGCGGGGCGGGGCCTGAG  6240
-Patr-DRB7*01:01N      GGTTGTGGAGAGATTCACAGTGCAGCGGCGAA----------------------------  6240
+Patr-DRB7*01:01:01:01NGGTTGTGGAGAGATTCACAGTGCAGCGGCGAAATGAGCACGGCGGGGGGCGGGGTCTGAG  6240
 
 HLA-DRB1*01:01:01:01  TCCCTGTAAGCGGAGAATCTGAGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTAAGAAA  6300
-Patr-DRB7*01:01N      ------------------------------------------------------------  6300
+Patr-DRB7*01:01:01:01NTCCCTGTGAGCTGGGAATCTGAGTGTTTGTGTGT-------------------TGAGAGA  6300
 
-HLA-DRB1*01:01:01:01  GAGAGAGAGCGCGCCATCTGTGAGCATTTAGAATCCTCTCAATCCCCAGCAAGCAGTTCT  6360
-Patr-DRB7*01:01N      ------------------------------------------------------------  6360
+HLA-DRB1*01:01:01:01  GAGAGAGA-GCGCGC-CATCTGTGAGCATTTAGAATCCTCTCAATCCCCAGCAAGCAGTT  6360
+Patr-DRB7*01:01:01:01NGAGAGACACACACACACATCTGTGAACATTTAGAATCCTCTCAATCCTGAGCAAGGGGTT  6360
 
-HLA-DRB1*01:01:01:01  GAGAGCACAGGTGTGTGTGTAGAGTGTGGATTTGTCTGGGTATGTCTGTTGTGGGAGGGG  6420
-Patr-DRB7*01:01N      ------------------------------------------------------------  6420
+HLA-DRB1*01:01:01:01  CTGAGAGCACAGGTGTGTGTGTAGAGTGTGGATTTGTCTGGGTATGTCTGTTGTGGGAGG  6420
+Patr-DRB7*01:01:01:01NCTGAGGGCAGAGGTGTGTGTGTAGAGTGTGGATTTGTCTT----TGGCTGTTGTGGGAGG  6420
 
-HLA-DRB1*01:01:01:01  AGGCAGGAGGGGGCTGATTCTTATCCTTGGAGACCTCTGTGGGGAGGTGACAAGGGAGGT  6480
-Patr-DRB7*01:01N      ------------------------------------------------------------  6480
+HLA-DRB1*01:01:01:01  GGAGGCAGGAGGGGGCTGATTCTTATCCTTGGAGACCTCTGTGGGGAGGTGACAAGGGAG  6480
+Patr-DRB7*01:01:01:01NGGAGGCAGGAGGGGGCTGCTTCTTATCCTTGGAGGCCTCTGTGGGGAGGTGACATGGGAA  6480
 
-HLA-DRB1*01:01:01:01  GGGTGCTGGGGGCTGGAGAGAGAGGAGACCTTGATTGTCTCGGGTCCTTAGAGATGCGGG  6540
-Patr-DRB7*01:01N      ------------------------------------------------------------  6540
+HLA-DRB1*01:01:01:01  GTGGGTGCTGGGGGCTGGAGAGAGAGGAGACCTTGATTGTCTCGGGTCCTTAGAGATGCG  6540
+Patr-DRB7*01:01:01:01NGTGGGTGCAGGGGGCTGCAGAGAGAG---ACCTTGATTGTTCTGGGTCCTTAGAGATTCA  6540
 
-HLA-DRB1*01:01:01:01  GAAGGGAAATGTAAGGGGTGTGTGATTGGGGTGAAGGTTTAGGGGAGGACTGCTGAGGGG  6600
-Patr-DRB7*01:01N      ------------------------------------------------------------  6600
+HLA-DRB1*01:01:01:01  GGGAAGGGAAATGTAAGGGGTGTGTGATTGGGGTGAAGGTTTAGGGGAGGACTGCTGAGG  6600
+Patr-DRB7*01:01:01:01NGGGAAGGGAAAAGTAAGGTTTGTGTGGTTGGGGTGAAGGTTTAGGGGAGGAGAGGTGAGG  6600
 
-HLA-DRB1*01:01:01:01  TAAGGAAGGTTTGGGATAATGTGAGGAGGCCGGTTCCAGACTCTCCCTGGCATACACCCT  6660
-Patr-DRB7*01:01N      ------------------------------------------------------------  6660
+HLA-DRB1*01:01:01:01  GGTAAGGAAGGTTTGGGATAATGTGAGGAGGCCGGTTCCAGACTCTCCCTGGCATACACC  6660
+Patr-DRB7*01:01:01:01NATTATGGAAGGTTTGGGATAATGTGAGGAGGCCAGTTCCAGACTGTCCCTGGCACATACC  6660
 
-HLA-DRB1*01:01:01:01  TCGTGTAATCTCTGAAATAAAAGTGTGTGCTGTTTGTTTGTAAAAGCATTAGATTAATTT  6720
-Patr-DRB7*01:01N      ------------------------------------------------------------  6720
+HLA-DRB1*01:01:01:01  CTTCGTGTAATCTCTGAAATAAAAGTGTGTGCTGTTTGTTTGTAAAAGCATTAGATTAAT  6720
+Patr-DRB7*01:01:01:01NC------------------------------------------------------TTAAT  6720
 
-HLA-DRB1*01:01:01:01  CTAGAGGAACTGAGTAGACCTCTGAGGCACTCCTGAAGCTTCTTTATATCTAAATTTCTT  6780
-Patr-DRB7*01:01N      ------------------------------------------------------------  6780
+HLA-DRB1*01:01:01:01  TTCTAGAGGAACTGAGTAGACCTCTGAGGCACTCCTGAAGCTTCTTTATATCTAAATTTC  6780
+Patr-DRB7*01:01:01:01NTTCTAGGGGAATTGAGGAGACCTCTGAGGTACCTCTGAAGCTTCTTTAGGTCTAAATTTC  6780
 
-HLA-DRB1*01:01:01:01  GCTAGTTTTTTGGGTTTTTTTAGTGTGTATATTTTTACATAGTAGAAATGACTGTGAAAC  6840
-Patr-DRB7*01:01N      ------------------------------------------------------------  6840
+HLA-DRB1*01:01:01:01  TTGCTAGTTTTTTGGGTTTTTTTAGTGTGTATATTTTTACATAGTAGAAATGACTGTGAA  6840
+Patr-DRB7*01:01:01:01NTTGCCACTTTTTT--GTTTTCTTAGTGTGCGTATTTTTACACAGTTGAAGTGACTGTGAA  6840
 
-HLA-DRB1*01:01:01:01  TAACTTTTTGAATTAAAGTTTTAACACAGTTACTATTTTATTATAATGCTAGTTTTCTAG  6900
-Patr-DRB7*01:01N      ------------------------------------------------------------  6900
+HLA-DRB1*01:01:01:01  ACTAACTTTTTGAATTAAAGTTTTAACACAGTTACTATTTTATTATAATGC---TAGTTT  6900
+Patr-DRB7*01:01:01:01NACTAACTTTT-GAATTAAAGTTTTAACACAGTTGCTATTTTATTATAATGCCAATAGTTT  6900
 
-HLA-DRB1*01:01:01:01  TAGTTACATATTATTCTTTTATATATAATAGTTATGACACAACTCACCTCACTTTCCCCT  6960
-Patr-DRB7*01:01N      ------------------------------------------------------------  6960
+HLA-DRB1*01:01:01:01  TCTAGTAGTTACATATTATTCTTTTATATATAATAGTTATGACACAACTCACCTCACTTT  6960
+Patr-DRB7*01:01:01:01NTCTACTACTTATGTATTATTCTTTTATATATAATAGCTGTGACACAAATTACCTCACTTT  6960
 
-HLA-DRB1*01:01:01:01  TTGTTGACCTTTATTATGACATTCACCAAAAGTTGAAAATGTATGTTTCTGGTTAATTTT  7020
-Patr-DRB7*01:01N      ------------------------------------------------------------  7020
+HLA-DRB1*01:01:01:01  CCCCTTTGTTGACCTTTATTATGACATTCACCAAAAGTTGAAAATGTATGTTTCTGGTTA  7020
+Patr-DRB7*01:01:01:01NCCCCTTTGTTGACCTTTATTATGACATTCACCAAAAGTTTAAAATGTATGTTTATGGTTA  7020
 
-HLA-DRB1*01:01:01:01  TAATTTATATTTTTTATTTGTAATTGCTTTGAATTATTTTGACCTATTTATTGGCGGATT  7080
-Patr-DRB7*01:01N      ------------------------------------------------------------  7080
+HLA-DRB1*01:01:01:01  ATTTTTAATTTATATTTTTT-ATTTGTAATTGCTTTGAATTATTTTGACCTATTTATTGG  7080
+Patr-DRB7*01:01:01:01NATTTTTAATTTATATTTTTTGACATATAGTTCTTTTGAATTATTTTGACCTATTTATTGG  7080
 
-HLA-DRB1*01:01:01:01  ATAATTATTGCTCTAAGAATTCCCTATTGTATTTGGTAGGCAATGGACAATGATCTATGG  7140
-Patr-DRB7*01:01N      ------------------------------------------------------------  7140
+HLA-DRB1*01:01:01:01  CGGATTATAATTATTGCTCTAAGAATTCCCTATTGTATTTGGTAGGCAATGGACAATGAT  7140
+Patr-DRB7*01:01:01:01NCCAATTATAATTACTGTTCTAAGAATTCCCTATTGTATTTGGTAGGTAATGGACAATGAT  7140
 
-HLA-DRB1*01:01:01:01  TCTGATATCTTGAGGGCTTAGTATTTTTCTCAGTGACTTTGTGGGTTCTTTGTGCTATAA  7200
-Patr-DRB7*01:01N      ------------------------------------------------------------  7200
+HLA-DRB1*01:01:01:01  CTATGGTCTGATATCTTGAGGGCTTAGTATTTTTCTCAGTGACTTTGTGGGTTCTTTGTG  7200
+Patr-DRB7*01:01:01:01NCTACTATCTATTATCTTTAGGGCTTTGTACTTTCCTCAGTGATTTTGTGAGTTTTTTGTA  7200
 
-HLA-DRB1*01:01:01:01  GATTATTAACACTTTATTGATATTTGATCCAGCATTTGCTTCAGTTTGTGGTTTGTATGT  7260
-Patr-DRB7*01:01N      ------------------------------------------------------------  7260
+HLA-DRB1*01:01:01:01  CTATAAGATTATTAACACTTTATTGATATTTGATCCAGCATTTGCTTCAGTTTGTGGTTT  7260
+Patr-DRB7*01:01:01:01NCGGTAAGATTATTAACACTTTATTGATATTTGAGTCAACATTTTCTCCAGTTTGTGGTTT  7260
 
-HLA-DRB1*01:01:01:01  GGATTTTGAAAGTTCTTTTCCATGTTAAGAATTTGAACTTTTTATTTAATAAAATATATT  7320
-Patr-DRB7*01:01N      ------------------------------------------------------------  7320
+HLA-DRB1*01:01:01:01  GTATGTGGATTTTGAAAGTTCTTTTCCATGTTAAGAATTTGAAC----------------  7320
+Patr-DRB7*01:01:01:01NGTATGTTGATTTTGAAAATTCTTTTCCATGTTAAGAATTTGAACATTTTGGCCGGGCGTG  7320
 
-HLA-DRB1*01:01:01:01  GCAAAATTTTTATTAATGATTTACAATCCATCTTAAATCTGCCATTTTGTGGCATTGTTG  7380
-Patr-DRB7*01:01N      ------------------------------------------------------------  7380
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  7380
+Patr-DRB7*01:01:01:01NGTGGCTCCTGCCTGTAATCCCAGCACTTTGGGAGGCCAAGGTGGGTGGATCACGAGGTCA  7380
 
-HLA-DRB1*01:01:01:01  TCTCCAGGTTCCTCCTTACTTCTAAAAAAAATAGTTGTATTTATTGAGAGTATGCTAGTG  7440
-Patr-DRB7*01:01N      ------------------------------------------------------------  7440
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  7440
+Patr-DRB7*01:01:01:01NGCAGATTGACACCATCCTGGCTAACACAGTGAAACCCCATCACTACAAAAAAAAAAAAAA  7440
 
-HLA-DRB1*01:01:01:01  TTGGGGATTTTCCTGGGCATAAGCACCCCAAGTAACAAGTCCCAGACACTGCCTTAATCC  7500
-Patr-DRB7*01:01N      ------------------------------------------------------------  7500
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  7500
+Patr-DRB7*01:01:01:01NTTAGCTGGATGTGGTGGCAGGCGCCTGTAGTCCCAGCTACTTGGGAGGCTGAGGCAAGAG  7500
 
-HLA-DRB1*01:01:01:01  AAATGTGACTCTGGAAAGAAAAATCATTTTACAATGATAGGCCTAATAATAATTATGCTT  7560
-Patr-DRB7*01:01N      ------------------------------------------------------------  7560
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  7560
+Patr-DRB7*01:01:01:01NAATGGCGTGAACATGGGAGATGAAGCTTGCAGTGAGCCAAGATCGTGCCACTGCACTCCA  7560
 
-HLA-DRB1*01:01:01:01  GTGTTACACGGGAGATGCATTGATCAGCTAAATGTAAATATAAGAACTTTCAAAACTAAA  7620
-Patr-DRB7*01:01N      ------------------------------------------------------------  7620
+HLA-DRB1*01:01:01:01  ---------------------------------------------------TTTTTATTT  7620
+Patr-DRB7*01:01:01:01NGCCTGGGCGACAGAGCAAGACTCTGTCTCAAAAAAAATTTTTTTTTGAACATTTTTATTT  7620
 
-HLA-DRB1*01:01:01:01  ATGACATTCCCTAATCCTTTTCTCTGCTTCGGGACTCATGCTTTTCTAGGAACGTAAAAA  7680
-Patr-DRB7*01:01N      ------------------------------------------------------------  7680
+HLA-DRB1*01:01:01:01  AATAAAATATATTGCAAAATTTTTATTAATGATTTACAATCCATCTTAAATCTGCCATTT  7680
+Patr-DRB7*01:01:01:01NAATCAAATATATTGCGAAATTTATATTAATGATTTACAATCCATCTTAAATCTACCATTT  7680
 
-HLA-DRB1*01:01:01:01  TTTGGAGAATCATTTCTGTCTGTCCCACATTCCCAGGGGCAGAACAATTTCTGTTTTGTT  7740
-Patr-DRB7*01:01N      ------------------------------------------------------------  7740
+HLA-DRB1*01:01:01:01  TGTGGCATTGTTGTCTCCAGGTTCCTCCTTACTTCTAAAAAAAATAGTTGTATTTATTGA  7740
+Patr-DRB7*01:01:01:01NTGTGGTATTGTTGTCTCCAGGTTTCTCCTTCGTTCTTAAAAAAAA--TAGTATTTATTAA  7740
 
-HLA-DRB1*01:01:01:01  CTAAGGTGTGAGTGCATGGCAGTAGTATTCCTAAAATTCATACTCGGTTTCCTCATGTAC  7800
-Patr-DRB7*01:01N      ------------------------------------------------------------  7800
+HLA-DRB1*01:01:01:01  GAGTATGCTAGTGTTGGGGATTTTCCTGGGCATAAGCACCCCAAGTAACAAGTCCCAGAC  7800
+Patr-DRB7*01:01:01:01NTAGTATCCTAGTGTCAGAGGTTTGCGTAGGCATAAGCATCCCAAGTAGTGAGTCCCAGAT  7800
 
-HLA-DRB1*01:01:01:01  CCAATTCTGTCCCTTTATCTATGCATATTTCTTTAAATCATATTTTTCTGTCATGGGGTA  7860
-Patr-DRB7*01:01N      ------------------------------------------------------------  7860
+HLA-DRB1*01:01:01:01  ACTGCCTTAATCCAAATGTGACTCTGGAAAGAAAAATCATTTTACAATGATAGGCCTAAT  7860
+Patr-DRB7*01:01:01:01NCCTTCCTTGATCCAAATTTCATTCTGGAAAGAAAAATCATTTTACCATGACAGGCCTAAT  7860
 
-HLA-DRB1*01:01:01:01  CAAGGATGATAAATAGGTGCCAAGTGGAGCACCCAAGTGTGATGAGCGCCCTCACAGTGG  7920
-Patr-DRB7*01:01N      ------------------------------------------------------------  7920
+HLA-DRB1*01:01:01:01  AATAATTATGCTTGTGTTACACGGGAGATGCATTGATCAGCTAAATGTAAATATAAGAAC  7920
+Patr-DRB7*01:01:01:01NAATAGTTATGCTTGTTTTGCATGGGAGATGCATTGATCAGCTAAATGTAAATATAAGAAC  7920
 
-HLA-DRB1*01:01:01:01  AATGGAGTGAGAAGCTTTCTGACCTTATAAACTGAAGGCTATCTTCAGTCATTGTTTTAT  7980
-Patr-DRB7*01:01N      ------------------------------------------------------------  7980
+HLA-DRB1*01:01:01:01  TTTCAAAACTAAAATGACATTCCCTAATCCTTTTCTCTGCTTCGGGACTCATGCTTTTCT  7980
+Patr-DRB7*01:01:01:01NTTTCAAAACTAAAATGATGTTCCTTAATCCTTCTCTCTGCCTTAGGACTCATGCTTTTCT  7980
 
-HLA-DRB1*01:01:01:01  ATATTTTACATGCATTAATCCTCATATAACCCCAAGAGGTAAATTAGTATAATTATCCTT  8040
-Patr-DRB7*01:01N      ------------------------------------------------------------  8040
+HLA-DRB1*01:01:01:01  AGGAACGTAAAAATTTGGAGAATCATTTCTGTCTGTCCCACATTCCCAGGGGCAGAACAA  8040
+Patr-DRB7*01:01:01:01NAGGAACTTAAAGATTTGGAGAATGATTTCTGTCTGTCCCACCTTCCCAGGGGCAAAACCA  8040
 
-HLA-DRB1*01:01:01:01  CATTGTAGGTGACAAAGTTGAGACACAGAAGAATCAAAAAACTCTTCCAGGATCAACCAG  8100
-Patr-DRB7*01:01N      ------------------------------------------------------------  8100
+HLA-DRB1*01:01:01:01  TTTCTGTTTTGTTCTAAGGTGTGAGTGCATGGCAGTAGTATTCCTAAA-ATTCATACTCG  8100
+Patr-DRB7*01:01:01:01NTCTCTGTGGTGTTCTAAGGTGTGAGTGCATGGCAGTAATATACCTAAACATTCATACTCA  8100
 
-HLA-DRB1*01:01:01:01  TAAAAGGCAGACCTTGGATTCGAACCAAGCAACCTGGCTCAAATATCAGTTTTAATTACT  8160
-Patr-DRB7*01:01N      ------------------------------------------------------------  8160
+HLA-DRB1*01:01:01:01  GTTTCCTCATGTACCCAATTCTGTCCCTTTATCTATGCATATTTCTTTAAATCATATTTT  8160
+Patr-DRB7*01:01:01:01NGTTTCTTCATGTACTGTACTCTGTCCCTTTATCTATACACATTGCTTTAAAATATATTTA  8160
 
-HLA-DRB1*01:01:01:01  ACACTCTATACTTTCCAAGATTTGTAAACAGTTTGACAATGCATGCCAATTTAAAGCTAT  8220
-Patr-DRB7*01:01N      ------------------------------------------------------------  8220
+HLA-DRB1*01:01:01:01  TCTGTCATGGGGTACAAGGATGATAAATAGGTGCCAAGTGGAGCACCCAAGTGTGATGAG  8220
+Patr-DRB7*01:01:01:01NTCTCT---------CAAGGATGATAAATAGGTGTGCAGTGGAGCACCCAAGTGTGATGAG  8220
 
-HLA-DRB1*01:01:01:01  GAAGAAACAAACACAATTTTTCACAACACCTCTCAAATCTAATGGGTCCTCACTGTCAAG  8280
-Patr-DRB7*01:01N      ------------------------------------------------------------  8280
+HLA-DRB1*01:01:01:01  CGCCCTCACAGTGGAATGGAGTGAGAAGCTTTCTGACCTTATAAACTGAAGGCTATCTTC  8280
+Patr-DRB7*01:01:01:01NCCCTATCACAGTGGAGTGGAGTGAGCAGCTTTCTGACCTCATCAATGGAAGGCTATCTTC  8280
 
-HLA-DRB1*01:01:01:01  ATTAAATTCCAGGCTGATGACACTGTAAGGTCACATGGCCAGCTGTGCTATAGGCCTGGT  8340
-Patr-DRB7*01:01N      ------------------------------------------------------------  8340
+HLA-DRB1*01:01:01:01  AGTC--------------------------------------------------------  8340
+Patr-DRB7*01:01:01:01NAGTCACTGTTTTTTTGTTTTTGAGATGGAGTCTCCCTTTATTGCCCAGGATGGAGTGCCG  8340
 
-HLA-DRB1*01:01:01:01  CAAGGTCAGAGCCTGGGTTTGCAGAGAAGCAGACACACAGCCAAACCAGGAGACTTACTC  8400
-Patr-DRB7*01:01N      ------------------------------------------------------------  8400
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  8400
+Patr-DRB7*01:01:01:01NTGGCACAATCTCCAGTTACTGCAACCTCTGCCTCCTGGGTTCAAGCAGTTCTCCTGCCTC  8400
 
-HLA-DRB1*01:01:01:01  TGTCTTCCTGACTCATTCTCTCTACATTTGTTTTCTCCTAGTTGAGCCTAAGGTGACTGT  8460
-Patr-DRB7*01:01N      ------------------------------------------------------------  8460
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  8460
+Patr-DRB7*01:01:01:01NAGCCTCCTGAGTAGCTGGGACTACAGATGCGCACCACGATGCCCAGCTATTTTTTGTATT  8460
 
-HLA-DRB1*01:01:01:01  GTATCCTTCAAAGACCCAGCCCCTGCAGCACCACAACCTCCTGGTCTGCTCTGTGAGTGG  8520
-Patr-DRB7*01:01N      ------------------------------------------------------------  8520
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  8520
+Patr-DRB7*01:01:01:01NTTTAGTAGAGACCAGGTTTCACCATATTGGCCAGGCTGGTCTTGAACTCCTGACCTCGTA  8520
 
-HLA-DRB1*01:01:01:01  TTTCTATCCAGGCAGCATTGAAGTCAGGTGGTTCCGGAACGGCCAGGAAGAGAAGGCTGG  8580
-Patr-DRB7*01:01N      ------------------------------------------------------------  8580
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  8580
+Patr-DRB7*01:01:01:01NATTTGCCTGCTTCTGACTCACAAGTGCTGAGAGTACAGGCTTGAGCCACCACGCCTGGCC  8580
 
-HLA-DRB1*01:01:01:01  GGTGGTGTCCACAGGCCTGATCCAGAATGGAGATTGGACCTTCCAGACCCTGGTGATGCT  8640
-Patr-DRB7*01:01N      ------------------------------------------------------------  8640
+HLA-DRB1*01:01:01:01  -----ATTGTTTTATATATTTTACATGCATTAATCC------------------------  8640
+Patr-DRB7*01:01:01:01NCGGTTATTGTTTTATGTATTTTACATGCATTAATTTCAACCCTTGGGGATTAATGCACAT  8640
 
-HLA-DRB1*01:01:01:01  GGAAACAGTTCCTCGGAGTGGAGAGGTTTACACCTGCCAAGTGGAGCACCCAAGTGTGAC  8700
-Patr-DRB7*01:01N      ------------------------------------------------------------  8700
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  8700
+Patr-DRB7*01:01:01:01NAAAATATATGAAACAATATATAAATGTTTTATACACATAAAATATATAAAACAATATACC  8700
 
-HLA-DRB1*01:01:01:01  GAGCCCTCTCACAGTGGAATGGAGTGAGCAGCTTTCTGACTTCATAAATTTCTCACCCAC  8760
-Patr-DRB7*01:01N      ------------------------------------------------------------  8760
+HLA-DRB1*01:01:01:01  -----------------TCATATAACCCCAAGAGGTAAATTAGTATAATTATCCTTCATT  8760
+Patr-DRB7*01:01:01:01NTCCTGGGATTATATTAATCATATAACCCAAAGAGGTAAATTAGTATAATTATCCTCCATT  8760
 
-HLA-DRB1*01:01:01:01  CAAGAAGGGGACTGTGCTAATCCCTGAGTGTCAGGTTTCTCCTCTCCCACACCCTATTTT  8820
-Patr-DRB7*01:01N      ------------------------------------------------------------  8820
+HLA-DRB1*01:01:01:01  GTAGGTGACAAAGTTGAGACACAGAAGAATCAAAAAACTCTTCCAGGATCAACCAGTAAA  8820
+Patr-DRB7*01:01:01:01NATAGGTGAGAAAGTTGAGACACAGA---ATCGAAAAACTCTTACAGGATCAACCAGTAAA  8820
 
-HLA-DRB1*01:01:01:01  CATTTGCTCCATGTTCTCATCTCCATCAGCACAGGTCACTGGGGGTAGCCCTGTAGGTGT  8880
-Patr-DRB7*01:01N      ------------------------------------------------------------  8880
+HLA-DRB1*01:01:01:01  AGGCAGACCTTGGATTCGAACCAAGCAACCTGGCTCAAATATCAGTTTTAATTACTACAC  8880
+Patr-DRB7*01:01:01:01NAGGTAGACATTGGATTTGAATCAGGCAACCTGCCTCAGAAATCAGTTTTAATGACTACAC  8880
 
-HLA-DRB1*01:01:01:01  TTCTAGAAACACCTGTACCTCCTGGAGAAGCAGTCTCACCTGCCAGGCAGGAGAGACTGT  8940
-Patr-DRB7*01:01N      ------------------------------------------------------------  8940
+HLA-DRB1*01:01:01:01  TCTATACTTTCCAAGATTTGTAAACAGTTTGACAATGCATGCCAATTTAAAGCTATGAAG  8940
+Patr-DRB7*01:01:01:01NTCTGTACTTTCAAAGATTTGTAAACATTTTGATAATGCATACCAATTTCAAGCTATGAAG  8940
 
-HLA-DRB1*01:01:01:01  CCCTCTTTTGAACCTCCCCATGATTTCGCAGGTCAGGGTCACCCACTCTCCCCAGGCTCC  9000
-Patr-DRB7*01:01N      ------------------------------------------------------------  9000
+HLA-DRB1*01:01:01:01  AAAC--------------------------------------------------------  9000
+Patr-DRB7*01:01:01:01NAAACAAACACAATTTTGTTGGGGTGATCAGACCCAACACCAGGTCGTGGGGGTGACAAAG  9000
 
-HLA-DRB1*01:01:01:01  AGGCCCTGCTTCTGGGTCTGAGACTGAGTTTCTGGTGCTGTTGCTCTGAGTTATTTTTTG  9060
-Patr-DRB7*01:01N      ------------------------------------------------------------  9060
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9060
+Patr-DRB7*01:01:01:01NTCCAACAGAGTCAAAGGAATGAGAAAAAGACAGCTTGAGAGAGAAAGTGGGACCAGGGGG  9060
 
-HLA-DRB1*01:01:01:01  TGATCTGGGAAGAGGAGAAGTGTAGGGGCCTACCTGACATGAGGGGAATCCAATCTCAGC  9120
-Patr-DRB7*01:01N      ------------------------------------------------------------  9120
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9120
+Patr-DRB7*01:01:01:01NCCATTGCGAATGTGGAGGCTGCGAAGGCCCTGAGCTCTGGAAGCCCATGCTATTTATTGG  9120
 
-HLA-DRB1*01:01:01:01  CCTGCCTTTTATTAGCTCTGTCACTCTAGACAAACTACTTAGCTTCATTGAGTCTCAGGC  9180
-Patr-DRB7*01:01N      ------------------------------------------------------------  9180
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9180
+Patr-DRB7*01:01:01:01NTGCTCAAACAAACAGTTGGTGAGGATGTGGGGGTTGAAAGGAAACAGTGTATCAAGTGAA  9180
 
-HLA-DRB1*01:01:01:01  TTTCTGTTGATCAGATGTTGAACGCTTGCCTTACATCAAGGCTGTAATATTTGAATGAGT  9240
-Patr-DRB7*01:01N      ------------------------------------------------------------  9240
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9240
+Patr-DRB7*01:01:01:01NTGAGAAACATGGCTGCTTGAGAAAACGAGAGTGCTAGAAGCAAGGAGCCAGTAAGTCTAG  9240
 
-HLA-DRB1*01:01:01:01  TTGATGTCTGAACATCGTAACTGTTCAGCGTGATTTGAAATCCTTTTTTTCTCCTGAAAT  9300
-Patr-DRB7*01:01N      ------------------------------------------------------------  9300
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9300
+Patr-DRB7*01:01:01:01NCAGACATGCAAGCCCTGCCTCAAGCTTCTCTCCCAACACTCAGTTTTCTCCCAACATGCC  9300
 
-HLA-DRB1*01:01:01:01  GGCTAGTTATTTTAATTCTTGTGGGGCAGGCTTCTGCCCCATTTTCAAAGCTCTGAATCT  9360
-Patr-DRB7*01:01N      ------------------------------------------------------------  9360
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9360
+Patr-DRB7*01:01:01:01NCCCCTTCTCTTTTTGCAGGCTATGTAGCCCTTAATTGCCAGTTGGTGATCCAGCTTCCTT  9360
 
-HLA-DRB1*01:01:01:01  TAGAGTCTCAATTAAAGAGGTTCAATTTGGAATAAGCATCACTAAACCTGGATTCCTCTC  9420
-Patr-DRB7*01:01N      ------------------------------------------------------------  9420
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9420
+Patr-DRB7*01:01:01:01NTTTATTAGCCCTTATTCAAAATGGAGTAACTTTGGTTTGAATGCTTCCTACATATCTCCC  9420
 
-HLA-DRB1*01:01:01:01  TCAGGAGCACGGTCTGAATCTGCACAGAGCAAGATGCTGAGTGGAGTCGGGGGCTTCGTG  9480
-Patr-DRB7*01:01N      ------------------------------------------------------------  9480
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9480
+Patr-DRB7*01:01:01:01NCTTTCCCTTTTACAAGAGGACTCTTAATCCTAGGGGTTGCAGAAGGATGAAGGTCCGTCT  9480
 
-HLA-DRB1*01:01:01:01  CTGGGCCTGCTCTTCCTTGGGGCCGGGCTGTTCATCTACTTCAGGAATCAGAAAGGTGAG  9540
-Patr-DRB7*01:01N      ------------------------------------------------------------  9540
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9540
+Patr-DRB7*01:01:01:01NTCCGTAACTTCTTCATGCTAACTAGGGGTGATGATACTCCTATCTACCTATTAAGGTCTC  9540
 
-HLA-DRB1*01:01:01:01  GAGCCTTTGGGAGCTGACTCTCTCCATAGGCTTTTCTGGAGGAGGAACCATGGTTTTGCT  9600
-Patr-DRB7*01:01N      ------------------------------------------------------------  9600
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9600
+Patr-DRB7*01:01:01:01NTTGTATTCAGGATAGAGAGGCGTTCAGTCAGAAAGCATTGATCCGTTAAGCATCTATAGG  9600
 
-HLA-DRB1*01:01:01:01  GAGAGGTTAGTTCTCAGTATACGAGTGGCCCTGAATAAAGCCTTTCTTTCCCCAAACGGC  9660
-Patr-DRB7*01:01N      ------------------------------------------------------------  9660
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9660
+Patr-DRB7*01:01:01:01NTAAAACCATGGCAGTCCAGCAGTTTCTCAGCATGGCTCGTACTGGGGGAACCTGGTCCAT  9660
 
-HLA-DRB1*01:01:01:01  TCTAATGTCCTGCTAATCCAGAAATCATCAGTGCATGGTTACTATGTCAAAGCATAATAG  9720
-Patr-DRB7*01:01N      ------------------------------------------------------------  9720
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9720
+Patr-DRB7*01:01:01:01NGGTTGGGATCCATGGGTCCCTCCAGTCTCCCATTCCATGGTCGTACACATCTTGAGGGCA  9720
 
-HLA-DRB1*01:01:01:01  CTTGTGGCCTGCAGAGACAAGAGGAAGGTTAACAAGTAGGGGTCCTTTTGTTTGAGATCC  9780
-Patr-DRB7*01:01N      ------------------------------------------------------------  9780
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9780
+Patr-DRB7*01:01:01:01NACTACATGGTTTGTTCATCTCCTGCAAAAACACAAGCATACCCTCACCCTCACGTTAGTA  9780
 
-HLA-DRB1*01:01:01:01  TGGAGCAAATTAAGGAAGAGCCACTAAGGCTAATGGAATTACACTGGATCCTGTGACAGA  9840
-Patr-DRB7*01:01N      ------------------------------------------------------------  9840
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9840
+Patr-DRB7*01:01:01:01NAATCTACTGAAACAGAAGCTACTGAAAAAGAAGACTTGTGGCTGTAGCCGGGAGGCATGC  9840
 
-HLA-DRB1*01:01:01:01  CACTTCAGGCTTCATGGGTCACATGGTCTGTCTCTGCTCCTTTCTGCCCCTTTCTGCCCT  9900
-Patr-DRB7*01:01N      ------------------------------------------------------------  9900
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9900
+Patr-DRB7*01:01:01:01NCATTGCTGAAGCATTTGTAACTCAGCTTCTGCCTCTTTGGTTAATTACCACAGGGTAAAA  9900
 
-HLA-DRB1*01:01:01:01  GGTTGGTGCGGGTTGTGGTGTTAGAGAAATCTCAGGTGGGAGATCTGCGGCTGGGACATT  9960
-Patr-DRB7*01:01N      ------------------------------------------------------------  9960
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------  9960
+Patr-DRB7*01:01:01:01NCTTACCGTTGATAACGAGAAGCAGGCCCCTTCTAACAGAAGGCACAGAGAAAGCAAATCG  9960
 
-HLA-DRB1*01:01:01:01  GTGTTGGAGGACAGATTTGCTTCAATAACTTTTAAGTGTATTTCTTTTCCTCTTTTTCCC 10020
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10020
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10020
+Patr-DRB7*01:01:01:01NAGGCTTAAATGTAATCCTTAAGCCTTCAATTTGCACTGTACAGGAGGGTCCACTAGATGC 10020
 
-HLA-DRB1*01:01:01:01  AGGACACTCTGGACTTCAGCCAACAGGTAATACCTTTTAATCCTCTTTTAGAAACAGACA 10080
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10080
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10080
+Patr-DRB7*01:01:01:01NTGTGGCTCATGATAGATCTTCAGATGTTTGGTGGGCACCCACACAGGCACCTGATTGTCA 10080
 
-HLA-DRB1*01:01:01:01  CAGTTTCCCTAGTGAGAGGTGAAGCCAGCTGGACTTCTGGGTGGGGTGGGGACTTGGAGA 10140
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10140
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10140
+Patr-DRB7*01:01:01:01NCCTGGAGAGACACAAGTAAATCCTCTTCCCCATAAAATTATCTTTCCCTTTTCCTAGCTC 10140
 
-HLA-DRB1*01:01:01:01  ACTTTTCTTACAAGAGGTTTCTAAATGCCCCAATCAGTGCTTTGTAAAAACACACCAATA 10200
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10200
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10200
+Patr-DRB7*01:01:01:01NTTTGTATGTGCATCCCTCCACCATATATCTTGTCCAGCCTTTTTATTTTCTTTTTGTCCT 10200
 
-HLA-DRB1*01:01:01:01  GGTTCTCTGTGGCTAGCTGGATGTTTGTAAAATGGACCAATTTGCACTCTGTAAAATGGA 10260
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10260
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10260
+Patr-DRB7*01:01:01:01NGTCAGGTGCTGTTCAGCTGCAGTCATGGGTTGATCTTTTTGTAAATTAAAAAAATTTAAT 10260
 
-HLA-DRB1*01:01:01:01  CCAATCAGCATTCTTTAAAATGGACCAATCAGCACTTTTAAAATGGGCCAATCAGCACTC 10320
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10320
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10320
+Patr-DRB7*01:01:01:01NGTTAATAAAGCTAAATGCAATTGCATATTTGGTGTCTTATATTCCTGGTCTCCTCCATTT 10320
 
-HLA-DRB1*01:01:01:01  TTTAAAATGGACCAATCAGCACTCTTTAAAATGGACCAATCTGCAGGACATGGGCAGGGA 10380
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10380
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10380
+Patr-DRB7*01:01:01:01NTGCTTTTGTATTTGAGTTTTTAAAGTACAATTAGCTGTTTCCACTATTGCCTGTCCTTGT 10380
 
-HLA-DRB1*01:01:01:01  CAAATACAGGAATAAAAGCTGGCCACCCCAACCAGCAGTGGCAACCCACTCAGGTCCTCT 10440
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10440
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10440
+Patr-DRB7*01:01:01:01NGAGTTATATGGAATACCCACAGTATGGGTAATATTCCATTGTTGAAAAAATATAGGCATG 10440
 
-HLA-DRB1*01:01:01:01  TCCCTGCTGTGGAAGTTTTGTTCTTTTGATCTTCACAATAAATCTTGCTGCTGCCTACTC 10500
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10500
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10500
+Patr-DRB7*01:01:01:01NGCTTTACCACAGTATCCTGGGCCATTACCAGTTTTTATTTTTTCTCGGGTTCCCATAACT 10500
 
-HLA-DRB1*01:01:01:01  TTTGGGTCCCTGCCGCCTTTAAGAGCTGTAACACTCACTGTGAAGGTCTGCTTGAAGTCA 10560
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10560
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10560
+Patr-DRB7*01:01:01:01NGAAAAGCAACATAAAAGATGTCTTTTAACATGAGCTGTAGCTTCCCCTGTTTGACATGTG 10560
 
-HLA-DRB1*01:01:01:01  GCGAGACCACAAACCCACTGGAAGGAACAAACTGCGGACACACTAGAATGATGGTAGAGG 10620
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10620
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10620
+Patr-DRB7*01:01:01:01NTCCCGGATAAAATGTGAATAGGTATCTACTGAAACACGAATGAAGGACAATTTTCCAAAA 10620
 
-HLA-DRB1*01:01:01:01  TGATAAGGCATGAGACAGAAATAATAGGAAAGACTTTGGATCCAAATTTCTGATCAGGCA 10680
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10680
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10680
+Patr-DRB7*01:01:01:01NGTAAGACTATGTGTTACATCCATCTGCCAGATGGAATTTGGAGATAAACCTCTAGGGTTA 10680
 
-HLA-DRB1*01:01:01:01  ATTTACACCAAAATTCCTCCTCTCCACTTAGAAAAGGGCTGTGCTCTGCGGGACTATTGG 10740
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10740
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10740
+Patr-DRB7*01:01:01:01NACTCCTCTTCCTTGATGTAGCAGATACAGGACTTGACAGGCAGAACAGTGTTGCACAATT 10740
 
-HLA-DRB1*01:01:01:01  CTCAGGGGAGACTCAGGAACTTGTTTTTCTGCTTCCTGCAGTGCTCTCATCTGAGCCCTT 10800
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10800
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10800
+Patr-DRB7*01:01:01:01NTCTTTAGAACAGTAAAAGCAAATTTTTCATAATCTTGGGCAGCTAAAGGAATGGTAAAAA 10800
 
-HLA-DRB1*01:01:01:01  GAAAGAGGAGAAAAGAAACTGTTAGTAGAGCCAGGTTGAAAACAACACTCTCCTCTGTCT 10860
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10860
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10860
+Patr-DRB7*01:01:01:01NAGCAATCCTTTAGATTTATCACTATGAGAGACCAGTATTTTGGGATCATTGTTGGGGAGG 10860
 
-HLA-DRB1*01:01:01:01  TTTGCAGGATTCCTGAGCTGAAATGCAGATGACCACATTCAAGGAAGAACCTTCTGTCCC 10920
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10920
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10920
+Patr-DRB7*01:01:01:01NGCAGCCTGGTTGTAGCATGCCCATGGGTTGAATCACAGCATTGATAGCCCTTAAATCTGT 10920
 
-HLA-DRB1*01:01:01:01  AGCTTTGCAGAATGAAAAGCTTTCCTGCTTGGCAGTTATTCTTCCACAAGAGAGGGCTTT 10980
-Patr-DRB7*01:01N      ------------------------------------------------------------ 10980
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 10980
+Patr-DRB7*01:01:01:01NTAAAATTCTCCATTTCTCTGATTTTTTCTTAATGAGAAATACAGGAGAATTTCAAGAGGA 10980
 
-HLA-DRB1*01:01:01:01  CTCAGGACCTGGTTGCTACTGGTTCGGCAACTGCAGAAAATGTCCTCCCTTGTGGCTTCC 11040
-Patr-DRB7*01:01N      ------------------------------------------------------------ 11040
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11040
+Patr-DRB7*01:01:01:01NGAAATAGGCTCTATATGTTCCTTTTACAATTGTTCCTGCACCAGTTCTTCTAAAGTCTCC 11040
 
-HLA-DRB1*01:01:01:01  TCAGCTCCTGCCCTTGGCCTGAAGTCCCAGCATTGATGACAGCGCCTCATCTTCAACTTT 11100
-Patr-DRB7*01:01N      ------------------------------------------------------------ 11100
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11100
+Patr-DRB7*01:01:01:01NAGTTTTTCCTGTTTCAGCAGCCATTGCTCCACCCAAACCAGTTTGGCAGTTAGCCAAACA 11100
 
-HLA-DRB1*01:01:01:01  T 11101
-Patr-DRB7*01:01N      - 11101
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11160
+Patr-DRB7*01:01:01:01NAGAGGAATGGGAGCTGGAGGCTCAACAATGGCTGCTCCTAAAAATGACACCCCAATCCGG 11160
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11220
+Patr-DRB7*01:01:01:01NTCCAATCTGTTTGCCCTTTTAATTCTAAAGGTTCTAATTGCCCAACTTTATCTTTTTCCA 11220
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11280
+Patr-DRB7*01:01:01:01NGTCCTTTTCCCGGGTGATATCCCATATTTTTCATCATTTGTCTACCATTATTACTATATT 11280
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11340
+Patr-DRB7*01:01:01:01NGGTCTATAGGAATAGATATTTCAGCATCCCATTGTTGCAATAAGTCTCTACCCCATAGAT 11340
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11400
+Patr-DRB7*01:01:01:01NTAACAGGAATAGGTATTATGATAGGCTGAATTGTCTCTTCCTGACCATCTGGTCCTTGAC 11400
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11460
+Patr-DRB7*01:01:01:01NATGGTAAAATCAAGGAACTTTGAAAAACTTCTGAGGCAGCTCCTACTCCAACAATACCAA 11460
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11520
+Patr-DRB7*01:01:01:01NTGGATGCCTTTTGCTTAGGCCAGAGCCAGGCCACTGATTTATAGCAATAATAGAGACATC 11520
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11580
+Patr-DRB7*01:01:01:01NAGCTCCAGTGTCTACTAGTCCTTCAAAATCTTTTCCCTGTATAGTTACTGTGCAAATAGG 11580
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11640
+Patr-DRB7*01:01:01:01NTCTTTTGCCAGACACTTGATTAACCCAATATACAGCCTTTCCTGCTTGATTAGTGTTACC 11640
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11700
+Patr-DRB7*01:01:01:01NAAAGCCTCCTGTTCTTTTCACTGTGCTGCTTCCTAGTTTTATATAAGGTAACAGCAACAA 11700
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11760
+Patr-DRB7*01:01:01:01NCTGAGCAATTCTTTCTCCTGGGGAGGCAGACCACAGAGTCGAGGAACTAATAACTAATTG 11760
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11820
+Patr-DRB7*01:01:01:01NAATCTCTCCAGTATAATCAGAGTCAATTATTCCCGTATGTACAGTAACACCTTTTAAATT 11820
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11880
+Patr-DRB7*01:01:01:01NTAGACTAGACCTTCCAAGTAATAGACCGACTGTTCCTGAGGGTAAGGGTCCCCTAACTCC 11880
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 11940
+Patr-DRB7*01:01:01:01NCGTGGGGACCTTCTTTGGTGGCTCCCCAGGAAGTGTGAACTAAAAGATGAGTTACATAGG 11940
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12000
+Patr-DRB7*01:01:01:01NTGTTTACAAAACACAACTGGATATTTTCCATTATTTTGGGATAAACCAAAATAAATTTTA 12000
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12060
+Patr-DRB7*01:01:01:01NAAGTTTCATTTGGAGATTTCAAAGCTGAAAATGCTTTCAGCAAATTCTTAGATCTTAAGA 12060
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12120
+Patr-DRB7*01:01:01:01NAAGTATATATTGTCCATTGTTTATATAATCATTTGCCTTTTTGATCTAAAAATTTTAATA 12120
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12180
+Patr-DRB7*01:01:01:01NCTTGAATTTAATAGGTTTTTCTTCTGGAAAAATTCTTTGGCATTCAAGTAAAAACAATAC 12180
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12240
+Patr-DRB7*01:01:01:01NTTTCAGAGTAGTCACCTGCATCACACTAGAGTGACTGCTTTAATTTCTAAATCATCAATT 12240
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12300
+Patr-DRB7*01:01:01:01NAGTGTAACCTAGAGATACTGATAGCCTTGATACATAATTTAGTCTCGTTATTATAGCATG 12300
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12360
+Patr-DRB7*01:01:01:01NTGGAAATCAGGGCTTTGGGGGGCATCATCTGACCCCATTTCTTTTTACCACAATGGTTCC 12360
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12420
+Patr-DRB7*01:01:01:01NTGCTACAGTGTCATAGGCTGTTCAATTATGCTGAAAAAACAGCAGTGCGATGCAAGCAGG 12420
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12480
+Patr-DRB7*01:01:01:01NGAAAAAAGGAAGCAATCAAAAAATTCTTGATCAAAGCTCGTTGTAATGCTAACATTTGAG 12480
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12540
+Patr-DRB7*01:01:01:01NGAAGGCATCACTAAAACCTGACTTGGTGCAATAAGCACTAATGTATCACATGTCTCAACT 12540
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12600
+Patr-DRB7*01:01:01:01NCAAAGGCCCAGCAGGAACTTCCCTGGGGTAGCTCCACCTGCTCCCCAAATGCAAATTATC 12600
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12660
+Patr-DRB7*01:01:01:01NTCATAGAAACAAATTAATAATCTGTATAAAAGAGCCACAACCATCATTTTCTGCAAGTCT 12660
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12720
+Patr-DRB7*01:01:01:01NTCCAGTGTGTCTTCATTCATTTCTTCTATTGTATAATGCATAGCAAACTTAGAAATATCC 12720
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12780
+Patr-DRB7*01:01:01:01NTTTATCCCACTGAGGTGCATAATGCTTAAGATAATGGTTGCTTTTACAAAGAAGAGAATA 12780
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12840
+Patr-DRB7*01:01:01:01NAAGAAATCCACCATCTCTACCATAAATCTGTGGGCCAAGGATAGAATAACATATTATCTG 12840
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12900
+Patr-DRB7*01:01:01:01NCCTGCCTGTCGCCTGGTCTTGCTCGGGCTTCCCGAAGGGGCAATGGATCCTACCTTTGTC 12900
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 12960
+Patr-DRB7*01:01:01:01NACTGGAGTGACCCAGACTGATGCCTGCACATGAGGAGCCTGGGGTCCCAGGCCCACGACT 12960
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13020
+Patr-DRB7*01:01:01:01NTGAGCCAGGCTGCTGATGCCAGCAGCTGTTCCCAGGTTAGGCCTGTGGCCTGGGGGACAG 13020
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13080
+Patr-DRB7*01:01:01:01NCAGCGCTGCCCAAAGGGAAGCTCCGTGGGGATGGTTAGGGGCTGCAGTAGGTGGGGAAGG 13080
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13140
+Patr-DRB7*01:01:01:01NCAGCCGGGATGCTGCGCCAGGTGAGGTAGCCGCAGTAGGACTGCCATAGCCACTCGTGAA 13140
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13200
+Patr-DRB7*01:01:01:01NCTTGGGAGCACTTGTGGGCGCTCAGCCGCGCCAGTCTCTCCGCGGCGCCGCAGCCTTGGG 13200
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13260
+Patr-DRB7*01:01:01:01NTGCTTCACAGCCCGCCTGCCCCTGCAGCCCTGCCCTGGAGCCAGAGGCCACCTCCCCATG 13260
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13320
+Patr-DRB7*01:01:01:01NCCTCCCAAGTTTGCAGGGTGGCTCTGACCCGTCAGTGGCAGCAGCTGTGAGGCCTGCGGC 13320
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13380
+Patr-DRB7*01:01:01:01NCATGGGCCAGCCCAGGGGCCACCATAGCATCATGGGATGGTGGTGGCTGGAGGGCCTCTC 13380
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13440
+Patr-DRB7*01:01:01:01NAGGGAAGGGATGGGCTCGTGGTCCCCTCCTCCCTCACCGCACCTGGGAGGGTGACCTCAG 13440
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13500
+Patr-DRB7*01:01:01:01NGGCCCCCTGCCATCGTCACCCCAGCAGCACCCACCACGGCACCTGCCACTACTCCATCCC 13500
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13560
+Patr-DRB7*01:01:01:01NTATATGCCCTTCCAAAATCTCCTCCAATTCTCCCCCATCCATCCAACTCCACAGTCCCCC 13560
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13620
+Patr-DRB7*01:01:01:01NACTCCGGGAACCATGGACAAAACTGCTTCACTCTACTAAAAAGTGATAACAAACTCTGAG 13620
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13680
+Patr-DRB7*01:01:01:01NTACTAACTTTCACTCCCCCACTTCATAACAAATGCTTTAAAAATTTTAAATAAGCAGAAT 13680
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13740
+Patr-DRB7*01:01:01:01NGTCTGCTTTCACTTTGTTCTATTGTTACCCTAGTTTTCCGAGCACTCAGCTTTCCTGCTG 13740
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13800
+Patr-DRB7*01:01:01:01NAGCTTCTTTTAAGTGTCCTTCAGTGCCCTTTGACAATGCGTCCTCTGCTTTCACATGCTC 13800
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13860
+Patr-DRB7*01:01:01:01NTAGCATTCCTTCACCAGAGCCTTTGTCACCCCACATTGGACAGCCAGGTATGTTGGGGTG 13860
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13920
+Patr-DRB7*01:01:01:01NATCAGACCCAACACCAGATCAGGGGGGCAACGAAGTCCAACAGAGTCAAAGGAATGAGAA 13920
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 13980
+Patr-DRB7*01:01:01:01NAAAGACAGTCTGAGAGAGAAAGTGGGACCAGGGGGCCATTGTGAGTGTGGAGGCTGCAAA 13980
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 14040
+Patr-DRB7*01:01:01:01NGGCCCTGAGCTCTGGGAGCCCATGCTACTTATTGGTGCTCAAACAAACAGACAATTGGTG 14040
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 14100
+Patr-DRB7*01:01:01:01NAGGATGTGGGGGTTGAAAGGAAACAGTGTATCAAGTGAATGAGAAACATGGCTGCTTGAG 14100
+
+HLA-DRB1*01:01:01:01  ------------------------------------------------------------ 14160
+Patr-DRB7*01:01:01:01NATAACAGGAGTGCTAGAAGCAAGTCTAGCAGACATGCAAGCCCTGCCTCAGCTTCTCTCC 14160
+
+HLA-DRB1*01:01:01:01  --------------------AAACACAATTTTTCACAACACCTCTCAAATCTAATGGGTC 14220
+Patr-DRB7*01:01:01:01NCAACACACAGCTTTTCACAAAAACACAATTTTTCACAACATCTCTCAAATCTAATGGGTC 14220
+
+HLA-DRB1*01:01:01:01  CTCACTGTCAAGATTAAATTCCAGGCTGATGACACTGTAAGGTCACATGGCCAGCTGTGC 14280
+Patr-DRB7*01:01:01:01NTTCCCTATAAAGATTCAATTCCAGGCTGACGACACTGTGAGGCCACATGGCCAGCTGTGT 14280
+
+HLA-DRB1*01:01:01:01  TATAGGCCTGGTCAAGGTCAGAGCCTGGGTTTGCAGAGAAGCAGACACACAGCCAAACCA 14340
+Patr-DRB7*01:01:01:01NTGGAGGCCTGGTCAAGGCCAGAGCCTGGGTTTACAGAGAAGCAGACAAACAGCAAAACAT 14340
+
+HLA-DRB1*01:01:01:01  GGAGACTTACTCTGTCTTCCTGACTCATTCTCTCTACATTTGTTTTCTCCTAGTTGAGCC 14400
+Patr-DRB7*01:01:01:01NGGAGACTTACTCT-TCTTCCTGATTCATTCCCTCTAC-TTGTTCTTCTCCTAGTCCAACC 14400
+
+HLA-DRB1*01:01:01:01  TAAGGTGACTGTGTATCCTTCAAAGACCCAGCCCCTGCAGCACCACAACCTCCTGGTCTG 14460
+Patr-DRB7*01:01:01:01NTAAGGTGACTGTGTATCCTTCAAAAGACCAGCCCCTGCAGCACCACAACCTCCTGGTCTG 14460
+
+HLA-DRB1*01:01:01:01  CTCTGTGAGTGGTTTCTATCCAGGCAGCATTGAAGTCAGGTGGTTCCGGAACGGCCAGGA 14520
+Patr-DRB7*01:01:01:01NCTCTGTGAGTGGTTTCTATCCAGGCGGCATTGAAGTCAGGTGGTTCCAGAATGGCCAGGA 14520
+
+HLA-DRB1*01:01:01:01  AGAGAAGGCTGGGGTGGTGTCCACAGGCCTGATCCAGAATGGAGATTGGACCTTCCAGAC 14580
+Patr-DRB7*01:01:01:01NAGAGAAGGCTGGGATGGTGTCCACAGGCCTGATCCAGAATGGAGACTGGACCTTCCAGAC 14580
+
+HLA-DRB1*01:01:01:01  CCTGGTGATGCTGGAAACAGTTCCTCGGAGTGGAGAGGTTTACACCTGCCAAGTGGAGCA 14640
+Patr-DRB7*01:01:01:01NCCTGGTGATGCTGGAAACAGTTCCTCAGAATGCAGAGGTTTACACCTGTCAACTGGAGCA 14640
+
+HLA-DRB1*01:01:01:01  CCCAAGTGTGACGAGCCCTCTCA--CAGTGGAATGGAGTGAGCAGCTTTCTGACTTCATA 14700
+Patr-DRB7*01:01:01:01NCCCAAGCATGATGAGCCTTCTCATGCAGTGGAATGGAGTGAGCAGCTTTCTGACTTCATA 14700
+
+HLA-DRB1*01:01:01:01  AATTTCTCACCCACCAAGAAGGGGACTGTGCTAATCCCTGAGTGTCAGGTTTCTCCTCTC 14760
+Patr-DRB7*01:01:01:01NCATTTCTCACCAACCACGAAGGGGTCTTTGGTAATCCCTGAGTGTCAGGTTTCTTCTCTC 14760
+
+HLA-DRB1*01:01:01:01  CCACACCCTATTTTCATTTGCTCCATGTTCTCATCTCCATCAGCACAGGTCACT-GGGGG 14820
+Patr-DRB7*01:01:01:01NCCACATCATGTTTTCATTTGCTCCATGTTCTCATCTCCATTAGCACAGGTCACTGGGGGG 14820
+
+HLA-DRB1*01:01:01:01  TAGCCCTGTAGGTGTTTCTAGAAACACCTGTACCTCCTGGAGAAGCAGTCTCACCTGCCA 14880
+Patr-DRB7*01:01:01:01NTAGCCCTGTAATACTTTCTAGAAACACCTGTGCCCCCTGGGGAAGCAGTCATGCCTGCCA 14880
+
+HLA-DRB1*01:01:01:01  GGCAGGAGAGACTGTCCCTCTTTTGAACCTCCCCATGATTTCGCAGGTCAGGGTCACCCA 14940
+Patr-DRB7*01:01:01:01NAGCAGGAGAGGCTGTCCCTGTTTTGAACCTCCCCATGATGTCACAGATCAGGCTCACCTG 14940
+
+HLA-DRB1*01:01:01:01  CTCTCCCCAGGCTCCAGGCCCTGCTTCTGGGTCTGAGACTGAGTTTCTGGTGCTGTTGCT 15000
+Patr-DRB7*01:01:01:01NCTCTCCCTGGGCTCCAGGCCCTGCCTCTGGGTGTGAGACTGTGTTTCTGGTGCTGTTGCT 15000
+
+HLA-DRB1*01:01:01:01  CTGAGTTATTTTTTGTGATCTGGGAAGAGGAGAAGTGTAGGGGCCTACCTGACATGAGGG 15060
+Patr-DRB7*01:01:01:01NCTGAGTTGTTTTTT-TGACCTGAGAAGAGAAGTAATGTAGGGGCCCTCCTGACATGAGGG 15060
+
+HLA-DRB1*01:01:01:01  GAATCCAATCTCAGCCCTGCCTTTTATTAGCTCTGTCACTCTAGACAAACTACTTAGCTT 15120
+Patr-DRB7*01:01:01:01NGAATCCAGTCTCAGCTTTGCCTTTTATTAGCTCTGTCACTCTAGCCAAACTACTTAACCT 15120
+
+HLA-DRB1*01:01:01:01  CATTGAGTCTCAGGCTTTCTGTTGATCAGATGTTGAACGCTTGCCTTACATCAAGGCTGT 15180
+Patr-DRB7*01:01:01:01NCATTGAGTCTCAGACTTTCTGTTGATCAGATGTTGAAGTTGTGCCTTACATCAAGGCTGT 15180
+
+HLA-DRB1*01:01:01:01  AATATTTGAATGAGTTTGATGTCTGAACATCGTAACTGTTCAGCGTGATTTG-AAATCCT 15240
+Patr-DRB7*01:01:01:01NAATATTTGAATGAGTTTGATGCCTGAATCTTGTAACTGTGCAGTGTGATTTGAAAATCAT 15240
+
+HLA-DRB1*01:01:01:01  TTTTTTCTCCTGAAATGGCTAGTTATTTTAATTCTTGTGGGGCAGGCTTCTGCCCCATTT 15300
+Patr-DRB7*01:01:01:01NTTTTTTCTCCAGAAATGATCAGTTATTTTCATTCTTGCAGGGAAGCCTTCTCTCTCATTT 15300
+
+HLA-DRB1*01:01:01:01  TCAAAGCTCTGAATCTTAGAGTCTCAATTAAAGAGGTTCAATTTGGAATAAGCATCACTA 15360
+Patr-DRB7*01:01:01:01NTCAAAGCTCTGAATCTCAGGGTCTCAATTAAAGAGGTTCCATTTAGGATAAAAATCACTA 15360
+
+HLA-DRB1*01:01:01:01  AACCTGGATTCCTCTCTCAGGAGCACGGTCTGAATCTGCACAGAGCAAGATGCTGAGTGG 15420
+Patr-DRB7*01:01:01:01NAACCTGGCTTCCTCTCTCAGGAGCATGGTCTGAATCTGCACAGAGCAAGATGCTGAGTGG 15420
+
+HLA-DRB1*01:01:01:01  AGTCGGGGGCTTCGTGCTGGGCCTGCTCTTCCTTGGGGCCGGGCTGTTCATCTACTTCAG 15480
+Patr-DRB7*01:01:01:01NAGTCGGGGGCTTTGTGCTGGGCCTGCTTTTCCTTGGGGCAGGGCTGTTCATCTACTTCAG 15480
+
+HLA-DRB1*01:01:01:01  GAATCAGAAAGGTGAGGAGCCTTTGGGAGCTGACTCTCTCCATAGGCTTTTCTGGAGGAG 15540
+Patr-DRB7*01:01:01:01NGAATCAGAAAG------------------------------------------------- 15540
+
+HLA-DRB1*01:01:01:01  GAACCATGGTTTTGCTGAGAGGTTAGTTCTCAGTATACGAGTGGCCCTGAATAAAGCCTT 15600
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 15600
+
+HLA-DRB1*01:01:01:01  TCTTTCCCCAAACGGCTCTAATGTCCTGCTAATCCAGAAATCATCAGTGCATGGTTACTA 15660
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 15660
+
+HLA-DRB1*01:01:01:01  TGTCAAAGCATAATAGCTTGTGGCCTGCAGAGACAAGAGGAAGGTTAACAAGTAGGGGTC 15720
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 15720
+
+HLA-DRB1*01:01:01:01  CTTTTGTTTGAGATCCTGGAGCAAATTAAGGAAGAGCCACTAAGGCTAATGGAATTACAC 15780
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 15780
+
+HLA-DRB1*01:01:01:01  TGGATCCTGTGACAGACACTTCAGGCTTCATGGGTCACATGGTCTGTCTCTGCTCCTTTC 15840
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 15840
+
+HLA-DRB1*01:01:01:01  TGCCCCTTTCTGCCCTGGTTGGTGCGGGTTGTGGTGTTAGAGAAATCTCAGGTGGGAGAT 15900
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 15900
+
+HLA-DRB1*01:01:01:01  CTGCGGCTGGGACATTGTGTTGGAGGACAGATTTGCTTCAATAACTTTTAAGTGTATTTC 15960
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 15960
+
+HLA-DRB1*01:01:01:01  TTTTCCTCTTTTTCCCAGGACACTCTGGACTTCAGCCAACAGGTAATACCTTTTAATCCT 16020
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16020
+
+HLA-DRB1*01:01:01:01  CTTTTAGAAACAGACACAGTTTCCCTAGTGAGAGGTGAAGCCAGCTGGACTTCTGGGTGG 16080
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16080
+
+HLA-DRB1*01:01:01:01  GGTGGGGACTTGGAGAACTTTTCTTACAAGAGGTTTCTAAATGCCCCAATCAGTGCTTTG 16140
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16140
+
+HLA-DRB1*01:01:01:01  TAAAAACACACCAATAGGTTCTCTGTGGCTAGCTGGATGTTTGTAAAATGGACCAATTTG 16200
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16200
+
+HLA-DRB1*01:01:01:01  CACTCTGTAAAATGGACCAATCAGCATTCTTTAAAATGGACCAATCAGCACTTTTAAAAT 16260
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16260
+
+HLA-DRB1*01:01:01:01  GGGCCAATCAGCACTCTTTAAAATGGACCAATCAGCACTCTTTAAAATGGACCAATCTGC 16320
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16320
+
+HLA-DRB1*01:01:01:01  AGGACATGGGCAGGGACAAATACAGGAATAAAAGCTGGCCACCCCAACCAGCAGTGGCAA 16380
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16380
+
+HLA-DRB1*01:01:01:01  CCCACTCAGGTCCTCTTCCCTGCTGTGGAAGTTTTGTTCTTTTGATCTTCACAATAAATC 16440
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16440
+
+HLA-DRB1*01:01:01:01  TTGCTGCTGCCTACTCTTTGGGTCCCTGCCGCCTTTAAGAGCTGTAACACTCACTGTGAA 16500
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16500
+
+HLA-DRB1*01:01:01:01  GGTCTGCTTGAAGTCAGCGAGACCACAAACCCACTGGAAGGAACAAACTGCGGACACACT 16560
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16560
+
+HLA-DRB1*01:01:01:01  AGAATGATGGTAGAGGTGATAAGGCATGAGACAGAAATAATAGGAAAGACTTTGGATCCA 16620
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16620
+
+HLA-DRB1*01:01:01:01  AATTTCTGATCAGGCAATTTACACCAAAATTCCTCCTCTCCACTTAGAAAAGGGCTGTGC 16680
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16680
+
+HLA-DRB1*01:01:01:01  TCTGCGGGACTATTGGCTCAGGGGAGACTCAGGAACTTGTTTTTCTGCTTCCTGCAGTGC 16740
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16740
+
+HLA-DRB1*01:01:01:01  TCTCATCTGAGCCCTTGAAAGAGGAGAAAAGAAACTGTTAGTAGAGCCAGGTTGAAAACA 16800
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16800
+
+HLA-DRB1*01:01:01:01  ACACTCTCCTCTGTCTTTTGCAGGATTCCTGAGCTGAAATGCAGATGACCACATTCAAGG 16860
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16860
+
+HLA-DRB1*01:01:01:01  AAGAACCTTCTGTCCCAGCTTTGCAGAATGAAAAGCTTTCCTGCTTGGCAGTTATTCTTC 16920
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16920
+
+HLA-DRB1*01:01:01:01  CACAAGAGAGGGCTTTCTCAGGACCTGGTTGCTACTGGTTCGGCAACTGCAGAAAATGTC 16980
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 16980
+
+HLA-DRB1*01:01:01:01  CTCCCTTGTGGCTTCCTCAGCTCCTGCCCTTGGCCTGAAGTCCCAGCATTGATGACAGCG 17040
+Patr-DRB7*01:01:01:01N------------------------------------------------------------ 17040
+
+HLA-DRB1*01:01:01:01  CCTCATCTTCAACTTTT 17057
+Patr-DRB7*01:01:01:01N----------------- 17057
 
