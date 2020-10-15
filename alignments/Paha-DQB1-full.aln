@@ -39,17 +39,17 @@ Paha-DQB1*06:02       ----------------------------------------------------------
 Paha-DQB1*15:01       ------------------------------------------------------------   480
 
 HLA-DQB1*05:01:01:01  TCTGAGCTGTGTTGACTACCACTACTTTTCCCTTCGTCTCAATTATGTCTTGGAAGAAGT   540
-Paha-DQB1*06:01       ------------------------------------------------------------   540
+Paha-DQB1*06:01       --------------------------------------------ATGTCTTGGAAGAAGG   540
 Paha-DQB1*06:02       ------------------------------------------------------------   540
 Paha-DQB1*15:01       ------------------------------------------------------------   540
 
 HLA-DQB1*05:01:01:01  CTTTGCGGATCCCCGGAGACCTTCGGGTAGCAACTGTCACCTTGATGCTGGCGATCCTGA   600
-Paha-DQB1*06:01       ------------------------------------------------------------   600
+Paha-DQB1*06:01       CTTTGCGGATCCCCGGCGGCCTTCGGGTAGCAACTGTGACCTTGATGCTGGCAATGCTGA   600
 Paha-DQB1*06:02       ------------------------------------------------------------   600
 Paha-DQB1*15:01       ------------------------------------------------------------   600
 
 HLA-DQB1*05:01:01:01  GCTCCTCACTGGCTGAGGGCAGAGACTCTCCCGGTAAGTGCAGGAAAGCTGCTCTCCAGA   660
-Paha-DQB1*06:01       ------------------------------------------------------------   660
+Paha-DQB1*06:01       GCACCCCAGTTGCTGAGGGCAGAGACTCTCCCG---------------------------   660
 Paha-DQB1*06:02       ------------------------------------------------------------   660
 Paha-DQB1*15:01       ------------------------------------------------------------   660
 
@@ -169,12 +169,12 @@ Paha-DQB1*06:02       ----------------------------------------------------------
 Paha-DQB1*15:01       ------------------------------------------------------------  2040
 
 HLA-DQB1*05:01:01:01  CGGGCTAGGGCCAGGCTGGGGCCTGACTGACTGGCCCGTGATTCCCCGCAGAGGATTTCG  2100
-Paha-DQB1*06:01       ------------------------------------------------------------  2100
+Paha-DQB1*06:01       ---------------------------------------------------AGGATTTCG  2100
 Paha-DQB1*06:02       ------------------------------------------------------------  2100
 Paha-DQB1*15:01       ------------------------------------------------------------  2100
 
 HLA-DQB1*05:01:01:01  TGTACCAGTTTAAGGGCCTGTGCTACTTCACCAACGGGACGGAGCGCGTGCGGGGTGTGA  2160
-Paha-DQB1*06:01       --TACCAGTTTAAGGCCATGTGCTACTTCACCAACTGGACGGAGCGCGTGCGTTATGTGA  2160
+Paha-DQB1*06:01       TGTACCAGTTTAAGGCCATGTGCTACTTCACCAACTGGACGGAGCGCGTGCGTTATGTGA  2160
 Paha-DQB1*06:02       --TACCAGTTTAAGGGCCTGTGCTACTTCACCAACGGGACGGAGCGCGTGCGTCTTGTGA  2160
 Paha-DQB1*15:01       --TTCCAGTTTAAGGGCATGTGCTACTTCACCAACGGGACAGGGCGCGTGTGGAGTGTAG  2160
 
@@ -194,7 +194,7 @@ Paha-DQB1*06:02       TGGAGAGCAAACGGGCGGAGTTGGACAGTGTGTGCAGACACAACTACGAGGTGGCTTA
 Paha-DQB1*15:01       TGGAGAGCAAACGGGCGGAGTTGGACAGGGTGTGCATACACAACTACCAGTTAGAGCTCG  2340
 
 HLA-DQB1*05:01:01:01  GCGGGATCCTGCAGAGGAGAGGTGAGCGTCGTCGCCCCTCCGTGAGGCCCACCGTTGGCC  2400
-Paha-DQB1*06:01       GCGGGATC----------------------------------------------------  2400
+Paha-DQB1*06:01       GCGGGATCTTGCAGAGGAGAG---------------------------------------  2400
 Paha-DQB1*06:02       GCGGGATC----------------------------------------------------  2400
 Paha-DQB1*15:01       GCACGATC----------------------------------------------------  2400
 
@@ -404,27 +404,27 @@ Paha-DQB1*06:02       ----------------------------------------------------------
 Paha-DQB1*15:01       ------------------------------------------------------------  4860
 
 HLA-DQB1*05:01:01:01  CTGCCCTTAGTGGAGCCCACAGTGACCATCTCCCCATCCAGGACAGAGGCCCTCAACCAC  4920
-Paha-DQB1*06:01       ------------------------------------------------------------  4920
+Paha-DQB1*06:01       ----------TGGAGCCCACAGTGACCATCTCCCCGTCCAGGACAGAGGCCCTCAACCAC  4920
 Paha-DQB1*06:02       ------------------------------------------------------------  4920
 Paha-DQB1*15:01       ------------------------------------------------------------  4920
 
 HLA-DQB1*05:01:01:01  CACAACCTGCTGATCTGCTCGGTGACAGATTTCTATCCAAGCCAGATCAAAGTCCGGTGG  4980
-Paha-DQB1*06:01       ------------------------------------------------------------  4980
+Paha-DQB1*06:01       CACAACCTGCTGGTCTGCTCGGTGACAGATTTCTATCCAGGCCAGATCAAAGTCCGGTGG  4980
 Paha-DQB1*06:02       ------------------------------------------------------------  4980
 Paha-DQB1*15:01       ------------------------------------------------------------  4980
 
 HLA-DQB1*05:01:01:01  TTTCGGAATGATCAGGAGGAGACAGCCGGCGTTGTGTCCACCCCCCTCATTAGGAACGGT  5040
-Paha-DQB1*06:01       ------------------------------------------------------------  5040
+Paha-DQB1*06:01       TTTCGGAACAATCAGGAGGAGACAGCCGGCATTGTGTCCACCCCCCTTATTAGGAACGGC  5040
 Paha-DQB1*06:02       ------------------------------------------------------------  5040
 Paha-DQB1*15:01       ------------------------------------------------------------  5040
 
 HLA-DQB1*05:01:01:01  GACTGGACCTTCCAGATCCTGGTGATGCTGGAAATGACTCCCCAGCGTGGAGATGTCTAC  5100
-Paha-DQB1*06:01       ------------------------------------------------------------  5100
+Paha-DQB1*06:01       GACTGGACCTTCCAGATCCTGGTGATGCTGGAAATGACTCCCCAGCGTGGAGACGTCTAC  5100
 Paha-DQB1*06:02       ------------------------------------------------------------  5100
 Paha-DQB1*15:01       ------------------------------------------------------------  5100
 
 HLA-DQB1*05:01:01:01  ACCTGCCACGTGGAGCACCCCAGCCTCCAGAGCCCCATCACCGTGGAGTGGCGTAAGGAG  5160
-Paha-DQB1*06:01       ------------------------------------------------------------  5160
+Paha-DQB1*06:01       ACCTGCCACGTGGAGCACCCCAGCCTCCAGAGCCCCATCACCGTGGAGTGGC--------  5160
 Paha-DQB1*06:02       ------------------------------------------------------------  5160
 Paha-DQB1*15:01       ------------------------------------------------------------  5160
 
@@ -469,17 +469,17 @@ Paha-DQB1*06:02       ----------------------------------------------------------
 Paha-DQB1*15:01       ------------------------------------------------------------  5640
 
 HLA-DQB1*05:01:01:01  GACACTCAGGTTCTGCTTTTTAGGGGCTCAGTCTGAATCTGCCCAGAGCAAGATGCTGAG  5700
-Paha-DQB1*06:01       ------------------------------------------------------------  5700
+Paha-DQB1*06:01       -----------------------GGGCTCAGTCTGAGTCTGCCCAGAGCAAGCTGCTGAG  5700
 Paha-DQB1*06:02       ------------------------------------------------------------  5700
 Paha-DQB1*15:01       ------------------------------------------------------------  5700
 
 HLA-DQB1*05:01:01:01  TGGCGTTGGAGGCTTCGTGCTGGGGCTGATCTTCCTTGGGCTTGGCCTTATCATCCGTCA  5760
-Paha-DQB1*06:01       ------------------------------------------------------------  5760
+Paha-DQB1*06:01       TGGCATTGGAGGCCTCGTGCTAGGGCTCATCTTCTTTGGGCTGGGCCTTATCATCCGTCA  5760
 Paha-DQB1*06:02       ------------------------------------------------------------  5760
 Paha-DQB1*15:01       ------------------------------------------------------------  5760
 
 HLA-DQB1*05:01:01:01  AAGGAGTCGGAAAGGTGAGGAACCCCAGGGGAAAAGGGGAAGATGGGCTGTGACCCAGAC  5820
-Paha-DQB1*06:01       ------------------------------------------------------------  5820
+Paha-DQB1*06:01       GAGGAGTCAGAAAG----------------------------------------------  5820
 Paha-DQB1*06:02       ------------------------------------------------------------  5820
 Paha-DQB1*15:01       ------------------------------------------------------------  5820
 
