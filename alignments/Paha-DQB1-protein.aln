@@ -1,5 +1,5 @@
 HLA-DQB1*05:01:01:01  MSWKKSLRIPGDLRVATVTLMLAILSSSLAEGRDSPEDFVYQFKGLCYFTNGTERVRGVT    60
-Paha-DQB1*06:01       ----------------------------------------YQFKAMCYFTNWTERVRYVT    60
+Paha-DQB1*06:01       MSWKKALRIPGGLRVATVTLMLAMLSTPVAEGRDSPEDFVYQFKAMCYFTNWTERVRYVT    60
 Paha-DQB1*06:02       ----------------------------------------YQFKGLCYFTNGTERVRLVS    60
 Paha-DQB1*15:01       ----------------------------------------FQFKGMCYFTNGTGRVWSVD    60
 
@@ -9,17 +9,17 @@ Paha-DQB1*06:02       RFIYNREEFVRFDSDWGEYRAVTPQGRPDAEYWNSQKDILESKRAELDSVCRHNYEVA
 Paha-DQB1*15:01       RYIYNREEYVRFDSDVGLYLPVTPLGRSWAEYWNSQKEALESKRAELDRVCIHNYQ----   120
 
 HLA-DQB1*05:01:01:01  GILQRRVEPTVTISPSRTEALNHHNLLICSVTDFYPSQIKVRWFRNDQEETAGVVSTPLI   180
-Paha-DQB1*06:01       G-----------------------------------------------------------   180
+Paha-DQB1*06:01       GILQRRVEPTVTISPSRTEALNHHNLLVCSVTDFYPGQIKVRWFRNNQEETAGIVSTPLI   180
 Paha-DQB1*06:02       G-----------------------------------------------------------   180
 Paha-DQB1*15:01       ------------------------------------------------------------   180
 
 HLA-DQB1*05:01:01:01  RNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKMLSGVGGFVL   240
-Paha-DQB1*06:01       ------------------------------------------------------------   240
+Paha-DQB1*06:01       RNGDWTFQILVMLEMTPQRGDVYTCHVEHPSLQSPITVEWRAQSESAQSKLLSGIGGLVL   240
 Paha-DQB1*06:02       ------------------------------------------------------------   240
 Paha-DQB1*15:01       ------------------------------------------------------------   240
 
 HLA-DQB1*05:01:01:01  GLIFLGLGLIIRQRSRKGPQGPPPAGLLH   269
-Paha-DQB1*06:01       -----------------------------   269
+Paha-DQB1*06:01       GLIFFGLGLIIRQRSQ-------------   269
 Paha-DQB1*06:02       -----------------------------   269
 Paha-DQB1*15:01       ----LELGT--------------------   269
 

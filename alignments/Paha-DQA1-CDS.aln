@@ -1,25 +1,65 @@
-HLA-DQA1*01:01:01:01  CTGACCACGTTGCCTCTTGTGGTGTAAACTTGTACCAGTTTTACGGTCCCTCTGGCCAGT    60
-Paha-DQA1*05:01       --------------------------------------TCTTACGGTTTCTCTGGCCAGT    60
-Paha-DQA1*05:02       --------------------------------------TCTTACGGTTTGTCTGGCCAGT    60
-Paha-DQA1*25:01       --------------------------------------TTTTATGGTTCCTCTGGCCAGT    60
+HLA-DQA1*01:01:01:01  ATGATCCTAAACAAAGCTCTGCTGCTGGGGGCCCTCGCTCTGACCACCGTGATGAGCCCC    60
+Paha-DQA1*05:01       ------------------------------------------------------------    60
+Paha-DQA1*05:02       ------------------------------------------------------------    60
+Paha-DQA1*25:01       ------------------------------------------------------------    60
 
-HLA-DQA1*01:01:01:01  ACACCCATGAATTTGATGGAGATGAGGAGTTCTACGTGGACCTGGAGAGGAAGGAGACTG   120
-Paha-DQA1*05:01       ACTCCCATGAATTTGACGGAGATGAGCAGTTCTACGTGGACCTGGAGAGGAAGGAGACTG   120
-Paha-DQA1*05:02       ACTCCCATGAATTTGACGGAGATGAGCAGTTCTACGTGGACCTGGAGAGGAAGGAGACTG   120
-Paha-DQA1*25:01       ACACCCATGAATTTGATGGAGACGAGCAGTTCTATGTTGACCTGGAGAGGAAGGAGACTG   120
+HLA-DQA1*01:01:01:01  TGTGGAGGTGAAGACATTGTGGCTGACCACGTTGCCTCTTGTGGTGTAAACTTGTACCAG   120
+Paha-DQA1*05:01       ------------------------------------------------------------   120
+Paha-DQA1*05:02       ------------------------------------------------------------   120
+Paha-DQA1*25:01       ------------------------------------------------------------   120
 
-HLA-DQA1*01:01:01:01  CCTGGCGGTGGCCTGAGTTCAGCAAATTTGGAGGTTTTGACCCGCAGGGTGCACTGAGAA   180
-Paha-DQA1*05:01       TCTGGCGGTTGCCTGTTCTCAGCCAATTT---AGTTTCGACGCGCAATTTGCACTGACAA   180
-Paha-DQA1*05:02       TCTGGCAGTTGCCTGTTCTCAGCCAATTT---AGTTTCGACGCGCAATTTGCACTGACAA   180
-Paha-DQA1*25:01       TCTGGCGGTTGCCTCTGTTCAGCAAATTTGCAGGTTTTGACCCTCAGGGTGCACTGAGAA   180
+HLA-DQA1*01:01:01:01  TTTTACGGTCCCTCTGGCCAGTACACCCATGAATTTGATGGAGATGAGGAGTTCTACGTG   180
+Paha-DQA1*05:01       TCTTACGGTTTCTCTGGCCAGTACTCCCATGAATTTGACGGAGATGAGCAGTTCTACGTG   180
+Paha-DQA1*05:02       TCTTACGGTTTGTCTGGCCAGTACTCCCATGAATTTGACGGAGATGAGCAGTTCTACGTG   180
+Paha-DQA1*25:01       TTTTATGGTTCCTCTGGCCAGTACACCCATGAATTTGATGGAGACGAGCAGTTCTATGTT   180
 
-HLA-DQA1*01:01:01:01  ACATGGCTGTGGCAAAACACAACTTGAACATCATGATTAAACGCTACAACTCTACCGCTG   240
-Paha-DQA1*05:01       ACATTGCTGTGGGAAAACAGAACTTGAACTACCAGATGAAA-------------------   240
-Paha-DQA1*05:02       ACATTGCTGTGGGAAAACAGAACTTGAACTACCTGATGAAA-------------------   240
-Paha-DQA1*25:01       ACATCGCTGTGGGAAAACACACCTTGAACATGATGATTAAACACTC--------------   240
+HLA-DQA1*01:01:01:01  GACCTGGAGAGGAAGGAGACTGCCTGGCGGTGGCCTGAGTTCAGCAAATTTGGAGGTTTT   240
+Paha-DQA1*05:01       GACCTGGAGAGGAAGGAGACTGTCTGGCGGTTGCCTGTTCTCAGCCAATTT---AGTTTC   240
+Paha-DQA1*05:02       GACCTGGAGAGGAAGGAGACTGTCTGGCAGTTGCCTGTTCTCAGCCAATTT---AGTTTC   240
+Paha-DQA1*25:01       GACCTGGAGAGGAAGGAGACTGTCTGGCGGTTGCCTCTGTTCAGCAAATTTGCAGGTTTT   240
 
-HLA-DQA1*01:01:01:01  CTACCAATG   249
-Paha-DQA1*05:01       ----CAGTC   249
-Paha-DQA1*05:02       ----CAGTC   249
-Paha-DQA1*25:01       ---------   249
+HLA-DQA1*01:01:01:01  GACCCGCAGGGTGCACTGAGAAACATGGCTGTGGCAAAACACAACTTGAACATCATGATT   300
+Paha-DQA1*05:01       GACGCGCAATTTGCACTGACAAACATTGCTGTGGGAAAACAGAACTTGAACTACCAGATG   300
+Paha-DQA1*05:02       GACGCGCAATTTGCACTGACAAACATTGCTGTGGGAAAACAGAACTTGAACTACCTGATG   300
+Paha-DQA1*25:01       GACCCTCAGGGTGCACTGAGAAACATCGCTGTGGGAAAACACACCTTGAACATGATGATT   300
+
+HLA-DQA1*01:01:01:01  AAACGCTACAACTCTACCGCTGCTACCAATGAGGTTCCTGAGGTCACAGTGTTTTCCAAG   360
+Paha-DQA1*05:01       AAA-----------------------CAGTC-----------------------------   360
+Paha-DQA1*05:02       AAA-----------------------CAGTC-----------------------------   360
+Paha-DQA1*25:01       AAACACTC----------------------------------------------------   360
+
+HLA-DQA1*01:01:01:01  TCTCCCGTGACACTGGGTCAGCCCAACACCCTCATTTGTCTTGTGGACAACATCTTTCCT   420
+Paha-DQA1*05:01       ------------------------------------------------------------   420
+Paha-DQA1*05:02       ------------------------------------------------------------   420
+Paha-DQA1*25:01       ------------------------------------------------------------   420
+
+HLA-DQA1*01:01:01:01  CCTGTGGTCAACATCACATGGCTGAGCAATGGGCAGTCAGTCACAGAAGGTGTTTCTGAG   480
+Paha-DQA1*05:01       ------------------------------------------------------------   480
+Paha-DQA1*05:02       ------------------------------------------------------------   480
+Paha-DQA1*25:01       ------------------------------------------------------------   480
+
+HLA-DQA1*01:01:01:01  ACCAGCTTCCTCTCCAAGAGTGATCATTCCTTCTTCAAGATCAGTTACCTCACCTTCCTC   540
+Paha-DQA1*05:01       ------------------------------------------------------------   540
+Paha-DQA1*05:02       ------------------------------------------------------------   540
+Paha-DQA1*25:01       ------------------------------------------------------------   540
+
+HLA-DQA1*01:01:01:01  CCTTCTGCTGATGAGATTTATGACTGCAAGGTGGAGCACTGGGGCCTGGACCAGCCTCTT   600
+Paha-DQA1*05:01       ------------------------------------------------------------   600
+Paha-DQA1*05:02       ------------------------------------------------------------   600
+Paha-DQA1*25:01       ------------------------------------------------------------   600
+
+HLA-DQA1*01:01:01:01  CTGAAACACTGGGAGCCTGAGATTCCAGCCCCTATGTCAGAGCTCACAGAGACTGTGGTC   660
+Paha-DQA1*05:01       ------------------------------------------------------------   660
+Paha-DQA1*05:02       ------------------------------------------------------------   660
+Paha-DQA1*25:01       ------------------------------------------------------------   660
+
+HLA-DQA1*01:01:01:01  TGCGCCCTGGGGTTGTCTGTGGGCCTCGTGGGCATTGTGGTGGGCACTGTCTTCATCATC   720
+Paha-DQA1*05:01       ------------------------------------------------------------   720
+Paha-DQA1*05:02       ------------------------------------------------------------   720
+Paha-DQA1*25:01       ------------------------------------------------------------   720
+
+HLA-DQA1*01:01:01:01  CAAGGCCTGCGTTCAGTTGGTGCTTCCAGACACCAAGGGCCATTGTGA   768
+Paha-DQA1*05:01       ------------------------------------------------   768
+Paha-DQA1*05:02       ------------------------------------------------   768
+Paha-DQA1*25:01       ------------------------------------------------   768
 
