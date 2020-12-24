@@ -149,7 +149,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------    60
 Mafa-A1*043:04        ------------------------------------------------------------    60
 Mafa-A1*043:05        ------------------------------------------------------------    60
-Mafa-A1*043:06        ------------------------------------------------------------    60
 Mafa-A1*043:07        ------------------------------------------------------------    60
 Mafa-A1*043:08        ------------------------------------------------------------    60
 Mafa-A1*043:09        ------------------------------------------------------------    60
@@ -196,7 +195,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------    60
 Mafa-A1*060:05        ------------------------------------------------------------    60
 Mafa-A1*060:06:01     ------------------------------------------------------------    60
-Mafa-A1*060:06:02     ------------------------------------------------------------    60
 Mafa-A1*060:07        ------------------------------------------------------------    60
 Mafa-A1*061:01        ------------------------------------------------------------    60
 Mafa-A1*061:02        ------------------------------------------------------------    60
@@ -303,7 +301,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------    60
 Mafa-A1*091:02        ------------------------------------------------------------    60
 Mafa-A1*091:03        ------------------------------------------------------------    60
-Mafa-A1*091:04        ------------------------------------------------------------    60
 Mafa-A1*092:01:01     ------------------------------------------------------------    60
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------    60
 Mafa-A1*092:01:02     ------------------------------------------------------------    60
@@ -495,7 +492,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------   120
 Mafa-A1*043:04        ------------------------------------------------------------   120
 Mafa-A1*043:05        ------------------------------------------------------------   120
-Mafa-A1*043:06        ------------------------------------------------------------   120
 Mafa-A1*043:07        ------------------------------------------------------------   120
 Mafa-A1*043:08        ------------------------------------------------------------   120
 Mafa-A1*043:09        ------------------------------------------------------------   120
@@ -542,7 +538,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------   120
 Mafa-A1*060:05        ------------------------------------------------------------   120
 Mafa-A1*060:06:01     ------------------------------------------------------------   120
-Mafa-A1*060:06:02     ------------------------------------------------------------   120
 Mafa-A1*060:07        ------------------------------------------------------------   120
 Mafa-A1*061:01        ------------------------------------------------------------   120
 Mafa-A1*061:02        ------------------------------------------------------------   120
@@ -649,7 +644,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------   120
 Mafa-A1*091:02        ------------------------------------------------------------   120
 Mafa-A1*091:03        ------------------------------------------------------------   120
-Mafa-A1*091:04        ------------------------------------------------------------   120
 Mafa-A1*092:01:01     ------------------------------------------------------------   120
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------   120
 Mafa-A1*092:01:02     ------------------------------------------------------------   120
@@ -841,7 +835,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------   180
 Mafa-A1*043:04        ------------------------------------------------------------   180
 Mafa-A1*043:05        ------------------------------------------------------------   180
-Mafa-A1*043:06        ------------------------------------------------------------   180
 Mafa-A1*043:07        ------------------------------------------------------------   180
 Mafa-A1*043:08        ------------------------------------------------------------   180
 Mafa-A1*043:09        ------------------------------------------------------------   180
@@ -888,7 +881,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------   180
 Mafa-A1*060:05        ------------------------------------------------------------   180
 Mafa-A1*060:06:01     ------------------------------------------------------------   180
-Mafa-A1*060:06:02     ------------------------------------------------------------   180
 Mafa-A1*060:07        ------------------------------------------------------------   180
 Mafa-A1*061:01        ------------------------------------------------------------   180
 Mafa-A1*061:02        ------------------------------------------------------------   180
@@ -995,7 +987,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------   180
 Mafa-A1*091:02        ------------------------------------------------------------   180
 Mafa-A1*091:03        ------------------------------------------------------------   180
-Mafa-A1*091:04        ------------------------------------------------------------   180
 Mafa-A1*092:01:01     ------------------------------------------------------------   180
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------   180
 Mafa-A1*092:01:02     ------------------------------------------------------------   180
@@ -1187,7 +1178,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------   240
 Mafa-A1*043:04        ------------------------------------------------------------   240
 Mafa-A1*043:05        ------------------------------------------------------------   240
-Mafa-A1*043:06        ------------------------------------------------------------   240
 Mafa-A1*043:07        ------------------------------------------------------------   240
 Mafa-A1*043:08        ------------------------------------------------------------   240
 Mafa-A1*043:09        ------------------------------------------------------------   240
@@ -1234,7 +1224,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------   240
 Mafa-A1*060:05        ------------------------------------------------------------   240
 Mafa-A1*060:06:01     ------------------------------------------------------------   240
-Mafa-A1*060:06:02     ------------------------------------------------------------   240
 Mafa-A1*060:07        ------------------------------------------------------------   240
 Mafa-A1*061:01        ------------------------------------------------------------   240
 Mafa-A1*061:02        ------------------------------------------------------------   240
@@ -1341,7 +1330,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------   240
 Mafa-A1*091:02        ------------------------------------------------------------   240
 Mafa-A1*091:03        ------------------------------------------------------------   240
-Mafa-A1*091:04        ------------------------------------------------------------   240
 Mafa-A1*092:01:01     ------------------------------------------------------------   240
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------   240
 Mafa-A1*092:01:02     ------------------------------------------------------------   240
@@ -1533,7 +1521,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------   300
 Mafa-A1*043:04        ------------------------------------------------------------   300
 Mafa-A1*043:05        ------------------------------------------------------------   300
-Mafa-A1*043:06        ------------------------------------------------------------   300
 Mafa-A1*043:07        ------------------------------------------------------------   300
 Mafa-A1*043:08        ------------------------------------------------------------   300
 Mafa-A1*043:09        ------------------------------------------------------------   300
@@ -1580,7 +1567,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------   300
 Mafa-A1*060:05        ------------------------------------------------------------   300
 Mafa-A1*060:06:01     ------------------------------------------------------------   300
-Mafa-A1*060:06:02     ------------------------------------------------------------   300
 Mafa-A1*060:07        ------------------------------------------------------------   300
 Mafa-A1*061:01        ------------------------------------------------------------   300
 Mafa-A1*061:02        ------------------------------------------------------------   300
@@ -1687,7 +1673,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------   300
 Mafa-A1*091:02        ------------------------------------------------------------   300
 Mafa-A1*091:03        ------------------------------------------------------------   300
-Mafa-A1*091:04        ------------------------------------------------------------   300
 Mafa-A1*092:01:01     ------------------------------------------------------------   300
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------   300
 Mafa-A1*092:01:02     ------------------------------------------------------------   300
@@ -1878,8 +1863,7 @@ Mafa-A1*043:01:01:01  ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGA
 Mafa-A1*043:02        GTG---------------------------------CTCTCAGGGGTCCTGGCCCTGACC   360
 Mafa-A1*043:03        ----------------------------------------CAGGGGTCCTGGCCCTGACC   360
 Mafa-A1*043:04        ------------------------------------------------------------   360
-Mafa-A1*043:05        GTG---------------------------------CTCTCAGGGGTCCTGGCCCTGACC   360
-Mafa-A1*043:06        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
+Mafa-A1*043:05        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
 Mafa-A1*043:07        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
 Mafa-A1*043:08        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGATCCTGGCCCTGACC   360
 Mafa-A1*043:09        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
@@ -1925,8 +1909,7 @@ Mafa-A1*060:02        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGA
 Mafa-A1*060:03        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGACC   360
 Mafa-A1*060:04        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGACC   360
 Mafa-A1*060:05        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGACC   360
-Mafa-A1*060:06:01     GTG---------------------------------CTCTCAGGGGCCCTGGCCCTGACC   360
-Mafa-A1*060:06:02     ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGACC   360
+Mafa-A1*060:06:01     ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGACC   360
 Mafa-A1*060:07        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGACC   360
 Mafa-A1*061:01        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGACC   360
 Mafa-A1*061:02        ----------------------------------------CAGGGGCCCTGGCCCTGACC   360
@@ -2030,10 +2013,9 @@ Mafa-A1*090:04:02     ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCGCTGGCCCTGA
 Mafa-A1*090:05        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCGCTGGCCCTGACC   360
 Mafa-A1*090:06        ATGGTGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGGGCTGGCCCTGACC   360
 Mafa-A1*090:07        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCGCTGGCCCTGACC   360
-Mafa-A1*091:01        GTG---------------------------------CTCTCAGGGGCCCTGGCCCTGACC   360
+Mafa-A1*091:01        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGACC   360
 Mafa-A1*091:02        ----------------------------------------CAGGGGCCCTGGCCCTGACC   360
 Mafa-A1*091:03        ATGGCGGTCATGGCGCCCCGAACTCTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGACC   360
-Mafa-A1*091:04        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGCCCTGGCCCTGACC   360
 Mafa-A1*092:01:01     ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
 Mafa-A1*092:01:01Sp   ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
 Mafa-A1*092:01:02     ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
@@ -2225,7 +2207,6 @@ Mafa-A1*043:02        CAGACCCGGGCGG---------------------------------------------
 Mafa-A1*043:03        CAGACCCGGGCGG-----------------------------------------------   420
 Mafa-A1*043:04        ------------------------------------------------------------   420
 Mafa-A1*043:05        CAGACCCGGGCGG-----------------------------------------------   420
-Mafa-A1*043:06        CAGACCCGGGCGG-----------------------------------------------   420
 Mafa-A1*043:07        CAGACCCGGGCGG-----------------------------------------------   420
 Mafa-A1*043:08        CAGACCCGGGCGG-----------------------------------------------   420
 Mafa-A1*043:09        CAGACCCGGGCGG-----------------------------------------------   420
@@ -2272,7 +2253,6 @@ Mafa-A1*060:03        CAGACCCGGGCAG---------------------------------------------
 Mafa-A1*060:04        CAGACCCGGGCGG-----------------------------------------------   420
 Mafa-A1*060:05        CAGACCCGGGCAG-----------------------------------------------   420
 Mafa-A1*060:06:01     CAGACCCGGGCAG-----------------------------------------------   420
-Mafa-A1*060:06:02     CAGACCCGGGCAG-----------------------------------------------   420
 Mafa-A1*060:07        CAGACCCGGGCAG-----------------------------------------------   420
 Mafa-A1*061:01        CAGACCCGGGCAG-----------------------------------------------   420
 Mafa-A1*061:02        CAGACCCGGGCAG-----------------------------------------------   420
@@ -2379,7 +2359,6 @@ Mafa-A1*090:07        CAGACCTGGGCCG---------------------------------------------
 Mafa-A1*091:01        CAGACTCGGGCGG-----------------------------------------------   420
 Mafa-A1*091:02        CAGACTCGGGCGG-----------------------------------------------   420
 Mafa-A1*091:03        CAGACTCGGGCGG-----------------------------------------------   420
-Mafa-A1*091:04        CAGACTCGGGCGG-----------------------------------------------   420
 Mafa-A1*092:01:01     CAGACCCGGGCGG-----------------------------------------------   420
 Mafa-A1*092:01:01Sp   CAGACCCGGGCGG-----------------------------------------------   420
 Mafa-A1*092:01:02     CAGACCCGGGCGG-----------------------------------------------   420
@@ -2571,7 +2550,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------   480
 Mafa-A1*043:04        ------------------------------------------------------------   480
 Mafa-A1*043:05        ------------------------------------------------------------   480
-Mafa-A1*043:06        ------------------------------------------------------------   480
 Mafa-A1*043:07        ------------------------------------------------------------   480
 Mafa-A1*043:08        ------------------------------------------------------------   480
 Mafa-A1*043:09        ------------------------------------------------------------   480
@@ -2618,7 +2596,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------   480
 Mafa-A1*060:05        ------------------------------------------------------------   480
 Mafa-A1*060:06:01     ------------------------------------------------------------   480
-Mafa-A1*060:06:02     ------------------------------------------------------------   480
 Mafa-A1*060:07        ------------------------------------------------------------   480
 Mafa-A1*061:01        ------------------------------------------------------------   480
 Mafa-A1*061:02        ------------------------------------------------------------   480
@@ -2725,7 +2702,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------   480
 Mafa-A1*091:02        ------------------------------------------------------------   480
 Mafa-A1*091:03        ------------------------------------------------------------   480
-Mafa-A1*091:04        ------------------------------------------------------------   480
 Mafa-A1*092:01:01     ------------------------------------------------------------   480
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------   480
 Mafa-A1*092:01:02     ------------------------------------------------------------   480
@@ -2917,7 +2893,6 @@ Mafa-A1*043:02        -------------------------------GCTCCCACTCCATGAGCTATTTCTACA
 Mafa-A1*043:03        -------------------------------GCTCCCACTCCATGAGCTATTTCTACACC   540
 Mafa-A1*043:04        -------------------------------GCTCCCACTCCATGAGCTATTTCTACACC   540
 Mafa-A1*043:05        -------------------------------GCTCCCACTCCATGAGCTATTTCTACACC   540
-Mafa-A1*043:06        -------------------------------GCTCCCACTCCATGAGCTATTTCTACACC   540
 Mafa-A1*043:07        -------------------------------GCTCCCACTCCATGAGCTATTTCTACACC   540
 Mafa-A1*043:08        -------------------------------GCTCCCACTCCATGAGCTATTTCTACACC   540
 Mafa-A1*043:09        -------------------------------GCTCCCACTCCATGAGGTATTTCTACACC   540
@@ -2964,7 +2939,6 @@ Mafa-A1*060:03        -------------------------------GCTCCCACTCCATGAGCTATTTCTACA
 Mafa-A1*060:04        -------------------------------GCTCCCACTCCATGAGCTATTTCTACACC   540
 Mafa-A1*060:05        -------------------------------GCTCCCACTCCATGAGCTATTTCTACACC   540
 Mafa-A1*060:06:01     -------------------------------GCTCCCACTCCATGAGGTATTTCTACACC   540
-Mafa-A1*060:06:02     -------------------------------GCTCCCACTCCATGAGGTATTTCTACACC   540
 Mafa-A1*060:07        -------------------------------GCTCCCACTCCATGAGCTATTTCTACACC   540
 Mafa-A1*061:01        -------------------------------GCTCCCACTCCATGAGCTATTTCTACACC   540
 Mafa-A1*061:02        -------------------------------GCTCCCACTCCATGAGCTATTTCTACACC   540
@@ -3071,7 +3045,6 @@ Mafa-A1*090:07        -------------------------------GCTCCCACTCCATGAGGTATTTCTACA
 Mafa-A1*091:01        -------------------------------GCTCGCACTCCATGAGGTATTTCTACACC   540
 Mafa-A1*091:02        -------------------------------GCTCGCACTCCTTGAGGTATTTCTACACC   540
 Mafa-A1*091:03        -------------------------------GCTCGCACTCCATGAGGTATTTCTACACC   540
-Mafa-A1*091:04        -------------------------------GCTCGCACTCCATGAGGTATTTCTACACC   540
 Mafa-A1*092:01:01     -------------------------------GCTCCCACTCCATGAGGTATTTCTACACC   540
 Mafa-A1*092:01:01Sp   -------------------------------GCTCCCACTCCATGAGGTATTTCTACACC   540
 Mafa-A1*092:01:02     -------------------------------GCTCGCACTCCATGAGGTATTTCTACACC   540
@@ -3263,7 +3236,6 @@ Mafa-A1*043:02        TACATGTCCCGGCCTGGCCGCGGGGAGCCCCGCTTCGTCGCCGTGGGCTACGTGGACG
 Mafa-A1*043:03        TACATGTCCCGGCCTGGCCGCGGGGAGCCCCGCTTCGTCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*043:04        TACATGTCCCGGCCTGGCCGCGGGGAGCCCCGCTTCGTCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*043:05        TACATGTCCCGGCCTGGCCGCGGGGAGCCCCGCTTCGTCGCCGTGGGCTACGTGGACGAC   600
-Mafa-A1*043:06        TACATGTCCCGGCCTGGCCGCGGGGAGCCCCGCTTCGTCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*043:07        TACATGTCCCGGCCTGGCCGCGGGGAGCCCCGCTTCGTCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*043:08        TACATGTCCCGGCCTGGCCGCGGGGAGCCCCGCTTCGTCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*043:09        TACATGTCCCGGCCTGGCCGCGGGGAGCCCCGCTTCGTCGCCGTGGGCTACGTGGACGAC   600
@@ -3310,7 +3282,6 @@ Mafa-A1*060:03        TCCATGTCCCGGCCCGGCCGCTGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACG
 Mafa-A1*060:04        TCCATGTCCCGGCCCGGCCGCTGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*060:05        TCCATGTCCCGGCCCGGCCGCTGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*060:06:01     TCCATGTCCCGGCCCGGCCGCTGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGAC   600
-Mafa-A1*060:06:02     TCCATGTCCCGGCCCGGCCGCTGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*060:07        TCCATGTCCCGGCCCGGCCGCTGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*061:01        TCCATGTCCCGGCCCGGCCGCTGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*061:02        TCCATGTCCCGGCCCGGCCGCTGGGAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGAC   600
@@ -3417,7 +3388,6 @@ Mafa-A1*090:07        GCCGTGTCCCGGCCCGGCCGCGGGGAGCCCCGCTTCATGTCCGTGGGCTACGTGGACG
 Mafa-A1*091:01        GCCGTGTCCCGGCCCGGCCGCGGGCAGCCCCGCTTCATCTCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*091:02        GCCGTGTCCCGGCCCGGCCGCGGGCAGCCCCGCTTCATCTCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*091:03        GCCGTGTCCCGGCCCGGCCGCGGGCAGCCCCGCTTCATCTCCGTGGGCTACGTGGACGAC   600
-Mafa-A1*091:04        GCCGTGTCCCGGCCCGGCCGCGGGCAGCCCCGCTTCATCTCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*092:01:01     TCCGTGTCCCGGCCCGGCCGCGGGCAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*092:01:01Sp   TCCGTGTCCCGGCCCGGCCGCGGGCAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGAC   600
 Mafa-A1*092:01:02     TCCGTGTCCCGGCCCGGCCGCGGGCAGCCCCGCTTCATCGCCGTGGGCTACGTGGACGAC   600
@@ -3609,7 +3579,6 @@ Mafa-A1*043:02        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGC
 Mafa-A1*043:03        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*043:04        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*043:05        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
-Mafa-A1*043:06        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*043:07        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*043:08        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*043:09        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
@@ -3656,7 +3625,6 @@ Mafa-A1*060:03        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGCCAGAGGATGGAGCCGCGGGCGC
 Mafa-A1*060:04        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*060:05        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*060:06:01     ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
-Mafa-A1*060:06:02     ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*060:07        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*061:01        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*061:02        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGCCAGAGGATGGAGCCGCGGGCGCCG   660
@@ -3763,7 +3731,6 @@ Mafa-A1*090:07        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGAGAGGAGCCGCGGGCGC
 Mafa-A1*091:01        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGAGAGGAGCCGCGGGCGCCG   660
 Mafa-A1*091:02        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGAGAGGAGCCGCGGGCGCCG   660
 Mafa-A1*091:03        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGAGAGGAGCCGCGGGCGCCG   660
-Mafa-A1*091:04        ACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAGTCCGAGAGAGGAGCCGCGGGCGCCG   660
 Mafa-A1*092:01:01     ACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAGTCCGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*092:01:01Sp   ACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAGTCCGAGGATGGAGCCGCGGGCGCCG   660
 Mafa-A1*092:01:02     ACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAGTCCGAGGATGGAGCCGCGGGCGCCG   660
@@ -3955,7 +3922,6 @@ Mafa-A1*043:02        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGGAGACACGGAACATGAAGACCG
 Mafa-A1*043:03        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGAACATGAAGGCCGAG   720
 Mafa-A1*043:04        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGGAGACACGGAACATGAAGACCGCG   720
 Mafa-A1*043:05        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGAACATGAAGGCCGAG   720
-Mafa-A1*043:06        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGAACATGAAGGCCGAG   720
 Mafa-A1*043:07        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGAACATGAAGACCGCG   720
 Mafa-A1*043:08        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGATCATGAAGACCGCG   720
 Mafa-A1*043:09        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGGAGACACGGAACATGAAGACCGCG   720
@@ -4002,7 +3968,6 @@ Mafa-A1*060:03        TGGGTGGAGCAGGAGGGTCCGGAGTATTGGGACCGGAGCACACGGTACATGAAGACCG
 Mafa-A1*060:04        TGGGTGGAGCAGGAGGGTCCGGAGTATTGGGACCGGAGCACACGGTACATGAAGACCGCG   720
 Mafa-A1*060:05        TGGGTGGAGCAGGAGGGTCCGGAGTATTGGGACCGGAGCACACGGTACATGAAGACCGAG   720
 Mafa-A1*060:06:01     TGGGTGGAGCAGGAGGGTCCGGAGTATTGGGACCGGAGCACACGGTACATGAAGACCGCG   720
-Mafa-A1*060:06:02     TGGGTGGAGCAGGAGGGTCCGGAGTATTGGGACCGGAGCACACGGTACATGAAGACCGCG   720
 Mafa-A1*060:07        TGGGTGGAGCAGGAGGGTCCGGAGTATTGGGACCGGAGCACACGGTACATGAAGACCGAG   720
 Mafa-A1*061:01        TGGGTGGAGCAGGAGGGTCCAGAGTATTGGGACCGGGAGACACGGAAAATGAAGACCGAG   720
 Mafa-A1*061:02        TGGGTGGAGCAGGAGGAGCCGGAGTATTGGGACCGGGAGACACGGAAAATGAAGACCGAG   720
@@ -4109,7 +4074,6 @@ Mafa-A1*090:07        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGAACACACGGATCTGCAAGGCCG
 Mafa-A1*091:01        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGGAGACACGGATCTCCAAGGCCGAG   720
 Mafa-A1*091:02        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGGAGACACGGATCTCCAAGGCCGAG   720
 Mafa-A1*091:03        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGGAGACACGGATCTCCAAGGCCGAG   720
-Mafa-A1*091:04        TGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCGGGAGACACGGATCTCCAAGGCCGAG   720
 Mafa-A1*092:01:01     TGGGTGGAGCAGGAGGGTCCAGAGTATTGGGACCGGAACACACGGATCTGCAAGGCCGAC   720
 Mafa-A1*092:01:01Sp   TGGGTGGAGCAGGAGGGTCCAGAGTATTGGGACCGGAACACACGGATCTGCAAGGCCGAC   720
 Mafa-A1*092:01:02     TGGGTGGAGCAGGAGGGTCCAGAGTATTGGGACCGGAACACACGGATCTGCAAGGCCGAC   720
@@ -4301,7 +4265,6 @@ Mafa-A1*043:02        ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGG
 Mafa-A1*043:03        ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*043:04        ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*043:05        ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
-Mafa-A1*043:06        ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*043:07        ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*043:08        ACACAGAATGCCCCAGTGGCCCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*043:09        ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
@@ -4348,7 +4311,6 @@ Mafa-A1*060:03        ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGG
 Mafa-A1*060:04        ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*060:05        ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*060:06:01     ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
-Mafa-A1*060:06:02     ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*060:07        ACACAGAATGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*061:01        ACACAGATGGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*061:02        ACACAGATGGCCCCAGTGAACCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
@@ -4455,7 +4417,6 @@ Mafa-A1*090:07        ACACAGAACTACCGAGAGGGCCTGCGGAACCTTCGCGGCTACTACAACCAGAGCGAGG
 Mafa-A1*091:01        ACACAGACTCTCCGAGAGAACCTGCGGACCCTGCTCCGCTACTACAACCAGAGCGAGGCT   780
 Mafa-A1*091:02        ACACAGAACTACCGAGAGAGCCTGCGGAACCTTCGCGGCTACTACAACCAGAGCGAGGCT   780
 Mafa-A1*091:03        ACACAGAACTACCGAGAGAGCCTGCGGAACCTTCGCGGCTACTACAACCAGAGCGAGGCT   780
-Mafa-A1*091:04        ACACAGACTCTCCGAGAGAACCTGCGGACCCTGCTCCGCTACTACAACCAGAGCGAGGCT   780
 Mafa-A1*092:01:01     ACACAGACCTACCGAGAGAGCCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*092:01:01Sp   ACACAGACCTACCGAGAGAGCCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
 Mafa-A1*092:01:02     ACACAGACCTACCGAGAGAGCCTGCGGAACCTGCGCGGCTACTACAACCAGAGCGAGGCC   780
@@ -4647,7 +4608,6 @@ Mafa-A1*043:02        G---------------------------------------------------------
 Mafa-A1*043:03        G-----------------------------------------------------------   840
 Mafa-A1*043:04        G-----------------------------------------------------------   840
 Mafa-A1*043:05        G-----------------------------------------------------------   840
-Mafa-A1*043:06        G-----------------------------------------------------------   840
 Mafa-A1*043:07        G-----------------------------------------------------------   840
 Mafa-A1*043:08        G-----------------------------------------------------------   840
 Mafa-A1*043:09        G-----------------------------------------------------------   840
@@ -4694,7 +4654,6 @@ Mafa-A1*060:03        G---------------------------------------------------------
 Mafa-A1*060:04        G-----------------------------------------------------------   840
 Mafa-A1*060:05        G-----------------------------------------------------------   840
 Mafa-A1*060:06:01     G-----------------------------------------------------------   840
-Mafa-A1*060:06:02     G-----------------------------------------------------------   840
 Mafa-A1*060:07        G-----------------------------------------------------------   840
 Mafa-A1*061:01        G-----------------------------------------------------------   840
 Mafa-A1*061:02        G-----------------------------------------------------------   840
@@ -4801,7 +4760,6 @@ Mafa-A1*090:07        G---------------------------------------------------------
 Mafa-A1*091:01        G-----------------------------------------------------------   840
 Mafa-A1*091:02        G-----------------------------------------------------------   840
 Mafa-A1*091:03        G-----------------------------------------------------------   840
-Mafa-A1*091:04        G-----------------------------------------------------------   840
 Mafa-A1*092:01:01     G-----------------------------------------------------------   840
 Mafa-A1*092:01:01Sp   G-----------------------------------------------------------   840
 Mafa-A1*092:01:02     G-----------------------------------------------------------   840
@@ -4993,7 +4951,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------   900
 Mafa-A1*043:04        ------------------------------------------------------------   900
 Mafa-A1*043:05        ------------------------------------------------------------   900
-Mafa-A1*043:06        ------------------------------------------------------------   900
 Mafa-A1*043:07        ------------------------------------------------------------   900
 Mafa-A1*043:08        ------------------------------------------------------------   900
 Mafa-A1*043:09        ------------------------------------------------------------   900
@@ -5040,7 +4997,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------   900
 Mafa-A1*060:05        ------------------------------------------------------------   900
 Mafa-A1*060:06:01     ------------------------------------------------------------   900
-Mafa-A1*060:06:02     ------------------------------------------------------------   900
 Mafa-A1*060:07        ------------------------------------------------------------   900
 Mafa-A1*061:01        ------------------------------------------------------------   900
 Mafa-A1*061:02        ------------------------------------------------------------   900
@@ -5147,7 +5103,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------   900
 Mafa-A1*091:02        ------------------------------------------------------------   900
 Mafa-A1*091:03        ------------------------------------------------------------   900
-Mafa-A1*091:04        ------------------------------------------------------------   900
 Mafa-A1*092:01:01     ------------------------------------------------------------   900
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------   900
 Mafa-A1*092:01:02     ------------------------------------------------------------   900
@@ -5339,7 +5294,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------   960
 Mafa-A1*043:04        ------------------------------------------------------------   960
 Mafa-A1*043:05        ------------------------------------------------------------   960
-Mafa-A1*043:06        ------------------------------------------------------------   960
 Mafa-A1*043:07        ------------------------------------------------------------   960
 Mafa-A1*043:08        ------------------------------------------------------------   960
 Mafa-A1*043:09        ------------------------------------------------------------   960
@@ -5386,7 +5340,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------   960
 Mafa-A1*060:05        ------------------------------------------------------------   960
 Mafa-A1*060:06:01     ------------------------------------------------------------   960
-Mafa-A1*060:06:02     ------------------------------------------------------------   960
 Mafa-A1*060:07        ------------------------------------------------------------   960
 Mafa-A1*061:01        ------------------------------------------------------------   960
 Mafa-A1*061:02        ------------------------------------------------------------   960
@@ -5493,7 +5446,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------   960
 Mafa-A1*091:02        ------------------------------------------------------------   960
 Mafa-A1*091:03        ------------------------------------------------------------   960
-Mafa-A1*091:04        ------------------------------------------------------------   960
 Mafa-A1*092:01:01     ------------------------------------------------------------   960
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------   960
 Mafa-A1*092:01:02     ------------------------------------------------------------   960
@@ -5685,7 +5637,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  1020
 Mafa-A1*043:04        ------------------------------------------------------------  1020
 Mafa-A1*043:05        ------------------------------------------------------------  1020
-Mafa-A1*043:06        ------------------------------------------------------------  1020
 Mafa-A1*043:07        ------------------------------------------------------------  1020
 Mafa-A1*043:08        ------------------------------------------------------------  1020
 Mafa-A1*043:09        ------------------------------------------------------------  1020
@@ -5732,7 +5683,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  1020
 Mafa-A1*060:05        ------------------------------------------------------------  1020
 Mafa-A1*060:06:01     ------------------------------------------------------------  1020
-Mafa-A1*060:06:02     ------------------------------------------------------------  1020
 Mafa-A1*060:07        ------------------------------------------------------------  1020
 Mafa-A1*061:01        ------------------------------------------------------------  1020
 Mafa-A1*061:02        ------------------------------------------------------------  1020
@@ -5839,7 +5789,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  1020
 Mafa-A1*091:02        ------------------------------------------------------------  1020
 Mafa-A1*091:03        ------------------------------------------------------------  1020
-Mafa-A1*091:04        ------------------------------------------------------------  1020
 Mafa-A1*092:01:01     ------------------------------------------------------------  1020
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  1020
 Mafa-A1*092:01:02     ------------------------------------------------------------  1020
@@ -6031,7 +5980,6 @@ Mafa-A1*043:02        -------------GGTCTCACACCATCCAGAGGATGTACGGCTGCGACCTGGGGCCCG
 Mafa-A1*043:03        -------------GGTCTCACACCATCCAGAGGATGTACGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*043:04        -------------GGTCTCACACCTTCCAGAGGATGTACGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*043:05        -------------GGTCTCACACCGTCCAGAAGATGTACGGCTGCGACCTGGGGCCCGAC  1080
-Mafa-A1*043:06        -------------GGTCTCACACCGTCCAGAAGATGTACGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*043:07        -------------GGTCTCACACCATCCAGAGGATGTACGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*043:08        -------------GGTCTCACACCTTCCAGAGGATGTACGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*043:09        -------------GGTCTCACACCATCCAGAGGATGTACGGCTGCGACCTGGGGCCCGAC  1080
@@ -6078,7 +6026,6 @@ Mafa-A1*060:03        -------------GGTCTCACACCATCCAGAGGATGGTTGGCTGCGACCTGGGACCCG
 Mafa-A1*060:04        -------------GGTCTCACACCATCCAGAGGATGTACGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*060:05        -------------GGTCTCACACCATCCAGAAGATGTACGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*060:06:01     -------------GGTCTCACACCATCCAGAGGATGGTTGGATGCGACCTGGGACCCGAC  1080
-Mafa-A1*060:06:02     -------------GGTCTCACACCATCCAGAGGATGGTTGGATGCGACCTGGGACCCGAC  1080
 Mafa-A1*060:07        -------------GGTCTCACACCATCCAGAGGATGGTTGGCTGCGACCTGGGACCCGAC  1080
 Mafa-A1*061:01        -------------GGTCTCACACCATCCAGAAGATGTACGGCTGCGACCTGGGACCCGAC  1080
 Mafa-A1*061:02        -------------GGTCTCACACCATCCAGAAGATGTACGGCTGCGACCTGGGACCCGAC  1080
@@ -6185,7 +6132,6 @@ Mafa-A1*090:07        -------------GGTCTCACACCTTCCAGAGGATGGTTGGCTGCGACCTGGGACCCG
 Mafa-A1*091:01        -------------GGTCTCACACCTTCCAGGTAATGTACGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*091:02        -------------GGTCTCACACCTACCAGACGATGTACGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*091:03        -------------GGTCTCACACCTACCAGACGATGTACGGCTGCGACCTGGGGCCCGAC  1080
-Mafa-A1*091:04        -------------GGTCTCACACCTTCCAGGTAATGTACGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*092:01:01     -------------GGTCTCACACCATCCAGAGGATGCTTGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*092:01:01Sp   -------------GGTCTCACACCATCCAGAGGATGCTTGGCTGCGACCTGGGGCCCGAC  1080
 Mafa-A1*092:01:02     -------------GGTCTCACACCATCCAGAGGATGCTTGGCTGCGACCTGGGGCCCGAC  1080
@@ -6377,7 +6323,6 @@ Mafa-A1*043:02        GGGCGCCTCCTCCGCGGGTATAGCCAGTACGCCTACGACGGCAGGGATTACATCGCCC
 Mafa-A1*043:03        GGGCGCCTCCTCCGCGGGTATAGCCAGTACGCCTACGACGGCAGGGATTACATCGCCCTG  1140
 Mafa-A1*043:04        GGGCGCCTCCTCCGCGGGTATAGCCAGTACGCCTACGACGGCAGGGATTACATCGCCCTG  1140
 Mafa-A1*043:05        GGGCGCCTCCTCCGCGGGTATAGCCAGTACGCCTACGACGGCAGGGATTACATCGCCCTG  1140
-Mafa-A1*043:06        GGGCGCCTCCTCCGCGGGTATAGCCAGTACGCCTACGACGGCAGGGATTACATCGCCCTG  1140
 Mafa-A1*043:07        GGGCGCCTCCTCCGCGGGTATAGCCAGTACGCCTACGACGGCAGGGATTACATCGCCCTG  1140
 Mafa-A1*043:08        GGGCGCCTCCTCCGCGGGTATAGCCAGTACGCCTACGACGGCAGGGATTACATCGCCCTG  1140
 Mafa-A1*043:09        GGGCGCCTCCTCCGCGGGTATAGCCAGTACGCCTACGACGGCAGGGATTACATCGCCCTG  1140
@@ -6424,7 +6369,6 @@ Mafa-A1*060:03        GGGCGCCTCCTCCGCGGGTATGACCAGCACGCCTACGACGGCAAGGATTACATCGCCC
 Mafa-A1*060:04        GGGCGCCTCCTCCGCGGGTATGACCAGCACGCCTACGACGGCAAGGATTACATCGCCCTG  1140
 Mafa-A1*060:05        GGGCGCCTCCTCCGCGGGTATGACCAGCACGCCTACGACGGCAAGGATTACATCGCCCTG  1140
 Mafa-A1*060:06:01     GGGCGCCTCCTCCGCGGGTATGACCAGCACGCCTACGACGGCAAGGATTACATCGCCCTG  1140
-Mafa-A1*060:06:02     GGGCGCCTCCTCCGCGGGTATGACCAGCACGCCTACGACGGCAAGGATTACATCGCCCTG  1140
 Mafa-A1*060:07        GGGCGCCTCCTCCGCGGGTATGACCAGCACGCCTACGACGGCAAGGATTACATCGCCCTG  1140
 Mafa-A1*061:01        GGGCGCCTCCTCCGCGGGTATGAACAGTCCGCCTACGACGGCAGGGATTACATCGCCCTG  1140
 Mafa-A1*061:02        GGGCGCCTCCTCCGCGGGTATGAACAGTCCGCCTACGACGGCAAGGATTACATCGCCCTG  1140
@@ -6531,7 +6475,6 @@ Mafa-A1*090:07        TGGCGCCTCCTCCGCGGGTATGAACAGTTCGCCTACGATGGCAGGGATTACATCGCCC
 Mafa-A1*091:01        GGGCGCCTCCTCCGCGGGTATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTG  1140
 Mafa-A1*091:02        GGGCGCCTCCTCCGCGGGTATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTG  1140
 Mafa-A1*091:03        GGGCGCCTCCTCCGCGGGTATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTG  1140
-Mafa-A1*091:04        GGGCGCCTCCTCCGCGGGTATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTG  1140
 Mafa-A1*092:01:01     GGGCGCCTCCTCCGCGGGTATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTG  1140
 Mafa-A1*092:01:01Sp   GGGCGCCTCCTCCGCGGGTATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTG  1140
 Mafa-A1*092:01:02     GGGCGCCTCCTCCGCGGGTATGACCAGTCCGCCTACGACGGCAGGGATTACATCGCCCTG  1140
@@ -6723,7 +6666,6 @@ Mafa-A1*043:02        AACGGGGACCTGCGTTCCTGGACGGCAGCGGACATGGCGGCTCAGAACACCCAGCGGA
 Mafa-A1*043:03        AACGGGGACCTGCGTTCCTGGACGGCAGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*043:04        AACGGGGACCTGCGTTCCTGGACGGCAGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*043:05        AACGGGGACCTGCGTTCCTGGACGGCAGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
-Mafa-A1*043:06        AACGGGGACCTGCGTTCCTGGACGGCAGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*043:07        AACGGGGACCTGCGTTCCTGGACGGCAGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*043:08        AACGGGGACCTGCGTTCCTGGACGGCAGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*043:09        AACGGGGACCTGCGTTCCTGGACGGCAGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
@@ -6770,7 +6712,6 @@ Mafa-A1*060:03        AACCAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGA
 Mafa-A1*060:04        AACGAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*060:05        AACCAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*060:06:01     AACCAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
-Mafa-A1*060:06:02     AACCAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*060:07        AACCAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*061:01        AACGAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*061:02        AACGAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
@@ -6877,7 +6818,6 @@ Mafa-A1*090:07        AACGGGGACCTGCGTTCCTGGACGGCCGCGGACATGGCGGCTCAGAACACCCAGCGGA
 Mafa-A1*091:01        AACGAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*091:02        AACGAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*091:03        AACGAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
-Mafa-A1*091:04        AACGAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*092:01:01     AACGAGGACCTGCGCTCCTGGACCGCCGCGGACTTGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*092:01:01Sp   AACGAGGACCTGCGCTCCTGGACCGCCGCGGACTTGGCGGCTCAGAACACCCAGCGGAAG  1200
 Mafa-A1*092:01:02     AACGAGGACCTGCGCTCCTGGACCGCCGCGGACTTGGCGGCTCAGAACACCCAGCGGAAG  1200
@@ -7069,7 +7009,6 @@ Mafa-A1*043:02        TGGGAGGCGGCGGGTGAGGCGGAGCGGTTCAGAACCTACGTGGAGGGCCGATGTGTGG
 Mafa-A1*043:03        TGGGAGGCGGCGGGTGAGGCGGAGCGGTTCAGAACCTACGTGGAGGGCCGATGTGTGGAG  1260
 Mafa-A1*043:04        TGGGAGGCGGCGGGTGTGGCGGAGCGGTTCAGAACCTACGTGGAGGGCCGATGTGTGGAG  1260
 Mafa-A1*043:05        TGGGAGGCGGCGGGTGAGGCGGAGCGGTTCAGAACCTACGTGGAGGGCCGATGTGTGGAG  1260
-Mafa-A1*043:06        TGGGAGGCGGCGGGTGAGGCGGAGCGGTTCAGAACCTACGTGGAGGGCCGATGTGTGGAG  1260
 Mafa-A1*043:07        TGGGAGGCGGCGGGTGAGGCGGAGCGGTTCAGAACCTACGTGGAGGGCCGATGTGTGGAG  1260
 Mafa-A1*043:08        TGGGAGGCGGCGGGTGTGGCGGAGCGGTTCAGAACCTACGTGGAGGGCCGATGTGTGGAG  1260
 Mafa-A1*043:09        TGGGAGGCGGCGGGTGAGGCGGAGCGGTTCAGAACCTACGTGGAGGGCCGATGTGTGGAG  1260
@@ -7116,7 +7055,6 @@ Mafa-A1*060:03        TGGGAGGCGGCGGATGTGGCGGAGAGGATGAGAGCCTACCTGGAGGGGACGTGCCTGG
 Mafa-A1*060:04        TGGGAGGCGGCGGATGTGGCGGAGAGGATGAGAGCCTACCTGGAGGGGACGTGCCTGGAG  1260
 Mafa-A1*060:05        TGGGAGGCGGCGGATGTGGCGGAGAGGATGAGAGCCTACCTGGAGGGGACGTGCCTGGAG  1260
 Mafa-A1*060:06:01     TGGGAGGCGGCGGATGTGGCGGAGAGGATGAGAGCCTACCTGGAGGGGACGTGCCTGGAG  1260
-Mafa-A1*060:06:02     TGGGAGGCGGCGGATGTGGCGGAGAGGATGAGAGCCTACCTGGAGGGGACGTGCCTGGAG  1260
 Mafa-A1*060:07        TGGGAGGCGGCGGATGTGGCGGAGAGGATGAGAGCCTACCTGGAGGGGACGTGCCTGGAG  1260
 Mafa-A1*061:01        TGGGAGGCGGCCGGTTGGGCGGAGCAGATCAGAGCCTACCTGGAGGGCGAGTGCGTGGAG  1260
 Mafa-A1*061:02        TGGGAGGCGGCCGGTTGGGCGGAGCAGATCAGAGCCTACCTGGAGGGCGAGTGCGTGGAG  1260
@@ -7223,7 +7161,6 @@ Mafa-A1*090:07        TGGGAGGCGGCGGGTGTGGCGGAGAGGATGAGAGCCTACCTGGAGGGCGAGTGCGTGG
 Mafa-A1*091:01        TGGGAGGCGGCGGGTGCGGCGGAGCAGATGAGAGCCTACCTGGAGGGCGAGTGCCTGGAG  1260
 Mafa-A1*091:02        TGGGAGGCGGCGGGTGCGGCGGAGCAGATGAGAGCCTACCTGGAGGGCGAGTGCCTGGAG  1260
 Mafa-A1*091:03        TGGGAGGCGGCGGGTGCGGCGGAGCAGATGAGAGCCTACCTGGAGGGCGAGTGCCTGGAG  1260
-Mafa-A1*091:04        TGGGAGGCGGCGGGTGCGGCGGAGCAGATGAGAGCCTACCTGGAGGGCGAGTGCCTGGAG  1260
 Mafa-A1*092:01:01     TGGGAGGCGGCGGGTGTGGCGGAGCAGTGGAGAGCCTACCTGGAGGGCCGGTGCCTGGAG  1260
 Mafa-A1*092:01:01Sp   TGGGAGGCGGCGGGTGTGGCGGAGCAGTGGAGAGCCTACCTGGAGGGCCGGTGCCTGGAG  1260
 Mafa-A1*092:01:02     TGGGAGGCGGCGGGTGTGGCGGAGCAGTGGAGAGCCTACCTGGAGGGCCGGTGCCTGGAG  1260
@@ -7415,7 +7352,6 @@ Mafa-A1*043:02        TCGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG---------
 Mafa-A1*043:03        TCGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
 Mafa-A1*043:04        TCGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
 Mafa-A1*043:05        TCGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
-Mafa-A1*043:06        TCGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
 Mafa-A1*043:07        TCGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
 Mafa-A1*043:08        TCGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
 Mafa-A1*043:09        TGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
@@ -7462,7 +7398,6 @@ Mafa-A1*060:03        TGGCTCCGGAGACACCTGGAGAACGGGAAGGAGACACTGCAGCGCTTGG---------
 Mafa-A1*060:04        TGGCTCCGGAGACACCTGGAGAACGGGAAGGAGACACTGCAGCGCGCGG-----------  1320
 Mafa-A1*060:05        TGGCTCCGGAGACACCTGGAGAACGGGAAGGAGACACTGCAGCGCTTGG-----------  1320
 Mafa-A1*060:06:01     TGGCTCCGGAGACACCTGGAGAACGGGAAGGAGACACTGCAGCGCGCGG-----------  1320
-Mafa-A1*060:06:02     TGGCTCCGGAGACACCTGGAGAACGGGAAGGAGACACTGCAGCGCGCGG-----------  1320
 Mafa-A1*060:07        TGGCTCCGGAGACACCTGGAGAACGGGAAGGAGACACTGCAGCGCGCGG-----------  1320
 Mafa-A1*061:01        TGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
 Mafa-A1*061:02        TGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
@@ -7569,7 +7504,6 @@ Mafa-A1*090:07        TGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG---------
 Mafa-A1*091:01        TGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
 Mafa-A1*091:02        TGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
 Mafa-A1*091:03        TGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
-Mafa-A1*091:04        TGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
 Mafa-A1*092:01:01     TCGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
 Mafa-A1*092:01:01Sp   TCGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
 Mafa-A1*092:01:02     TCGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG-----------  1320
@@ -7761,7 +7695,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  1380
 Mafa-A1*043:04        ------------------------------------------------------------  1380
 Mafa-A1*043:05        ------------------------------------------------------------  1380
-Mafa-A1*043:06        ------------------------------------------------------------  1380
 Mafa-A1*043:07        ------------------------------------------------------------  1380
 Mafa-A1*043:08        ------------------------------------------------------------  1380
 Mafa-A1*043:09        ------------------------------------------------------------  1380
@@ -7808,7 +7741,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  1380
 Mafa-A1*060:05        ------------------------------------------------------------  1380
 Mafa-A1*060:06:01     ------------------------------------------------------------  1380
-Mafa-A1*060:06:02     ------------------------------------------------------------  1380
 Mafa-A1*060:07        ------------------------------------------------------------  1380
 Mafa-A1*061:01        ------------------------------------------------------------  1380
 Mafa-A1*061:02        ------------------------------------------------------------  1380
@@ -7915,7 +7847,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  1380
 Mafa-A1*091:02        ------------------------------------------------------------  1380
 Mafa-A1*091:03        ------------------------------------------------------------  1380
-Mafa-A1*091:04        ------------------------------------------------------------  1380
 Mafa-A1*092:01:01     ------------------------------------------------------------  1380
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  1380
 Mafa-A1*092:01:02     ------------------------------------------------------------  1380
@@ -8107,7 +8038,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  1440
 Mafa-A1*043:04        ------------------------------------------------------------  1440
 Mafa-A1*043:05        ------------------------------------------------------------  1440
-Mafa-A1*043:06        ------------------------------------------------------------  1440
 Mafa-A1*043:07        ------------------------------------------------------------  1440
 Mafa-A1*043:08        ------------------------------------------------------------  1440
 Mafa-A1*043:09        ------------------------------------------------------------  1440
@@ -8154,7 +8084,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  1440
 Mafa-A1*060:05        ------------------------------------------------------------  1440
 Mafa-A1*060:06:01     ------------------------------------------------------------  1440
-Mafa-A1*060:06:02     ------------------------------------------------------------  1440
 Mafa-A1*060:07        ------------------------------------------------------------  1440
 Mafa-A1*061:01        ------------------------------------------------------------  1440
 Mafa-A1*061:02        ------------------------------------------------------------  1440
@@ -8261,7 +8190,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  1440
 Mafa-A1*091:02        ------------------------------------------------------------  1440
 Mafa-A1*091:03        ------------------------------------------------------------  1440
-Mafa-A1*091:04        ------------------------------------------------------------  1440
 Mafa-A1*092:01:01     ------------------------------------------------------------  1440
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  1440
 Mafa-A1*092:01:02     ------------------------------------------------------------  1440
@@ -8453,7 +8381,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  1500
 Mafa-A1*043:04        ------------------------------------------------------------  1500
 Mafa-A1*043:05        ------------------------------------------------------------  1500
-Mafa-A1*043:06        ------------------------------------------------------------  1500
 Mafa-A1*043:07        ------------------------------------------------------------  1500
 Mafa-A1*043:08        ------------------------------------------------------------  1500
 Mafa-A1*043:09        ------------------------------------------------------------  1500
@@ -8500,7 +8427,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  1500
 Mafa-A1*060:05        ------------------------------------------------------------  1500
 Mafa-A1*060:06:01     ------------------------------------------------------------  1500
-Mafa-A1*060:06:02     ------------------------------------------------------------  1500
 Mafa-A1*060:07        ------------------------------------------------------------  1500
 Mafa-A1*061:01        ------------------------------------------------------------  1500
 Mafa-A1*061:02        ------------------------------------------------------------  1500
@@ -8607,7 +8533,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  1500
 Mafa-A1*091:02        ------------------------------------------------------------  1500
 Mafa-A1*091:03        ------------------------------------------------------------  1500
-Mafa-A1*091:04        ------------------------------------------------------------  1500
 Mafa-A1*092:01:01     ------------------------------------------------------------  1500
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  1500
 Mafa-A1*092:01:02     ------------------------------------------------------------  1500
@@ -8799,7 +8724,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  1560
 Mafa-A1*043:04        ------------------------------------------------------------  1560
 Mafa-A1*043:05        ------------------------------------------------------------  1560
-Mafa-A1*043:06        ------------------------------------------------------------  1560
 Mafa-A1*043:07        ------------------------------------------------------------  1560
 Mafa-A1*043:08        ------------------------------------------------------------  1560
 Mafa-A1*043:09        ------------------------------------------------------------  1560
@@ -8846,7 +8770,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  1560
 Mafa-A1*060:05        ------------------------------------------------------------  1560
 Mafa-A1*060:06:01     ------------------------------------------------------------  1560
-Mafa-A1*060:06:02     ------------------------------------------------------------  1560
 Mafa-A1*060:07        ------------------------------------------------------------  1560
 Mafa-A1*061:01        ------------------------------------------------------------  1560
 Mafa-A1*061:02        ------------------------------------------------------------  1560
@@ -8953,7 +8876,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  1560
 Mafa-A1*091:02        ------------------------------------------------------------  1560
 Mafa-A1*091:03        ------------------------------------------------------------  1560
-Mafa-A1*091:04        ------------------------------------------------------------  1560
 Mafa-A1*092:01:01     ------------------------------------------------------------  1560
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  1560
 Mafa-A1*092:01:02     ------------------------------------------------------------  1560
@@ -9145,7 +9067,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  1620
 Mafa-A1*043:04        ------------------------------------------------------------  1620
 Mafa-A1*043:05        ------------------------------------------------------------  1620
-Mafa-A1*043:06        ------------------------------------------------------------  1620
 Mafa-A1*043:07        ------------------------------------------------------------  1620
 Mafa-A1*043:08        ------------------------------------------------------------  1620
 Mafa-A1*043:09        ------------------------------------------------------------  1620
@@ -9192,7 +9113,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  1620
 Mafa-A1*060:05        ------------------------------------------------------------  1620
 Mafa-A1*060:06:01     ------------------------------------------------------------  1620
-Mafa-A1*060:06:02     ------------------------------------------------------------  1620
 Mafa-A1*060:07        ------------------------------------------------------------  1620
 Mafa-A1*061:01        ------------------------------------------------------------  1620
 Mafa-A1*061:02        ------------------------------------------------------------  1620
@@ -9299,7 +9219,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  1620
 Mafa-A1*091:02        ------------------------------------------------------------  1620
 Mafa-A1*091:03        ------------------------------------------------------------  1620
-Mafa-A1*091:04        ------------------------------------------------------------  1620
 Mafa-A1*092:01:01     ------------------------------------------------------------  1620
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  1620
 Mafa-A1*092:01:02     ------------------------------------------------------------  1620
@@ -9491,7 +9410,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  1680
 Mafa-A1*043:04        ------------------------------------------------------------  1680
 Mafa-A1*043:05        ------------------------------------------------------------  1680
-Mafa-A1*043:06        ------------------------------------------------------------  1680
 Mafa-A1*043:07        ------------------------------------------------------------  1680
 Mafa-A1*043:08        ------------------------------------------------------------  1680
 Mafa-A1*043:09        ------------------------------------------------------------  1680
@@ -9538,7 +9456,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  1680
 Mafa-A1*060:05        ------------------------------------------------------------  1680
 Mafa-A1*060:06:01     ------------------------------------------------------------  1680
-Mafa-A1*060:06:02     ------------------------------------------------------------  1680
 Mafa-A1*060:07        ------------------------------------------------------------  1680
 Mafa-A1*061:01        ------------------------------------------------------------  1680
 Mafa-A1*061:02        ------------------------------------------------------------  1680
@@ -9645,7 +9562,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  1680
 Mafa-A1*091:02        ------------------------------------------------------------  1680
 Mafa-A1*091:03        ------------------------------------------------------------  1680
-Mafa-A1*091:04        ------------------------------------------------------------  1680
 Mafa-A1*092:01:01     ------------------------------------------------------------  1680
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  1680
 Mafa-A1*092:01:02     ------------------------------------------------------------  1680
@@ -9837,7 +9753,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  1740
 Mafa-A1*043:04        ------------------------------------------------------------  1740
 Mafa-A1*043:05        ------------------------------------------------------------  1740
-Mafa-A1*043:06        ------------------------------------------------------------  1740
 Mafa-A1*043:07        ------------------------------------------------------------  1740
 Mafa-A1*043:08        ------------------------------------------------------------  1740
 Mafa-A1*043:09        ------------------------------------------------------------  1740
@@ -9884,7 +9799,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  1740
 Mafa-A1*060:05        ------------------------------------------------------------  1740
 Mafa-A1*060:06:01     ------------------------------------------------------------  1740
-Mafa-A1*060:06:02     ------------------------------------------------------------  1740
 Mafa-A1*060:07        ------------------------------------------------------------  1740
 Mafa-A1*061:01        ------------------------------------------------------------  1740
 Mafa-A1*061:02        ------------------------------------------------------------  1740
@@ -9991,7 +9905,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  1740
 Mafa-A1*091:02        ------------------------------------------------------------  1740
 Mafa-A1*091:03        ------------------------------------------------------------  1740
-Mafa-A1*091:04        ------------------------------------------------------------  1740
 Mafa-A1*092:01:01     ------------------------------------------------------------  1740
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  1740
 Mafa-A1*092:01:02     ------------------------------------------------------------  1740
@@ -10183,7 +10096,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  1800
 Mafa-A1*043:04        ------------------------------------------------------------  1800
 Mafa-A1*043:05        ------------------------------------------------------------  1800
-Mafa-A1*043:06        ------------------------------------------------------------  1800
 Mafa-A1*043:07        ------------------------------------------------------------  1800
 Mafa-A1*043:08        ------------------------------------------------------------  1800
 Mafa-A1*043:09        ------------------------------------------------------------  1800
@@ -10230,7 +10142,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  1800
 Mafa-A1*060:05        ------------------------------------------------------------  1800
 Mafa-A1*060:06:01     ------------------------------------------------------------  1800
-Mafa-A1*060:06:02     ------------------------------------------------------------  1800
 Mafa-A1*060:07        ------------------------------------------------------------  1800
 Mafa-A1*061:01        ------------------------------------------------------------  1800
 Mafa-A1*061:02        ------------------------------------------------------------  1800
@@ -10337,7 +10248,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  1800
 Mafa-A1*091:02        ------------------------------------------------------------  1800
 Mafa-A1*091:03        ------------------------------------------------------------  1800
-Mafa-A1*091:04        ------------------------------------------------------------  1800
 Mafa-A1*092:01:01     ------------------------------------------------------------  1800
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  1800
 Mafa-A1*092:01:02     ------------------------------------------------------------  1800
@@ -10529,7 +10439,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  1860
 Mafa-A1*043:04        ------------------------------------------------------------  1860
 Mafa-A1*043:05        ------------------------------------------------------------  1860
-Mafa-A1*043:06        ------------------------------------------------------------  1860
 Mafa-A1*043:07        ------------------------------------------------------------  1860
 Mafa-A1*043:08        ------------------------------------------------------------  1860
 Mafa-A1*043:09        ------------------------------------------------------------  1860
@@ -10576,7 +10485,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  1860
 Mafa-A1*060:05        ------------------------------------------------------------  1860
 Mafa-A1*060:06:01     ------------------------------------------------------------  1860
-Mafa-A1*060:06:02     ------------------------------------------------------------  1860
 Mafa-A1*060:07        ------------------------------------------------------------  1860
 Mafa-A1*061:01        ------------------------------------------------------------  1860
 Mafa-A1*061:02        ------------------------------------------------------------  1860
@@ -10683,7 +10591,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  1860
 Mafa-A1*091:02        ------------------------------------------------------------  1860
 Mafa-A1*091:03        ------------------------------------------------------------  1860
-Mafa-A1*091:04        ------------------------------------------------------------  1860
 Mafa-A1*092:01:01     ------------------------------------------------------------  1860
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  1860
 Mafa-A1*092:01:02     ------------------------------------------------------------  1860
@@ -10874,8 +10781,7 @@ Mafa-A1*043:01:01:01  TCCCATGACAGATGCAAAATGCCTGCATTTTCTGACTCTTCCCATCAGACCCCCCCAA
 Mafa-A1*043:02        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*043:03        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*043:04        ------------------------------------------------ACCCCCCCAAGA  1920
-Mafa-A1*043:05        ------------------------------------------------------------  1920
-Mafa-A1*043:06        ------------------------------------------------ACCCCCCCAAGA  1920
+Mafa-A1*043:05        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*043:07        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*043:08        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*043:09        ------------------------------------------------ACCCCCCCAAGA  1920
@@ -10921,8 +10827,7 @@ Mafa-A1*060:02        ------------------------------------------------ACCCCCCCAA
 Mafa-A1*060:03        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*060:04        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*060:05        ------------------------------------------------ACCCCCCCAAGA  1920
-Mafa-A1*060:06:01     ------------------------------------------------------------  1920
-Mafa-A1*060:06:02     ------------------------------------------------ATCCCCCCAAGA  1920
+Mafa-A1*060:06:01     ------------------------------------------------ATCCCCCCAAGA  1920
 Mafa-A1*060:07        ------------------------------------------------ACCTCCCCAAGA  1920
 Mafa-A1*061:01        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*061:02        ------------------------------------------------ACCCCCCCAAGA  1920
@@ -11026,10 +10931,9 @@ Mafa-A1*090:04:02     ------------------------------------------------ACCCCCCCAA
 Mafa-A1*090:05        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*090:06        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*090:07        ------------------------------------------------ACCCCCCCAAGA  1920
-Mafa-A1*091:01        ------------------------------------------------------------  1920
+Mafa-A1*091:01        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*091:02        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*091:03        ------------------------------------------------ACCCCCCCAAGA  1920
-Mafa-A1*091:04        ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*092:01:01     ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*092:01:01Sp   ------------------------------------------------ACCCCCCCAAGA  1920
 Mafa-A1*092:01:02     ------------------------------------------------ACCCCCCCAAGA  1920
@@ -11220,8 +11124,7 @@ Mafa-A1*043:01:01:01  CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGATGCTGGGCCCT
 Mafa-A1*043:02        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGATGCTGGGCCCTGG  1980
 Mafa-A1*043:03        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGATGCTGGGCCCTGG  1980
 Mafa-A1*043:04        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGATGCTGGGCCCTGG  1980
-Mafa-A1*043:05        ------------------------------------------------------------  1980
-Mafa-A1*043:06        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGATGCTGGGCCCTGG  1980
+Mafa-A1*043:05        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGATGCTGGGCCCTGG  1980
 Mafa-A1*043:07        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGATGCTGGGCCCTGG  1980
 Mafa-A1*043:08        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*043:09        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGATGCTGGGCCCTGG  1980
@@ -11267,8 +11170,7 @@ Mafa-A1*060:02        CACATGTGACCCACCACCCCGTCTCTGACCAAGAGGCCACCCTGAGGTGCTGGGCCCT
 Mafa-A1*060:03        CACATGTGACCCACCACCCCGTCTCTGACCAAGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*060:04        CACATGTGACCCACCACCCCGTCTCTGACCAAGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*060:05        CACATGTGACCCACCACCCCGTCTCTGACCAAGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
-Mafa-A1*060:06:01     ------------------------------------------------------------  1980
-Mafa-A1*060:06:02     CACATGTGACCCACCACCCCGTCTCTGACCAAGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
+Mafa-A1*060:06:01     CACATGTGACCCACCACCCCGTCTCTGACCAAGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*060:07        CACATGTGACCCACCACCCCGTCTCTGACCAAGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*061:01        CACATGTGACCCACCACCCCGTCTCTGACCAAGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*061:02        CACATGTGACCCACCACCCCGTCTCTGACCAAGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
@@ -11372,10 +11274,9 @@ Mafa-A1*090:04:02     CACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCT
 Mafa-A1*090:05        CACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*090:06        CACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*090:07        CACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
-Mafa-A1*091:01        ------------------------------------------------------------  1980
+Mafa-A1*091:01        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*091:02        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*091:03        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
-Mafa-A1*091:04        CACATGTGACCCATCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*092:01:01     CACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*092:01:01Sp   CACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
 Mafa-A1*092:01:02     CACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCACCCTGAGGTGCTGGGCCCTGG  1980
@@ -11566,8 +11467,7 @@ Mafa-A1*043:01:01:01  GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCA
 Mafa-A1*043:02        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*043:03        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*043:04        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
-Mafa-A1*043:05        ------------------------------------------------------------  2040
-Mafa-A1*043:06        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
+Mafa-A1*043:05        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*043:07        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*043:08        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*043:09        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
@@ -11613,8 +11513,7 @@ Mafa-A1*060:02        GCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGAGAGGACCAAACTCA
 Mafa-A1*060:03        GCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGAGAGGACCAAACTCAGG  2040
 Mafa-A1*060:04        GCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGAGAGGACCAAACTCAGG  2040
 Mafa-A1*060:05        GCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGAGAGGACCAAACTCAGG  2040
-Mafa-A1*060:06:01     ------------------------------------------------------------  2040
-Mafa-A1*060:06:02     GCTTCTACCCTGCGGGGATCACACTGACCTGGCAGCGGGATGGAGAGGACCAAACTCAGG  2040
+Mafa-A1*060:06:01     GCTTCTACCCTGCGGGGATCACACTGACCTGGCAGCGGGATGGAGAGGACCAAACTCAGG  2040
 Mafa-A1*060:07        GCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGAGAGGACCAAACTCAGG  2040
 Mafa-A1*061:01        GCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGAGAGGACCAAACTCAGG  2040
 Mafa-A1*061:02        GCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGAGAGGACCAAACTCAGG  2040
@@ -11718,10 +11617,9 @@ Mafa-A1*090:04:02     GCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGGGAGGACCAAACTCA
 Mafa-A1*090:05        GCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*090:06        GCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*090:07        GCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
-Mafa-A1*091:01        ------------------------------------------------------------  2040
+Mafa-A1*091:01        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*091:02        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*091:03        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
-Mafa-A1*091:04        GCTTCTACCCTGCGGAGATCACACTGACATGGCAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*092:01:01     GCTTCTACCCTGCGGGGATCACACTGACATGGAAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*092:01:01Sp   GCTTCTACCCTGCGGGGATCACACTGACATGGAAGCGGGATGGGGAGGACCAAACTCAGG  2040
 Mafa-A1*092:01:02     GCTTCTACCCTGCGGGGATCACACTGACATGGAAGCGGGATGGGGAGGACCAAACTCAGG  2040
@@ -11912,8 +11810,7 @@ Mafa-A1*043:01:01:01  ACACGGAGCTCGTGGAGACCAGGCCTACAGGAGATGGAACCTTCCAGAAGTGGGCGGC
 Mafa-A1*043:02        ACACGGAGCTCGTGGAGACCAGGCCTACAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*043:03        ACACGGAGCTCGTGGAGACCAGGCCTACAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*043:04        ACACGGAGCTCGTGGAGACCAGGCCTACAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
-Mafa-A1*043:05        ------------------------------------------------------------  2100
-Mafa-A1*043:06        ACACGGAGCTCGTGGAGACCAGGCCTACAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
+Mafa-A1*043:05        ACACGGAGCTCGTGGAGACCAGGCCTACAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*043:07        ACACGGAGCTCGTGGAGACCAGGCCTACAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*043:08        ACACGGAGCTCGTGGAGACCAGGCCTACAGGGGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*043:09        ACACGGAGCTCGTGGAGACCAGGCCTACAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
@@ -11959,8 +11856,7 @@ Mafa-A1*060:02        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGGGACGGAACCTTCCAGAAGTGGGCGGC
 Mafa-A1*060:03        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGGGACGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*060:04        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGGGACGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*060:05        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGGGACGGAACCTTCCAGAAGTGGGCGGCTG  2100
-Mafa-A1*060:06:01     ------------------------------------------------------------  2100
-Mafa-A1*060:06:02     ACACGGAGCTCGTGGAGACCAGGCCTGCAGGGGACGGAACCTTCCAGAAGTGGGCGGCTG  2100
+Mafa-A1*060:06:01     ACACGGAGCTCGTGGAGACCAGGCCTGCAGGGGACGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*060:07        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGGGACGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*061:01        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGGGACGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*061:02        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGGGACGGAACCTTCCAGAAGTGGGCGGCTG  2100
@@ -12064,10 +11960,9 @@ Mafa-A1*090:04:02     ACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAGAAGTGGGCGGC
 Mafa-A1*090:05        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*090:06        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*090:07        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
-Mafa-A1*091:01        ------------------------------------------------------------  2100
+Mafa-A1*091:01        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*091:02        ACACGGAGCTCGTGGAGACCAGGC------------------------------------  2100
 Mafa-A1*091:03        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
-Mafa-A1*091:04        ACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*092:01:01     ACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*092:01:01Sp   ACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
 Mafa-A1*092:01:02     ACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAGAAGTGGGCGGCTG  2100
@@ -12258,8 +12153,7 @@ Mafa-A1*043:01:01:01  TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCT
 Mafa-A1*043:02        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*043:03        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*043:04        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
-Mafa-A1*043:05        ------------------------------------------------------------  2160
-Mafa-A1*043:06        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
+Mafa-A1*043:05        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*043:07        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*043:08        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*043:09        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
@@ -12305,8 +12199,7 @@ Mafa-A1*060:02        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCT
 Mafa-A1*060:03        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*060:04        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*060:05        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
-Mafa-A1*060:06:01     ------------------------------------------------------------  2160
-Mafa-A1*060:06:02     TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
+Mafa-A1*060:06:01     TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*060:07        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*061:01        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*061:02        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
@@ -12410,10 +12303,9 @@ Mafa-A1*090:04:02     TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCT
 Mafa-A1*090:05        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*090:06        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*090:07        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
-Mafa-A1*091:01        ------------------------------------------------------------  2160
+Mafa-A1*091:01        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*091:02        ------------------------------------------------------------  2160
 Mafa-A1*091:03        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
-Mafa-A1*091:04        TGGTGGTGCCTTCTGGAAAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*092:01:01     TGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*092:01:01Sp   TGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
 Mafa-A1*092:01:02     TGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGTCATGTGCAGCATGAGGGTCTGC  2160
@@ -12604,8 +12496,7 @@ Mafa-A1*043:01:01:01  CCGAGCCCCTCACCTTGAGATGGGGTAAAGAGGGAGATGGGGGTGTCATGTCTCTTAG
 Mafa-A1*043:02        CCGAGCCCCTCACCTTGAGATGGG------------------------------------  2220
 Mafa-A1*043:03        CCGAGCCCCTCACCTTGAGATGGG------------------------------------  2220
 Mafa-A1*043:04        CCGAGCCCCTCACCTTGAGATGGG------------------------------------  2220
-Mafa-A1*043:05        ------------------------------------------------------------  2220
-Mafa-A1*043:06        CCGAGCCCCTCACCTTGAGATGGG------------------------------------  2220
+Mafa-A1*043:05        CCGAGCCCCTCACCTTGAGATGGG------------------------------------  2220
 Mafa-A1*043:07        CCGAGCCCCTCACCTTGAGATGGG------------------------------------  2220
 Mafa-A1*043:08        CCAAGCCCCTCACCTTGAGATGGG------------------------------------  2220
 Mafa-A1*043:09        CCGAGCCCCTCACCTTGAGATGGG------------------------------------  2220
@@ -12651,8 +12542,7 @@ Mafa-A1*060:02        GTGAGCCCCTCACCCTGAGATGGG----------------------------------
 Mafa-A1*060:03        GTGAGCCCCTCACCCTGAGATGGG------------------------------------  2220
 Mafa-A1*060:04        GTGAGCCCCTCACCCTGAGATGGG------------------------------------  2220
 Mafa-A1*060:05        GTGAGCCCCTCACCCTGAGATGGG------------------------------------  2220
-Mafa-A1*060:06:01     ------------------------------------------------------------  2220
-Mafa-A1*060:06:02     GTGAGCCCCTCACCCTGAGATGGG------------------------------------  2220
+Mafa-A1*060:06:01     GTGAGCCCCTCACCCTGAGATGGG------------------------------------  2220
 Mafa-A1*060:07        GTGAGCCCCTCACCCTGAGATGGG------------------------------------  2220
 Mafa-A1*061:01        GTGAGCCCCTCACCCTGAGATGGG------------------------------------  2220
 Mafa-A1*061:02        GTGAGCCCCTCACCCTGAGATGGG------------------------------------  2220
@@ -12756,10 +12646,9 @@ Mafa-A1*090:04:02     CTGAGCCCCTCACCCTGAGATGGG----------------------------------
 Mafa-A1*090:05        CTGAGCCCCTCACCCTGAGATGGG------------------------------------  2220
 Mafa-A1*090:06        CTGAGCCCCTCACCCTGAGATGGG------------------------------------  2220
 Mafa-A1*090:07        CTGAGCCCCTCACCCTGAGATGGG------------------------------------  2220
-Mafa-A1*091:01        ------------------------------------------------------------  2220
+Mafa-A1*091:01        CCAAGCCCCTCACCTTGAGATGGG------------------------------------  2220
 Mafa-A1*091:02        ------------------------------------------------------------  2220
 Mafa-A1*091:03        CCAAGCCCCTCACCTTGAGATGGG------------------------------------  2220
-Mafa-A1*091:04        CCAAGCCCCTCACCTTGAGATGGG------------------------------------  2220
 Mafa-A1*092:01:01     CCAAGCCCCTCACCTTGAGATGGG------------------------------------  2220
 Mafa-A1*092:01:01Sp   CCAAGCCCCTCACCTTGAGATGGG------------------------------------  2220
 Mafa-A1*092:01:02     CCAAGCCCCTCACCTTGAGATGGG------------------------------------  2220
@@ -12951,7 +12840,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  2280
 Mafa-A1*043:04        ------------------------------------------------------------  2280
 Mafa-A1*043:05        ------------------------------------------------------------  2280
-Mafa-A1*043:06        ------------------------------------------------------------  2280
 Mafa-A1*043:07        ------------------------------------------------------------  2280
 Mafa-A1*043:08        ------------------------------------------------------------  2280
 Mafa-A1*043:09        ------------------------------------------------------------  2280
@@ -12998,7 +12886,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  2280
 Mafa-A1*060:05        ------------------------------------------------------------  2280
 Mafa-A1*060:06:01     ------------------------------------------------------------  2280
-Mafa-A1*060:06:02     ------------------------------------------------------------  2280
 Mafa-A1*060:07        ------------------------------------------------------------  2280
 Mafa-A1*061:01        ------------------------------------------------------------  2280
 Mafa-A1*061:02        ------------------------------------------------------------  2280
@@ -13105,7 +12992,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  2280
 Mafa-A1*091:02        ------------------------------------------------------------  2280
 Mafa-A1*091:03        ------------------------------------------------------------  2280
-Mafa-A1*091:04        ------------------------------------------------------------  2280
 Mafa-A1*092:01:01     ------------------------------------------------------------  2280
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  2280
 Mafa-A1*092:01:02     ------------------------------------------------------------  2280
@@ -13296,8 +13182,7 @@ Mafa-A1*043:01:01:01  TCCCAGAGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGT
 Mafa-A1*043:02        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*043:03        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*043:04        ------------------------------------------------------------  2340
-Mafa-A1*043:05        ------------------------------------------------------------  2340
-Mafa-A1*043:06        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
+Mafa-A1*043:05        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*043:07        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*043:08        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*043:09        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
@@ -13343,8 +13228,7 @@ Mafa-A1*060:02        ------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCATTGCTGGCCTGGT
 Mafa-A1*060:03        ------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*060:04        ------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*060:05        ------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCATTGCTGGCCTGGTTC  2340
-Mafa-A1*060:06:01     ------------------------------------------------------------  2340
-Mafa-A1*060:06:02     ------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCATTGCTGGCCTGGTTC  2340
+Mafa-A1*060:06:01     ------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*060:07        ------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*061:01        ------AGCCGTCTTCCCAGTCCACCATCCTCATCGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*061:02        ------AGCCGTCTTCCCAGTCCACCATCCTCATCGTGGGCATCATTGCTGGCCTGGTTC  2340
@@ -13448,10 +13332,9 @@ Mafa-A1*090:04:02     ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGT
 Mafa-A1*090:05        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*090:06        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*090:07        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
-Mafa-A1*091:01        ------------------------------------------------------------  2340
+Mafa-A1*091:01        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*091:02        ------------------------------------------------------------  2340
 Mafa-A1*091:03        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
-Mafa-A1*091:04        ------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATTGCTGGCCTGGTTC  2340
 Mafa-A1*092:01:01     ------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCGTTGCTGGCCTGGTTC  2340
 Mafa-A1*092:01:01Sp   ------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCGTTGCTGGCCTGGTTC  2340
 Mafa-A1*092:01:02     ------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCGTTGCTGGCCTGGTTC  2340
@@ -13642,8 +13525,7 @@ Mafa-A1*043:01:01:01  TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAG
 Mafa-A1*043:02        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
 Mafa-A1*043:03        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
 Mafa-A1*043:04        ------------------------------------------------------------  2400
-Mafa-A1*043:05        ------------------------------------------------------------  2400
-Mafa-A1*043:06        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
+Mafa-A1*043:05        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
 Mafa-A1*043:07        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
 Mafa-A1*043:08        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTATGATGTGGAGGAGGAAGAG  2400
 Mafa-A1*043:09        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
@@ -13689,8 +13571,7 @@ Mafa-A1*060:02        TCCTTGGAATTGTGGTCATTGGAGCTGTG--ATTGCTGCTGTGATATGGAGGAGGAAG
 Mafa-A1*060:03        TCCTTGGAATTGTGGTCATTGGAGCTGTG--ATTGCTGCTGTGATATGGAGGAGGAAGAG  2400
 Mafa-A1*060:04        TCCTTGGAATTGTGGTCATTGGAGCTGTG--ATTGCTGCTGTGATATGGAGGAGGAAGAG  2400
 Mafa-A1*060:05        TCCTTGGAATTGTGGTCATTGGAGCTGTG--ATTGCTGCTGTGATATGGAGGAGGAAGAG  2400
-Mafa-A1*060:06:01     ------------------------------------------------------------  2400
-Mafa-A1*060:06:02     TCCTTGGAATTGTGGTCATTGGAGCTGTG--ATTGCTGCTGTGATATGGAGGAGGAAGAG  2400
+Mafa-A1*060:06:01     TCCTTGGAATTGTGGTCATTGGAGCTGTG--ATTGCTGCTGTGATATGGAGGAGGAAGAG  2400
 Mafa-A1*060:07        TCCTTGGAATTGTGGTCATTGGAGCTGTG--ATTGCTGCTGTGATATGGAGGAGGAAGAG  2400
 Mafa-A1*061:01        TCCTTGGAATTGTGGTCATTGGAGCTGTG--ATTGCTGCTGTGATATGGAGGAGGAAGAG  2400
 Mafa-A1*061:02        TCCTTGGAATTGTGGTCATTGGAGCTGTG--ATTGCTGCTGTGATATGGAGGAGGAAGAG  2400
@@ -13794,10 +13675,9 @@ Mafa-A1*090:04:02     TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAG
 Mafa-A1*090:05        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
 Mafa-A1*090:06        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
 Mafa-A1*090:07        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
-Mafa-A1*091:01        ------------------------------------------------------------  2400
+Mafa-A1*091:01        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
 Mafa-A1*091:02        ------------------------------------------------------------  2400
 Mafa-A1*091:03        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
-Mafa-A1*091:04        TCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
 Mafa-A1*092:01:01     TCCTTGGAACTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
 Mafa-A1*092:01:01Sp   TCCTTGGAACTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
 Mafa-A1*092:01:02     TCCTTGGAACTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGTGGAGGAGGAAGAG  2400
@@ -13988,8 +13868,7 @@ Mafa-A1*043:01:01:01  CTCAGGTAAGGAAGGGGGGTGAGGAGTGGAGTCTGAGATTTCTTGTCTTACTGAGGGT
 Mafa-A1*043:02        CTCAG-------------------------------------------------------  2460
 Mafa-A1*043:03        CTCAG-------------------------------------------------------  2460
 Mafa-A1*043:04        ------------------------------------------------------------  2460
-Mafa-A1*043:05        ------------------------------------------------------------  2460
-Mafa-A1*043:06        CTCAG-------------------------------------------------------  2460
+Mafa-A1*043:05        CTCAG-------------------------------------------------------  2460
 Mafa-A1*043:07        CTCAG-------------------------------------------------------  2460
 Mafa-A1*043:08        CTCAG-------------------------------------------------------  2460
 Mafa-A1*043:09        CTCAG-------------------------------------------------------  2460
@@ -14035,8 +13914,7 @@ Mafa-A1*060:02        CTCAG-----------------------------------------------------
 Mafa-A1*060:03        CTCAG-------------------------------------------------------  2460
 Mafa-A1*060:04        CTCAG-------------------------------------------------------  2460
 Mafa-A1*060:05        CTCAG-------------------------------------------------------  2460
-Mafa-A1*060:06:01     ------------------------------------------------------------  2460
-Mafa-A1*060:06:02     CTCAG-------------------------------------------------------  2460
+Mafa-A1*060:06:01     CTCAG-------------------------------------------------------  2460
 Mafa-A1*060:07        CTCAG-------------------------------------------------------  2460
 Mafa-A1*061:01        CTCAG-------------------------------------------------------  2460
 Mafa-A1*061:02        CTCAG-------------------------------------------------------  2460
@@ -14140,10 +14018,9 @@ Mafa-A1*090:04:02     CTCAG-----------------------------------------------------
 Mafa-A1*090:05        CTCAG-------------------------------------------------------  2460
 Mafa-A1*090:06        CTCAG-------------------------------------------------------  2460
 Mafa-A1*090:07        CTCAG-------------------------------------------------------  2460
-Mafa-A1*091:01        ------------------------------------------------------------  2460
+Mafa-A1*091:01        CTCAG-------------------------------------------------------  2460
 Mafa-A1*091:02        ------------------------------------------------------------  2460
 Mafa-A1*091:03        CTCAG-------------------------------------------------------  2460
-Mafa-A1*091:04        CTCAG-------------------------------------------------------  2460
 Mafa-A1*092:01:01     CTCAG-------------------------------------------------------  2460
 Mafa-A1*092:01:01Sp   CTCAG-------------------------------------------------------  2460
 Mafa-A1*092:01:02     CTCAG-------------------------------------------------------  2460
@@ -14335,7 +14212,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  2520
 Mafa-A1*043:04        ------------------------------------------------------------  2520
 Mafa-A1*043:05        ------------------------------------------------------------  2520
-Mafa-A1*043:06        ------------------------------------------------------------  2520
 Mafa-A1*043:07        ------------------------------------------------------------  2520
 Mafa-A1*043:08        ------------------------------------------------------------  2520
 Mafa-A1*043:09        ------------------------------------------------------------  2520
@@ -14382,7 +14258,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  2520
 Mafa-A1*060:05        ------------------------------------------------------------  2520
 Mafa-A1*060:06:01     ------------------------------------------------------------  2520
-Mafa-A1*060:06:02     ------------------------------------------------------------  2520
 Mafa-A1*060:07        ------------------------------------------------------------  2520
 Mafa-A1*061:01        ------------------------------------------------------------  2520
 Mafa-A1*061:02        ------------------------------------------------------------  2520
@@ -14489,7 +14364,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  2520
 Mafa-A1*091:02        ------------------------------------------------------------  2520
 Mafa-A1*091:03        ------------------------------------------------------------  2520
-Mafa-A1*091:04        ------------------------------------------------------------  2520
 Mafa-A1*092:01:01     ------------------------------------------------------------  2520
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  2520
 Mafa-A1*092:01:02     ------------------------------------------------------------  2520
@@ -14681,7 +14555,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  2580
 Mafa-A1*043:04        ------------------------------------------------------------  2580
 Mafa-A1*043:05        ------------------------------------------------------------  2580
-Mafa-A1*043:06        ------------------------------------------------------------  2580
 Mafa-A1*043:07        ------------------------------------------------------------  2580
 Mafa-A1*043:08        ------------------------------------------------------------  2580
 Mafa-A1*043:09        ------------------------------------------------------------  2580
@@ -14728,7 +14601,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  2580
 Mafa-A1*060:05        ------------------------------------------------------------  2580
 Mafa-A1*060:06:01     ------------------------------------------------------------  2580
-Mafa-A1*060:06:02     ------------------------------------------------------------  2580
 Mafa-A1*060:07        ------------------------------------------------------------  2580
 Mafa-A1*061:01        ------------------------------------------------------------  2580
 Mafa-A1*061:02        ------------------------------------------------------------  2580
@@ -14835,7 +14707,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  2580
 Mafa-A1*091:02        ------------------------------------------------------------  2580
 Mafa-A1*091:03        ------------------------------------------------------------  2580
-Mafa-A1*091:04        ------------------------------------------------------------  2580
 Mafa-A1*092:01:01     ------------------------------------------------------------  2580
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  2580
 Mafa-A1*092:01:02     ------------------------------------------------------------  2580
@@ -15027,7 +14898,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  2640
 Mafa-A1*043:04        ------------------------------------------------------------  2640
 Mafa-A1*043:05        ------------------------------------------------------------  2640
-Mafa-A1*043:06        ------------------------------------------------------------  2640
 Mafa-A1*043:07        ------------------------------------------------------------  2640
 Mafa-A1*043:08        ------------------------------------------------------------  2640
 Mafa-A1*043:09        ------------------------------------------------------------  2640
@@ -15074,7 +14944,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  2640
 Mafa-A1*060:05        ------------------------------------------------------------  2640
 Mafa-A1*060:06:01     ------------------------------------------------------------  2640
-Mafa-A1*060:06:02     ------------------------------------------------------------  2640
 Mafa-A1*060:07        ------------------------------------------------------------  2640
 Mafa-A1*061:01        ------------------------------------------------------------  2640
 Mafa-A1*061:02        ------------------------------------------------------------  2640
@@ -15181,7 +15050,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  2640
 Mafa-A1*091:02        ------------------------------------------------------------  2640
 Mafa-A1*091:03        ------------------------------------------------------------  2640
-Mafa-A1*091:04        ------------------------------------------------------------  2640
 Mafa-A1*092:01:01     ------------------------------------------------------------  2640
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  2640
 Mafa-A1*092:01:02     ------------------------------------------------------------  2640
@@ -15373,7 +15241,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  2700
 Mafa-A1*043:04        ------------------------------------------------------------  2700
 Mafa-A1*043:05        ------------------------------------------------------------  2700
-Mafa-A1*043:06        ------------------------------------------------------------  2700
 Mafa-A1*043:07        ------------------------------------------------------------  2700
 Mafa-A1*043:08        ------------------------------------------------------------  2700
 Mafa-A1*043:09        ------------------------------------------------------------  2700
@@ -15420,7 +15287,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  2700
 Mafa-A1*060:05        ------------------------------------------------------------  2700
 Mafa-A1*060:06:01     ------------------------------------------------------------  2700
-Mafa-A1*060:06:02     ------------------------------------------------------------  2700
 Mafa-A1*060:07        ------------------------------------------------------------  2700
 Mafa-A1*061:01        ------------------------------------------------------------  2700
 Mafa-A1*061:02        ------------------------------------------------------------  2700
@@ -15527,7 +15393,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  2700
 Mafa-A1*091:02        ------------------------------------------------------------  2700
 Mafa-A1*091:03        ------------------------------------------------------------  2700
-Mafa-A1*091:04        ------------------------------------------------------------  2700
 Mafa-A1*092:01:01     ------------------------------------------------------------  2700
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  2700
 Mafa-A1*092:01:02     ------------------------------------------------------------  2700
@@ -15719,7 +15584,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  2760
 Mafa-A1*043:04        ------------------------------------------------------------  2760
 Mafa-A1*043:05        ------------------------------------------------------------  2760
-Mafa-A1*043:06        ------------------------------------------------------------  2760
 Mafa-A1*043:07        ------------------------------------------------------------  2760
 Mafa-A1*043:08        ------------------------------------------------------------  2760
 Mafa-A1*043:09        ------------------------------------------------------------  2760
@@ -15766,7 +15630,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  2760
 Mafa-A1*060:05        ------------------------------------------------------------  2760
 Mafa-A1*060:06:01     ------------------------------------------------------------  2760
-Mafa-A1*060:06:02     ------------------------------------------------------------  2760
 Mafa-A1*060:07        ------------------------------------------------------------  2760
 Mafa-A1*061:01        ------------------------------------------------------------  2760
 Mafa-A1*061:02        ------------------------------------------------------------  2760
@@ -15873,7 +15736,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  2760
 Mafa-A1*091:02        ------------------------------------------------------------  2760
 Mafa-A1*091:03        ------------------------------------------------------------  2760
-Mafa-A1*091:04        ------------------------------------------------------------  2760
 Mafa-A1*092:01:01     ------------------------------------------------------------  2760
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  2760
 Mafa-A1*092:01:02     ------------------------------------------------------------  2760
@@ -16065,7 +15927,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  2820
 Mafa-A1*043:04        ------------------------------------------------------------  2820
 Mafa-A1*043:05        ------------------------------------------------------------  2820
-Mafa-A1*043:06        ------------------------------------------------------------  2820
 Mafa-A1*043:07        ------------------------------------------------------------  2820
 Mafa-A1*043:08        ------------------------------------------------------------  2820
 Mafa-A1*043:09        ------------------------------------------------------------  2820
@@ -16112,7 +15973,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  2820
 Mafa-A1*060:05        ------------------------------------------------------------  2820
 Mafa-A1*060:06:01     ------------------------------------------------------------  2820
-Mafa-A1*060:06:02     ------------------------------------------------------------  2820
 Mafa-A1*060:07        ------------------------------------------------------------  2820
 Mafa-A1*061:01        ------------------------------------------------------------  2820
 Mafa-A1*061:02        ------------------------------------------------------------  2820
@@ -16219,7 +16079,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  2820
 Mafa-A1*091:02        ------------------------------------------------------------  2820
 Mafa-A1*091:03        ------------------------------------------------------------  2820
-Mafa-A1*091:04        ------------------------------------------------------------  2820
 Mafa-A1*092:01:01     ------------------------------------------------------------  2820
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  2820
 Mafa-A1*092:01:02     ------------------------------------------------------------  2820
@@ -16410,8 +16269,7 @@ Mafa-A1*043:01:01:01  CTGATATCTCAAAGGACATTTTCTTCCCACAGATAGAAAAGGAGGGAGCTACTCTCAG
 Mafa-A1*043:02        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*043:03        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*043:04        ------------------------------------------------------------  2880
-Mafa-A1*043:05        ------------------------------------------------------------  2880
-Mafa-A1*043:06        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
+Mafa-A1*043:05        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*043:07        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*043:08        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*043:09        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
@@ -16457,8 +16315,7 @@ Mafa-A1*060:02        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAG
 Mafa-A1*060:03        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*060:04        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*060:05        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
-Mafa-A1*060:06:01     ------------------------------------------------------------  2880
-Mafa-A1*060:06:02     --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
+Mafa-A1*060:06:01     --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*060:07        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*061:01        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*061:02        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
@@ -16562,10 +16419,9 @@ Mafa-A1*090:04:02     --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAG
 Mafa-A1*090:05        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*090:06        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*090:07        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
-Mafa-A1*091:01        ------------------------------------------------------------  2880
+Mafa-A1*091:01        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*091:02        ------------------------------------------------------------  2880
 Mafa-A1*091:03        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
-Mafa-A1*091:04        --------------------------------ATAGAAAAGGAGGGAGCTACTCTCAGGC  2880
 Mafa-A1*092:01:01     --------------------------------ATAGAAAAGGAGGGAACTACTCTCAGGC  2880
 Mafa-A1*092:01:01Sp   --------------------------------ATAGAAAAGGAGGGAACTACTCTCAGGC  2880
 Mafa-A1*092:01:02     --------------------------------ATAGAAAAGGAGGGAACTACTCTCAGGC  2880
@@ -16756,8 +16612,7 @@ Mafa-A1*043:01:01:01  TGCAAGTAAGTATGAA--------------GAGATCCTTGGGATGTTGTGGTTGGGGG
 Mafa-A1*043:02        TGCAA-------------------------------------------------------  2940
 Mafa-A1*043:03        TGC---------------------------------------------------------  2940
 Mafa-A1*043:04        ------------------------------------------------------------  2940
-Mafa-A1*043:05        ------------------------------------------------------------  2940
-Mafa-A1*043:06        TGCAA-------------------------------------------------------  2940
+Mafa-A1*043:05        TGCAA-------------------------------------------------------  2940
 Mafa-A1*043:07        TGCAA-------------------------------------------------------  2940
 Mafa-A1*043:08        TGCAA-------------------------------------------------------  2940
 Mafa-A1*043:09        TGCAA-------------------------------------------------------  2940
@@ -16803,8 +16658,7 @@ Mafa-A1*060:02        TGCAA-----------------------------------------------------
 Mafa-A1*060:03        TGCAA-------------------------------------------------------  2940
 Mafa-A1*060:04        TGCAA-------------------------------------------------------  2940
 Mafa-A1*060:05        TGCAA-------------------------------------------------------  2940
-Mafa-A1*060:06:01     ------------------------------------------------------------  2940
-Mafa-A1*060:06:02     TGCAA-------------------------------------------------------  2940
+Mafa-A1*060:06:01     TGCAA-------------------------------------------------------  2940
 Mafa-A1*060:07        TGCAA-------------------------------------------------------  2940
 Mafa-A1*061:01        TGCAA-------------------------------------------------------  2940
 Mafa-A1*061:02        TGC---------------------------------------------------------  2940
@@ -16908,10 +16762,9 @@ Mafa-A1*090:04:02     TGCAA-----------------------------------------------------
 Mafa-A1*090:05        TGCAA-------------------------------------------------------  2940
 Mafa-A1*090:06        TGCAA-------------------------------------------------------  2940
 Mafa-A1*090:07        TGCAA-------------------------------------------------------  2940
-Mafa-A1*091:01        ------------------------------------------------------------  2940
+Mafa-A1*091:01        TGCAA-------------------------------------------------------  2940
 Mafa-A1*091:02        ------------------------------------------------------------  2940
 Mafa-A1*091:03        TGCAA-------------------------------------------------------  2940
-Mafa-A1*091:04        TGCAA-------------------------------------------------------  2940
 Mafa-A1*092:01:01     TGCAA-------------------------------------------------------  2940
 Mafa-A1*092:01:01Sp   TGCAA-------------------------------------------------------  2940
 Mafa-A1*092:01:02     TGCAA-------------------------------------------------------  2940
@@ -17103,7 +16956,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  3000
 Mafa-A1*043:04        ------------------------------------------------------------  3000
 Mafa-A1*043:05        ------------------------------------------------------------  3000
-Mafa-A1*043:06        ------------------------------------------------------------  3000
 Mafa-A1*043:07        ------------------------------------------------------------  3000
 Mafa-A1*043:08        ------------------------------------------------------------  3000
 Mafa-A1*043:09        ------------------------------------------------------------  3000
@@ -17150,7 +17002,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  3000
 Mafa-A1*060:05        ------------------------------------------------------------  3000
 Mafa-A1*060:06:01     ------------------------------------------------------------  3000
-Mafa-A1*060:06:02     ------------------------------------------------------------  3000
 Mafa-A1*060:07        ------------------------------------------------------------  3000
 Mafa-A1*061:01        ------------------------------------------------------------  3000
 Mafa-A1*061:02        ------------------------------------------------------------  3000
@@ -17257,7 +17108,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  3000
 Mafa-A1*091:02        ------------------------------------------------------------  3000
 Mafa-A1*091:03        ------------------------------------------------------------  3000
-Mafa-A1*091:04        ------------------------------------------------------------  3000
 Mafa-A1*092:01:01     ------------------------------------------------------------  3000
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  3000
 Mafa-A1*092:01:02     ------------------------------------------------------------  3000
@@ -17448,8 +17298,7 @@ Mafa-A1*043:01:01:01  ACCAGGTCCTGTTTTTGTTCTACTCCAGGCAGTGACAGTGCCCAGGGCTCTGATGTGT
 Mafa-A1*043:02        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*043:03        ------------------------------------------------------------  3060
 Mafa-A1*043:04        ------------------------------------------------------------  3060
-Mafa-A1*043:05        ------------------------------------------------------------  3060
-Mafa-A1*043:06        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
+Mafa-A1*043:05        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*043:07        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*043:08        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*043:09        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
@@ -17495,8 +17344,7 @@ Mafa-A1*060:02        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGT
 Mafa-A1*060:03        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*060:04        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*060:05        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
-Mafa-A1*060:06:01     ------------------------------------------------------------  3060
-Mafa-A1*060:06:02     ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
+Mafa-A1*060:06:01     ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*060:07        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*061:01        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*061:02        ------------------------------------------------------------  3060
@@ -17600,10 +17448,9 @@ Mafa-A1*090:04:02     ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGT
 Mafa-A1*090:05        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*090:06        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*090:07        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
-Mafa-A1*091:01        ------------------------------------------------------------  3060
+Mafa-A1*091:01        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*091:02        ------------------------------------------------------------  3060
 Mafa-A1*091:03        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
-Mafa-A1*091:04        ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*092:01:01     ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*092:01:01Sp   ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
 Mafa-A1*092:01:02     ----------------------------GCAGTGACAGTGCCCAGGGCTCTGATGTGTCT  3060
@@ -17794,8 +17641,7 @@ Mafa-A1*043:01:01:01  CTCACGGCTTGTAAAGGTGAGACCCTGGGGGGCCTGATGTGTGGGGGGTGTTGGG-GG
 Mafa-A1*043:02        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*043:03        ------------------------------------------------------------  3120
 Mafa-A1*043:04        ------------------------------------------------------------  3120
-Mafa-A1*043:05        ------------------------------------------------------------  3120
-Mafa-A1*043:06        CTCACGGCTTGTAAAG--------------------------------------------  3120
+Mafa-A1*043:05        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*043:07        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*043:08        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*043:09        CTCACGGCTTGTAAAG--------------------------------------------  3120
@@ -17841,8 +17687,7 @@ Mafa-A1*060:02        CTCACGGCTTGTAAAG------------------------------------------
 Mafa-A1*060:03        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*060:04        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*060:05        CTCACGGCTTGTAAAG--------------------------------------------  3120
-Mafa-A1*060:06:01     ------------------------------------------------------------  3120
-Mafa-A1*060:06:02     CTCACGGCTTGTAAAG--------------------------------------------  3120
+Mafa-A1*060:06:01     CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*060:07        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*061:01        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*061:02        ------------------------------------------------------------  3120
@@ -17946,10 +17791,9 @@ Mafa-A1*090:04:02     CTCACGGCTTGTAAAG------------------------------------------
 Mafa-A1*090:05        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*090:06        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*090:07        CTCACGGCTTGTAAAG--------------------------------------------  3120
-Mafa-A1*091:01        ------------------------------------------------------------  3120
+Mafa-A1*091:01        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*091:02        ------------------------------------------------------------  3120
 Mafa-A1*091:03        CTCACGGCTTGTAAAG--------------------------------------------  3120
-Mafa-A1*091:04        CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*092:01:01     CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*092:01:01Sp   CTCACGGCTTGTAAAG--------------------------------------------  3120
 Mafa-A1*092:01:02     CTCACGGCTTGTAAAG--------------------------------------------  3120
@@ -18141,7 +17985,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  3180
 Mafa-A1*043:04        ------------------------------------------------------------  3180
 Mafa-A1*043:05        ------------------------------------------------------------  3180
-Mafa-A1*043:06        ------------------------------------------------------------  3180
 Mafa-A1*043:07        ------------------------------------------------------------  3180
 Mafa-A1*043:08        ------------------------------------------------------------  3180
 Mafa-A1*043:09        ------------------------------------------------------------  3180
@@ -18188,7 +18031,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  3180
 Mafa-A1*060:05        ------------------------------------------------------------  3180
 Mafa-A1*060:06:01     ------------------------------------------------------------  3180
-Mafa-A1*060:06:02     ------------------------------------------------------------  3180
 Mafa-A1*060:07        ------------------------------------------------------------  3180
 Mafa-A1*061:01        ------------------------------------------------------------  3180
 Mafa-A1*061:02        ------------------------------------------------------------  3180
@@ -18295,7 +18137,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  3180
 Mafa-A1*091:02        ------------------------------------------------------------  3180
 Mafa-A1*091:03        ------------------------------------------------------------  3180
-Mafa-A1*091:04        ------------------------------------------------------------  3180
 Mafa-A1*092:01:01     ------------------------------------------------------------  3180
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  3180
 Mafa-A1*092:01:02     ------------------------------------------------------------  3180
@@ -18487,7 +18328,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  3240
 Mafa-A1*043:04        ------------------------------------------------------------  3240
 Mafa-A1*043:05        ------------------------------------------------------------  3240
-Mafa-A1*043:06        ------------------------------------------------------------  3240
 Mafa-A1*043:07        ------------------------------------------------------------  3240
 Mafa-A1*043:08        ------------------------------------------------------------  3240
 Mafa-A1*043:09        ------------------------------------------------------------  3240
@@ -18534,7 +18374,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  3240
 Mafa-A1*060:05        ------------------------------------------------------------  3240
 Mafa-A1*060:06:01     ------------------------------------------------------------  3240
-Mafa-A1*060:06:02     ------------------------------------------------------------  3240
 Mafa-A1*060:07        ------------------------------------------------------------  3240
 Mafa-A1*061:01        ------------------------------------------------------------  3240
 Mafa-A1*061:02        ------------------------------------------------------------  3240
@@ -18641,7 +18480,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  3240
 Mafa-A1*091:02        ------------------------------------------------------------  3240
 Mafa-A1*091:03        ------------------------------------------------------------  3240
-Mafa-A1*091:04        ------------------------------------------------------------  3240
 Mafa-A1*092:01:01     ------------------------------------------------------------  3240
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  3240
 Mafa-A1*092:01:02     ------------------------------------------------------------  3240
@@ -18832,8 +18670,7 @@ Mafa-A1*043:01:01:01  -CTATAGTGTGA----------------------------------------------
 Mafa-A1*043:02        -------TGTGA------------------------------------------------  3300
 Mafa-A1*043:03        ------------------------------------------------------------  3300
 Mafa-A1*043:04        ------------------------------------------------------------  3300
-Mafa-A1*043:05        ------------------------------------------------------------  3300
-Mafa-A1*043:06        -------TGTGA------------------------------------------------  3300
+Mafa-A1*043:05        -------TGTGA------------------------------------------------  3300
 Mafa-A1*043:07        ------------------------------------------------------------  3300
 Mafa-A1*043:08        ------------------------------------------------------------  3300
 Mafa-A1*043:09        -------TGTGA------------------------------------------------  3300
@@ -18879,8 +18716,7 @@ Mafa-A1*060:02        -------TGTGA----------------------------------------------
 Mafa-A1*060:03        -------TGTGA------------------------------------------------  3300
 Mafa-A1*060:04        -------TGTGA------------------------------------------------  3300
 Mafa-A1*060:05        -------TGTGA------------------------------------------------  3300
-Mafa-A1*060:06:01     ------------------------------------------------------------  3300
-Mafa-A1*060:06:02     -------TGTGA------------------------------------------------  3300
+Mafa-A1*060:06:01     -------TGTGA------------------------------------------------  3300
 Mafa-A1*060:07        -------TGTGA------------------------------------------------  3300
 Mafa-A1*061:01        -------TGTGA------------------------------------------------  3300
 Mafa-A1*061:02        ------------------------------------------------------------  3300
@@ -18984,10 +18820,9 @@ Mafa-A1*090:04:02     -------TGTGA----------------------------------------------
 Mafa-A1*090:05        -------TGTGA------------------------------------------------  3300
 Mafa-A1*090:06        -------TGTGA------------------------------------------------  3300
 Mafa-A1*090:07        -------TGTGA------------------------------------------------  3300
-Mafa-A1*091:01        ------------------------------------------------------------  3300
+Mafa-A1*091:01        -------TGTGA------------------------------------------------  3300
 Mafa-A1*091:02        ------------------------------------------------------------  3300
 Mafa-A1*091:03        -------TGTGA------------------------------------------------  3300
-Mafa-A1*091:04        -------TGTGA------------------------------------------------  3300
 Mafa-A1*092:01:01     -------TGTGA------------------------------------------------  3300
 Mafa-A1*092:01:01Sp   -------TGTGA------------------------------------------------  3300
 Mafa-A1*092:01:02     -------TGTGA------------------------------------------------  3300
@@ -19179,7 +19014,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  3360
 Mafa-A1*043:04        ------------------------------------------------------------  3360
 Mafa-A1*043:05        ------------------------------------------------------------  3360
-Mafa-A1*043:06        ------------------------------------------------------------  3360
 Mafa-A1*043:07        ------------------------------------------------------------  3360
 Mafa-A1*043:08        ------------------------------------------------------------  3360
 Mafa-A1*043:09        ------------------------------------------------------------  3360
@@ -19226,7 +19060,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  3360
 Mafa-A1*060:05        ------------------------------------------------------------  3360
 Mafa-A1*060:06:01     ------------------------------------------------------------  3360
-Mafa-A1*060:06:02     ------------------------------------------------------------  3360
 Mafa-A1*060:07        ------------------------------------------------------------  3360
 Mafa-A1*061:01        ------------------------------------------------------------  3360
 Mafa-A1*061:02        ------------------------------------------------------------  3360
@@ -19333,7 +19166,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  3360
 Mafa-A1*091:02        ------------------------------------------------------------  3360
 Mafa-A1*091:03        ------------------------------------------------------------  3360
-Mafa-A1*091:04        ------------------------------------------------------------  3360
 Mafa-A1*092:01:01     ------------------------------------------------------------  3360
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  3360
 Mafa-A1*092:01:02     ------------------------------------------------------------  3360
@@ -19525,7 +19357,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  3420
 Mafa-A1*043:04        ------------------------------------------------------------  3420
 Mafa-A1*043:05        ------------------------------------------------------------  3420
-Mafa-A1*043:06        ------------------------------------------------------------  3420
 Mafa-A1*043:07        ------------------------------------------------------------  3420
 Mafa-A1*043:08        ------------------------------------------------------------  3420
 Mafa-A1*043:09        ------------------------------------------------------------  3420
@@ -19572,7 +19403,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  3420
 Mafa-A1*060:05        ------------------------------------------------------------  3420
 Mafa-A1*060:06:01     ------------------------------------------------------------  3420
-Mafa-A1*060:06:02     ------------------------------------------------------------  3420
 Mafa-A1*060:07        ------------------------------------------------------------  3420
 Mafa-A1*061:01        ------------------------------------------------------------  3420
 Mafa-A1*061:02        ------------------------------------------------------------  3420
@@ -19679,7 +19509,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  3420
 Mafa-A1*091:02        ------------------------------------------------------------  3420
 Mafa-A1*091:03        ------------------------------------------------------------  3420
-Mafa-A1*091:04        ------------------------------------------------------------  3420
 Mafa-A1*092:01:01     ------------------------------------------------------------  3420
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  3420
 Mafa-A1*092:01:02     ------------------------------------------------------------  3420
@@ -19871,7 +19700,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  3480
 Mafa-A1*043:04        ------------------------------------------------------------  3480
 Mafa-A1*043:05        ------------------------------------------------------------  3480
-Mafa-A1*043:06        ------------------------------------------------------------  3480
 Mafa-A1*043:07        ------------------------------------------------------------  3480
 Mafa-A1*043:08        ------------------------------------------------------------  3480
 Mafa-A1*043:09        ------------------------------------------------------------  3480
@@ -19918,7 +19746,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  3480
 Mafa-A1*060:05        ------------------------------------------------------------  3480
 Mafa-A1*060:06:01     ------------------------------------------------------------  3480
-Mafa-A1*060:06:02     ------------------------------------------------------------  3480
 Mafa-A1*060:07        ------------------------------------------------------------  3480
 Mafa-A1*061:01        ------------------------------------------------------------  3480
 Mafa-A1*061:02        ------------------------------------------------------------  3480
@@ -20025,7 +19852,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  3480
 Mafa-A1*091:02        ------------------------------------------------------------  3480
 Mafa-A1*091:03        ------------------------------------------------------------  3480
-Mafa-A1*091:04        ------------------------------------------------------------  3480
 Mafa-A1*092:01:01     ------------------------------------------------------------  3480
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  3480
 Mafa-A1*092:01:02     ------------------------------------------------------------  3480
@@ -20217,7 +20043,6 @@ Mafa-A1*043:02        ----------------------------------------------------------
 Mafa-A1*043:03        ------------------------------------------------------------  3540
 Mafa-A1*043:04        ------------------------------------------------------------  3540
 Mafa-A1*043:05        ------------------------------------------------------------  3540
-Mafa-A1*043:06        ------------------------------------------------------------  3540
 Mafa-A1*043:07        ------------------------------------------------------------  3540
 Mafa-A1*043:08        ------------------------------------------------------------  3540
 Mafa-A1*043:09        ------------------------------------------------------------  3540
@@ -20264,7 +20089,6 @@ Mafa-A1*060:03        ----------------------------------------------------------
 Mafa-A1*060:04        ------------------------------------------------------------  3540
 Mafa-A1*060:05        ------------------------------------------------------------  3540
 Mafa-A1*060:06:01     ------------------------------------------------------------  3540
-Mafa-A1*060:06:02     ------------------------------------------------------------  3540
 Mafa-A1*060:07        ------------------------------------------------------------  3540
 Mafa-A1*061:01        ------------------------------------------------------------  3540
 Mafa-A1*061:02        ------------------------------------------------------------  3540
@@ -20371,7 +20195,6 @@ Mafa-A1*090:07        ----------------------------------------------------------
 Mafa-A1*091:01        ------------------------------------------------------------  3540
 Mafa-A1*091:02        ------------------------------------------------------------  3540
 Mafa-A1*091:03        ------------------------------------------------------------  3540
-Mafa-A1*091:04        ------------------------------------------------------------  3540
 Mafa-A1*092:01:01     ------------------------------------------------------------  3540
 Mafa-A1*092:01:01Sp   ------------------------------------------------------------  3540
 Mafa-A1*092:01:02     ------------------------------------------------------------  3540
@@ -20563,7 +20386,6 @@ Mafa-A1*043:02        ------------  3552
 Mafa-A1*043:03        ------------  3552
 Mafa-A1*043:04        ------------  3552
 Mafa-A1*043:05        ------------  3552
-Mafa-A1*043:06        ------------  3552
 Mafa-A1*043:07        ------------  3552
 Mafa-A1*043:08        ------------  3552
 Mafa-A1*043:09        ------------  3552
@@ -20610,7 +20432,6 @@ Mafa-A1*060:03        ------------  3552
 Mafa-A1*060:04        ------------  3552
 Mafa-A1*060:05        ------------  3552
 Mafa-A1*060:06:01     ------------  3552
-Mafa-A1*060:06:02     ------------  3552
 Mafa-A1*060:07        ------------  3552
 Mafa-A1*061:01        ------------  3552
 Mafa-A1*061:02        ------------  3552
@@ -20717,7 +20538,6 @@ Mafa-A1*090:07        ------------  3552
 Mafa-A1*091:01        ------------  3552
 Mafa-A1*091:02        ------------  3552
 Mafa-A1*091:03        ------------  3552
-Mafa-A1*091:04        ------------  3552
 Mafa-A1*092:01:01     ------------  3552
 Mafa-A1*092:01:01Sp   ------------  3552
 Mafa-A1*092:01:02     ------------  3552

@@ -39,6 +39,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------    60
 Mamu-A1*004:05        ------------------------------------------------------------    60
 Mamu-A1*004:06        ------------------------------------------------------------    60
+Mamu-A1*004:07        ------------------------------------------------------------    60
 Mamu-A1*004:08        ------------------------------------------------------------    60
 Mamu-A1*006:01        ------------------------------------------------------------    60
 Mamu-A1*006:02        ------------------------------------------------------------    60
@@ -303,6 +304,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------   120
 Mamu-A1*004:05        ------------------------------------------------------------   120
 Mamu-A1*004:06        ------------------------------------------------------------   120
+Mamu-A1*004:07        ------------------------------------------------------------   120
 Mamu-A1*004:08        ------------------------------------------------------------   120
 Mamu-A1*006:01        ------------------------------------------------------------   120
 Mamu-A1*006:02        ------------------------------------------------------------   120
@@ -567,6 +569,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------   180
 Mamu-A1*004:05        ------------------------------------------------------------   180
 Mamu-A1*004:06        ------------------------------------------------------------   180
+Mamu-A1*004:07        ------------------------------------------------------------   180
 Mamu-A1*004:08        ------------------------------------------------------------   180
 Mamu-A1*006:01        ------------------------------------------------------------   180
 Mamu-A1*006:02        ------------------------------------------------------------   180
@@ -831,6 +834,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------   240
 Mamu-A1*004:05        ------------------------------------------------------------   240
 Mamu-A1*004:06        ------------------------------------------------------------   240
+Mamu-A1*004:07        ------------------------------------------------------------   240
 Mamu-A1*004:08        ------------------------------------------------------------   240
 Mamu-A1*006:01        ------------------------------------------------------------   240
 Mamu-A1*006:02        ------------------------------------------------------------   240
@@ -1095,6 +1099,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------   300
 Mamu-A1*004:05        ------------------------------------------------------------   300
 Mamu-A1*004:06        ------------------------------------------------------------   300
+Mamu-A1*004:07        ------------------------------------------------------------   300
 Mamu-A1*004:08        ------------------------------------------------------------   300
 Mamu-A1*006:01        ------------------------------------------------------------   300
 Mamu-A1*006:02        ------------------------------------------------------------   300
@@ -1359,6 +1364,7 @@ Mamu-A1*004:03        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGA
 Mamu-A1*004:04        ---------ATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
 Mamu-A1*004:05        ---------ATGGCGCCCCGATCCCTCCTTCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
 Mamu-A1*004:06        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
+Mamu-A1*004:07        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
 Mamu-A1*004:08        ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC   360
 Mamu-A1*006:01        ---------ATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCGCTGGCCCTGACC   360
 Mamu-A1*006:02        ATGGTGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCCGGGGCGCTGGCCCTGACC   360
@@ -1623,6 +1629,7 @@ Mamu-A1*004:03        CAGACCCGGGCGG---------------------------------------------
 Mamu-A1*004:04        CAGACCCGGGCGG-----------------------------------------------   420
 Mamu-A1*004:05        CAGACCCGGGCGG-----------------------------------------------   420
 Mamu-A1*004:06        CAGACCCGGGCGG-----------------------------------------------   420
+Mamu-A1*004:07        CAGACCCGGGCGG-----------------------------------------------   420
 Mamu-A1*004:08        CAGACCCGGGCGG-----------------------------------------------   420
 Mamu-A1*006:01        CAGACCTGGGCCG-----------------------------------------------   420
 Mamu-A1*006:02        CAGACCTGGGCCG-----------------------------------------------   420
@@ -1887,6 +1894,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------   480
 Mamu-A1*004:05        ------------------------------------------------------------   480
 Mamu-A1*004:06        ------------------------------------------------------------   480
+Mamu-A1*004:07        ------------------------------------------------------------   480
 Mamu-A1*004:08        ------------------------------------------------------------   480
 Mamu-A1*006:01        ------------------------------------------------------------   480
 Mamu-A1*006:02        ------------------------------------------------------------   480
@@ -2151,6 +2159,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------   540
 Mamu-A1*004:05        ------------------------------------------------------------   540
 Mamu-A1*004:06        ------------------------------------------------------------   540
+Mamu-A1*004:07        ------------------------------------------------------------   540
 Mamu-A1*004:08        ------------------------------------------------------------   540
 Mamu-A1*006:01        ------------------------------------------------------------   540
 Mamu-A1*006:02        ------------------------------------------------------------   540
@@ -2415,6 +2424,7 @@ Mamu-A1*004:03        --------------------------------------------------------GC
 Mamu-A1*004:04        --------------------------------------------------------GCTC   600
 Mamu-A1*004:05        --------------------------------------------------------GCTC   600
 Mamu-A1*004:06        --------------------------------------------------------GCTC   600
+Mamu-A1*004:07        --------------------------------------------------------GCTC   600
 Mamu-A1*004:08        --------------------------------------------------------GCTC   600
 Mamu-A1*006:01        --------------------------------------------------------GCTC   600
 Mamu-A1*006:02        --------------------------------------------------------GCTC   600
@@ -2679,6 +2689,7 @@ Mamu-A1*004:03        GCACTCCATGAGCTATTTCTACACCTACATGTCCCGGCCCGGCCGCGGGGAGCCCCGC
 Mamu-A1*004:04        GCACTCCATGAGGTATTTCTACACCTCCATGTCCCGGCCCGGCCGCGGGGAGCCCCGCTT   660
 Mamu-A1*004:05        GCACTCCATGAGCTATTTCTACACCTACATGTCCCGGCCCGGCCGCGGGGAGCCCCGCTT   660
 Mamu-A1*004:06        GCACTCCATGAGCTATTTCTACACCTACATGTCCCGGCCCGGCCGCGGGGAGCCCCGCTT   660
+Mamu-A1*004:07        GCACTCCATGAGCTATTTCTACACCTACATGTCCCGGCCCGGCCGCGGGGAGCCCCGCTT   660
 Mamu-A1*004:08        GCACTCCATGAGCTATTTCTACACCTACATGTCCCGGCCCGGCCGCGGGGAGCCCCGCTT   660
 Mamu-A1*006:01        CCACTCCATGAGGTATTTCTACACCTCCGTGTCCCGGCCCGGCCGCGGGCAGCCCCGCTT   660
 Mamu-A1*006:02        CCACTCCATGAGGTATTTCTACACCTCCGTGTCCCGGCCCGGCCGCGGGCAGCCCCGCTT   660
@@ -2943,6 +2954,7 @@ Mamu-A1*004:03        CGTCGCCGTGGGCTACGTGGACGACACGCAGTTCGTGCGGTTCGACAGCGACGCCGCG
 Mamu-A1*004:04        CATCGCCGTGGGCTACGTGGACGACACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAG   720
 Mamu-A1*004:05        CGTCGCCGTGGGCTACGTGGACGACACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAG   720
 Mamu-A1*004:06        CATCGCCGTGGGCTACGTGGACGACACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAG   720
+Mamu-A1*004:07        CGTCGCCGTGGGCTACGTGGACGACACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAG   720
 Mamu-A1*004:08        CGTCGCCGTGGGCTACGTGGACGACACGCAGTTCGTGCGGTTCGACAGCGACGCCGCGAG   720
 Mamu-A1*006:01        CATGTCCGTGGGCTACGTGGACGACACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAG   720
 Mamu-A1*006:02        CATGTCCGTGGGCTACGTGGACGACACGCAGTTCGTGCGGTTCGACAGCGACGCCGAGAG   720
@@ -3207,6 +3219,7 @@ Mamu-A1*004:03        CCAGAGGATGGAGCCGCGGGCGCCGTGGGTGGAGCAGGAGGGGCCGGAGTATTGGGAC
 Mamu-A1*004:04        CCAAAGGATGGAGCCGCGGGCGCCGTGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCG   780
 Mamu-A1*004:05        CCAGAGGATGGAGCCGCGGGCGCCGTGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCG   780
 Mamu-A1*004:06        CCAGAGGATGGAGCCGCGGGCGCCGTGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCG   780
+Mamu-A1*004:07        CCAGAGGATGGAGCCGCGGGCGCCGTGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCG   780
 Mamu-A1*004:08        CCAGAGGATGGAGCCGCGGGCGCCGTGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCG   780
 Mamu-A1*006:01        TCCGAGAGAGGAGCCGCGGGCGCCGTGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCA   780
 Mamu-A1*006:02        TCCGAGAGAGGAGCCGCGGGCGCCGTGGGTGGAGCAGGAGGGGCCGGAGTATTGGGACCG   780
@@ -3471,6 +3484,7 @@ Mamu-A1*004:03        GGAGACACGGAACATGAAGACCGAGACACAGAGAGCCCCAGTGGCCCTGCGGACCCTG
 Mamu-A1*004:04        GGAGACACGGAACATGAAGACCGAGACACAGAGAGCCCCAGTGGCCCTGCGGACCCTGCG   840
 Mamu-A1*004:05        GGAGACACGGATCATGAAGACCGAGACACAGAATGCCCCAGTGGCCCTGCGGAACCTGCG   840
 Mamu-A1*004:06        GGAGACACGGATCATGAAGACCGAGACACAGAATGCCCCAGTGGCCCTGCGGAACCTGCG   840
+Mamu-A1*004:07        GGAGACACGGATCATGAAGACCGAGACACAGAATGCCCCAGTGGCCCTGCGGAACCTGCG   840
 Mamu-A1*004:08        GGAGACACAGAAAATGAAGACCGCGACACAGATGGCCCCAGTGGCCCTGCGGAACCTGCG   840
 Mamu-A1*006:01        GAACACACGGATCTGCAAGGCCGACACACAGACCTACCGAGAGAGCCTGCGGAACCTTCG   840
 Mamu-A1*006:02        GAACACACGGATCTACAAGGCCAACACACAGACCTACCGAGAGAGCCTGCGGAACCTTCG   840
@@ -3735,6 +3749,7 @@ Mamu-A1*004:03        CGGCTACTACAACCAGAGCGAGGCCG--------------------------------
 Mamu-A1*004:04        CGGCTACTACAACCAGAGCGAGGCCG----------------------------------   900
 Mamu-A1*004:05        CGGCTACTACAACCAGAGCGAGGCCG----------------------------------   900
 Mamu-A1*004:06        CGGCTACTACAACCAGAGCGAGGCCG----------------------------------   900
+Mamu-A1*004:07        CGGCTACTACAACCAGAGCGAGGCCG----------------------------------   900
 Mamu-A1*004:08        CGGCTACTACAACCAGAGCGAGGCCG----------------------------------   900
 Mamu-A1*006:01        CGGCTACTACAACCAGAGCGAGGCCG----------------------------------   900
 Mamu-A1*006:02        CGGCTACTACAACCAGAGCGAGGCCG----------------------------------   900
@@ -3999,6 +4014,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------   960
 Mamu-A1*004:05        ------------------------------------------------------------   960
 Mamu-A1*004:06        ------------------------------------------------------------   960
+Mamu-A1*004:07        ------------------------------------------------------------   960
 Mamu-A1*004:08        ------------------------------------------------------------   960
 Mamu-A1*006:01        ------------------------------------------------------------   960
 Mamu-A1*006:02        ------------------------------------------------------------   960
@@ -4263,6 +4279,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1020
 Mamu-A1*004:05        ------------------------------------------------------------  1020
 Mamu-A1*004:06        ------------------------------------------------------------  1020
+Mamu-A1*004:07        ------------------------------------------------------------  1020
 Mamu-A1*004:08        ------------------------------------------------------------  1020
 Mamu-A1*006:01        ------------------------------------------------------------  1020
 Mamu-A1*006:02        ------------------------------------------------------------  1020
@@ -4527,6 +4544,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1080
 Mamu-A1*004:05        ------------------------------------------------------------  1080
 Mamu-A1*004:06        ------------------------------------------------------------  1080
+Mamu-A1*004:07        ------------------------------------------------------------  1080
 Mamu-A1*004:08        ------------------------------------------------------------  1080
 Mamu-A1*006:01        ------------------------------------------------------------  1080
 Mamu-A1*006:02        ------------------------------------------------------------  1080
@@ -4791,6 +4809,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1140
 Mamu-A1*004:05        ------------------------------------------------------------  1140
 Mamu-A1*004:06        ------------------------------------------------------------  1140
+Mamu-A1*004:07        ------------------------------------------------------------  1140
 Mamu-A1*004:08        ------------------------------------------------------------  1140
 Mamu-A1*006:01        ------------------------------------------------------------  1140
 Mamu-A1*006:02        ------------------------------------------------------------  1140
@@ -5055,6 +5074,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1200
 Mamu-A1*004:05        ------------------------------------------------------------  1200
 Mamu-A1*004:06        ------------------------------------------------------------  1200
+Mamu-A1*004:07        ------------------------------------------------------------  1200
 Mamu-A1*004:08        ------------------------------------------------------------  1200
 Mamu-A1*006:01        ------------------------------------------------------------  1200
 Mamu-A1*006:02        ------------------------------------------------------------  1200
@@ -5319,6 +5339,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1260
 Mamu-A1*004:05        ------------------------------------------------------------  1260
 Mamu-A1*004:06        ------------------------------------------------------------  1260
+Mamu-A1*004:07        ------------------------------------------------------------  1260
 Mamu-A1*004:08        ------------------------------------------------------------  1260
 Mamu-A1*006:01        ------------------------------------------------------------  1260
 Mamu-A1*006:02        ------------------------------------------------------------  1260
@@ -5583,6 +5604,7 @@ Mamu-A1*004:03        --------------GGTCTCACACCTACCAGGTGATGTACGGCTGCGACCTGGGGCCC
 Mamu-A1*004:04        --------------GGTCTCACACCTACCAGGTGATGTACGGCTGCGACCTGGGGCCCGA  1320
 Mamu-A1*004:05        --------------GGTCTCACACCTACCAGGTGATGTACGGCTGCGACCTGGGGCCCGA  1320
 Mamu-A1*004:06        --------------GGTCTCACACCTACCAGGTGATGTACGGCTGCGACCTGGGGCCCGA  1320
+Mamu-A1*004:07        --------------GGTCTCACACCATCCAGTGGATGTATGGCTGCGACCTGGGGCCCGA  1320
 Mamu-A1*004:08        --------------GGTCTCACACCTACCAGGTGATGTACGGCTGCGACCTGGGGCCCGA  1320
 Mamu-A1*006:01        --------------GGTCTCACACCCTCCAGAGGATGTACGGCTGCGACCTGGGACCCGA  1320
 Mamu-A1*006:02        --------------GGTCTCACACCCTCCAGAGGATGTACGGCTGCGACCTGGGACCCGA  1320
@@ -5847,6 +5869,7 @@ Mamu-A1*004:03        CGGGCGCCTCCTCCGCGGGTATGAACAGTTCGCCTACGACGGCAAGGATTACATCGCC
 Mamu-A1*004:04        CGGGCGCCTCCTCCGCGGGTATGAACAGTTCGCCTACGACGGCAAGGATTACATCGCCCT  1380
 Mamu-A1*004:05        CGGGCGCCTCCTCCGCGGGTATGAACAGTTCGCCTACGACGGCAAGGATTACATCGCCCT  1380
 Mamu-A1*004:06        CGGGCGCCTCCTCCGCGGGTATGAACAGTTCGCCTACGACGGCAAGGATTACATCGCCCT  1380
+Mamu-A1*004:07        CGGGCGCCTCCTCCGCGGGTATGAACAGTTCGCCTACGACGGCAAGGATTACATCGCCCT  1380
 Mamu-A1*004:08        CGGGCGCCTCCTCCGCGGGTATGAACAGTTCGCCTACGACGGCAAGGATTACATCGCCCT  1380
 Mamu-A1*006:01        CGGGCGCCTCCTCCGCGGGTATGAACAGTACGCCTACGACGGCAGGGATTACATCGCCCT  1380
 Mamu-A1*006:02        CGGGCGCCTCCTCCGCGGGTATGAACAGTACGCCTACGACGGCAGGGATTACATCGCCCT  1380
@@ -6111,6 +6134,7 @@ Mamu-A1*004:03        GAACGACGACCTGCGTTCCTGGACAGCCGCGGACTTGGCGGCTCAGAACACCCAGCGG
 Mamu-A1*004:04        GAACGACGACCTGCGTTCCTGGACAGCCGCGGACTTGGCGGCTCAGAACACCCAGCGGAA  1440
 Mamu-A1*004:05        GAACGACGACCTGCGTTCCTGGACAGCCGCGGACTTGGCGGCTCAGAACACCCAGCGCAA  1440
 Mamu-A1*004:06        GAACGACGACCTGCGTTCCTGGACAGCCGCGGACTTGGCGGCTCAGAACACCCAGCGGAA  1440
+Mamu-A1*004:07        GAACGACGACCTGCGTTCCTGGACAGCCGCGGACTTGGCGGCTCAGAACACCCAGCGGAA  1440
 Mamu-A1*004:08        GAACGACGACCTGCGTTCCTGGACAGCCGCGGACTTGGCGGCTCAGAACACCCAGCGGAA  1440
 Mamu-A1*006:01        GAACGAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAA  1440
 Mamu-A1*006:02        GAACGAGGACCTGCGCTCCTGGACCGCCGCGGACATGGCGGCTCAGAACACCCAGCGGAA  1440
@@ -6375,6 +6399,7 @@ Mamu-A1*004:03        GTGGGAGGCGGCGGGTGTGGCGGAGCAGTGGAGAGCCTACCTGGAGGGCCAGTGCCTG
 Mamu-A1*004:04        GTGGGAGGCGGCGGGTGTGGCGGAGCAGTGGAGAGCCTACCTGGAGGGCCAGTGCCTGGA  1500
 Mamu-A1*004:05        GTGGGAGGCGGCGGGTGTGGCGGAGCGGCAGAGAACCTACCTGGAGGGGACGTGCGTGGA  1500
 Mamu-A1*004:06        GTGGGAGGCGGCGGGTGTGGCGGAGCAGCACAGAACCTACCTGGAGGGCGAGTGCCTGGA  1500
+Mamu-A1*004:07        GTGGGAGGCGGCGGGTGTGGCGGAGCAGCACAGAACCTACCTGGAGGGCGAGTGCCTGGA  1500
 Mamu-A1*004:08        GTGGGAGGCGGCGGGTGTGGCGGAGCAGCACAGAACCTACCTGGAGGGCCTGTGCGTGGA  1500
 Mamu-A1*006:01        GTGGGAGGCGGCGGGTGAGGCGGAGCAGATCAGAGCCTACCTGGAGGGCGAGTGCCTGGA  1500
 Mamu-A1*006:02        GTGGGAGGCGGCGGGTGAGGCGGAGCAGATCAGAGCCTACCTGGAGGGCGAGTGCCTGGA  1500
@@ -6639,6 +6664,7 @@ Mamu-A1*004:03        GTGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG--------
 Mamu-A1*004:04        GTGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG----------  1560
 Mamu-A1*004:05        GTGGCTCCACAGACACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG----------  1560
 Mamu-A1*004:06        GTGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG----------  1560
+Mamu-A1*004:07        GTGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG----------  1560
 Mamu-A1*004:08        GTGGCTCCGCAGATACCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG----------  1560
 Mamu-A1*006:01        GTGGCTCCGCAGATATCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG----------  1560
 Mamu-A1*006:02        GTGGCTCCGCAGATATCTGGAGAACGGGAAGGAGACGCTGCAGCGCGCGG----------  1560
@@ -6903,6 +6929,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1620
 Mamu-A1*004:05        ------------------------------------------------------------  1620
 Mamu-A1*004:06        ------------------------------------------------------------  1620
+Mamu-A1*004:07        ------------------------------------------------------------  1620
 Mamu-A1*004:08        ------------------------------------------------------------  1620
 Mamu-A1*006:01        ------------------------------------------------------------  1620
 Mamu-A1*006:02        ------------------------------------------------------------  1620
@@ -7167,6 +7194,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1680
 Mamu-A1*004:05        ------------------------------------------------------------  1680
 Mamu-A1*004:06        ------------------------------------------------------------  1680
+Mamu-A1*004:07        ------------------------------------------------------------  1680
 Mamu-A1*004:08        ------------------------------------------------------------  1680
 Mamu-A1*006:01        ------------------------------------------------------------  1680
 Mamu-A1*006:02        ------------------------------------------------------------  1680
@@ -7431,6 +7459,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1740
 Mamu-A1*004:05        ------------------------------------------------------------  1740
 Mamu-A1*004:06        ------------------------------------------------------------  1740
+Mamu-A1*004:07        ------------------------------------------------------------  1740
 Mamu-A1*004:08        ------------------------------------------------------------  1740
 Mamu-A1*006:01        ------------------------------------------------------------  1740
 Mamu-A1*006:02        ------------------------------------------------------------  1740
@@ -7695,6 +7724,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1800
 Mamu-A1*004:05        ------------------------------------------------------------  1800
 Mamu-A1*004:06        ------------------------------------------------------------  1800
+Mamu-A1*004:07        ------------------------------------------------------------  1800
 Mamu-A1*004:08        ------------------------------------------------------------  1800
 Mamu-A1*006:01        ------------------------------------------------------------  1800
 Mamu-A1*006:02        ------------------------------------------------------------  1800
@@ -7959,6 +7989,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1860
 Mamu-A1*004:05        ------------------------------------------------------------  1860
 Mamu-A1*004:06        ------------------------------------------------------------  1860
+Mamu-A1*004:07        ------------------------------------------------------------  1860
 Mamu-A1*004:08        ------------------------------------------------------------  1860
 Mamu-A1*006:01        ------------------------------------------------------------  1860
 Mamu-A1*006:02        ------------------------------------------------------------  1860
@@ -8223,6 +8254,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1920
 Mamu-A1*004:05        ------------------------------------------------------------  1920
 Mamu-A1*004:06        ------------------------------------------------------------  1920
+Mamu-A1*004:07        ------------------------------------------------------------  1920
 Mamu-A1*004:08        ------------------------------------------------------------  1920
 Mamu-A1*006:01        ------------------------------------------------------------  1920
 Mamu-A1*006:02        ------------------------------------------------------------  1920
@@ -8487,6 +8519,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  1980
 Mamu-A1*004:05        ------------------------------------------------------------  1980
 Mamu-A1*004:06        ------------------------------------------------------------  1980
+Mamu-A1*004:07        ------------------------------------------------------------  1980
 Mamu-A1*004:08        ------------------------------------------------------------  1980
 Mamu-A1*006:01        ------------------------------------------------------------  1980
 Mamu-A1*006:02        ------------------------------------------------------------  1980
@@ -8751,6 +8784,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  2040
 Mamu-A1*004:05        ------------------------------------------------------------  2040
 Mamu-A1*004:06        ------------------------------------------------------------  2040
+Mamu-A1*004:07        ------------------------------------------------------------  2040
 Mamu-A1*004:08        ------------------------------------------------------------  2040
 Mamu-A1*006:01        ------------------------------------------------------------  2040
 Mamu-A1*006:02        ------------------------------------------------------------  2040
@@ -9015,6 +9049,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  2100
 Mamu-A1*004:05        ------------------------------------------------------------  2100
 Mamu-A1*004:06        ------------------------------------------------------------  2100
+Mamu-A1*004:07        ------------------------------------------------------------  2100
 Mamu-A1*004:08        ------------------------------------------------------------  2100
 Mamu-A1*006:01        ------------------------------------------------------------  2100
 Mamu-A1*006:02        ------------------------------------------------------------  2100
@@ -9279,6 +9314,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  2160
 Mamu-A1*004:05        ------------------------------------------------------------  2160
 Mamu-A1*004:06        ------------------------------------------------------------  2160
+Mamu-A1*004:07        ------------------------------------------------------------  2160
 Mamu-A1*004:08        ------------------------------------------------------------  2160
 Mamu-A1*006:01        ------------------------------------------------------------  2160
 Mamu-A1*006:02        ------------------------------------------------------------  2160
@@ -9543,6 +9579,7 @@ Mamu-A1*004:03        -ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACTACGAGGCCACCCTGA
 Mamu-A1*004:04        -ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACTACGAGGCCACCCTGAGG  2220
 Mamu-A1*004:05        -ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCACCCTGAGG  2220
 Mamu-A1*004:06        -ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACTATGAGGCCACCCTGAGG  2220
+Mamu-A1*004:07        -ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACTATGAGGCCACCCTGAGG  2220
 Mamu-A1*004:08        -ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACTATGAGGCCACCCTGAGG  2220
 Mamu-A1*006:01        -ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCACCCTGAGG  2220
 Mamu-A1*006:02        -ACCCCCCCAAGACACATGTGACCCACCACCCCGTCTCTGACCATGAGGCCACCCTGAGG  2220
@@ -9807,6 +9844,7 @@ Mamu-A1*004:03        TGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGACGGGG
 Mamu-A1*004:04        TGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGACGGGGAG  2280
 Mamu-A1*004:05        TGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGAGAG  2280
 Mamu-A1*004:06        TGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGACAGGGAG  2280
+Mamu-A1*004:07        TGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGACGGGGAG  2280
 Mamu-A1*004:08        TGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGACGGGGAG  2280
 Mamu-A1*006:01        TGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGGGAG  2280
 Mamu-A1*006:02        TGCTGGGCCCTGGGCTTCTACCCTGCGGAGATCACACTGACCTGGCAGCGGGATGGGGAG  2280
@@ -10071,6 +10109,7 @@ Mamu-A1*004:03        GACCAAACTCAGGACACGGAGCTTGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCC
 Mamu-A1*004:04        GACCAAACTCAGGACACGGAGCTTGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAG  2340
 Mamu-A1*004:05        GACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAG  2340
 Mamu-A1*004:06        GACCAAACTCAGGACACGGAGCTTGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAG  2340
+Mamu-A1*004:07        GACCAAACTCAGGACACGGAGCTTGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAG  2340
 Mamu-A1*004:08        GACCAAACTCAGGACACGGAGCTTGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAG  2340
 Mamu-A1*006:01        GACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAG  2340
 Mamu-A1*006:02        GACCAAACTCAGGACACGGAGCTCGTGGAGACCAGGCCTGCAGGAGATGGAACCTTCCAG  2340
@@ -10335,6 +10374,7 @@ Mamu-A1*004:03        AAGTGGGCGGCTGTGGTTGTGCCTTCTGGAAAAGAGCATAGATACACCTGTCATGTGC
 Mamu-A1*004:04        AAGTGGGCGGCTGTGGTTGTGCCTTCTGGAAAAGAGCATAGATACACCTGTCATGTGCAG  2400
 Mamu-A1*004:05        AAGTGGGCGGCTGTGGTGGTGCCTTCTGGAGAGGAGCAGAGATACACCTGTCATGTGCAG  2400
 Mamu-A1*004:06        AAGTGGGCGGCTGTGGTTGTGCCTTCTGGAAAAGAGCATAGATACACCTGTCATGTGCAG  2400
+Mamu-A1*004:07        AAGTGGGCGGCTGTGGTTGTGCCTTCTGGAAAAGAGCATAGATACACCTGTCATGTGCAG  2400
 Mamu-A1*004:08        AAGTGGGCGGCTGTGGTTGTGCCTTCTGGAAAAGAGCATAGATACACCTGTCATGTGCAG  2400
 Mamu-A1*006:01        AAGTGGGCGGCTGTGGTGGTGCCTTCTGAAGAGGAGCAGAGATACACCTGTCATGTGCAG  2400
 Mamu-A1*006:02        AAGTGGGCGGCTGTGGTGGTGCCTTCTGAAGAGGAGCAGAGATACACCTGTCATGTGCAG  2400
@@ -10599,6 +10639,7 @@ Mamu-A1*004:03        CATGAGGGTCTGCCCGAGCCCCTCACCTTGAGATGGG---------------------
 Mamu-A1*004:04        CATGAGGGTCTGCCCGAGCCCCTCACCTTGAGATGGG-----------------------  2460
 Mamu-A1*004:05        CATGAGGGTCTGCCCGAGCCCCTCACCTTGAGATGGG-----------------------  2460
 Mamu-A1*004:06        CATGAGGGTCTGCCCGAGCCCCTCACCTTGAGATGGG-----------------------  2460
+Mamu-A1*004:07        CATGAGGGTCTGCCCGAGCCCCTCACCTTGAGATGGG-----------------------  2460
 Mamu-A1*004:08        CATGAGGGTCTGCCCGAGCCCCTCACCTTGAGATGGG-----------------------  2460
 Mamu-A1*006:01        CATGAGGGTCTGCCCAAGCCCCTCACCCTGAGATGGG-----------------------  2460
 Mamu-A1*006:02        CATGAGGGTCTGCCCAAGCCCCTCACCCTGAGATGGG-----------------------  2460
@@ -10863,6 +10904,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  2520
 Mamu-A1*004:05        ------------------------------------------------------------  2520
 Mamu-A1*004:06        ------------------------------------------------------------  2520
+Mamu-A1*004:07        ------------------------------------------------------------  2520
 Mamu-A1*004:08        ------------------------------------------------------------  2520
 Mamu-A1*006:01        ------------------------------------------------------------  2520
 Mamu-A1*006:02        ------------------------------------------------------------  2520
@@ -11127,6 +11169,7 @@ Mamu-A1*004:03        -------------------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCA
 Mamu-A1*004:04        -------------------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCATT  2580
 Mamu-A1*004:05        -------------------AGCCGTCTTCCCAGTCCACCATCCCCATTGTGGGCATCATT  2580
 Mamu-A1*004:06        -------------------AGCCGTCTTCCCAGTCCACCATCCCCATTGTGGGCATCATT  2580
+Mamu-A1*004:07        -------------------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCATT  2580
 Mamu-A1*004:08        -------------------AGCCGTCTTCCCAGTCCACCATCCCCATCGTGGGCATCATT  2580
 Mamu-A1*006:01        -------------------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATT  2580
 Mamu-A1*006:02        -------------------AGCCGTCTTCCCAGTCCACCATCCCCATGGTGGGCATCATT  2580
@@ -11391,6 +11434,7 @@ Mamu-A1*004:03        GCTGGCCTGGTTCTGCTTGGAGCTGTGGTCACTGGAGCTGTG--GTTGCTGTTGTGAT
 Mamu-A1*004:04        GCTGGCCTGGTTCTGCTTGGAGCTGTGGTCACTGGAGCTGTG--GTTGCTGTTGTGATGT  2640
 Mamu-A1*004:05        GCTGGCCTGGTTCTGCTTGGAGCTGTGGTCACTGGAGCTGTG--GTTGCTGTTGTGATGT  2640
 Mamu-A1*004:06        GCTGGCCTGGTTCTGCTTGGAGCTGTGGTCACTGGAGCTGTG--GTTGCTGTTGTGATGT  2640
+Mamu-A1*004:07        GCTGGCCTGGTTCTGCTTGGAGCTGTGGTCACTGGAGCTGTG--GTTGCTGTTGTGATGT  2640
 Mamu-A1*004:08        GCTGGCCTGGTTCTGCTTGGAGCTGTGGTCACTGGAGCTGTG--GTTGCTGTTGTGATGT  2640
 Mamu-A1*006:01        GCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGT  2640
 Mamu-A1*006:02        GCTGGCCTGGTTCTCCTTGGAGCTGTGGTCACTGGAGCTGTG--GTCGCTGCTGTGATGT  2640
@@ -11655,6 +11699,7 @@ Mamu-A1*004:03        GGAGGAGGAAGAGCTCAG----------------------------------------
 Mamu-A1*004:04        GGAGGAGGAAGAGCTCAG------------------------------------------  2700
 Mamu-A1*004:05        GGAGGAGGAAGAGCTCAG------------------------------------------  2700
 Mamu-A1*004:06        GGAGGAGGAAGAGCTCAG------------------------------------------  2700
+Mamu-A1*004:07        GGAGGAGGAAGAGCTCAG------------------------------------------  2700
 Mamu-A1*004:08        GGAGGAGGAAGAGCTCAG------------------------------------------  2700
 Mamu-A1*006:01        GGAGGAGGAAGAGCTCAG------------------------------------------  2700
 Mamu-A1*006:02        GGAGGAGGAAGAGCTCAG------------------------------------------  2700
@@ -11919,6 +11964,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  2760
 Mamu-A1*004:05        ------------------------------------------------------------  2760
 Mamu-A1*004:06        ------------------------------------------------------------  2760
+Mamu-A1*004:07        ------------------------------------------------------------  2760
 Mamu-A1*004:08        ------------------------------------------------------------  2760
 Mamu-A1*006:01        ------------------------------------------------------------  2760
 Mamu-A1*006:02        ------------------------------------------------------------  2760
@@ -12183,6 +12229,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  2820
 Mamu-A1*004:05        ------------------------------------------------------------  2820
 Mamu-A1*004:06        ------------------------------------------------------------  2820
+Mamu-A1*004:07        ------------------------------------------------------------  2820
 Mamu-A1*004:08        ------------------------------------------------------------  2820
 Mamu-A1*006:01        ------------------------------------------------------------  2820
 Mamu-A1*006:02        ------------------------------------------------------------  2820
@@ -12447,6 +12494,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  2880
 Mamu-A1*004:05        ------------------------------------------------------------  2880
 Mamu-A1*004:06        ------------------------------------------------------------  2880
+Mamu-A1*004:07        ------------------------------------------------------------  2880
 Mamu-A1*004:08        ------------------------------------------------------------  2880
 Mamu-A1*006:01        ------------------------------------------------------------  2880
 Mamu-A1*006:02        ------------------------------------------------------------  2880
@@ -12711,6 +12759,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  2940
 Mamu-A1*004:05        ------------------------------------------------------------  2940
 Mamu-A1*004:06        ------------------------------------------------------------  2940
+Mamu-A1*004:07        ------------------------------------------------------------  2940
 Mamu-A1*004:08        ------------------------------------------------------------  2940
 Mamu-A1*006:01        ------------------------------------------------------------  2940
 Mamu-A1*006:02        ------------------------------------------------------------  2940
@@ -12975,6 +13024,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  3000
 Mamu-A1*004:05        ------------------------------------------------------------  3000
 Mamu-A1*004:06        ------------------------------------------------------------  3000
+Mamu-A1*004:07        ------------------------------------------------------------  3000
 Mamu-A1*004:08        ------------------------------------------------------------  3000
 Mamu-A1*006:01        ------------------------------------------------------------  3000
 Mamu-A1*006:02        ------------------------------------------------------------  3000
@@ -13239,6 +13289,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  3060
 Mamu-A1*004:05        ------------------------------------------------------------  3060
 Mamu-A1*004:06        ------------------------------------------------------------  3060
+Mamu-A1*004:07        ------------------------------------------------------------  3060
 Mamu-A1*004:08        ------------------------------------------------------------  3060
 Mamu-A1*006:01        ------------------------------------------------------------  3060
 Mamu-A1*006:02        ------------------------------------------------------------  3060
@@ -13503,6 +13554,7 @@ Mamu-A1*004:03        ----------------------------------------------------ATAGAA
 Mamu-A1*004:04        ----------------------------------------------------ATAGAAAA  3120
 Mamu-A1*004:05        ----------------------------------------------------ATAGAAAA  3120
 Mamu-A1*004:06        ----------------------------------------------------ATAGAAAA  3120
+Mamu-A1*004:07        ----------------------------------------------------ATAGAAAA  3120
 Mamu-A1*004:08        ----------------------------------------------------ATAGAAAA  3120
 Mamu-A1*006:01        ----------------------------------------------------ATAGAAAA  3120
 Mamu-A1*006:02        ----------------------------------------------------ATAGAAAA  3120
@@ -13767,6 +13819,7 @@ Mamu-A1*004:03        GGAGGGAGCTACTCTCAGGCTGCAA---------------------------------
 Mamu-A1*004:04        GGAGGGAGCTACTCTCAGGCTGCAA-----------------------------------  3180
 Mamu-A1*004:05        GGAGGGAGCTACTCTCAGGCTGCAA-----------------------------------  3180
 Mamu-A1*004:06        GGAGGGAGCTACTCTCAGGCTGCAA-----------------------------------  3180
+Mamu-A1*004:07        GGAGGGAGCTACTCTCAGGCTGCAA-----------------------------------  3180
 Mamu-A1*004:08        GGAGGGAGCTACTCTCAGGCTGCAA-----------------------------------  3180
 Mamu-A1*006:01        GGAGGGAGCTACTCTCAGGCTGCAA-----------------------------------  3180
 Mamu-A1*006:02        GGAGGGAGCTACTCTCAGGCTGCAA-----------------------------------  3180
@@ -14031,6 +14084,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  3240
 Mamu-A1*004:05        ------------------------------------------------------------  3240
 Mamu-A1*004:06        ------------------------------------------------------------  3240
+Mamu-A1*004:07        ------------------------------------------------------------  3240
 Mamu-A1*004:08        ------------------------------------------------------------  3240
 Mamu-A1*006:01        ------------------------------------------------------------  3240
 Mamu-A1*006:02        ------------------------------------------------------------  3240
@@ -14295,6 +14349,7 @@ Mamu-A1*004:03        ------------------------------------------------GCAGTGACAG
 Mamu-A1*004:04        ------------------------------------------------GCAGTGACAGTG  3300
 Mamu-A1*004:05        ------------------------------------------------GCAGTGACAGTG  3300
 Mamu-A1*004:06        ------------------------------------------------GCAGTGACAGTG  3300
+Mamu-A1*004:07        ------------------------------------------------GCAGTGACAGTG  3300
 Mamu-A1*004:08        ------------------------------------------------GCAGTGACAGTG  3300
 Mamu-A1*006:01        ------------------------------------------------GCAGTGACAGTG  3300
 Mamu-A1*006:02        ------------------------------------------------GCAGTGACAGTG  3300
@@ -14559,6 +14614,7 @@ Mamu-A1*004:03        CCCAGGGCTCTGATGTGTCTCTCACAGCTTGTAAAG----------------------
 Mamu-A1*004:04        CCCAGGGCTCTGATGTGTCTCTCACAGCTTGTAAAG------------------------  3360
 Mamu-A1*004:05        CCCAGGGCTCTGATGTGTCTCTCACAGCTTGTAAAG------------------------  3360
 Mamu-A1*004:06        CCCAGGGCTCTGATGTGTCTCTCACAGCTTGTAAAG------------------------  3360
+Mamu-A1*004:07        CCCAGGGCTCTGATGTGTCTCTCACAGCTTGTAAAG------------------------  3360
 Mamu-A1*004:08        CCCAGGGCTCTGATGTGTCTCTCACAGCTTGTAAAG------------------------  3360
 Mamu-A1*006:01        CCCAGGGCTCTGATGTGTCTCTCACGGCTTGTAAAG------------------------  3360
 Mamu-A1*006:02        CCCAGGGCTCTGATGTGTCTCTCACGGCTTGTAAAG------------------------  3360
@@ -14823,6 +14879,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  3420
 Mamu-A1*004:05        ------------------------------------------------------------  3420
 Mamu-A1*004:06        ------------------------------------------------------------  3420
+Mamu-A1*004:07        ------------------------------------------------------------  3420
 Mamu-A1*004:08        ------------------------------------------------------------  3420
 Mamu-A1*006:01        ------------------------------------------------------------  3420
 Mamu-A1*006:02        ------------------------------------------------------------  3420
@@ -15087,6 +15144,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  3480
 Mamu-A1*004:05        ------------------------------------------------------------  3480
 Mamu-A1*004:06        ------------------------------------------------------------  3480
+Mamu-A1*004:07        ------------------------------------------------------------  3480
 Mamu-A1*004:08        ------------------------------------------------------------  3480
 Mamu-A1*006:01        ------------------------------------------------------------  3480
 Mamu-A1*006:02        ------------------------------------------------------------  3480
@@ -15351,6 +15409,7 @@ Mamu-A1*004:03        ---------------------------TGTGA--------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  3540
 Mamu-A1*004:05        ------------------------------------------------------------  3540
 Mamu-A1*004:06        ---------------------------TGTGA----------------------------  3540
+Mamu-A1*004:07        ---------------------------TGTGA----------------------------  3540
 Mamu-A1*004:08        ---------------------------TGTGA----------------------------  3540
 Mamu-A1*006:01        ---------------------------TGTGA----------------------------  3540
 Mamu-A1*006:02        ---------------------------TGTGA----------------------------  3540
@@ -15615,6 +15674,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  3600
 Mamu-A1*004:05        ------------------------------------------------------------  3600
 Mamu-A1*004:06        ------------------------------------------------------------  3600
+Mamu-A1*004:07        ------------------------------------------------------------  3600
 Mamu-A1*004:08        ------------------------------------------------------------  3600
 Mamu-A1*006:01        ------------------------------------------------------------  3600
 Mamu-A1*006:02        ------------------------------------------------------------  3600
@@ -15879,6 +15939,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  3660
 Mamu-A1*004:05        ------------------------------------------------------------  3660
 Mamu-A1*004:06        ------------------------------------------------------------  3660
+Mamu-A1*004:07        ------------------------------------------------------------  3660
 Mamu-A1*004:08        ------------------------------------------------------------  3660
 Mamu-A1*006:01        ------------------------------------------------------------  3660
 Mamu-A1*006:02        ------------------------------------------------------------  3660
@@ -16143,6 +16204,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  3720
 Mamu-A1*004:05        ------------------------------------------------------------  3720
 Mamu-A1*004:06        ------------------------------------------------------------  3720
+Mamu-A1*004:07        ------------------------------------------------------------  3720
 Mamu-A1*004:08        ------------------------------------------------------------  3720
 Mamu-A1*006:01        ------------------------------------------------------------  3720
 Mamu-A1*006:02        ------------------------------------------------------------  3720
@@ -16407,6 +16469,7 @@ Mamu-A1*004:03        ----------------------------------------------------------
 Mamu-A1*004:04        ------------------------------------------------------------  3780
 Mamu-A1*004:05        ------------------------------------------------------------  3780
 Mamu-A1*004:06        ------------------------------------------------------------  3780
+Mamu-A1*004:07        ------------------------------------------------------------  3780
 Mamu-A1*004:08        ------------------------------------------------------------  3780
 Mamu-A1*006:01        ------------------------------------------------------------  3780
 Mamu-A1*006:02        ------------------------------------------------------------  3780
@@ -16671,6 +16734,7 @@ Mamu-A1*004:03        --------------------------------  3812
 Mamu-A1*004:04        --------------------------------  3812
 Mamu-A1*004:05        --------------------------------  3812
 Mamu-A1*004:06        --------------------------------  3812
+Mamu-A1*004:07        --------------------------------  3812
 Mamu-A1*004:08        --------------------------------  3812
 Mamu-A1*006:01        --------------------------------  3812
 Mamu-A1*006:02        --------------------------------  3812
