@@ -4,6 +4,7 @@ Ovar-DRB1*01:03       ---------------------AGAGGCTCCCGGATGGCAGCTCTGATAGTGATGCTGA
 Ovar-DRB1*01:04       ------------------------------------------------------------    60
 Ovar-DRB1*01:05       ------------------------------------------------------------    60
 Ovar-DRB1*01:06       ------------------------------------------------------------    60
+Ovar-DRB1*01:07       ------------------------------------------------------------    60
 Ovar-DRB1*02:01       ATGGTGTGCCTGTATTTCTCCAGAGGCTCCCGGATGGCAGCTCTGATAGTGATGCTGATG    60
 Ovar-DRB1*02:02       ------------------------------------------------------------    60
 Ovar-DRB1*02:03       ------------------------------------------------------------    60
@@ -32,6 +33,7 @@ Ovar-DRB1*05:02       ----------------------------------------------------------
 Ovar-DRB1*05:03       ------------------------------------------------------------    60
 Ovar-DRB1*06:01       ATGGTGTGCCTGTATTTCTCCAGAGGCTCCCGGATGGCAGCTCTGATAGTGATGCTGATG    60
 Ovar-DRB1*06:02       ------------------------------------------------------------    60
+Ovar-DRB1*06:03       ------------------------------------------------------------    60
 Ovar-DRB1*07:01       ATGGTGTGCCTGTATTTCTCCAGAGGCTCCCGGATGGCAGCTCTGATAGTGATGCTGATG    60
 Ovar-DRB1*07:02       ------------------------------------------------------------    60
 Ovar-DRB1*07:03       ------------------------------------------------------------    60
@@ -43,6 +45,7 @@ Ovar-DRB1*08:03:02    ----------------------------------------------------------
 Ovar-DRB1*08:04       ---------------------AGAGGCTCCCGGATGGCAGCTCTGATAGTGATGCTGATG    60
 Ovar-DRB1*08:05       ------------------------------------------------------------    60
 Ovar-DRB1*08:06       ATGGTGTGCCTGTATTTCTCCAGAGGCTCCCGGATGGCAGCTCTGATAGTGATGCTGATG    60
+Ovar-DRB1*08:07       ------------------------------------------------------------    60
 Ovar-DRB1*09:01       ATGGTGTGCCTGTATTTCTCCAGAGGCTCCCGGATGGCAGCTCTGATAGTGATGCTGATG    60
 Ovar-DRB1*09:02       ---------------------AGAGGCTCCCGGATGGCAGCTCTGATAGTGATGCTGATG    60
 Ovar-DRB1*10:01       ATGGTGTGCCTGTATTTCTCCAGAGGCTCCCGGATGGCAGCTCTGATAGTGATGCTGATG    60
@@ -88,6 +91,7 @@ Ovar-DRB1*16:08       ----------------------------------------------------------
 Ovar-DRB1*16:09       ------------------------------------------------------------    60
 Ovar-DRB1*16:10       ------------------------------------------------------------    60
 Ovar-DRB1*16:11       ------------------------------------------------------------    60
+Ovar-DRB1*16:12       ------------------------------------------------------------    60
 Ovar-DRB1*17:01       ------------------------------------------------------------    60
 Ovar-DRB1*17:02       ---------------------AGAGGCTCCCGGATGGCAGCTCTGATAGTGATGCTGATG    60
 Ovar-DRB1*17:03       ------------------------------------------------------------    60
@@ -111,6 +115,7 @@ Ovar-DRB1*24:01       ----------------------------------------------------------
 Ovar-DRB1*25:01       ------------------------------------------------------------    60
 Ovar-DRB1*25:02       ------------------------------------------------------------    60
 Ovar-DRB1*25:03       ------------------------------------------------------------    60
+Ovar-DRB1*25:04       ------------------------------------------------------------    60
 Ovar-DRB1*26:01       ATGGTGTGCCTGTATTTCTCCAGAGGCTCCCGGATGGCAGCTCTGATAGTGATGCTGATG    60
 Ovar-DRB1*28:01       ------------------------------------------------------------    60
 Ovar-DRB1*29:01       ------------------------------------------------------------    60
@@ -121,6 +126,7 @@ Ovar-DRB1*01:03       GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCTTGGAGTATA
 Ovar-DRB1*01:04       -----------------------------------------ACATTTCTTGGAGTATACT   120
 Ovar-DRB1*01:05       -----------------------------------------ACATTTCTTGGAGTATACT   120
 Ovar-DRB1*01:06       -----------------------------------------ACATTTCTTGGAGTATACT   120
+Ovar-DRB1*01:07       ----------------------------------------CACATTTCTTGGAGTATACT   120
 Ovar-DRB1*02:01       GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCTTGGAGTATTCT   120
 Ovar-DRB1*02:02       -----------------------------------------ACATTTCTTGGAGTATTCT   120
 Ovar-DRB1*02:03       -----------------------------------------ACATTTCTTGGAGTATGCT   120
@@ -149,6 +155,7 @@ Ovar-DRB1*05:02       -----------------------------------------ACATTTCTTGGAGTATG
 Ovar-DRB1*05:03       ----------------------------------------CACATTTCTTGGAGTATCGT   120
 Ovar-DRB1*06:01       GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCTTGGAGTATGCT   120
 Ovar-DRB1*06:02       ------------------------------------------------TTGGAGTATGCT   120
+Ovar-DRB1*06:03       ----------------------------------------CACATTTCTTGGAGTATGCT   120
 Ovar-DRB1*07:01       GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCCTGGAGTATACT   120
 Ovar-DRB1*07:02       -----------------------------------------ACATTTCTTGGAGTATCAT   120
 Ovar-DRB1*07:03       ------------------------------------------------TTGGAGTATGCT   120
@@ -160,6 +167,7 @@ Ovar-DRB1*08:03:02    -----------------------------------------ACATTTCTTGGAGTATC
 Ovar-DRB1*08:04       GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCTTGGAGTATCAT   120
 Ovar-DRB1*08:05       -----------------------------------------ACATTTCTTGGAGTATCAT   120
 Ovar-DRB1*08:06       GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCTTGGAGTATCAT   120
+Ovar-DRB1*08:07       ----------------------------------------CACATTTCTTGGAGTATGCT   120
 Ovar-DRB1*09:01       GTGCTGAGCCCTCCCCTGGCCTGGGCCAGGGAGATCCAACCACATTTCCTGGAGTATTAT   120
 Ovar-DRB1*09:02       GTGCTGAGCCCTCCCCTGGCCTGGGCCAGGGAGATCGAACCACATTTCCTGGAGTATTAT   120
 Ovar-DRB1*10:01       GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCTTGGAGTATTCT   120
@@ -205,6 +213,7 @@ Ovar-DRB1*16:08       -----------------------------------------ACATTTCTTGGAGTATT
 Ovar-DRB1*16:09       ----------------------------------------CA--TTTCTTGGAGTATTCT   120
 Ovar-DRB1*16:10       -----------------------------------------ACATTTCTTGGAGTATACT   120
 Ovar-DRB1*16:11       ----------------------------------------CACATTTCTTGGAGTATTCT   120
+Ovar-DRB1*16:12       ----------------------------------------CACATTTCTTGGAGTATCAT   120
 Ovar-DRB1*17:01       -----------------------------------------ACATTTCTTGGAGTATGCT   120
 Ovar-DRB1*17:02       GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCTTGGAGTATCAT   120
 Ovar-DRB1*17:03       -----------------------------------------ACATTTCTTGGAGTATTCT   120
@@ -228,6 +237,7 @@ Ovar-DRB1*24:01       -----------------------------------------ACATTTCTTGGAGTATT
 Ovar-DRB1*25:01       -----------------------------------------ACATTTCTTGGAGTATCGT   120
 Ovar-DRB1*25:02       -----------------------------------------ACATTTCTTGGAGTATCGT   120
 Ovar-DRB1*25:03       ----------------------------------------CACATTTCTTGGAGTATCGT   120
+Ovar-DRB1*25:04       ----------------------------------------CACATTTCTTGGAGTATCGT   120
 Ovar-DRB1*26:01       GCGCTGAGCCCTCCCCTGGCCTGGGCCAGGAAGATCCAACCACATTTCCTGGAGTATTAT   120
 Ovar-DRB1*28:01       ----------------------------------------CACATTTCTTGGAGTATGCT   120
 Ovar-DRB1*29:01       ----------------------------------------CACATTTCCTGGAGTATAGT   120
@@ -238,6 +248,7 @@ Ovar-DRB1*01:03       AAGAAAGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACT
 Ovar-DRB1*01:04       AAGAAAGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*01:05       AAGAAAGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*01:06       AAGAAAGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
+Ovar-DRB1*01:07       AAGAAAGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*02:01       ACGAGCGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*02:02       ACGAGCGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*02:03       AAGAGCGAGTGTCGTTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
@@ -266,6 +277,7 @@ Ovar-DRB1*05:02       AAGAGCGAGTGTCGTTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGAAAGATACT
 Ovar-DRB1*05:03       AAGAGCGAGTGTCGTTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGAAAGATACTTC   180
 Ovar-DRB1*06:01       AAGAGCGAGTGTCGTTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGAAAGATACTTC   180
 Ovar-DRB1*06:02       AAGAGCGAGTGTCGTTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGAAAGATACTTC   180
+Ovar-DRB1*06:03       AAGAGCGAGTGTCGTTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGAAAGATACTTC   180
 Ovar-DRB1*07:01       AAGAAAGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTGCTGGAAAGATACTTC   180
 Ovar-DRB1*07:02       AAGAGCGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*07:03       AAGAGCGAGTGTCGTTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGAAAGATACTTC   180
@@ -277,6 +289,7 @@ Ovar-DRB1*08:03:02    AAGAGCGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACT
 Ovar-DRB1*08:04       AAGAGCGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*08:05       AAGAGCGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*08:06       AAGAGCGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
+Ovar-DRB1*08:07       AAGAGCGAGTGTCGTTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGAAAGATACTTC   180
 Ovar-DRB1*09:01       AGGAGCGAGTGTCATTTCTTCAACGGGACCGAGAGGGTGCGGCTCCTGGAAAGATACTTC   180
 Ovar-DRB1*09:02       AGGAGCGAGTGTCATTTCTTCAACGGGACCGAGAGGGTGCGGCTCCTGGAAAGATACTTC   180
 Ovar-DRB1*10:01       ACGAGCGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
@@ -322,6 +335,7 @@ Ovar-DRB1*16:08       ACGAGCGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTACCTGGACAGATACT
 Ovar-DRB1*16:09       AAGAGCGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTACCTGGACAGATACTTC   180
 Ovar-DRB1*16:10       AAGAAAGAGTGTCGTTTCTTCAACGGGACGGAGCGGGTGTGGTACCTGGACAGATACTTC   180
 Ovar-DRB1*16:11       ACGAGCGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTACCTGGACAGATACTTC   180
+Ovar-DRB1*16:12       AAGAGCGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTACCTGGACAGATACTTC   180
 Ovar-DRB1*17:01       AAGAGAGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*17:02       AAGAGCGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*17:03       AAGAGCGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
@@ -345,6 +359,7 @@ Ovar-DRB1*24:01       ACGAGCGAGTGTCATTTCTTCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACT
 Ovar-DRB1*25:01       AAGAGCGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*25:02       AAGAGCGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*25:03       AAGAGCGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
+Ovar-DRB1*25:04       AAGAGCGAGTGTCGTTTCTCCAACGGGACGGAGCGGGTGCGGTTCCTGGACAGATACTTC   180
 Ovar-DRB1*26:01       AAGGGCGAGTGTCATTTCTTCAACGGGACCGAGCGGGTGCGGTTGCTGCACAGATTCTAC   180
 Ovar-DRB1*28:01       AAGAGCGAGTGTCATTTCTCCAACGGGACGGAGCGGGTGCGGTACCTGGACAGATACTTC   180
 Ovar-DRB1*29:01       AAGAGCGAGTGTCATTTCTTCAACGGGACCGAGCGGGTGCGGTTCCTGGACAGATACTAC   180
@@ -355,6 +370,7 @@ Ovar-DRB1*01:03       CATAATGGAGAAGAGACCCTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGG
 Ovar-DRB1*01:04       CATAATGGAGAAGAGTACGCGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*01:05       CATAATGGAGAAGAGACCCTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGGCC   240
 Ovar-DRB1*01:06       TATAATGGAGAAGAGACCCTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
+Ovar-DRB1*01:07       CATAATGGAGAAGAGACCCTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGGCC   240
 Ovar-DRB1*02:01       TATAATGGAGAAGAGACCCTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*02:02       TATAATGGAGAAGAGACCCTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*02:03       TATAATGGAGAAGAGACCCTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
@@ -383,6 +399,7 @@ Ovar-DRB1*05:02       TATAATGGAGAAGAGACCCTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGG
 Ovar-DRB1*05:03       CATAATGGAGAAGAGACCCTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*06:01       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*06:02       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
+Ovar-DRB1*06:03       TATAATGGAGAAGAGTACGTGCGCTTCGACAACGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*07:01       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGGCC   240
 Ovar-DRB1*07:02       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGGCC   240
 Ovar-DRB1*07:03       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGGCC   240
@@ -394,6 +411,7 @@ Ovar-DRB1*08:03:02    TATAATGGAGAAGAGTACGTGCGCTTCGACAGTGACTGGGGCGAGTTCCGGGCGGTGG
 Ovar-DRB1*08:04       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGGCC   240
 Ovar-DRB1*08:05       CATAATGGAGAAGAGTTCGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGGCC   240
 Ovar-DRB1*08:06       CATAATGGAGAAGAGTTCGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGGCC   240
+Ovar-DRB1*08:07       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*09:01       CATAATGGAGAAGAGTTCGCGCGCTTCGACAGTGACTGGGGCGAGTTTCGGGCAGTGACC   240
 Ovar-DRB1*09:02       CATAATGGAGAAGAGTTCGCGCGCTTCGACAGTGACTGGGGCGAGTTTCGGGCAGTGACC   240
 Ovar-DRB1*10:01       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
@@ -439,6 +457,7 @@ Ovar-DRB1*16:08       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGG
 Ovar-DRB1*16:09       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*16:10       TATAATGGAGAAGAGTACGTGCGCTTCGACAACGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*16:11       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
+Ovar-DRB1*16:12       TATAATGGAGAAGAGTACGTGCGCTTCGACAACGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*17:01       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGGCC   240
 Ovar-DRB1*17:02       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGGCC   240
 Ovar-DRB1*17:03       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
@@ -462,6 +481,7 @@ Ovar-DRB1*24:01       TATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGG
 Ovar-DRB1*25:01       TATAATGGAGAAGAGAACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*25:02       TATAATGGAGAAGAGAACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*25:03       CATAATGGAGAAGAGTTCGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
+Ovar-DRB1*25:04       TATAATGGAGAAGAGAACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*26:01       ACTAATGGAGAAGAGACCGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGACC   240
 Ovar-DRB1*28:01       TATAATGGAGAAGAGACCCTGCGCTTCGACAGCGACTGGGGCGAGTACCGAGCGGTGGCC   240
 Ovar-DRB1*29:01       ACTAACGGAGAAGAGAACGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGACC   240
@@ -472,6 +492,7 @@ Ovar-DRB1*01:03       GAGCTGGGGCGGCCGGACGCCGAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGG
 Ovar-DRB1*01:04       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGGCG   300
 Ovar-DRB1*01:05       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGGCG   300
 Ovar-DRB1*01:06       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGGCG   300
+Ovar-DRB1*01:07       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGGCG   300
 Ovar-DRB1*02:01       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCAGACG   300
 Ovar-DRB1*02:02       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGGCG   300
 Ovar-DRB1*02:03       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGGCG   300
@@ -500,6 +521,7 @@ Ovar-DRB1*05:02       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGA
 Ovar-DRB1*05:03       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAAGAGCTCCTGGAGCGGAAG   300
 Ovar-DRB1*06:01       GAGCTGGGGCGGCGGAGCGCCGAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGAAG   300
 Ovar-DRB1*06:02       GAGCTGGGGCGGCGGAGCGCCGAGTACTGGAACAGCCAGAAAGAGCTCCTGGAGCGGAAG   300
+Ovar-DRB1*06:03       GAGCTGGGGCGGCGGAGCGCCGAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAAG   300
 Ovar-DRB1*07:01       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGATTTCCTGGAGAGCAGG   300
 Ovar-DRB1*07:02       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGACTTCCTGGAGAGCAGG   300
 Ovar-DRB1*07:03       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGATTTCCTGGAGAGCAGG   300
@@ -511,6 +533,7 @@ Ovar-DRB1*08:03:02    GAGCTGGGGCGGCGGAGCGCCGAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGA
 Ovar-DRB1*08:04       GAGCTGGGGCGGCAGAGCGCCGAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAGG   300
 Ovar-DRB1*08:05       GAGCTGGGGCGGCGGAGCGCCGAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAGG   300
 Ovar-DRB1*08:06       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAGG   300
+Ovar-DRB1*08:07       GAGCTGGGGCGGCGGAGCGCCGAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAGG   300
 Ovar-DRB1*09:01       GAGCTGGGGAGGCCGGCCGCTGAGCAATGGAACAGCCAGAAGAACATCCTGGAGCAGAAG   300
 Ovar-DRB1*09:02       GAGCTGGGGAGGCCGGCCGCTGAGCAATGGAACAGCCAGAAGAACATCCTGGAGCAGAAG   300
 Ovar-DRB1*10:01       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGAGATCCTGGAGCGGAGG   300
@@ -556,6 +579,7 @@ Ovar-DRB1*16:08       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGA
 Ovar-DRB1*16:09       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAAG   300
 Ovar-DRB1*16:10       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAAG   300
 Ovar-DRB1*16:11       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAAG   300
+Ovar-DRB1*16:12       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAAG   300
 Ovar-DRB1*17:01       GAGCTGGGGCGGCGGAGCGCCGAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGGCG   300
 Ovar-DRB1*17:02       GAGCTGGGGCGGCAGAGCGCCGAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGGCG   300
 Ovar-DRB1*17:03       GAGCTGGGGCGGCGGAGCGCCGAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGGCG   300
@@ -579,6 +603,7 @@ Ovar-DRB1*24:01       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGG
 Ovar-DRB1*25:01       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAGG   300
 Ovar-DRB1*25:02       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGAAG   300
 Ovar-DRB1*25:03       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAGG   300
+Ovar-DRB1*25:04       GAGCTGGGGCGGCGGAGCGCCGAGTACTGGAACAGCCAGAAGGAGCTCCTGGAGCGGAGG   300
 Ovar-DRB1*26:01       CAGCAGGGGCAGGAGGACGCCGAGCACTGGAACAGCCAGAAGGAGATCCTGGAGCGGAAG   300
 Ovar-DRB1*28:01       GAGCTGGGGCGGCCGGACGCCAAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCAGACG   300
 Ovar-DRB1*29:01       GAGCTGGGGCGGCCGGACGCTGAGCAATGGAACAGCCAGAAGGAGATCCTGGAGCGGAAG   300
@@ -589,6 +614,7 @@ Ovar-DRB1*01:03       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCAGTG
 Ovar-DRB1*01:04       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACTGTG   360
 Ovar-DRB1*01:05       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCACTGTG   360
 Ovar-DRB1*01:06       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCAGTGTG   360
+Ovar-DRB1*01:07       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACTGTG   360
 Ovar-DRB1*02:01       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*02:02       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*02:03       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCAGTGTG   360
@@ -617,6 +643,7 @@ Ovar-DRB1*05:02       CGGGCCAATGTGGACACGTACTGCAGACACAACTACGGGGTCGATGAGAGTTTCACTG
 Ovar-DRB1*05:03       CGGGCCAATGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*06:01       CGGGCCAATGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACTGTG   360
 Ovar-DRB1*06:02       CGGGCCAATGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCAGT---   360
+Ovar-DRB1*06:03       CGGGCCAATGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*07:01       AGGACCGCGGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACTGTG   360
 Ovar-DRB1*07:02       AGGACCGCGGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACTGTG   360
 Ovar-DRB1*07:03       AGGACCGCGGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACT---   360
@@ -628,6 +655,7 @@ Ovar-DRB1*08:03:02    CGGACCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCTTTGAGAGTTTCAGTG
 Ovar-DRB1*08:04       CGGACCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCTTTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*08:05       CGGACCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACTGTG   360
 Ovar-DRB1*08:06       CGGACCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCTTTGAGAGTTTCAGTGTG   360
+Ovar-DRB1*08:07       CGGACCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*09:01       CGGGCCGAGGTGAACACGGTGTGCAGACACAACTATGGGGTCTTTGAGAGTTTCGCTGTG   360
 Ovar-DRB1*09:02       CGGGCCGAGGTGAACACGGTGTGCAGACACAACTATGGGGTCTTTGAGAGTTTCGCTGTG   360
 Ovar-DRB1*10:01       CGGACCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCAGTGTG   360
@@ -673,6 +701,7 @@ Ovar-DRB1*16:08       CGGGCCAATGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCAGTG
 Ovar-DRB1*16:09       CGGGCCAATGTGGACACGTACTGCAGACACAACTACGGGGTCTTTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*16:10       CGGGCCAATGTGGACACGTACTGCAGACACAACTACGGAGTCGGTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*16:11       CGGGCCAATGTGGACACGTACTGCAGACACAACTACGGGGTCTTTGAGAGTTTCAGTGTG   360
+Ovar-DRB1*16:12       CGGGCCAATGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACTGTG   360
 Ovar-DRB1*17:01       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*17:02       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCTTTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*17:03       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCAGTGTG   360
@@ -696,6 +725,7 @@ Ovar-DRB1*24:01       CGGGCCGCCGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACTG
 Ovar-DRB1*25:01       CGGACCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCTTTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*25:02       CGGACCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*25:03       CGGACCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCTTTGAGAGTTTCAGTGTG   360
+Ovar-DRB1*25:04       CGGACCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCTTTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*26:01       CGGGCCGAGGTGGACACGGTGTGCAGACACAACTATGGGGTCGTTGAGAGTTTCACTGTG   360
 Ovar-DRB1*28:01       CGGGCCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCATTGAGAGTTTCAGTGTG   360
 Ovar-DRB1*29:01       CGGGCCGAGGTGGACACGTACTGCAGACACAACTACGGGGTCTTTGAGAGTTTCAGTGTG   360
@@ -706,6 +736,7 @@ Ovar-DRB1*01:03       CAGCGGCGAGTGGAGCCTATAGTGACTGTGTATCCTGCAAAGACCCAGCCCCTGCAGC
 Ovar-DRB1*01:04       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*01:05       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*01:06       CAGCGGCGAG--------------------------------------------------   420
+Ovar-DRB1*01:07       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*02:01       CAGCGGCGAGTGGAGCCTATAGTGACTGTGTATCCTGCAAAGACCCAGCCCCTGCAGCAC   420
 Ovar-DRB1*02:02       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*02:03       CAGCGGCGAG--------------------------------------------------   420
@@ -734,6 +765,7 @@ Ovar-DRB1*05:02       CAGCGGCGAG------------------------------------------------
 Ovar-DRB1*05:03       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*06:01       CAGCGGCGAGTGGAGCCTATAGTGACTGTGTATCCTGCAAAGACCCAGCCCCTGCAGCAC   420
 Ovar-DRB1*06:02       ------------------------------------------------------------   420
+Ovar-DRB1*06:03       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*07:01       CAGCGGCGAGTGGAGCCTATAGTGACTGTGTATCCTGCAAAGACCCAGCCCCTGCAGCAC   420
 Ovar-DRB1*07:02       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*07:03       ------------------------------------------------------------   420
@@ -745,6 +777,7 @@ Ovar-DRB1*08:03:02    CAGCGGCGAG------------------------------------------------
 Ovar-DRB1*08:04       CAGCGGCGAGTGGAGCCTATAGTGACTGTGTATCCTGCAAAGACCCAGCCCCTGCAGCAC   420
 Ovar-DRB1*08:05       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*08:06       CAGCGGCGAGTGGAGCCTATAGTGACTGTGTATCCTGCAAAGACCCAGCCCCTGCAGCAC   420
+Ovar-DRB1*08:07       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*09:01       CAGCGGCGAGTGGAGCCTATAGTGACTGTGTATCCTGCGAAGACCCAGCCCCTGCAGCAC   420
 Ovar-DRB1*09:02       CAGCGGCGAGTGGAGCCTATAGTGACTGTGTATCCTGCGAAGACCCAGCCCCTGCAGCAC   420
 Ovar-DRB1*10:01       CAGCGGCGAGTGGAGCCTATAGTGACTGTGTATCCTGCAAAGACCCAGCCCCTGCAGCAC   420
@@ -790,6 +823,7 @@ Ovar-DRB1*16:08       CAGCGGCGAG------------------------------------------------
 Ovar-DRB1*16:09       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*16:10       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*16:11       CAGCGGCGAG--------------------------------------------------   420
+Ovar-DRB1*16:12       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*17:01       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*17:02       CAGCGGCGAGTGGAGCCTATAGTGACTGTGTATCCTGCAAAGACCCAGCCCCTGCAGCAC   420
 Ovar-DRB1*17:03       CAGCGGCGAG--------------------------------------------------   420
@@ -813,6 +847,7 @@ Ovar-DRB1*24:01       CAGCGGCGAG------------------------------------------------
 Ovar-DRB1*25:01       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*25:02       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*25:03       CAGCGGCGAG--------------------------------------------------   420
+Ovar-DRB1*25:04       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*26:01       CAGCGGCGAGTGGAGCCTACAGTGACTGTGTATCCTGCAAAGACCCAGCCCCTGCAGCAC   420
 Ovar-DRB1*28:01       CAGCGGCGAG--------------------------------------------------   420
 Ovar-DRB1*29:01       CAGCGGCGAG--------------------------------------------------   420
@@ -823,6 +858,7 @@ Ovar-DRB1*01:03       CACAACCTCCTGGTCTGCTCTGTGAATGGATTCTACCCAGGCCACATTGAAGTCAGGT
 Ovar-DRB1*01:04       ------------------------------------------------------------   480
 Ovar-DRB1*01:05       ------------------------------------------------------------   480
 Ovar-DRB1*01:06       ------------------------------------------------------------   480
+Ovar-DRB1*01:07       ------------------------------------------------------------   480
 Ovar-DRB1*02:01       CACAACCTCCTGGTCTGCTCTGTGAATGGATTCTACCCAGGCCACATTGAAGTCAGGTGG   480
 Ovar-DRB1*02:02       ------------------------------------------------------------   480
 Ovar-DRB1*02:03       ------------------------------------------------------------   480
@@ -851,6 +887,7 @@ Ovar-DRB1*05:02       ----------------------------------------------------------
 Ovar-DRB1*05:03       ------------------------------------------------------------   480
 Ovar-DRB1*06:01       CACAACCTCCTGGTCTGCTCTGTGAATGGATTCTACCCAGGCCACATTGAAGTCAGGTGG   480
 Ovar-DRB1*06:02       ------------------------------------------------------------   480
+Ovar-DRB1*06:03       ------------------------------------------------------------   480
 Ovar-DRB1*07:01       CACAACCTCCTGGTCTGCTCTGTGAATGGATTCTACCCAGGCCACATTGAAGTCAGGTGG   480
 Ovar-DRB1*07:02       ------------------------------------------------------------   480
 Ovar-DRB1*07:03       ------------------------------------------------------------   480
@@ -862,6 +899,7 @@ Ovar-DRB1*08:03:02    ----------------------------------------------------------
 Ovar-DRB1*08:04       CACAACCTCCTGGTCTGCTCTGTGAATGGATTCTACCCAGGCCACATTGAAGTCAGGTGG   480
 Ovar-DRB1*08:05       ------------------------------------------------------------   480
 Ovar-DRB1*08:06       CACAACCTCCTGGTCTGCTCTGTGAATGGATTCTACCCAGGCCACATTGAAGTCAGGTGG   480
+Ovar-DRB1*08:07       ------------------------------------------------------------   480
 Ovar-DRB1*09:01       CACAACCTCCTGGTCTGCTCTGTGAACGGATTCTACCCAGGCCACATTGAAGTCAGGTGG   480
 Ovar-DRB1*09:02       CACAACCTCCTGGTCTGCTCTGTGAACGGATTCTACCCAGGCCACATTGAAGTCAGGTGG   480
 Ovar-DRB1*10:01       CACAACCTCCTGGTCTGCTCTGTGAATGGATTCTACCCAGGCCACATTGAAGTCAGGTGG   480
@@ -907,6 +945,7 @@ Ovar-DRB1*16:08       ----------------------------------------------------------
 Ovar-DRB1*16:09       ------------------------------------------------------------   480
 Ovar-DRB1*16:10       ------------------------------------------------------------   480
 Ovar-DRB1*16:11       ------------------------------------------------------------   480
+Ovar-DRB1*16:12       ------------------------------------------------------------   480
 Ovar-DRB1*17:01       ------------------------------------------------------------   480
 Ovar-DRB1*17:02       CACAACCTCCTGGTCTGCTCTGTGAATGGATTCTACCCAGGCCACATTGAAGTCAGGTGG   480
 Ovar-DRB1*17:03       ------------------------------------------------------------   480
@@ -930,6 +969,7 @@ Ovar-DRB1*24:01       ----------------------------------------------------------
 Ovar-DRB1*25:01       ------------------------------------------------------------   480
 Ovar-DRB1*25:02       ------------------------------------------------------------   480
 Ovar-DRB1*25:03       ------------------------------------------------------------   480
+Ovar-DRB1*25:04       ------------------------------------------------------------   480
 Ovar-DRB1*26:01       CACAACCTCCTGGTCTGCTCTGTGAATGGATTCTACCCAGGCCACATTGAAGTCAGGTGG   480
 Ovar-DRB1*28:01       ------------------------------------------------------------   480
 Ovar-DRB1*29:01       ------------------------------------------------------------   480
@@ -940,6 +980,7 @@ Ovar-DRB1*01:03       TTCCGGAACGGCCAC-------------------------------------------
 Ovar-DRB1*01:04       ------------------------------------------------------------   540
 Ovar-DRB1*01:05       ------------------------------------------------------------   540
 Ovar-DRB1*01:06       ------------------------------------------------------------   540
+Ovar-DRB1*01:07       ------------------------------------------------------------   540
 Ovar-DRB1*02:01       TTCCGGAACGGCCACGAAGAGGAGGCTGGGGTGATCTCCACAGGCCTGATCCAGAATGGA   540
 Ovar-DRB1*02:02       ------------------------------------------------------------   540
 Ovar-DRB1*02:03       ------------------------------------------------------------   540
@@ -968,6 +1009,7 @@ Ovar-DRB1*05:02       ----------------------------------------------------------
 Ovar-DRB1*05:03       ------------------------------------------------------------   540
 Ovar-DRB1*06:01       TTCCGGAACGGCCACGAAGAGGAGGCTGGGGTGATCTCCACAGGCCTGATCCAGAATGGA   540
 Ovar-DRB1*06:02       ------------------------------------------------------------   540
+Ovar-DRB1*06:03       ------------------------------------------------------------   540
 Ovar-DRB1*07:01       TTCCGGAACGGCCACGAAGAGGAGGCTGGGGTGATCTCCACAGGCCTGATCCAGAATGGA   540
 Ovar-DRB1*07:02       ------------------------------------------------------------   540
 Ovar-DRB1*07:03       ------------------------------------------------------------   540
@@ -979,6 +1021,7 @@ Ovar-DRB1*08:03:02    ----------------------------------------------------------
 Ovar-DRB1*08:04       TTCCGGAACGGCCAC---------------------------------------------   540
 Ovar-DRB1*08:05       ------------------------------------------------------------   540
 Ovar-DRB1*08:06       TTCCGGAACGGCCACGAAGAGGAGGCTGGGGTGATCTCCACAGGCCTGATCCAGAATGGA   540
+Ovar-DRB1*08:07       ------------------------------------------------------------   540
 Ovar-DRB1*09:01       TTCCGAAACGGCCATGAAGAGGAGGCTGGGGTGATCTCCACAGGCCTGATCCAGAATGGA   540
 Ovar-DRB1*09:02       TTCCGAAACGGCCAT---------------------------------------------   540
 Ovar-DRB1*10:01       TTCCGGAATGGCCACGAAGAGGAGGCTGGGGTGATCTCCACAGGCCTGATCCAGAATGGA   540
@@ -1024,6 +1067,7 @@ Ovar-DRB1*16:08       ----------------------------------------------------------
 Ovar-DRB1*16:09       ------------------------------------------------------------   540
 Ovar-DRB1*16:10       ------------------------------------------------------------   540
 Ovar-DRB1*16:11       ------------------------------------------------------------   540
+Ovar-DRB1*16:12       ------------------------------------------------------------   540
 Ovar-DRB1*17:01       ------------------------------------------------------------   540
 Ovar-DRB1*17:02       TTCCGGAACGGCCAC---------------------------------------------   540
 Ovar-DRB1*17:03       ------------------------------------------------------------   540
@@ -1047,6 +1091,7 @@ Ovar-DRB1*24:01       ----------------------------------------------------------
 Ovar-DRB1*25:01       ------------------------------------------------------------   540
 Ovar-DRB1*25:02       ------------------------------------------------------------   540
 Ovar-DRB1*25:03       ------------------------------------------------------------   540
+Ovar-DRB1*25:04       ------------------------------------------------------------   540
 Ovar-DRB1*26:01       TTCCGGAACGGCCACGAAGAGGAGGCTGGGGTGATCTCCACAGGCCTGATCCAGAATGGA   540
 Ovar-DRB1*28:01       ------------------------------------------------------------   540
 Ovar-DRB1*29:01       ------------------------------------------------------------   540
@@ -1057,6 +1102,7 @@ Ovar-DRB1*01:03       ----------------------------------------------------------
 Ovar-DRB1*01:04       ------------------------------------------------------------   600
 Ovar-DRB1*01:05       ------------------------------------------------------------   600
 Ovar-DRB1*01:06       ------------------------------------------------------------   600
+Ovar-DRB1*01:07       ------------------------------------------------------------   600
 Ovar-DRB1*02:01       GACTGGACCTTCCAGACCATGGTGATGCTTGAAACAGTTCCTCAGAGTGGAGAGGTCTAC   600
 Ovar-DRB1*02:02       ------------------------------------------------------------   600
 Ovar-DRB1*02:03       ------------------------------------------------------------   600
@@ -1085,6 +1131,7 @@ Ovar-DRB1*05:02       ----------------------------------------------------------
 Ovar-DRB1*05:03       ------------------------------------------------------------   600
 Ovar-DRB1*06:01       GACTGGACCTTCCAGACCATGGTGATGCTTGAAACAGTTCCTCAGAGTGGAGAGGTCTAC   600
 Ovar-DRB1*06:02       ------------------------------------------------------------   600
+Ovar-DRB1*06:03       ------------------------------------------------------------   600
 Ovar-DRB1*07:01       GACTGGACCTTCCAGACCATGGTGATGCTTGAAACAGTTCCTCAGAGTGGAGAGGTCTAC   600
 Ovar-DRB1*07:02       ------------------------------------------------------------   600
 Ovar-DRB1*07:03       ------------------------------------------------------------   600
@@ -1096,6 +1143,7 @@ Ovar-DRB1*08:03:02    ----------------------------------------------------------
 Ovar-DRB1*08:04       ------------------------------------------------------------   600
 Ovar-DRB1*08:05       ------------------------------------------------------------   600
 Ovar-DRB1*08:06       GACTGGACCTTCCAGACCATGGTGATGCTTGAAACAGTTCCTCAGAGTGGAGAGGTCTAC   600
+Ovar-DRB1*08:07       ------------------------------------------------------------   600
 Ovar-DRB1*09:01       GACTGGACCTTCCAGACCATGGTGATGCTTGAAACAGTTCCTCAGAGTGGAGAGGTCTAT   600
 Ovar-DRB1*09:02       ------------------------------------------------------------   600
 Ovar-DRB1*10:01       GACTGGACCTTCCAGACCATGGTGATGCTTGAAACAGTTCCTCAGAGTGGAGAGGTCTAC   600
@@ -1141,6 +1189,7 @@ Ovar-DRB1*16:08       ----------------------------------------------------------
 Ovar-DRB1*16:09       ------------------------------------------------------------   600
 Ovar-DRB1*16:10       ------------------------------------------------------------   600
 Ovar-DRB1*16:11       ------------------------------------------------------------   600
+Ovar-DRB1*16:12       ------------------------------------------------------------   600
 Ovar-DRB1*17:01       ------------------------------------------------------------   600
 Ovar-DRB1*17:02       ------------------------------------------------------------   600
 Ovar-DRB1*17:03       ------------------------------------------------------------   600
@@ -1164,6 +1213,7 @@ Ovar-DRB1*24:01       ----------------------------------------------------------
 Ovar-DRB1*25:01       ------------------------------------------------------------   600
 Ovar-DRB1*25:02       ------------------------------------------------------------   600
 Ovar-DRB1*25:03       ------------------------------------------------------------   600
+Ovar-DRB1*25:04       ------------------------------------------------------------   600
 Ovar-DRB1*26:01       GACTGGACCTTCCAGACCATGGTGATGCTTGAAACAGTTCCTCAGAGTGGAGAGGTCTAC   600
 Ovar-DRB1*28:01       ------------------------------------------------------------   600
 Ovar-DRB1*29:01       ------------------------------------------------------------   600
@@ -1174,6 +1224,7 @@ Ovar-DRB1*01:03       ----------------------------------------------------------
 Ovar-DRB1*01:04       ------------------------------------------------------------   660
 Ovar-DRB1*01:05       ------------------------------------------------------------   660
 Ovar-DRB1*01:06       ------------------------------------------------------------   660
+Ovar-DRB1*01:07       ------------------------------------------------------------   660
 Ovar-DRB1*02:01       ACCTGCCAAGTGGATCACCCCAGCCGGACGAGCCCTATCACAGTGGAATGGAGGGCACGG   660
 Ovar-DRB1*02:02       ------------------------------------------------------------   660
 Ovar-DRB1*02:03       ------------------------------------------------------------   660
@@ -1202,6 +1253,7 @@ Ovar-DRB1*05:02       ----------------------------------------------------------
 Ovar-DRB1*05:03       ------------------------------------------------------------   660
 Ovar-DRB1*06:01       ACCTGCCAAGTGGATCACCCCAGCCGGACGAGCCCTATCACAGTGGAATGGAGGGCACGG   660
 Ovar-DRB1*06:02       ------------------------------------------------------------   660
+Ovar-DRB1*06:03       ------------------------------------------------------------   660
 Ovar-DRB1*07:01       ACCTGCCAAGTGGATCACCCCAGCCGGACGAGCCCTATCACAGTGGAATGGAGGGCACGG   660
 Ovar-DRB1*07:02       ------------------------------------------------------------   660
 Ovar-DRB1*07:03       ------------------------------------------------------------   660
@@ -1213,6 +1265,7 @@ Ovar-DRB1*08:03:02    ----------------------------------------------------------
 Ovar-DRB1*08:04       ------------------------------------------------------------   660
 Ovar-DRB1*08:05       ------------------------------------------------------------   660
 Ovar-DRB1*08:06       ACCTGCCAAGTGGATCACCCCAGCCGGACGAGCCCTATCACAGTGGAATGGAGGGCACGG   660
+Ovar-DRB1*08:07       ------------------------------------------------------------   660
 Ovar-DRB1*09:01       ACCTGCCAAGTGGAGCACCCCAGCCGGATGAGCCCTATCACAGTAGAATGGAGGGCACGG   660
 Ovar-DRB1*09:02       ------------------------------------------------------------   660
 Ovar-DRB1*10:01       ACCTGCCAAGTGGATCACCCCAGCCGGACGAGCCCTATCACAGTGGAATGGAGGGCACGG   660
@@ -1258,6 +1311,7 @@ Ovar-DRB1*16:08       ----------------------------------------------------------
 Ovar-DRB1*16:09       ------------------------------------------------------------   660
 Ovar-DRB1*16:10       ------------------------------------------------------------   660
 Ovar-DRB1*16:11       ------------------------------------------------------------   660
+Ovar-DRB1*16:12       ------------------------------------------------------------   660
 Ovar-DRB1*17:01       ------------------------------------------------------------   660
 Ovar-DRB1*17:02       ------------------------------------------------------------   660
 Ovar-DRB1*17:03       ------------------------------------------------------------   660
@@ -1281,6 +1335,7 @@ Ovar-DRB1*24:01       ----------------------------------------------------------
 Ovar-DRB1*25:01       ------------------------------------------------------------   660
 Ovar-DRB1*25:02       ------------------------------------------------------------   660
 Ovar-DRB1*25:03       ------------------------------------------------------------   660
+Ovar-DRB1*25:04       ------------------------------------------------------------   660
 Ovar-DRB1*26:01       ACCTGCCAAGTGGAGCACCCCAGCCGGACGAGCCCTATCACAGTGGAATGGAGGGCACGG   660
 Ovar-DRB1*28:01       ------------------------------------------------------------   660
 Ovar-DRB1*29:01       ------------------------------------------------------------   660
@@ -1291,6 +1346,7 @@ Ovar-DRB1*01:03       ----------------------------------------------------------
 Ovar-DRB1*01:04       ------------------------------------------------------------   720
 Ovar-DRB1*01:05       ------------------------------------------------------------   720
 Ovar-DRB1*01:06       ------------------------------------------------------------   720
+Ovar-DRB1*01:07       ------------------------------------------------------------   720
 Ovar-DRB1*02:01       TCTGACTCAGCTCAGAGCAAGATGATGAGTGGAGTTGGGGGCTTTGTTCTGGGTCTGCTC   720
 Ovar-DRB1*02:02       ------------------------------------------------------------   720
 Ovar-DRB1*02:03       ------------------------------------------------------------   720
@@ -1319,6 +1375,7 @@ Ovar-DRB1*05:02       ----------------------------------------------------------
 Ovar-DRB1*05:03       ------------------------------------------------------------   720
 Ovar-DRB1*06:01       TCTGACTCAGCTCAGAGCAAGATGATGAGTGGAGTTGGGGGCTTTGTTCTGGGTCTGCTC   720
 Ovar-DRB1*06:02       ------------------------------------------------------------   720
+Ovar-DRB1*06:03       ------------------------------------------------------------   720
 Ovar-DRB1*07:01       TCTGACTCAGCTCAGAGCAAGATGATGAGTGGAGTTGGGGGCTTTGTTCTGGGTCTGCTC   720
 Ovar-DRB1*07:02       ------------------------------------------------------------   720
 Ovar-DRB1*07:03       ------------------------------------------------------------   720
@@ -1330,6 +1387,7 @@ Ovar-DRB1*08:03:02    ----------------------------------------------------------
 Ovar-DRB1*08:04       ------------------------------------------------------------   720
 Ovar-DRB1*08:05       ------------------------------------------------------------   720
 Ovar-DRB1*08:06       TCTGACTCAGCTCAGAGCAAGATGATGAGTGGAGTTGGGGGCTTTGTTCTGGGTCTGCTC   720
+Ovar-DRB1*08:07       ------------------------------------------------------------   720
 Ovar-DRB1*09:01       TCTGACTCTGCTCAGAGCAAGATGATGAGTGGAGTTGGGGGCTTTGTGCTGGGTCTGCTC   720
 Ovar-DRB1*09:02       ------------------------------------------------------------   720
 Ovar-DRB1*10:01       TCTGACTCAGCTCAGAGCAAGATGATGAGTGGAGTTGGGGGCTTTGTTCTGGGTCTGCTC   720
@@ -1375,6 +1433,7 @@ Ovar-DRB1*16:08       ----------------------------------------------------------
 Ovar-DRB1*16:09       ------------------------------------------------------------   720
 Ovar-DRB1*16:10       ------------------------------------------------------------   720
 Ovar-DRB1*16:11       ------------------------------------------------------------   720
+Ovar-DRB1*16:12       ------------------------------------------------------------   720
 Ovar-DRB1*17:01       ------------------------------------------------------------   720
 Ovar-DRB1*17:02       ------------------------------------------------------------   720
 Ovar-DRB1*17:03       ------------------------------------------------------------   720
@@ -1398,6 +1457,7 @@ Ovar-DRB1*24:01       ----------------------------------------------------------
 Ovar-DRB1*25:01       ------------------------------------------------------------   720
 Ovar-DRB1*25:02       ------------------------------------------------------------   720
 Ovar-DRB1*25:03       ------------------------------------------------------------   720
+Ovar-DRB1*25:04       ------------------------------------------------------------   720
 Ovar-DRB1*26:01       TCTGACTCAGCTCAGGGCAAGATGATGAGTGGAGTTGGGGGCTTCGTGCTGGGTCTGCTC   720
 Ovar-DRB1*28:01       ------------------------------------------------------------   720
 Ovar-DRB1*29:01       ------------------------------------------------------------   720
@@ -1408,6 +1468,7 @@ Ovar-DRB1*01:03       ----------------------------------------------------------
 Ovar-DRB1*01:04       ------------------------------------------------------------   780
 Ovar-DRB1*01:05       ------------------------------------------------------------   780
 Ovar-DRB1*01:06       ------------------------------------------------------------   780
+Ovar-DRB1*01:07       ------------------------------------------------------------   780
 Ovar-DRB1*02:01       TTCCTTGCGGTGGGGCTCTTCATCTACTTCAGGAATCAGAAAGGACGCCCTACCCTTCAG   780
 Ovar-DRB1*02:02       ------------------------------------------------------------   780
 Ovar-DRB1*02:03       ------------------------------------------------------------   780
@@ -1436,6 +1497,7 @@ Ovar-DRB1*05:02       ----------------------------------------------------------
 Ovar-DRB1*05:03       ------------------------------------------------------------   780
 Ovar-DRB1*06:01       TTCCTTGCGGTGGGGCTCTTCATCTACTTCAGGAATCAGAAAGGACGCCCTACCCTTCAG   780
 Ovar-DRB1*06:02       ------------------------------------------------------------   780
+Ovar-DRB1*06:03       ------------------------------------------------------------   780
 Ovar-DRB1*07:01       TTCCTTGCGGTGGGGCTCTTCATCTACTTCAGGAATCAGAAAGGACGCCCTACCCTTCAG   780
 Ovar-DRB1*07:02       ------------------------------------------------------------   780
 Ovar-DRB1*07:03       ------------------------------------------------------------   780
@@ -1447,6 +1509,7 @@ Ovar-DRB1*08:03:02    ----------------------------------------------------------
 Ovar-DRB1*08:04       ------------------------------------------------------------   780
 Ovar-DRB1*08:05       ------------------------------------------------------------   780
 Ovar-DRB1*08:06       TTCCTTGCGGTGGGGCTCTTCATCTACTTCAGGAATCAGAAAGGACGCCCTACCCTTCAG   780
+Ovar-DRB1*08:07       ------------------------------------------------------------   780
 Ovar-DRB1*09:01       TTCCTTGCAGTGGGACTCTTCATCTACTTCAGGAATCAGAAAGGACGCCCTACACTTCAG   780
 Ovar-DRB1*09:02       ------------------------------------------------------------   780
 Ovar-DRB1*10:01       TTCCTTGCGGTGGGGCTCTTCATCTACTTCAGGAATCAGAAAGGACGCCCTACCCTTCAG   780
@@ -1492,6 +1555,7 @@ Ovar-DRB1*16:08       ----------------------------------------------------------
 Ovar-DRB1*16:09       ------------------------------------------------------------   780
 Ovar-DRB1*16:10       ------------------------------------------------------------   780
 Ovar-DRB1*16:11       ------------------------------------------------------------   780
+Ovar-DRB1*16:12       ------------------------------------------------------------   780
 Ovar-DRB1*17:01       ------------------------------------------------------------   780
 Ovar-DRB1*17:02       ------------------------------------------------------------   780
 Ovar-DRB1*17:03       ------------------------------------------------------------   780
@@ -1515,6 +1579,7 @@ Ovar-DRB1*24:01       ----------------------------------------------------------
 Ovar-DRB1*25:01       ------------------------------------------------------------   780
 Ovar-DRB1*25:02       ------------------------------------------------------------   780
 Ovar-DRB1*25:03       ------------------------------------------------------------   780
+Ovar-DRB1*25:04       ------------------------------------------------------------   780
 Ovar-DRB1*26:01       TTCCTTGCGGTGGGGCTCTTCATCTACTTCAGGAATCAGAAAGGACGCCCTACACTTCAG   780
 Ovar-DRB1*28:01       ------------------------------------------------------------   780
 Ovar-DRB1*29:01       ------------------------------------------------------------   780
@@ -1525,6 +1590,7 @@ Ovar-DRB1*01:03       ---------------------   801
 Ovar-DRB1*01:04       ---------------------   801
 Ovar-DRB1*01:05       ---------------------   801
 Ovar-DRB1*01:06       ---------------------   801
+Ovar-DRB1*01:07       ---------------------   801
 Ovar-DRB1*02:01       CCAACAGGGCTCCTGAGCTGA   801
 Ovar-DRB1*02:02       ---------------------   801
 Ovar-DRB1*02:03       ---------------------   801
@@ -1553,6 +1619,7 @@ Ovar-DRB1*05:02       ---------------------   801
 Ovar-DRB1*05:03       ---------------------   801
 Ovar-DRB1*06:01       CCAACAGGGCTCCTGAGCTGA   801
 Ovar-DRB1*06:02       ---------------------   801
+Ovar-DRB1*06:03       ---------------------   801
 Ovar-DRB1*07:01       CCAACAGGGCTCCTGAGCTGA   801
 Ovar-DRB1*07:02       ---------------------   801
 Ovar-DRB1*07:03       ---------------------   801
@@ -1564,6 +1631,7 @@ Ovar-DRB1*08:03:02    ---------------------   801
 Ovar-DRB1*08:04       ---------------------   801
 Ovar-DRB1*08:05       ---------------------   801
 Ovar-DRB1*08:06       CCAACAGGGCTCCTGAGCTGA   801
+Ovar-DRB1*08:07       ---------------------   801
 Ovar-DRB1*09:01       CCAACAGGGCTCCTGAGCTGA   801
 Ovar-DRB1*09:02       ---------------------   801
 Ovar-DRB1*10:01       CCAACAGGGCTCCTGAGCTGA   801
@@ -1609,6 +1677,7 @@ Ovar-DRB1*16:08       ---------------------   801
 Ovar-DRB1*16:09       ---------------------   801
 Ovar-DRB1*16:10       ---------------------   801
 Ovar-DRB1*16:11       ---------------------   801
+Ovar-DRB1*16:12       ---------------------   801
 Ovar-DRB1*17:01       ---------------------   801
 Ovar-DRB1*17:02       ---------------------   801
 Ovar-DRB1*17:03       ---------------------   801
@@ -1632,6 +1701,7 @@ Ovar-DRB1*24:01       ---------------------   801
 Ovar-DRB1*25:01       ---------------------   801
 Ovar-DRB1*25:02       ---------------------   801
 Ovar-DRB1*25:03       ---------------------   801
+Ovar-DRB1*25:04       ---------------------   801
 Ovar-DRB1*26:01       CCAACAGGGCTCCTGAGCTGA   801
 Ovar-DRB1*28:01       ---------------------   801
 Ovar-DRB1*29:01       ---------------------   801
