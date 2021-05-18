@@ -1,1491 +1,1512 @@
-HLA-DRB3*01:01:02:01  CTGGCCCCTGGTCCTGTCCTCTTCTCCAGCATGGTGTGTCTGAAGCTCCCTGGAGGCTCC    60
-Gogo-DRB3*01:01       ------------------------------ATGGTGTGTCTGAAGCTCCCTGGAGGTTCC    60
+HLA-DRB3*01:01:02:01  CTCTGGCCCCTGGTCCTGTCCTCTTCTCCAGCATGGTGTGTCTGAAGCTCCCTGGAGGCT    60
+Gogo-DRB3*01:01       --------------------------------ATGGTGTGTCTGAAGCTCCCTGGAGGTT    60
 Gogo-DRB3*01:07       ------------------------------------------------------------    60
 Gogo-DRB3*01:08       ------------------------------------------------------------    60
 Gogo-DRB3*04:01       ------------------------------------------------------------    60
 Gogo-DRB3*04:02       ------------------------------------------------------------    60
 
-HLA-DRB3*01:01:02:01  AGCTTGGCAGCGTTGACAGTGACACTGATGGTGCTGAGCTCCCGACTGGCTTTCGCTGGG   120
-Gogo-DRB3*01:01       TGCATGGCAGCGCTGACAGTGACACTGATGGTGCTGAGCTCCCCACTGGCTTTGGCTGGG   120
+HLA-DRB3*01:01:02:01  CCAGCTTGGCAGCGTTGACAGTGACACTGATGGTGCTGAGCTCCCGACTGGCTTTCGCTG   120
+Gogo-DRB3*01:01       CCTGCATGGCAGCGCTGACAGTGACACTGATGGTGCTGAGCTCCCCACTGGCTTTGGCTG   120
 Gogo-DRB3*01:07       ------------------------------------------------------------   120
 Gogo-DRB3*01:08       ------------------------------------------------------------   120
 Gogo-DRB3*04:01       ------------------------------------------------------------   120
 Gogo-DRB3*04:02       ------------------------------------------------------------   120
 
-HLA-DRB3*01:01:02:01  GACACCCGACGTAAGAGCACATTGAGGGTGCTGAGCTACTATGGGGTGGGGGAATATAGG   180
-Gogo-DRB3*01:01       GACACCCGAC--------------------------------------------------   180
+HLA-DRB3*01:01:02:01  GGGACACCCGACGTAAGAGCACATTGAGGGTGCTGAGCTACTATGGGGTGGGGGAATATA   180
+Gogo-DRB3*01:01       GGGACACCCGAC------------------------------------------------   180
 Gogo-DRB3*01:07       ------------------------------------------------------------   180
 Gogo-DRB3*01:08       ------------------------------------------------------------   180
 Gogo-DRB3*04:01       ------------------------------------------------------------   180
 Gogo-DRB3*04:02       ------------------------------------------------------------   180
 
-HLA-DRB3*01:01:02:01  GAGTTGTGTTAACATTGTGCCCAGGCCATGTCCCTTAAGAAATTGTGAGGTTTTCTTCAG   240
+HLA-DRB3*01:01:02:01  GGGAGTTGTGTTAACATTGTGCCCAGGCCATGTCCCTTAAGAAATTGTGAGGTTTTCTTC   240
 Gogo-DRB3*01:01       ------------------------------------------------------------   240
 Gogo-DRB3*01:07       ------------------------------------------------------------   240
 Gogo-DRB3*01:08       ------------------------------------------------------------   240
 Gogo-DRB3*04:01       ------------------------------------------------------------   240
 Gogo-DRB3*04:02       ------------------------------------------------------------   240
 
-HLA-DRB3*01:01:02:01  AGATTGCTCATCTTTATCAAGGGATCGCAAATTATTTCCTCCACAAAAGGAACTTGGCTA   300
+HLA-DRB3*01:01:02:01  AGAGATTGCTCATCTTTATCAAGGGATCGCAAATTATTTCCTCCACAAAAGGAACTTGGC   300
 Gogo-DRB3*01:01       ------------------------------------------------------------   300
 Gogo-DRB3*01:07       ------------------------------------------------------------   300
 Gogo-DRB3*01:08       ------------------------------------------------------------   300
 Gogo-DRB3*04:01       ------------------------------------------------------------   300
 Gogo-DRB3*04:02       ------------------------------------------------------------   300
 
-HLA-DRB3*01:01:02:01  CTTGCCCTCTCCATGAGACTTGTGTAAGGGGCCTTTGTACAGGCCATTTCTTCTCAAATC   360
+HLA-DRB3*01:01:02:01  TACTTGCCCTCTCCATGAGACTTGTGTAAGGGGCCTTTGTACAGGCCATTTCTTCTCAAA   360
 Gogo-DRB3*01:01       ------------------------------------------------------------   360
 Gogo-DRB3*01:07       ------------------------------------------------------------   360
 Gogo-DRB3*01:08       ------------------------------------------------------------   360
 Gogo-DRB3*04:01       ------------------------------------------------------------   360
 Gogo-DRB3*04:02       ------------------------------------------------------------   360
 
-HLA-DRB3*01:01:02:01  TCCACCAATAAAACCTTTGCATCACATGTACTCAGGGTCTTTAGAGGATTTGGAAATAAG   420
+HLA-DRB3*01:01:02:01  TCTCCACCAATAAAACCTTTGCATCACATGTACTCAGGGTCTTTAGAGGATTTGGAAATA   420
 Gogo-DRB3*01:01       ------------------------------------------------------------   420
 Gogo-DRB3*01:07       ------------------------------------------------------------   420
 Gogo-DRB3*01:08       ------------------------------------------------------------   420
 Gogo-DRB3*04:01       ------------------------------------------------------------   420
 Gogo-DRB3*04:02       ------------------------------------------------------------   420
 
-HLA-DRB3*01:01:02:01  GATGCTAAAATAAATTCCCCATACAGCAATTCCCTTTATTATGTTGACTTATGTCAGACA   480
+HLA-DRB3*01:01:02:01  AGGATGCTAAAATAAATTCCCCATACAGCAATTCCCTTTATTATGTTGACTTATGTCAGA   480
 Gogo-DRB3*01:01       ------------------------------------------------------------   480
 Gogo-DRB3*01:07       ------------------------------------------------------------   480
 Gogo-DRB3*01:08       ------------------------------------------------------------   480
 Gogo-DRB3*04:01       ------------------------------------------------------------   480
 Gogo-DRB3*04:02       ------------------------------------------------------------   480
 
-HLA-DRB3*01:01:02:01  AAAGGAGGTTTTTACTGAAAATTTTGTGGGAGTCAAGGGAATTCAAAGGGTCTCTCCTAG   540
+HLA-DRB3*01:01:02:01  CAAAAGGAGGTTTTTACTGAAAATTTTGTGGGAGTCAAGGGAATTCAAAGGGTCTCTCCT   540
 Gogo-DRB3*01:01       ------------------------------------------------------------   540
 Gogo-DRB3*01:07       ------------------------------------------------------------   540
 Gogo-DRB3*01:08       ------------------------------------------------------------   540
 Gogo-DRB3*04:01       ------------------------------------------------------------   540
 Gogo-DRB3*04:02       ------------------------------------------------------------   540
 
-HLA-DRB3*01:01:02:01  ACGATCCTGGGTTATGTCCTCCACAGGACCTGTGGTGTTGGCCCCTCTTCCTCATATGTG   600
+HLA-DRB3*01:01:02:01  AGACGATCCTGGGTTATGTCCTCCACAGGACCTGTGGTGTTGGCCCCTCTTCCTCATATG   600
 Gogo-DRB3*01:01       ------------------------------------------------------------   600
 Gogo-DRB3*01:07       ------------------------------------------------------------   600
 Gogo-DRB3*01:08       ------------------------------------------------------------   600
 Gogo-DRB3*04:01       ------------------------------------------------------------   600
 Gogo-DRB3*04:02       ------------------------------------------------------------   600
 
-HLA-DRB3*01:01:02:01  AGGATGGACCCAGTGGCCTCCCTAGTATCTCCTTTCTTTTCTTTCTGAACTCCAATGTTT   660
+HLA-DRB3*01:01:02:01  TGAGGATGGACCCAGTGGCCTCCCTAGTATCTCCTTTCTTTTCTTTCTGAACTCCAATGT   660
 Gogo-DRB3*01:01       ------------------------------------------------------------   660
 Gogo-DRB3*01:07       ------------------------------------------------------------   660
 Gogo-DRB3*01:08       ------------------------------------------------------------   660
 Gogo-DRB3*04:01       ------------------------------------------------------------   660
 Gogo-DRB3*04:02       ------------------------------------------------------------   660
 
-HLA-DRB3*01:01:02:01  ATAAAGCCTGTATCCCTGTAGTGTATGTAGGTTGTCTGACAGAAGTTATACTTAGTGCTC   720
+HLA-DRB3*01:01:02:01  TTATAAAGCCTGTATCCCTGTAGTGTATGTAGGTTGTCTGACAGAAGTTATACTTAGTGC   720
 Gogo-DRB3*01:01       ------------------------------------------------------------   720
 Gogo-DRB3*01:07       ------------------------------------------------------------   720
 Gogo-DRB3*01:08       ------------------------------------------------------------   720
 Gogo-DRB3*04:01       ------------------------------------------------------------   720
 Gogo-DRB3*04:02       ------------------------------------------------------------   720
 
-HLA-DRB3*01:01:02:01  TTTCTTTCTTATGGGGAAAAATCCCTGGAACTGAAGCTGAGATCATTAGTACTTGGAATC   780
+HLA-DRB3*01:01:02:01  TCTTTCTTTCTTATGGGGAAAAATCCCTGGAACTGAAGCTGAGATCATTAGTACTTGGAA   780
 Gogo-DRB3*01:01       ------------------------------------------------------------   780
 Gogo-DRB3*01:07       ------------------------------------------------------------   780
 Gogo-DRB3*01:08       ------------------------------------------------------------   780
 Gogo-DRB3*04:01       ------------------------------------------------------------   780
 Gogo-DRB3*04:02       ------------------------------------------------------------   780
 
-HLA-DRB3*01:01:02:01  ACCTTACAGATACAGAGCACTTATGAGGTATTCTTTGGTGCCTAAAGAACTTAAGGCATC   840
+HLA-DRB3*01:01:02:01  TCACCTTACAGATACAGAGCACTTATGAGGTATTCTTTGGTGCCTAAAGAACTTAAGGCA   840
 Gogo-DRB3*01:01       ------------------------------------------------------------   840
 Gogo-DRB3*01:07       ------------------------------------------------------------   840
 Gogo-DRB3*01:08       ------------------------------------------------------------   840
 Gogo-DRB3*04:01       ------------------------------------------------------------   840
 Gogo-DRB3*04:02       ------------------------------------------------------------   840
 
-HLA-DRB3*01:01:02:01  CTCTGAAAAACTGGCCCAGGTTAGTGTTTATTATGAATCTTTTTAACCTTTCTATACTTG   900
+HLA-DRB3*01:01:02:01  TCCTCTGAAAAACTGGCCCAGGTTAGTGTTTATTATGAATCTTTTTAACCTTTCTATACT   900
 Gogo-DRB3*01:01       ------------------------------------------------------------   900
 Gogo-DRB3*01:07       ------------------------------------------------------------   900
 Gogo-DRB3*01:08       ------------------------------------------------------------   900
 Gogo-DRB3*04:01       ------------------------------------------------------------   900
 Gogo-DRB3*04:02       ------------------------------------------------------------   900
 
-HLA-DRB3*01:01:02:01  TTTCTCCTACATCTCCTACATGCTCTAACTAGACATGACAGAAGAGATTTAACTAATGTA   960
+HLA-DRB3*01:01:02:01  TGTTTCTCCTACATCTCCTACATGCTCTAACTAGACATGACAGAAGAGATTTAACTAATG   960
 Gogo-DRB3*01:01       ------------------------------------------------------------   960
 Gogo-DRB3*01:07       ------------------------------------------------------------   960
 Gogo-DRB3*01:08       ------------------------------------------------------------   960
 Gogo-DRB3*04:01       ------------------------------------------------------------   960
 Gogo-DRB3*04:02       ------------------------------------------------------------   960
 
-HLA-DRB3*01:01:02:01  GTATAAATTATATGAAATTCTATTTTTGTAAGTCAAAAATAATCAAATATCAGAAATTTA  1020
+HLA-DRB3*01:01:02:01  TAGTATAAATTATATGAAATTCTATTTTTGTAAGTCAAAAATAATCAAATATCAGAAATT  1020
 Gogo-DRB3*01:01       ------------------------------------------------------------  1020
 Gogo-DRB3*01:07       ------------------------------------------------------------  1020
 Gogo-DRB3*01:08       ------------------------------------------------------------  1020
 Gogo-DRB3*04:01       ------------------------------------------------------------  1020
 Gogo-DRB3*04:02       ------------------------------------------------------------  1020
 
-HLA-DRB3*01:01:02:01  ATAATGTTCAAACTATATACTGTGTGGGGTTACCGAGACAATGTGGACATTGTTCACATC  1080
+HLA-DRB3*01:01:02:01  TAATAATGTTCAAACTATATACTGTGTGGGGTTACCGAGACAATGTGGACATTGTTCACA  1080
 Gogo-DRB3*01:01       ------------------------------------------------------------  1080
 Gogo-DRB3*01:07       ------------------------------------------------------------  1080
 Gogo-DRB3*01:08       ------------------------------------------------------------  1080
 Gogo-DRB3*04:01       ------------------------------------------------------------  1080
 Gogo-DRB3*04:02       ------------------------------------------------------------  1080
 
-HLA-DRB3*01:01:02:01  TCATAGGGCTGAAAGTCAATGGGCAAGTCCTGGAAACTCATTGTCTTACTGCGGTCTTGT  1140
+HLA-DRB3*01:01:02:01  TCTCATAGGGCTGAAAGTCAATGGGCAAGTCCTGGAAACTCATTGTCTTACTGCGGTCTT  1140
 Gogo-DRB3*01:01       ------------------------------------------------------------  1140
 Gogo-DRB3*01:07       ------------------------------------------------------------  1140
 Gogo-DRB3*01:08       ------------------------------------------------------------  1140
 Gogo-DRB3*04:01       ------------------------------------------------------------  1140
 Gogo-DRB3*04:02       ------------------------------------------------------------  1140
 
-HLA-DRB3*01:01:02:01  CCTCAGTTTCATAGGTTCACCCATCATGCCCTCAGCTTTCCTTAATTAGCCATGTCTGCT  1200
+HLA-DRB3*01:01:02:01  GTCCTCAGTTTCATAGGTTCACCCATCATGCCCTCAGCTTTCCTTAATTAGCCATGTCTG  1200
 Gogo-DRB3*01:01       ------------------------------------------------------------  1200
 Gogo-DRB3*01:07       ------------------------------------------------------------  1200
 Gogo-DRB3*01:08       ------------------------------------------------------------  1200
 Gogo-DRB3*04:01       ------------------------------------------------------------  1200
 Gogo-DRB3*04:02       ------------------------------------------------------------  1200
 
-HLA-DRB3*01:01:02:01  TACCTCTTCCTCCCATTTCTCTCTATTTTTCCCCAACTATGTTGTCATCATTTCCAGAAA  1260
+HLA-DRB3*01:01:02:01  CTTACCTCTTCCTCCCATTTCTCTCTATTTTTCCCCAACTATGTTGTCATCATTTCCAGA  1260
 Gogo-DRB3*01:01       ------------------------------------------------------------  1260
 Gogo-DRB3*01:07       ------------------------------------------------------------  1260
 Gogo-DRB3*01:08       ------------------------------------------------------------  1260
 Gogo-DRB3*04:01       ------------------------------------------------------------  1260
 Gogo-DRB3*04:02       ------------------------------------------------------------  1260
 
-HLA-DRB3*01:01:02:01  TCTCTAAAGCTTGCACAGATCCTTAGCACTATGAGATCCACTGAAAGAGATAATATTTTT  1320
+HLA-DRB3*01:01:02:01  AATCTCTAAAGCTTGCACAGATCCTTAGCACTATGAGATCCACTGAAAGAGATAATATTT  1320
 Gogo-DRB3*01:01       ------------------------------------------------------------  1320
 Gogo-DRB3*01:07       ------------------------------------------------------------  1320
 Gogo-DRB3*01:08       ------------------------------------------------------------  1320
 Gogo-DRB3*04:01       ------------------------------------------------------------  1320
 Gogo-DRB3*04:02       ------------------------------------------------------------  1320
 
-HLA-DRB3*01:01:02:01  CTCTTTGAGATAGGGCCTGCCTCTGTCACCCAGGCTGTAGCTCAGTGGTGCGATCGAGGC  1380
+HLA-DRB3*01:01:02:01  TTCTCTTTGAGATAGGGCCTGCCTCTGTCACCCAGGCTGTAGCTCAGTGGTGCGATCGAG  1380
 Gogo-DRB3*01:01       ------------------------------------------------------------  1380
 Gogo-DRB3*01:07       ------------------------------------------------------------  1380
 Gogo-DRB3*01:08       ------------------------------------------------------------  1380
 Gogo-DRB3*04:01       ------------------------------------------------------------  1380
 Gogo-DRB3*04:02       ------------------------------------------------------------  1380
 
-HLA-DRB3*01:01:02:01  TCACTGCAACCTCTGCCTCCCACACTCAAGCAATCCTCCCTCCTCAGGCTCCAGAGTAGC  1440
+HLA-DRB3*01:01:02:01  GCTCACTGCAACCTCTGCCTCCCACACTCAAGCAATCCTCCCTCCTCAGGCTCCAGAGTA  1440
 Gogo-DRB3*01:01       ------------------------------------------------------------  1440
 Gogo-DRB3*01:07       ------------------------------------------------------------  1440
 Gogo-DRB3*01:08       ------------------------------------------------------------  1440
 Gogo-DRB3*04:01       ------------------------------------------------------------  1440
 Gogo-DRB3*04:02       ------------------------------------------------------------  1440
 
-HLA-DRB3*01:01:02:01  TGGGAATACAGGCAGGCAACCACGCCCAGCTAATTTTTGCAATTTTGGTAGAGAGGAGAT  1500
+HLA-DRB3*01:01:02:01  GCTGGGAATACAGGCAGGCAACCACGCCCAGCTAATTTTTGCAATTTTGGTAGAGAGGAG  1500
 Gogo-DRB3*01:01       ------------------------------------------------------------  1500
 Gogo-DRB3*01:07       ------------------------------------------------------------  1500
 Gogo-DRB3*01:08       ------------------------------------------------------------  1500
 Gogo-DRB3*04:01       ------------------------------------------------------------  1500
 Gogo-DRB3*04:02       ------------------------------------------------------------  1500
 
-HLA-DRB3*01:01:02:01  TTTGCCATATTGCCCAGGCTGGTCTTAAACTGCTGAACTCAAGCAATCCTCCTGCCTTAG  1560
+HLA-DRB3*01:01:02:01  ATTTTGCCATATTGCCCAGGCTGGTCTTAAACTGCTGAACTCAAGCAATCCTCCTGCCTT  1560
 Gogo-DRB3*01:01       ------------------------------------------------------------  1560
 Gogo-DRB3*01:07       ------------------------------------------------------------  1560
 Gogo-DRB3*01:08       ------------------------------------------------------------  1560
 Gogo-DRB3*04:01       ------------------------------------------------------------  1560
 Gogo-DRB3*04:02       ------------------------------------------------------------  1560
 
-HLA-DRB3*01:01:02:01  CCTCCCAACATGCTAGGATTATAGATGTGAGCCAGTGTGCCCAGGCAAAAGAGATGACTC  1620
+HLA-DRB3*01:01:02:01  AGCCTCCCAACATGCTAGGATTATAGATGTGAGCCAGTGTGCCCAGGCAAAAGAGATGAC  1620
 Gogo-DRB3*01:01       ------------------------------------------------------------  1620
 Gogo-DRB3*01:07       ------------------------------------------------------------  1620
 Gogo-DRB3*01:08       ------------------------------------------------------------  1620
 Gogo-DRB3*04:01       ------------------------------------------------------------  1620
 Gogo-DRB3*04:02       ------------------------------------------------------------  1620
 
-HLA-DRB3*01:01:02:01  TTAATAAAAAGATTTCCTTTTTCTTAAATCACTGTTCCTTTATCCATGAATTCTTCTTCC  1680
+HLA-DRB3*01:01:02:01  TCTTAATAAAAAGATTTCCTTTTTCTTAAATCACTGTTCCTTTATCCATGAATTCTTCTT  1680
 Gogo-DRB3*01:01       ------------------------------------------------------------  1680
 Gogo-DRB3*01:07       ------------------------------------------------------------  1680
 Gogo-DRB3*01:08       ------------------------------------------------------------  1680
 Gogo-DRB3*04:01       ------------------------------------------------------------  1680
 Gogo-DRB3*04:02       ------------------------------------------------------------  1680
 
-HLA-DRB3*01:01:02:01  AACTAGAAGAAGGAGAAAGAAGTTTGCCTGTATTTCTCACCAGGAGGAGAAGGGGTCTAG  1740
+HLA-DRB3*01:01:02:01  CCAACTAGAAGAAGGAGAAAGAAGTTTGCCTGTATTTCTCACCAGGAGGAGAAGGGGTCT  1740
 Gogo-DRB3*01:01       ------------------------------------------------------------  1740
 Gogo-DRB3*01:07       ------------------------------------------------------------  1740
 Gogo-DRB3*01:08       ------------------------------------------------------------  1740
 Gogo-DRB3*04:01       ------------------------------------------------------------  1740
 Gogo-DRB3*04:02       ------------------------------------------------------------  1740
 
-HLA-DRB3*01:01:02:01  TGTGACATCAAAATGAAAGAGTGCTGGAACTTGAGCCCCTTCTTGCTTTCCAGGATCCCC  1800
+HLA-DRB3*01:01:02:01  AGTGTGACATCAAAATGAAAGAGTGCTGGAACTTGAGCCCCTTCTTGCTTTCCAGGATCC  1800
 Gogo-DRB3*01:01       ------------------------------------------------------------  1800
 Gogo-DRB3*01:07       ------------------------------------------------------------  1800
 Gogo-DRB3*01:08       ------------------------------------------------------------  1800
 Gogo-DRB3*04:01       ------------------------------------------------------------  1800
 Gogo-DRB3*04:02       ------------------------------------------------------------  1800
 
-HLA-DRB3*01:01:02:01  ACAGTGATCAGTTCCCATACCCTGGTTTATTTGTGTAAACCACACTTATTTTTCTCAGCA  1860
+HLA-DRB3*01:01:02:01  CCACAGTGATCAGTTCCCATACCCTGGTTTATTTGTGTAAACCACACTTATTTTTCTCAG  1860
 Gogo-DRB3*01:01       ------------------------------------------------------------  1860
 Gogo-DRB3*01:07       ------------------------------------------------------------  1860
 Gogo-DRB3*01:08       ------------------------------------------------------------  1860
 Gogo-DRB3*04:01       ------------------------------------------------------------  1860
 Gogo-DRB3*04:02       ------------------------------------------------------------  1860
 
-HLA-DRB3*01:01:02:01  GCTACTGTGTACTGGGTTCCATTCTAGGTTCAAATCATTCTATTTGATTAAGATAGAGAG  1920
+HLA-DRB3*01:01:02:01  CAGCTACTGTGTACTGGGTTCCATTCTAGGTTCAAATCATTCTATTTGATTAAGATAGAG  1920
 Gogo-DRB3*01:01       ------------------------------------------------------------  1920
 Gogo-DRB3*01:07       ------------------------------------------------------------  1920
 Gogo-DRB3*01:08       ------------------------------------------------------------  1920
 Gogo-DRB3*04:01       ------------------------------------------------------------  1920
 Gogo-DRB3*04:02       ------------------------------------------------------------  1920
 
-HLA-DRB3*01:01:02:01  GGTCCCAACTCTCAAGGAAGTTACAAGAGTGGAGGAGACAGACACTAACCCAATAAGCAT  1980
+HLA-DRB3*01:01:02:01  AGGGTCCCAACTCTCAAGGAAGTTACAAGAGTGGAGGAGACAGACACTAACCCAATAAGC  1980
 Gogo-DRB3*01:01       ------------------------------------------------------------  1980
 Gogo-DRB3*01:07       ------------------------------------------------------------  1980
 Gogo-DRB3*01:08       ------------------------------------------------------------  1980
 Gogo-DRB3*04:01       ------------------------------------------------------------  1980
 Gogo-DRB3*04:02       ------------------------------------------------------------  1980
 
-HLA-DRB3*01:01:02:01  TTAACAAAGAAGATAATGTTAGAGAGTCATAGTGCACTGAAGAAAAGACATCAGATGTGT  2040
+HLA-DRB3*01:01:02:01  ATTTAACAAAGAAGATAATGTTAGAGAGTCATAGTGCACTGAAGAAAAGACATCAGATGT  2040
 Gogo-DRB3*01:01       ------------------------------------------------------------  2040
 Gogo-DRB3*01:07       ------------------------------------------------------------  2040
 Gogo-DRB3*01:08       ------------------------------------------------------------  2040
 Gogo-DRB3*04:01       ------------------------------------------------------------  2040
 Gogo-DRB3*04:02       ------------------------------------------------------------  2040
 
-HLA-DRB3*01:01:02:01  GTTGAAAGAGAGAAATGGATTCATCTACTTTAGTTTGTATGTTTAGGGAGCTCTACCTGA  2100
+HLA-DRB3*01:01:02:01  GTGTTGAAAGAGAGAAATGGATTCATCTACTTTAGTTTGTATGTTTAGGGAGCTCTACCT  2100
 Gogo-DRB3*01:01       ------------------------------------------------------------  2100
 Gogo-DRB3*01:07       ------------------------------------------------------------  2100
 Gogo-DRB3*01:08       ------------------------------------------------------------  2100
 Gogo-DRB3*04:01       ------------------------------------------------------------  2100
 Gogo-DRB3*04:02       ------------------------------------------------------------  2100
 
-HLA-DRB3*01:01:02:01  GAAAGTGATATTCAGCTGAGACAACAAAATAAGTAGACAGTCATGAAGATCTAACGGACG  2160
+HLA-DRB3*01:01:02:01  GAGAAAGTGATATTCAGCTGAGACAACAAAATAAGTAGACAGTCATGAAGATCTAACGGA  2160
 Gogo-DRB3*01:01       ------------------------------------------------------------  2160
 Gogo-DRB3*01:07       ------------------------------------------------------------  2160
 Gogo-DRB3*01:08       ------------------------------------------------------------  2160
 Gogo-DRB3*04:01       ------------------------------------------------------------  2160
 Gogo-DRB3*04:02       ------------------------------------------------------------  2160
 
-HLA-DRB3*01:01:02:01  AAAGTTTCAGGGAGACCGAATCGAGGGAAAGCACTGGTGTGGGAAATTATGTGGAGGGAG  2220
+HLA-DRB3*01:01:02:01  CGAAAGTTTCAGGGAGACCGAATCGAGGGAAAGCACTGGTGTGGGAAATTATGTGGAGGG  2220
 Gogo-DRB3*01:01       ------------------------------------------------------------  2220
 Gogo-DRB3*01:07       ------------------------------------------------------------  2220
 Gogo-DRB3*01:08       ------------------------------------------------------------  2220
 Gogo-DRB3*04:01       ------------------------------------------------------------  2220
 Gogo-DRB3*04:02       ------------------------------------------------------------  2220
 
-HLA-DRB3*01:01:02:01  AGAAAGAAGGCTAGAAGGGCTGACGTATAGAAAGCAAGGAAATGGAGAGGCAGAAGATGA  2280
+HLA-DRB3*01:01:02:01  AGAGAAAGAAGGCTAGAAGGGCTGACGTATAGAAAGCAAGGAAATGGAGAGGCAGAAGAT  2280
 Gogo-DRB3*01:01       ------------------------------------------------------------  2280
 Gogo-DRB3*01:07       ------------------------------------------------------------  2280
 Gogo-DRB3*01:08       ------------------------------------------------------------  2280
 Gogo-DRB3*04:01       ------------------------------------------------------------  2280
 Gogo-DRB3*04:02       ------------------------------------------------------------  2280
 
-HLA-DRB3*01:01:02:01  GGTAGGACACAGAGAGGAAGTCAGGAGCCTCATCATTATAGGCTCTGATGTCCACGGTAA  2340
+HLA-DRB3*01:01:02:01  GAGGTAGGACACAGAGAGGAAGTCAGGAGCCTCATCATTATAGGCTCTGATGTCCACGGT  2340
 Gogo-DRB3*01:01       ------------------------------------------------------------  2340
 Gogo-DRB3*01:07       ------------------------------------------------------------  2340
 Gogo-DRB3*01:08       ------------------------------------------------------------  2340
 Gogo-DRB3*04:01       ------------------------------------------------------------  2340
 Gogo-DRB3*04:02       ------------------------------------------------------------  2340
 
-HLA-DRB3*01:01:02:01  AAAATTTGAATTTTATTTTATTTTTATTTATTTTTAAATTTTATTTATTTATTTATTTTG  2400
+HLA-DRB3*01:01:02:01  AAAAAATTTGAATTTTATTTTATTTTTATTTATTTTTAAATTTTATTTATTTATTTATTT  2400
 Gogo-DRB3*01:01       ------------------------------------------------------------  2400
 Gogo-DRB3*01:07       ------------------------------------------------------------  2400
 Gogo-DRB3*01:08       ------------------------------------------------------------  2400
 Gogo-DRB3*04:01       ------------------------------------------------------------  2400
 Gogo-DRB3*04:02       ------------------------------------------------------------  2400
 
-HLA-DRB3*01:01:02:01  AGATGGAGTTTCATTCTTGTTGCCCAGGCTGGAGTGCCATGGCACAATCTCCACTCACTG  2460
+HLA-DRB3*01:01:02:01  TGAGATGGAGTTTCATTCTTGTTGCCCAGGCTGGAGTGCCATGGCACAATCTCCACTCAC  2460
 Gogo-DRB3*01:01       ------------------------------------------------------------  2460
 Gogo-DRB3*01:07       ------------------------------------------------------------  2460
 Gogo-DRB3*01:08       ------------------------------------------------------------  2460
 Gogo-DRB3*04:01       ------------------------------------------------------------  2460
 Gogo-DRB3*04:02       ------------------------------------------------------------  2460
 
-HLA-DRB3*01:01:02:01  CAACCTCCACCTCCTGGGTTCAAGTGATTCTCCTGCCTCAGCTTCCCAAGTAACTGGGAT  2520
+HLA-DRB3*01:01:02:01  TGCAACCTCCACCTCCTGGGTTCAAGTGATTCTCCTGCCTCAGCTTCCCAAGTAACTGGG  2520
 Gogo-DRB3*01:01       ------------------------------------------------------------  2520
 Gogo-DRB3*01:07       ------------------------------------------------------------  2520
 Gogo-DRB3*01:08       ------------------------------------------------------------  2520
 Gogo-DRB3*04:01       ------------------------------------------------------------  2520
 Gogo-DRB3*04:02       ------------------------------------------------------------  2520
 
-HLA-DRB3*01:01:02:01  TACAGGCACCCACCACCATACCTGGCTAATTTTTTTGTATTTTTAGTATACATGGGGTAT  2580
+HLA-DRB3*01:01:02:01  ATTACAGGCACCCACCACCATACCTGGCTAATTTTTTTGTATTTTTAGTATACATGGGGT  2580
 Gogo-DRB3*01:01       ------------------------------------------------------------  2580
 Gogo-DRB3*01:07       ------------------------------------------------------------  2580
 Gogo-DRB3*01:08       ------------------------------------------------------------  2580
 Gogo-DRB3*04:01       ------------------------------------------------------------  2580
 Gogo-DRB3*04:02       ------------------------------------------------------------  2580
 
-HLA-DRB3*01:01:02:01  CACCATGTTGACCAGGCTGGTCTTGAACTCCTGACCTCAGATAATCTGTCTGCCTTGGCC  2640
+HLA-DRB3*01:01:02:01  ATCACCATGTTGACCAGGCTGGTCTTGAACTCCTGACCTCAGATAATCTGTCTGCCTTGG  2640
 Gogo-DRB3*01:01       ------------------------------------------------------------  2640
 Gogo-DRB3*01:07       ------------------------------------------------------------  2640
 Gogo-DRB3*01:08       ------------------------------------------------------------  2640
 Gogo-DRB3*04:01       ------------------------------------------------------------  2640
 Gogo-DRB3*04:02       ------------------------------------------------------------  2640
 
-HLA-DRB3*01:01:02:01  TCCCAAAGTGCTGGGATTACAGGCGTGAGCCACCACCCCCGGACTGAATTTTATTTAAAT  2700
+HLA-DRB3*01:01:02:01  CCTCCCAAAGTGCTGGGATTACAGGCGTGAGCCACCACCCCCGGACTGAATTTTATTTAA  2700
 Gogo-DRB3*01:01       ------------------------------------------------------------  2700
 Gogo-DRB3*01:07       ------------------------------------------------------------  2700
 Gogo-DRB3*01:08       ------------------------------------------------------------  2700
 Gogo-DRB3*04:01       ------------------------------------------------------------  2700
 Gogo-DRB3*04:02       ------------------------------------------------------------  2700
 
-HLA-DRB3*01:01:02:01  AGATATGAGAAGCTGCTGTATGGTTACAAGGAGAGTCAATTTATATTCAACTTTTGTGTG  2760
+HLA-DRB3*01:01:02:01  ATAGATATGAGAAGCTGCTGTATGGTTACAAGGAGAGTCAATTTATATTCAACTTTTGTG  2760
 Gogo-DRB3*01:01       ------------------------------------------------------------  2760
 Gogo-DRB3*01:07       ------------------------------------------------------------  2760
 Gogo-DRB3*01:08       ------------------------------------------------------------  2760
 Gogo-DRB3*04:01       ------------------------------------------------------------  2760
 Gogo-DRB3*04:02       ------------------------------------------------------------  2760
 
-HLA-DRB3*01:01:02:01  TGTGTGTGATGGAGTCTCACTCTGTTGCCCAGGCTAGATTGCAGTGGCACAATCTCGGCT  2820
+HLA-DRB3*01:01:02:01  TGTGTGTGTGATGGAGTCTCACTCTGTTGCCCAGGCTAGATTGCAGTGGCACAATCTCGG  2820
 Gogo-DRB3*01:01       ------------------------------------------------------------  2820
 Gogo-DRB3*01:07       ------------------------------------------------------------  2820
 Gogo-DRB3*01:08       ------------------------------------------------------------  2820
 Gogo-DRB3*04:01       ------------------------------------------------------------  2820
 Gogo-DRB3*04:02       ------------------------------------------------------------  2820
 
-HLA-DRB3*01:01:02:01  CACTGCAACCTCCGCCTCCTGGGTTCAAGAAATTATCCTTCCTCAGCCTCCTGAGTAGCT  2880
+HLA-DRB3*01:01:02:01  CTCACTGCAACCTCCGCCTCCTGGGTTCAAGAAATTATCCTTCCTCAGCCTCCTGAGTAG  2880
 Gogo-DRB3*01:01       ------------------------------------------------------------  2880
 Gogo-DRB3*01:07       ------------------------------------------------------------  2880
 Gogo-DRB3*01:08       ------------------------------------------------------------  2880
 Gogo-DRB3*04:01       ------------------------------------------------------------  2880
 Gogo-DRB3*04:02       ------------------------------------------------------------  2880
 
-HLA-DRB3*01:01:02:01  GGGACCACAGGTGCATGCCACCACAGTCGGCTACTTTTTGTATTTTTAGTAGGGATGGGG  2940
+HLA-DRB3*01:01:02:01  CTGGGACCACAGGTGCATGCCACCACAGTCGGCTACTTTTTGTATTTTTAGTAGGGATGG  2940
 Gogo-DRB3*01:01       ------------------------------------------------------------  2940
 Gogo-DRB3*01:07       ------------------------------------------------------------  2940
 Gogo-DRB3*01:08       ------------------------------------------------------------  2940
 Gogo-DRB3*04:01       ------------------------------------------------------------  2940
 Gogo-DRB3*04:02       ------------------------------------------------------------  2940
 
-HLA-DRB3*01:01:02:01  TTTCACCGTGTTAGCCAAGATGGTCTCGATCTCCTGACCTTGTGATCCACCCGCCTCGGC  3000
+HLA-DRB3*01:01:02:01  GGTTTCACCGTGTTAGCCAAGATGGTCTCGATCTCCTGACCTTGTGATCCACCCGCCTCG  3000
 Gogo-DRB3*01:01       ------------------------------------------------------------  3000
 Gogo-DRB3*01:07       ------------------------------------------------------------  3000
 Gogo-DRB3*01:08       ------------------------------------------------------------  3000
 Gogo-DRB3*04:01       ------------------------------------------------------------  3000
 Gogo-DRB3*04:02       ------------------------------------------------------------  3000
 
-HLA-DRB3*01:01:02:01  CTCCCAAAGTGCTGGGATTACAGGCATGAGCCACTGCGCCCAGCTTATATTCAATTATTA  3060
+HLA-DRB3*01:01:02:01  GCCTCCCAAAGTGCTGGGATTACAGGCATGAGCCACTGCGCCCAGCTTATATTCAATTAT  3060
 Gogo-DRB3*01:01       ------------------------------------------------------------  3060
 Gogo-DRB3*01:07       ------------------------------------------------------------  3060
 Gogo-DRB3*01:08       ------------------------------------------------------------  3060
 Gogo-DRB3*04:01       ------------------------------------------------------------  3060
 Gogo-DRB3*04:02       ------------------------------------------------------------  3060
 
-HLA-DRB3*01:01:02:01  CAATTAATTCTAGCTACTTTGTGGGGATTGGATTGTTGGGGTTCACAAGTGGTTAGGAGG  3120
+HLA-DRB3*01:01:02:01  TACAATTAATTCTAGCTACTTTGTGGGGATTGGATTGTTGGGGTTCACAAGTGGTTAGGA  3120
 Gogo-DRB3*01:01       ------------------------------------------------------------  3120
 Gogo-DRB3*01:07       ------------------------------------------------------------  3120
 Gogo-DRB3*01:08       ------------------------------------------------------------  3120
 Gogo-DRB3*04:01       ------------------------------------------------------------  3120
 Gogo-DRB3*04:02       ------------------------------------------------------------  3120
 
-HLA-DRB3*01:01:02:01  ACTATTTAGGAGCACAGCAGGGAATTCTCCAGGGAAAACAGGCTTGTGGCTTCATGGAGT  3180
+HLA-DRB3*01:01:02:01  GGACTATTTAGGAGCACAGCAGGGAATTCTCCAGGGAAAACAGGCTTGTGGCTTCATGGA  3180
 Gogo-DRB3*01:01       ------------------------------------------------------------  3180
 Gogo-DRB3*01:07       ------------------------------------------------------------  3180
 Gogo-DRB3*01:08       ------------------------------------------------------------  3180
 Gogo-DRB3*04:01       ------------------------------------------------------------  3180
 Gogo-DRB3*04:02       ------------------------------------------------------------  3180
 
-HLA-DRB3*01:01:02:01  GCATTAGTGATAAAGACGGTGAAAAAGATAAAGTGGACAGGCTTGGCATGTATTTTTGCT  3240
+HLA-DRB3*01:01:02:01  GTGCATTAGTGATAAAGACGGTGAAAAAGATAAAGTGGACAGGCTTGGCATGTATTTTTG  3240
 Gogo-DRB3*01:01       ------------------------------------------------------------  3240
 Gogo-DRB3*01:07       ------------------------------------------------------------  3240
 Gogo-DRB3*01:08       ------------------------------------------------------------  3240
 Gogo-DRB3*04:01       ------------------------------------------------------------  3240
 Gogo-DRB3*04:02       ------------------------------------------------------------  3240
 
-HLA-DRB3*01:01:02:01  TAGCTTGTTAATGAATTACTGTAAAGGGGGTGGAACAATCAAGTTTATTCCTGAGGATTT  3300
+HLA-DRB3*01:01:02:01  CTTAGCTTGTTAATGAATTACTGTAAAGGGGGTGGAACAATCAAGTTTATTCCTGAGGAT  3300
 Gogo-DRB3*01:01       ------------------------------------------------------------  3300
 Gogo-DRB3*01:07       ------------------------------------------------------------  3300
 Gogo-DRB3*01:08       ------------------------------------------------------------  3300
 Gogo-DRB3*04:01       ------------------------------------------------------------  3300
 Gogo-DRB3*04:02       ------------------------------------------------------------  3300
 
-HLA-DRB3*01:01:02:01  TGTTTTGACAAATAAGTGGGTGGTAGTTTTGTTTATTGAGATAGGAAAAACTGTGGGAGG  3360
+HLA-DRB3*01:01:02:01  TTTGTTTTGACAAATAAGTGGGTGGTAGTTTTGTTTATTGAGATAGGAAAAACTGTGGGA  3360
 Gogo-DRB3*01:01       ------------------------------------------------------------  3360
 Gogo-DRB3*01:07       ------------------------------------------------------------  3360
 Gogo-DRB3*01:08       ------------------------------------------------------------  3360
 Gogo-DRB3*04:01       ------------------------------------------------------------  3360
 Gogo-DRB3*04:02       ------------------------------------------------------------  3360
 
-HLA-DRB3*01:01:02:01  AAATGATTTGAAGTGGGTGGTTGGAAATAAAAGTTTTGTTTAAATTAGAGATGATTTATT  3420
+HLA-DRB3*01:01:02:01  GGAAATGATTTGAAGTGGGTGGTTGGAAATAAAAGTTTTGTTTAAATTAGAGATGATTTA  3420
 Gogo-DRB3*01:01       ------------------------------------------------------------  3420
 Gogo-DRB3*01:07       ------------------------------------------------------------  3420
 Gogo-DRB3*01:08       ------------------------------------------------------------  3420
 Gogo-DRB3*04:01       ------------------------------------------------------------  3420
 Gogo-DRB3*04:02       ------------------------------------------------------------  3420
 
-HLA-DRB3*01:01:02:01  GACATTTATGTAGAGCAATCAGAAGGTCAGTGGCATTTAAGAGACTCATGGTGAGGTGAG  3480
+HLA-DRB3*01:01:02:01  TTGACATTTATGTAGAGCAATCAGAAGGTCAGTGGCATTTAAGAGACTCATGGTGAGGTG  3480
 Gogo-DRB3*01:01       ------------------------------------------------------------  3480
 Gogo-DRB3*01:07       ------------------------------------------------------------  3480
 Gogo-DRB3*01:08       ------------------------------------------------------------  3480
 Gogo-DRB3*04:01       ------------------------------------------------------------  3480
 Gogo-DRB3*04:02       ------------------------------------------------------------  3480
 
-HLA-DRB3*01:01:02:01  GCTAGGGCGTCAGATATTTATGTTGGCGGCATCAATACGTGTAGTGTGTTAAATTCTAGG  3540
+HLA-DRB3*01:01:02:01  AGGCTAGGGCGTCAGATATTTATGTTGGCGGCATCAATACGTGTAGTGTGTTAAATTCTA  3540
 Gogo-DRB3*01:01       ------------------------------------------------------------  3540
 Gogo-DRB3*01:07       ------------------------------------------------------------  3540
 Gogo-DRB3*01:08       ------------------------------------------------------------  3540
 Gogo-DRB3*04:01       ------------------------------------------------------------  3540
 Gogo-DRB3*04:02       ------------------------------------------------------------  3540
 
-HLA-DRB3*01:01:02:01  GAGTGGAAGAGGATACATAGGGAGATGGATTGTGTGGAGAAAAAAGAAGAGGGCACAGGC  3600
+HLA-DRB3*01:01:02:01  GGGAGTGGAAGAGGATACATAGGGAGATGGATTGTGTGGAGAAAAAAGAAGAGGGCACAG  3600
 Gogo-DRB3*01:01       ------------------------------------------------------------  3600
 Gogo-DRB3*01:07       ------------------------------------------------------------  3600
 Gogo-DRB3*01:08       ------------------------------------------------------------  3600
 Gogo-DRB3*04:01       ------------------------------------------------------------  3600
 Gogo-DRB3*04:02       ------------------------------------------------------------  3600
 
-HLA-DRB3*01:01:02:01  CAGCAAAGTGGGCTGAGACAGAGCCCAGGGATGTTGGAGAAAAACCAAGAGAACATAATG  3660
+HLA-DRB3*01:01:02:01  GCCAGCAAAGTGGGCTGAGACAGAGCCCAGGGATGTTGGAGAAAAACCAAGAGAACATAA  3660
 Gogo-DRB3*01:01       ------------------------------------------------------------  3660
 Gogo-DRB3*01:07       ------------------------------------------------------------  3660
 Gogo-DRB3*01:08       ------------------------------------------------------------  3660
 Gogo-DRB3*04:01       ------------------------------------------------------------  3660
 Gogo-DRB3*04:02       ------------------------------------------------------------  3660
 
-HLA-DRB3*01:01:02:01  CGTGTAAGTCAAGGAAAATATATTTTTTTCAGGGAGAAGGGAGAGGCCAATTGTGGTGAG  3720
+HLA-DRB3*01:01:02:01  TGCGTGTAAGTCAAGGAAAATATATTTTTTTCAGGGAGAAGGGAGAGGCCAATTGTGGTG  3720
 Gogo-DRB3*01:01       ------------------------------------------------------------  3720
 Gogo-DRB3*01:07       ------------------------------------------------------------  3720
 Gogo-DRB3*01:08       ------------------------------------------------------------  3720
 Gogo-DRB3*04:01       ------------------------------------------------------------  3720
 Gogo-DRB3*04:02       ------------------------------------------------------------  3720
 
-HLA-DRB3*01:01:02:01  TACCACTAAGCAGAGGGGGAAGTGAGAACGTGACAGAGAAGCAAGTGCTGGGTTTGGTGG  3780
+HLA-DRB3*01:01:02:01  AGTACCACTAAGCAGAGGGGGAAGTGAGAACGTGACAGAGAAGCAAGTGCTGGGTTTGGT  3780
 Gogo-DRB3*01:01       ------------------------------------------------------------  3780
 Gogo-DRB3*01:07       ------------------------------------------------------------  3780
 Gogo-DRB3*01:08       ------------------------------------------------------------  3780
 Gogo-DRB3*04:01       ------------------------------------------------------------  3780
 Gogo-DRB3*04:02       ------------------------------------------------------------  3780
 
-HLA-DRB3*01:01:02:01  AGTTGATATTTGTAGTCAATGGAGTATCCAGGGAGGAAACTGGATTGGACTATTTGAAGA  3840
+HLA-DRB3*01:01:02:01  GGAGTTGATATTTGTAGTCAATGGAGTATCCAGGGAGGAAACTGGATTGGACTATTTGAA  3840
 Gogo-DRB3*01:01       ------------------------------------------------------------  3840
 Gogo-DRB3*01:07       ------------------------------------------------------------  3840
 Gogo-DRB3*01:08       ------------------------------------------------------------  3840
 Gogo-DRB3*04:01       ------------------------------------------------------------  3840
 Gogo-DRB3*04:02       ------------------------------------------------------------  3840
 
-HLA-DRB3*01:01:02:01  GTGAGTAGAAGTGAGGACGAGGTTAAGGTTGACTGTTTTGAGTAGAACTTCGGGAAGGAC  3900
+HLA-DRB3*01:01:02:01  GAGTGAGTAGAAGTGAGGACGAGGTTAAGGTTGACTGTTTTGAGTAGAACTTCGGGAAGG  3900
 Gogo-DRB3*01:01       ------------------------------------------------------------  3900
 Gogo-DRB3*01:07       ------------------------------------------------------------  3900
 Gogo-DRB3*01:08       ------------------------------------------------------------  3900
 Gogo-DRB3*04:01       ------------------------------------------------------------  3900
 Gogo-DRB3*04:02       ------------------------------------------------------------  3900
 
-HLA-DRB3*01:01:02:01  TGTGCTCTGGGTTCAGGGAGCCCGCTGAATCTAAAGGAAAAGGCTAAAGAAGCTAAAGAG  3960
+HLA-DRB3*01:01:02:01  ACTGTGCTCTGGGTTCAGGGAGCCCGCTGAATCTAAAGGAAAAGGCTAAAGAAGCTAAAG  3960
 Gogo-DRB3*01:01       ------------------------------------------------------------  3960
 Gogo-DRB3*01:07       ------------------------------------------------------------  3960
 Gogo-DRB3*01:08       ------------------------------------------------------------  3960
 Gogo-DRB3*04:01       ------------------------------------------------------------  3960
 Gogo-DRB3*04:02       ------------------------------------------------------------  3960
 
-HLA-DRB3*01:01:02:01  ACGGAGGAAGACCTGTGAACAAGAGATGCTCAGTCATTAGCAAGGAAATACTGGAGAGCC  4020
+HLA-DRB3*01:01:02:01  AGACGGAGGAAGACCTGTGAACAAGAGATGCTCAGTCATTAGCAAGGAAATACTGGAGAG  4020
 Gogo-DRB3*01:01       ------------------------------------------------------------  4020
 Gogo-DRB3*01:07       ------------------------------------------------------------  4020
 Gogo-DRB3*01:08       ------------------------------------------------------------  4020
 Gogo-DRB3*04:01       ------------------------------------------------------------  4020
 Gogo-DRB3*04:02       ------------------------------------------------------------  4020
 
-HLA-DRB3*01:01:02:01  CCTGTGTGCAGTGGTGACTACTCATGCAAAAGGTCACACAGCCAATATTTAACACAGCCA  4080
+HLA-DRB3*01:01:02:01  CCCCTGTGTGCAGTGGTGACTACTCATGCAAAAGGTCACACAGCCAATATTTAACACAGC  4080
 Gogo-DRB3*01:01       ------------------------------------------------------------  4080
 Gogo-DRB3*01:07       ------------------------------------------------------------  4080
 Gogo-DRB3*01:08       ------------------------------------------------------------  4080
 Gogo-DRB3*04:01       ------------------------------------------------------------  4080
 Gogo-DRB3*04:02       ------------------------------------------------------------  4080
 
-HLA-DRB3*01:01:02:01  GTATTTCACAGAGCCAATATTTATTAGTGACATAGAATATACCAGTTATTACTCTAGGTC  4140
+HLA-DRB3*01:01:02:01  CAGTATTTCACAGAGCCAATATTTATTAGTGACATAGAATATACCAGTTATTACTCTAGG  4140
 Gogo-DRB3*01:01       ------------------------------------------------------------  4140
 Gogo-DRB3*01:07       ------------------------------------------------------------  4140
 Gogo-DRB3*01:08       ------------------------------------------------------------  4140
 Gogo-DRB3*04:01       ------------------------------------------------------------  4140
 Gogo-DRB3*04:02       ------------------------------------------------------------  4140
 
-HLA-DRB3*01:01:02:01  ATGAGAGTGGTGATAAATAAAATGAATCCGCTCGCCATCAGTATATGCCATGTAACAGTT  4200
+HLA-DRB3*01:01:02:01  TCATGAGAGTGGTGATAAATAAAATGAATCCGCTCGCCATCAGTATATGCCATGTAACAG  4200
 Gogo-DRB3*01:01       ------------------------------------------------------------  4200
 Gogo-DRB3*01:07       ------------------------------------------------------------  4200
 Gogo-DRB3*01:08       ------------------------------------------------------------  4200
 Gogo-DRB3*04:01       ------------------------------------------------------------  4200
 Gogo-DRB3*04:02       ------------------------------------------------------------  4200
 
-HLA-DRB3*01:01:02:01  TGCAGTGACTGTGTACCAGGCCTGTGAATTTCTGTATGCAATTTCAATAATGATCCTGCT  4260
+HLA-DRB3*01:01:02:01  TTTGCAGTGACTGTGTACCAGGCCTGTGAATTTCTGTATGCAATTTCAATAATGATCCTG  4260
 Gogo-DRB3*01:01       ------------------------------------------------------------  4260
 Gogo-DRB3*01:07       ------------------------------------------------------------  4260
 Gogo-DRB3*01:08       ------------------------------------------------------------  4260
 Gogo-DRB3*04:01       ------------------------------------------------------------  4260
 Gogo-DRB3*04:02       ------------------------------------------------------------  4260
 
-HLA-DRB3*01:01:02:01  GTATCTGTGGTATTTAAAAACATATACATCTCTGGAATCTAAAATTGAGAGGTTATAAGT  4320
+HLA-DRB3*01:01:02:01  CTGTATCTGTGGTATTTAAAAACATATACATCTCTGGAATCTAAAATTGAGAGGTTATAA  4320
 Gogo-DRB3*01:01       ------------------------------------------------------------  4320
 Gogo-DRB3*01:07       ------------------------------------------------------------  4320
 Gogo-DRB3*01:08       ------------------------------------------------------------  4320
 Gogo-DRB3*04:01       ------------------------------------------------------------  4320
 Gogo-DRB3*04:02       ------------------------------------------------------------  4320
 
-HLA-DRB3*01:01:02:01  AAAACCCAGTATTAGAAATTTAGTGCTGGAAATCAGATTGCAGTTTAAATCTGAGCATAT  4380
+HLA-DRB3*01:01:02:01  GTAAAACCCAGTATTAGAAATTTAGTGCTGGAAATCAGATTGCAGTTTAAATCTGAGCAT  4380
 Gogo-DRB3*01:01       ------------------------------------------------------------  4380
 Gogo-DRB3*01:07       ------------------------------------------------------------  4380
 Gogo-DRB3*01:08       ------------------------------------------------------------  4380
 Gogo-DRB3*04:01       ------------------------------------------------------------  4380
 Gogo-DRB3*04:02       ------------------------------------------------------------  4380
 
-HLA-DRB3*01:01:02:01  AGAAAGTCCCTTTCTTCTATGTCAGCAGATGCCTTTTATGTGAGGTTTAGGTATACTACA  4440
+HLA-DRB3*01:01:02:01  ATAGAAAGTCCCTTTCTTCTATGTCAGCAGATGCCTTTTATGTGAGGTTTAGGTATACTA  4440
 Gogo-DRB3*01:01       ------------------------------------------------------------  4440
 Gogo-DRB3*01:07       ------------------------------------------------------------  4440
 Gogo-DRB3*01:08       ------------------------------------------------------------  4440
 Gogo-DRB3*04:01       ------------------------------------------------------------  4440
 Gogo-DRB3*04:02       ------------------------------------------------------------  4440
 
-HLA-DRB3*01:01:02:01  TTATTAGACATAAACCAGTGTTTCTGCCCTATGTTTTCAGAATGACAATTCTTTATGAAA  4500
+HLA-DRB3*01:01:02:01  CATTATTAGACATAAACCAGTGTTTCTGCCCTATGTTTTCAGAATGACAATTCTTTATGA  4500
 Gogo-DRB3*01:01       ------------------------------------------------------------  4500
 Gogo-DRB3*01:07       ------------------------------------------------------------  4500
 Gogo-DRB3*01:08       ------------------------------------------------------------  4500
 Gogo-DRB3*04:01       ------------------------------------------------------------  4500
 Gogo-DRB3*04:02       ------------------------------------------------------------  4500
 
-HLA-DRB3*01:01:02:01  CTCATAGAAGAACAGAAGACAATTGCAAAATCATGAAGATACTAATTGCTTTAGAATTAA  4560
+HLA-DRB3*01:01:02:01  AACTCATAGAAGAACAGAAGACAATTGCAAAATCATGAAGATACTAATTGCTTTAGAATT  4560
 Gogo-DRB3*01:01       ------------------------------------------------------------  4560
 Gogo-DRB3*01:07       ------------------------------------------------------------  4560
 Gogo-DRB3*01:08       ------------------------------------------------------------  4560
 Gogo-DRB3*04:01       ------------------------------------------------------------  4560
 Gogo-DRB3*04:02       ------------------------------------------------------------  4560
 
-HLA-DRB3*01:01:02:01  GGAATACAAAAAATAATGTGAGCTACAGTTATAGGGATCATAAAAGTTAAAATGGGAATG  4620
+HLA-DRB3*01:01:02:01  AAGGAATACAAAAAATAATGTGAGCTACAGTTATAGGGATCATAAAAGTTAAAATGGGAA  4620
 Gogo-DRB3*01:01       ------------------------------------------------------------  4620
 Gogo-DRB3*01:07       ------------------------------------------------------------  4620
 Gogo-DRB3*01:08       ------------------------------------------------------------  4620
 Gogo-DRB3*04:01       ------------------------------------------------------------  4620
 Gogo-DRB3*04:02       ------------------------------------------------------------  4620
 
-HLA-DRB3*01:01:02:01  TATTTGAGTGTTTATTATGTGATCAGTGCTAAGAAGAGTCATCATTTAATTTTACACTTA  4680
+HLA-DRB3*01:01:02:01  TGTATTTGAGTGTTTATTATGTGATCAGTGCTAAGAAGAGTCATCATTTAATTTTACACT  4680
 Gogo-DRB3*01:01       ------------------------------------------------------------  4680
 Gogo-DRB3*01:07       ------------------------------------------------------------  4680
 Gogo-DRB3*01:08       ------------------------------------------------------------  4680
 Gogo-DRB3*04:01       ------------------------------------------------------------  4680
 Gogo-DRB3*04:02       ------------------------------------------------------------  4680
 
-HLA-DRB3*01:01:02:01  ACAGTAATCCTGTGAGGATTATGCTATTATTAAATGCATTTGATATATTACAAAAAGGCT  4740
+HLA-DRB3*01:01:02:01  TAACAGTAATCCTGTGAGGATTATGCTATTATTAAATGCATTTGATATATTACAAAAAGG  4740
 Gogo-DRB3*01:01       ------------------------------------------------------------  4740
 Gogo-DRB3*01:07       ------------------------------------------------------------  4740
 Gogo-DRB3*01:08       ------------------------------------------------------------  4740
 Gogo-DRB3*04:01       ------------------------------------------------------------  4740
 Gogo-DRB3*04:02       ------------------------------------------------------------  4740
 
-HLA-DRB3*01:01:02:01  TACGGTTGGTAAAAATTGACCCAAGTAGAAGAGGTCACCTTTTTATTCAGATTTTCTGAT  4800
+HLA-DRB3*01:01:02:01  CTTACGGTTGGTAAAAATTGACCCAAGTAGAAGAGGTCACCTTTTTATTCAGATTTTCTG  4800
 Gogo-DRB3*01:01       ------------------------------------------------------------  4800
 Gogo-DRB3*01:07       ------------------------------------------------------------  4800
 Gogo-DRB3*01:08       ------------------------------------------------------------  4800
 Gogo-DRB3*04:01       ------------------------------------------------------------  4800
 Gogo-DRB3*04:02       ------------------------------------------------------------  4800
 
-HLA-DRB3*01:01:02:01  TGTAGGGTTTGAGAGTTTTTCCATCATTAGTGAGTAGTGACTATATTGTGTCTGAATTAT  4860
+HLA-DRB3*01:01:02:01  ATTGTAGGGTTTGAGAGTTTTTCCATCATTAGTGAGTAGTGACTATATTGTGTCTGAATT  4860
 Gogo-DRB3*01:01       ------------------------------------------------------------  4860
 Gogo-DRB3*01:07       ------------------------------------------------------------  4860
 Gogo-DRB3*01:08       ------------------------------------------------------------  4860
 Gogo-DRB3*04:01       ------------------------------------------------------------  4860
 Gogo-DRB3*04:02       ------------------------------------------------------------  4860
 
-HLA-DRB3*01:01:02:01  TGACAGAATTTCTGATATTCATATATACCAGGTTGTTTCTTTGAGTGGGGACAGAGATGC  4920
+HLA-DRB3*01:01:02:01  ATTGACAGAATTTCTGATATTCATATATACCAGGTTGTTTCTTTGAGTGGGGACAGAGAT  4920
 Gogo-DRB3*01:01       ------------------------------------------------------------  4920
 Gogo-DRB3*01:07       ------------------------------------------------------------  4920
 Gogo-DRB3*01:08       ------------------------------------------------------------  4920
 Gogo-DRB3*04:01       ------------------------------------------------------------  4920
 Gogo-DRB3*04:02       ------------------------------------------------------------  4920
 
-HLA-DRB3*01:01:02:01  AAGGGCTGCTAATTCCAATGTATAGGAGAAACTTTCAATGATTTTGCATTTATCATTTTA  4980
+HLA-DRB3*01:01:02:01  GCAAGGGCTGCTAATTCCAATGTATAGGAGAAACTTTCAATGATTTTGCATTTATCATTT  4980
 Gogo-DRB3*01:01       ------------------------------------------------------------  4980
 Gogo-DRB3*01:07       ------------------------------------------------------------  4980
 Gogo-DRB3*01:08       ------------------------------------------------------------  4980
 Gogo-DRB3*04:01       ------------------------------------------------------------  4980
 Gogo-DRB3*04:02       ------------------------------------------------------------  4980
 
-HLA-DRB3*01:01:02:01  AAAGTTCAGTATGTCTATAATGGTCATGCGTTGACAAACACAAGGAAGTATTAAATCACT  5040
+HLA-DRB3*01:01:02:01  TAAAAGTTCAGTATGTCTATAATGGTCATGCGTTGACAAACACAAGGAAGTATTAAATCA  5040
 Gogo-DRB3*01:01       ------------------------------------------------------------  5040
 Gogo-DRB3*01:07       ------------------------------------------------------------  5040
 Gogo-DRB3*01:08       ------------------------------------------------------------  5040
 Gogo-DRB3*04:01       ------------------------------------------------------------  5040
 Gogo-DRB3*04:02       ------------------------------------------------------------  5040
 
-HLA-DRB3*01:01:02:01  CCTTCTTCTGAGGTTTGACTAGCAAATTGGGCAAGAGTTACCAAATAAAACACATGTTCC  5100
+HLA-DRB3*01:01:02:01  CTCCTTCTTCTGAGGTTTGACTAGCAAATTGGGCAAGAGTTACCAAATAAAACACATGTT  5100
 Gogo-DRB3*01:01       ------------------------------------------------------------  5100
 Gogo-DRB3*01:07       ------------------------------------------------------------  5100
 Gogo-DRB3*01:08       ------------------------------------------------------------  5100
 Gogo-DRB3*04:01       ------------------------------------------------------------  5100
 Gogo-DRB3*04:02       ------------------------------------------------------------  5100
 
-HLA-DRB3*01:01:02:01  TAGTTAAATCTAAATTTCAGATACACGACCATAATTTATTGGAAATCCAAATTTAATTGG  5160
+HLA-DRB3*01:01:02:01  CCTAGTTAAATCTAAATTTCAGATACACGACCATAATTTATTGGAAATCCAAATTTAATT  5160
 Gogo-DRB3*01:01       ------------------------------------------------------------  5160
 Gogo-DRB3*01:07       ------------------------------------------------------------  5160
 Gogo-DRB3*01:08       ------------------------------------------------------------  5160
 Gogo-DRB3*04:01       ------------------------------------------------------------  5160
 Gogo-DRB3*04:02       ------------------------------------------------------------  5160
 
-HLA-DRB3*01:01:02:01  GTACCCTCTGGTTTTATTTGCCAAATCTGTCAACCCTAAGTGGGACACATGGACATGGAT  5220
+HLA-DRB3*01:01:02:01  GGGTACCCTCTGGTTTTATTTGCCAAATCTGTCAACCCTAAGTGGGACACATGGACATGG  5220
 Gogo-DRB3*01:01       ------------------------------------------------------------  5220
 Gogo-DRB3*01:07       ------------------------------------------------------------  5220
 Gogo-DRB3*01:08       ------------------------------------------------------------  5220
 Gogo-DRB3*04:01       ------------------------------------------------------------  5220
 Gogo-DRB3*04:02       ------------------------------------------------------------  5220
 
-HLA-DRB3*01:01:02:01  TACAGTGCTACCCATGCAAGCCACAGTGACAGCAACTTTACACATGTTTACATTTTAACT  5280
+HLA-DRB3*01:01:02:01  ATTACAGTGCTACCCATGCAAGCCACAGTGACAGCAACTTTACACATGTTTACATTTTAA  5280
 Gogo-DRB3*01:01       ------------------------------------------------------------  5280
 Gogo-DRB3*01:07       ------------------------------------------------------------  5280
 Gogo-DRB3*01:08       ------------------------------------------------------------  5280
 Gogo-DRB3*04:01       ------------------------------------------------------------  5280
 Gogo-DRB3*04:02       ------------------------------------------------------------  5280
 
-HLA-DRB3*01:01:02:01  TTCTCTCTGTAAGAAAGTGCTTAGATAATTTAGGGATAAAAAGATAGACATTGTTTGATC  5340
+HLA-DRB3*01:01:02:01  CTTTCTCTCTGTAAGAAAGTGCTTAGATAATTTAGGGATAAAAAGATAGACATTGTTTGA  5340
 Gogo-DRB3*01:01       ------------------------------------------------------------  5340
 Gogo-DRB3*01:07       ------------------------------------------------------------  5340
 Gogo-DRB3*01:08       ------------------------------------------------------------  5340
 Gogo-DRB3*04:01       ------------------------------------------------------------  5340
 Gogo-DRB3*04:02       ------------------------------------------------------------  5340
 
-HLA-DRB3*01:01:02:01  CAGGGTGGACACCTCTCTGCCATCGTTTCTAAAGGGCAAAGGGAGATTTCTGCAGGTCTT  5400
+HLA-DRB3*01:01:02:01  TCCAGGGTGGACACCTCTCTGCCATCGTTTCTAAAGGGCAAAGGGAGATTTCTGCAGGTC  5400
 Gogo-DRB3*01:01       ------------------------------------------------------------  5400
 Gogo-DRB3*01:07       ------------------------------------------------------------  5400
 Gogo-DRB3*01:08       ------------------------------------------------------------  5400
 Gogo-DRB3*04:01       ------------------------------------------------------------  5400
 Gogo-DRB3*04:02       ------------------------------------------------------------  5400
 
-HLA-DRB3*01:01:02:01  GCTCACAGTCTGGGGACCTGCTCATGTTTTGAAACTGTCTGTATCAGAATGTCATTTTCT  5460
+HLA-DRB3*01:01:02:01  TTGCTCACAGTCTGGGGACCTGCTCATGTTTTGAAACTGTCTGTATCAGAATGTCATTTT  5460
 Gogo-DRB3*01:01       ------------------------------------------------------------  5460
 Gogo-DRB3*01:07       ------------------------------------------------------------  5460
 Gogo-DRB3*01:08       ------------------------------------------------------------  5460
 Gogo-DRB3*04:01       ------------------------------------------------------------  5460
 Gogo-DRB3*04:02       ------------------------------------------------------------  5460
 
-HLA-DRB3*01:01:02:01  TGGTTTCTCCCTTTCTGAGGGGACTTGACTACAAAACCAAGAGTTCTGCCTCTGGCCAAG  5520
+HLA-DRB3*01:01:02:01  CTTGGTTTCTCCCTTTCTGAGGGGACTTGACTACAAAACCAAGAGTTCTGCCTCTGGCCA  5520
 Gogo-DRB3*01:01       ------------------------------------------------------------  5520
 Gogo-DRB3*01:07       ------------------------------------------------------------  5520
 Gogo-DRB3*01:08       ------------------------------------------------------------  5520
 Gogo-DRB3*04:01       ------------------------------------------------------------  5520
 Gogo-DRB3*04:02       ------------------------------------------------------------  5520
 
-HLA-DRB3*01:01:02:01  GCTGGAAATGTGATGCCTGCTAGCATTGTTGGGAGTGGGAGACTGAGAGAAATGAGTTAG  5580
+HLA-DRB3*01:01:02:01  AGGCTGGAAATGTGATGCCTGCTAGCATTGTTGGGAGTGGGAGACTGAGAGAAATGAGTT  5580
 Gogo-DRB3*01:01       ------------------------------------------------------------  5580
 Gogo-DRB3*01:07       ------------------------------------------------------------  5580
 Gogo-DRB3*01:08       ------------------------------------------------------------  5580
 Gogo-DRB3*04:01       ------------------------------------------------------------  5580
 Gogo-DRB3*04:02       ------------------------------------------------------------  5580
 
-HLA-DRB3*01:01:02:01  TTGGGGCATTTAATGGGAATAAAATAGCTGTGGTTGTGATTCATTACTATAGATAATTAG  5640
+HLA-DRB3*01:01:02:01  AGTTGGGGCATTTAATGGGAATAAAATAGCTGTGGTTGTGATTCATTACTATAGATAATT  5640
 Gogo-DRB3*01:01       ------------------------------------------------------------  5640
 Gogo-DRB3*01:07       ------------------------------------------------------------  5640
 Gogo-DRB3*01:08       ------------------------------------------------------------  5640
 Gogo-DRB3*04:01       ------------------------------------------------------------  5640
 Gogo-DRB3*04:02       ------------------------------------------------------------  5640
 
-HLA-DRB3*01:01:02:01  TGGACCAGTGGCGGAGAAATTAAGAAAAAAGATGATGTGAATGATAAATGATATGATTAG  5700
+HLA-DRB3*01:01:02:01  AGTGGACCAGTGGCGGAGAAATTAAGAAAAAAGATGATGTGAATGATAAATGATATGATT  5700
 Gogo-DRB3*01:01       ------------------------------------------------------------  5700
 Gogo-DRB3*01:07       ------------------------------------------------------------  5700
 Gogo-DRB3*01:08       ------------------------------------------------------------  5700
 Gogo-DRB3*04:01       ------------------------------------------------------------  5700
 Gogo-DRB3*04:02       ------------------------------------------------------------  5700
 
-HLA-DRB3*01:01:02:01  TGACTGCTTGGTAAGGCAAGGAAATCATTAAATCTTGGTTCTCATCAAGTTCATTTTCTG  5760
+HLA-DRB3*01:01:02:01  AGTGACTGCTTGGTAAGGCAAGGAAATCATTAAATCTTGGTTCTCATCAAGTTCATTTTC  5760
 Gogo-DRB3*01:01       ------------------------------------------------------------  5760
 Gogo-DRB3*01:07       ------------------------------------------------------------  5760
 Gogo-DRB3*01:08       ------------------------------------------------------------  5760
 Gogo-DRB3*04:01       ------------------------------------------------------------  5760
 Gogo-DRB3*04:02       ------------------------------------------------------------  5760
 
-HLA-DRB3*01:01:02:01  AAAAGATAGCACTGTATTGGGACCAGAATTCTACAAAACATTCTTTTTACCTAGGACCAA  5820
+HLA-DRB3*01:01:02:01  TGAAAAGATAGCACTGTATTGGGACCAGAATTCTACAAAACATTCTTTTTACCTAGGACC  5820
 Gogo-DRB3*01:01       ------------------------------------------------------------  5820
 Gogo-DRB3*01:07       ------------------------------------------------------------  5820
 Gogo-DRB3*01:08       ------------------------------------------------------------  5820
 Gogo-DRB3*04:01       ------------------------------------------------------------  5820
 Gogo-DRB3*04:02       ------------------------------------------------------------  5820
 
-HLA-DRB3*01:01:02:01  GATTTTCAAGAAATATTTTTCAATACAATTCTCAGCTGCTCCATAACTAATAGTAGCTTG  5880
+HLA-DRB3*01:01:02:01  AAGATTTTCAAGAAATATTTTTCAATACAATTCTCAGCTGCTCCATAACTAATAGTAGCT  5880
 Gogo-DRB3*01:01       ------------------------------------------------------------  5880
 Gogo-DRB3*01:07       ------------------------------------------------------------  5880
 Gogo-DRB3*01:08       ------------------------------------------------------------  5880
 Gogo-DRB3*04:01       ------------------------------------------------------------  5880
 Gogo-DRB3*04:02       ------------------------------------------------------------  5880
 
-HLA-DRB3*01:01:02:01  TTCAACACAGATTTTTTCAGATGGTTCACACCTGTAGTTCTTACCCAGGGATAGTTCACC  5940
+HLA-DRB3*01:01:02:01  TGTTCAACACAGATTTTTTCAGATGGTTCACACCTGTAGTTCTTACCCAGGGATAGTTCA  5940
 Gogo-DRB3*01:01       ------------------------------------------------------------  5940
 Gogo-DRB3*01:07       ------------------------------------------------------------  5940
 Gogo-DRB3*01:08       ------------------------------------------------------------  5940
 Gogo-DRB3*04:01       ------------------------------------------------------------  5940
 Gogo-DRB3*04:02       ------------------------------------------------------------  5940
 
-HLA-DRB3*01:01:02:01  ACCCCTCCCTTCCCTCCCATCATCCTTGGGGAACAGTGACAATGTTTGGAACAATTTTTG  6000
+HLA-DRB3*01:01:02:01  CCACCCCTCCCTTCCCTCCCATCATCCTTGGGGAACAGTGACAATGTTTGGAACAATTTT  6000
 Gogo-DRB3*01:01       ------------------------------------------------------------  6000
 Gogo-DRB3*01:07       ------------------------------------------------------------  6000
 Gogo-DRB3*01:08       ------------------------------------------------------------  6000
 Gogo-DRB3*04:01       ------------------------------------------------------------  6000
 Gogo-DRB3*04:02       ------------------------------------------------------------  6000
 
-HLA-DRB3*01:01:02:01  GTTGTCACAACAGGGGTTTCTTCTGATATTTAATGAGTAGAAGCCAGGAACACTGCTAGA  6060
+HLA-DRB3*01:01:02:01  TGGTTGTCACAACAGGGGTTTCTTCTGATATTTAATGAGTAGAAGCCAGGAACACTGCTA  6060
 Gogo-DRB3*01:01       ------------------------------------------------------------  6060
 Gogo-DRB3*01:07       ------------------------------------------------------------  6060
 Gogo-DRB3*01:08       ------------------------------------------------------------  6060
 Gogo-DRB3*04:01       ------------------------------------------------------------  6060
 Gogo-DRB3*04:02       ------------------------------------------------------------  6060
 
-HLA-DRB3*01:01:02:01  GAACCTACAATGTTCAGAACAGCCTCCGCCATCAACAAAGAATTATCTGGTCCAAAATGT  6120
+HLA-DRB3*01:01:02:01  GAGAACCTACAATGTTCAGAACAGCCTCCGCCATCAACAAAGAATTATCTGGTCCAAAAT  6120
 Gogo-DRB3*01:01       ------------------------------------------------------------  6120
 Gogo-DRB3*01:07       ------------------------------------------------------------  6120
 Gogo-DRB3*01:08       ------------------------------------------------------------  6120
 Gogo-DRB3*04:01       ------------------------------------------------------------  6120
 Gogo-DRB3*04:02       ------------------------------------------------------------  6120
 
-HLA-DRB3*01:01:02:01  CAATAGTGCTGAGGCTGAGAGCACTGGTTCACGCTGTGCTCTTTTTGAAAATTCTACACT  6180
+HLA-DRB3*01:01:02:01  GTCAATAGTGCTGAGGCTGAGAGCACTGGTTCACGCTGTGCTCTTTTTGAAAATTCTACA  6180
 Gogo-DRB3*01:01       ------------------------------------------------------------  6180
 Gogo-DRB3*01:07       ------------------------------------------------------------  6180
 Gogo-DRB3*01:08       ------------------------------------------------------------  6180
 Gogo-DRB3*04:01       ------------------------------------------------------------  6180
 Gogo-DRB3*04:02       ------------------------------------------------------------  6180
 
-HLA-DRB3*01:01:02:01  CACATCTGTTATACACTCACCACACAGTTGTTTTTTATAGTTTATTTTTGCTTGTTCCAT  6240
+HLA-DRB3*01:01:02:01  CTCACATCTGTTATACACTCACCACACAGTTGTTTTTTATAGTTTATTTTTGCTTGTTCC  6240
 Gogo-DRB3*01:01       ------------------------------------------------------------  6240
 Gogo-DRB3*01:07       ------------------------------------------------------------  6240
 Gogo-DRB3*01:08       ------------------------------------------------------------  6240
 Gogo-DRB3*04:01       ------------------------------------------------------------  6240
 Gogo-DRB3*04:02       ------------------------------------------------------------  6240
 
-HLA-DRB3*01:01:02:01  TATAAAAAAATTAGACAGTTGCATAAATTCAACCACTTTCTTGTTGAATCCACTTAGTCA  6300
+HLA-DRB3*01:01:02:01  ATTATAAAAAAATTAGACAGTTGCATAAATTCAACCACTTTCTTGTTGAATCCACTTAGT  6300
 Gogo-DRB3*01:01       ------------------------------------------------------------  6300
 Gogo-DRB3*01:07       ------------------------------------------------------------  6300
 Gogo-DRB3*01:08       ------------------------------------------------------------  6300
 Gogo-DRB3*04:01       ------------------------------------------------------------  6300
 Gogo-DRB3*04:02       ------------------------------------------------------------  6300
 
-HLA-DRB3*01:01:02:01  ATGCAAGCTTAATATTTTCATATTTAGTTTTTGCCTTATGCAATATTTTTCAACATTTTC  6360
+HLA-DRB3*01:01:02:01  CAATGCAAGCTTAATATTTTCATATTTAGTTTTTGCCTTATGCAATATTTTTCAACATTT  6360
 Gogo-DRB3*01:01       ------------------------------------------------------------  6360
 Gogo-DRB3*01:07       ------------------------------------------------------------  6360
 Gogo-DRB3*01:08       ------------------------------------------------------------  6360
 Gogo-DRB3*04:01       ------------------------------------------------------------  6360
 Gogo-DRB3*04:02       ------------------------------------------------------------  6360
 
-HLA-DRB3*01:01:02:01  ATGAGTTGTTGGTCATCACCATCTCTATTAACTTCCAACAACTTGCTCTTGTAAGTCACA  6420
+HLA-DRB3*01:01:02:01  TCATGAGTTGTTGGTCATCACCATCTCTATTAACTTCCAACAACTTGCTCTTGTAAGTCA  6420
 Gogo-DRB3*01:01       ------------------------------------------------------------  6420
 Gogo-DRB3*01:07       ------------------------------------------------------------  6420
 Gogo-DRB3*01:08       ------------------------------------------------------------  6420
 Gogo-DRB3*04:01       ------------------------------------------------------------  6420
 Gogo-DRB3*04:02       ------------------------------------------------------------  6420
 
-HLA-DRB3*01:01:02:01  AATAGTGATGCTGCTGAAATTATTTCTCAGTAACATGCCTCAGATTTCTGTAGTGATTCT  6480
+HLA-DRB3*01:01:02:01  CAAATAGTGATGCTGCTGAAATTATTTCTCAGTAACATGCCTCAGATTTCTGTAGTGATT  6480
 Gogo-DRB3*01:01       ------------------------------------------------------------  6480
 Gogo-DRB3*01:07       ------------------------------------------------------------  6480
 Gogo-DRB3*01:08       ------------------------------------------------------------  6480
 Gogo-DRB3*04:01       ------------------------------------------------------------  6480
 Gogo-DRB3*04:02       ------------------------------------------------------------  6480
 
-HLA-DRB3*01:01:02:01  ACATTTGATATTATTCACAATGTAAAATGCTTCTATGTACTCATTTCACTTTTACCCAAG  6540
+HLA-DRB3*01:01:02:01  CTACATTTGATATTATTCACAATGTAAAATGCTTCTATGTACTCATTTCACTTTTACCCA  6540
 Gogo-DRB3*01:01       ------------------------------------------------------------  6540
 Gogo-DRB3*01:07       ------------------------------------------------------------  6540
 Gogo-DRB3*01:08       ------------------------------------------------------------  6540
 Gogo-DRB3*04:01       ------------------------------------------------------------  6540
 Gogo-DRB3*04:02       ------------------------------------------------------------  6540
 
-HLA-DRB3*01:01:02:01  GATTATTTTTAAGTTATTTTTGTCGTTTTCACACTTCAAACATAAAGACAAAAACATCAA  6600
+HLA-DRB3*01:01:02:01  AGGATTATTTTTAAGTTATTTTTGTCGTTTTCACACTTCAAACATAAAGACAAAAACATC  6600
 Gogo-DRB3*01:01       ------------------------------------------------------------  6600
 Gogo-DRB3*01:07       ------------------------------------------------------------  6600
 Gogo-DRB3*01:08       ------------------------------------------------------------  6600
 Gogo-DRB3*04:01       ------------------------------------------------------------  6600
 Gogo-DRB3*04:02       ------------------------------------------------------------  6600
 
-HLA-DRB3*01:01:02:01  AAATATATACTGTGTTTTACATATGTGTCTATTTTCACACATATATGTATGTATGTTTAT  6660
+HLA-DRB3*01:01:02:01  AAAAATATATACTGTGTTTTACATATGTGTCTATTTTCACACATATATGTATGTATGTTT  6660
 Gogo-DRB3*01:01       ------------------------------------------------------------  6660
 Gogo-DRB3*01:07       ------------------------------------------------------------  6660
 Gogo-DRB3*01:08       ------------------------------------------------------------  6660
 Gogo-DRB3*04:01       ------------------------------------------------------------  6660
 Gogo-DRB3*04:02       ------------------------------------------------------------  6660
 
-HLA-DRB3*01:01:02:01  ATGTATGGAAACTACAGAAGCACATGTCGCCAATAAGAGCTCTGAGACACCTTTGACCAC  6720
+HLA-DRB3*01:01:02:01  ATATGTATGGAAACTACAGAAGCACATGTCGCCAATAAGAGCTCTGAGACACCTTTGACC  6720
 Gogo-DRB3*01:01       ------------------------------------------------------------  6720
 Gogo-DRB3*01:07       ------------------------------------------------------------  6720
 Gogo-DRB3*01:08       ------------------------------------------------------------  6720
 Gogo-DRB3*04:01       ------------------------------------------------------------  6720
 Gogo-DRB3*04:02       ------------------------------------------------------------  6720
 
-HLA-DRB3*01:01:02:01  TTACCCTTATCAGATGCGATTTGCCAAATGAGTTGTGGAAACAAGTTTTTTAAACTGAAT  6780
+HLA-DRB3*01:01:02:01  ACTTACCCTTATCAGATGCGATTTGCCAAATGAGTTGTGGAAACAAGTTTTTTAAACTGA  6780
 Gogo-DRB3*01:01       ------------------------------------------------------------  6780
 Gogo-DRB3*01:07       ------------------------------------------------------------  6780
 Gogo-DRB3*01:08       ------------------------------------------------------------  6780
 Gogo-DRB3*04:01       ------------------------------------------------------------  6780
 Gogo-DRB3*04:02       ------------------------------------------------------------  6780
 
-HLA-DRB3*01:01:02:01  TTCTGAGCTTTGTGAATTTAGAAATGCAAAGGAAAGTTTGTGGACATTTACAGGGATCAT  6840
+HLA-DRB3*01:01:02:01  ATTTCTGAGCTTTGTGAATTTAGAAATGCAAAGGAAAGTTTGTGGACATTTACAGGGATC  6840
 Gogo-DRB3*01:01       ------------------------------------------------------------  6840
 Gogo-DRB3*01:07       ------------------------------------------------------------  6840
 Gogo-DRB3*01:08       ------------------------------------------------------------  6840
 Gogo-DRB3*04:01       ------------------------------------------------------------  6840
 Gogo-DRB3*04:02       ------------------------------------------------------------  6840
 
-HLA-DRB3*01:01:02:01  GGTTTTATTGTCCTTTAAACTCTTCGATACTTTACCATTGTCTTACTATAAATCCAAAAT  6900
+HLA-DRB3*01:01:02:01  ATGGTTTTATTGTCCTTTAAACTCTTCGATACTTTACCATTGTCTTACTATAAATCCAAA  6900
 Gogo-DRB3*01:01       ------------------------------------------------------------  6900
 Gogo-DRB3*01:07       ------------------------------------------------------------  6900
 Gogo-DRB3*01:08       ------------------------------------------------------------  6900
 Gogo-DRB3*04:01       ------------------------------------------------------------  6900
 Gogo-DRB3*04:02       ------------------------------------------------------------  6900
 
-HLA-DRB3*01:01:02:01  CCTAACGCCACCCACGAGGCTTTCAATACCTGGCTTCTTGTGATTTCTCCAGGCTAACCT  6960
+HLA-DRB3*01:01:02:01  ATCCTAACGCCACCCACGAGGCTTTCAATACCTGGCTTCTTGTGATTTCTCCAGGCTAAC  6960
 Gogo-DRB3*01:01       ------------------------------------------------------------  6960
 Gogo-DRB3*01:07       ------------------------------------------------------------  6960
 Gogo-DRB3*01:08       ------------------------------------------------------------  6960
 Gogo-DRB3*04:01       ------------------------------------------------------------  6960
 Gogo-DRB3*04:02       ------------------------------------------------------------  6960
 
-HLA-DRB3*01:01:02:01  TTTACCCTCCTTCCCCTCAGCCTCTCTGCTTTAGTGAACTTTCTCCTAGTTTTTTGAAGA  7020
+HLA-DRB3*01:01:02:01  CTTTTACCCTCCTTCCCCTCAGCCTCTCTGCTTTAGTGAACTTTCTCCTAGTTTTTTGAA  7020
 Gogo-DRB3*01:01       ------------------------------------------------------------  7020
 Gogo-DRB3*01:07       ------------------------------------------------------------  7020
 Gogo-DRB3*01:08       ------------------------------------------------------------  7020
 Gogo-DRB3*04:01       ------------------------------------------------------------  7020
 Gogo-DRB3*04:02       ------------------------------------------------------------  7020
 
-HLA-DRB3*01:01:02:01  AGTTCATCAATTCAAGCTTTTGTACATGGGATTTCCTAAACCTGAAATGTGCCTCCCGTT  7080
+HLA-DRB3*01:01:02:01  GAAGTTCATCAATTCAAGCTTTTGTACATGGGATTTCCTAAACCTGAAATGTGCCTCCCG  7080
 Gogo-DRB3*01:01       ------------------------------------------------------------  7080
 Gogo-DRB3*01:07       ------------------------------------------------------------  7080
 Gogo-DRB3*01:08       ------------------------------------------------------------  7080
 Gogo-DRB3*04:01       ------------------------------------------------------------  7080
 Gogo-DRB3*04:02       ------------------------------------------------------------  7080
 
-HLA-DRB3*01:01:02:01  TTGTCCAAACAGACACGGGCTCCACTCTGCCCCCTGGCTCACACCTGCTTAACCTGTCAA  7140
+HLA-DRB3*01:01:02:01  TTTTGTCCAAACAGACACGGGCTCCACTCTGCCCCCTGGCTCACACCTGCTTAACCTGTC  7140
 Gogo-DRB3*01:01       ------------------------------------------------------------  7140
 Gogo-DRB3*01:07       ------------------------------------------------------------  7140
 Gogo-DRB3*01:08       ------------------------------------------------------------  7140
 Gogo-DRB3*04:01       ------------------------------------------------------------  7140
 Gogo-DRB3*04:02       ------------------------------------------------------------  7140
 
-HLA-DRB3*01:01:02:01  GTCACATCTGAACTGTCACTCTTCAGAGGGTCCTTCTCTGGCACCCTAATGTAATTGAGA  7200
+HLA-DRB3*01:01:02:01  AAGTCACATCTGAACTGTCACTCTTCAGAGGGTCCTTCTCTGGCACCCTAATGTAATTGA  7200
 Gogo-DRB3*01:01       ------------------------------------------------------------  7200
 Gogo-DRB3*01:07       ------------------------------------------------------------  7200
 Gogo-DRB3*01:08       ------------------------------------------------------------  7200
 Gogo-DRB3*04:01       ------------------------------------------------------------  7200
 Gogo-DRB3*04:02       ------------------------------------------------------------  7200
 
-HLA-DRB3*01:01:02:01  TCATCCTATTATTCTCTGCTCTAGAACTTCCCACTTCCGGGATTTCTCATTCCTGTCTAA  7260
+HLA-DRB3*01:01:02:01  GATCATCCTATTATTCTCTGCTCTAGAACTTCCCACTTCCGGGATTTCTCATTCCTGTCT  7260
 Gogo-DRB3*01:01       ------------------------------------------------------------  7260
 Gogo-DRB3*01:07       ------------------------------------------------------------  7260
 Gogo-DRB3*01:08       ------------------------------------------------------------  7260
 Gogo-DRB3*04:01       ------------------------------------------------------------  7260
 Gogo-DRB3*04:02       ------------------------------------------------------------  7260
 
-HLA-DRB3*01:01:02:01  CCTCTTGTGTGTCTGGTTTTTGGCCATCGCTTTCACTGCTCTTTAAGCTCCCCCAGCGGA  7320
+HLA-DRB3*01:01:02:01  AACCTCTTGTGTGTCTGGTTTTTGGCCATCGCTTTCACTGCTCTTTAAGCTCCCCCAGCG  7320
 Gogo-DRB3*01:01       ------------------------------------------------------------  7320
 Gogo-DRB3*01:07       ------------------------------------------------------------  7320
 Gogo-DRB3*01:08       ------------------------------------------------------------  7320
 Gogo-DRB3*04:01       ------------------------------------------------------------  7320
 Gogo-DRB3*04:02       ------------------------------------------------------------  7320
 
-HLA-DRB3*01:01:02:01  GTGGAGAGGTCTGTTTTCCCTTGTTTGGATTCCTAGAGGCAGCGCAGGCCTGGCACAAGG  7380
+HLA-DRB3*01:01:02:01  GAGTGGAGAGGTCTGTTTTCCCTTGTTTGGATTCCTAGAGGCAGCGCAGGCCTGGCACAA  7380
 Gogo-DRB3*01:01       ------------------------------------------------------------  7380
 Gogo-DRB3*01:07       ------------------------------------------------------------  7380
 Gogo-DRB3*01:08       ------------------------------------------------------------  7380
 Gogo-DRB3*04:01       ------------------------------------------------------------  7380
 Gogo-DRB3*04:02       ------------------------------------------------------------  7380
 
-HLA-DRB3*01:01:02:01  TCATCACTAAGAAAGTGTTCACAGGATGAACGCGGTGGGTGCTGTTTAAGGAACCGGTAA  7440
+HLA-DRB3*01:01:02:01  GGTCATCACTAAGAAAGTGTTCACAGGATGAACGCGGTGGGTGCTGTTTAAGGAACCGGT  7440
 Gogo-DRB3*01:01       ------------------------------------------------------------  7440
 Gogo-DRB3*01:07       ------------------------------------------------------------  7440
 Gogo-DRB3*01:08       ------------------------------------------------------------  7440
 Gogo-DRB3*04:01       ------------------------------------------------------------  7440
 Gogo-DRB3*04:02       ------------------------------------------------------------  7440
 
-HLA-DRB3*01:01:02:01  ACATGTGGGATGAGAGAAGGAGCAGAGTGTCTTTGGGGTGGAGGCTCCTAGGAGGAGGCG  7500
+HLA-DRB3*01:01:02:01  AAACATGTGGGATGAGAGAAGGAGCAGAGTGTCTTTGGGGTGGAGGCTCCTAGGAGGAGG  7500
 Gogo-DRB3*01:01       ------------------------------------------------------------  7500
 Gogo-DRB3*01:07       ------------------------------------------------------------  7500
 Gogo-DRB3*01:08       ------------------------------------------------------------  7500
 Gogo-DRB3*04:01       ------------------------------------------------------------  7500
 Gogo-DRB3*04:02       ------------------------------------------------------------  7500
 
-HLA-DRB3*01:01:02:01  GGGCGGGCTGCGGTGCGGGGCGGATCCTCCTCCAGCTCCTGCTTGGAGGTCTCCAGAACA  7560
+HLA-DRB3*01:01:02:01  CGGGGCGGGCTGCGGTGCGGGGCGGATCCTCCTCCAGCTCCTGCTTGGAGGTCTCCAGAA  7560
 Gogo-DRB3*01:01       ------------------------------------------------------------  7560
 Gogo-DRB3*01:07       ------------------------------------------------------------  7560
 Gogo-DRB3*01:08       ------------------------------------------------------------  7560
 Gogo-DRB3*04:01       ------------------------------------------------------------  7560
 Gogo-DRB3*04:02       ------------------------------------------------------------  7560
 
-HLA-DRB3*01:01:02:01  AGCTGGAGGCAGGGAGGGGGTCCCAAAAGCCTGGGGATGAGAAGGGGTTTTCCCGCATAG  7620
+HLA-DRB3*01:01:02:01  CAAGCTGGAGGCAGGGAGGGGGTCCCAAAAGCCTGGGGATGAGAAGGGGTTTTCCCGCAT  7620
 Gogo-DRB3*01:01       ------------------------------------------------------------  7620
 Gogo-DRB3*01:07       ------------------------------------------------------------  7620
 Gogo-DRB3*01:08       ------------------------------------------------------------  7620
 Gogo-DRB3*04:01       ------------------------------------------------------------  7620
 Gogo-DRB3*04:02       ------------------------------------------------------------  7620
 
-HLA-DRB3*01:01:02:01  TCCCCTAGGCCCCCGTTCGCCTGAGGAAAACGGAGGATGAGCTCCTGGGCTGCAGGTGGT  7680
+HLA-DRB3*01:01:02:01  AGTCCCCTAGGCCCCCGTTCGCCTGAGGAAAACGGAGGATGAGCTCCTGGGCTGCAGGTG  7680
 Gogo-DRB3*01:01       ------------------------------------------------------------  7680
 Gogo-DRB3*01:07       ------------------------------------------------------------  7680
 Gogo-DRB3*01:08       ------------------------------------------------------------  7680
 Gogo-DRB3*04:01       ------------------------------------------------------------  7680
 Gogo-DRB3*04:02       ------------------------------------------------------------  7680
 
-HLA-DRB3*01:01:02:01  GGGCGTTGCGGGTGGGGCCGGTTAAGGTTCCCAGTGCCCGCACCCCACCCAGGGAGCCCC  7740
+HLA-DRB3*01:01:02:01  GTGGGCGTTGCGGGTGGGGCCGGTTAAGGTTCCCAGTGCCCGCACCCCACCCAGGGAGCC  7740
 Gogo-DRB3*01:01       ------------------------------------------------------------  7740
 Gogo-DRB3*01:07       ------------------------------------------------------------  7740
 Gogo-DRB3*01:08       ------------------------------------------------------------  7740
 Gogo-DRB3*04:01       ------------------------------------------------------------  7740
 Gogo-DRB3*04:02       ------------------------------------------------------------  7740
 
-HLA-DRB3*01:01:02:01  GGATGGCGGCGTCGCTGTCAGTGTCTTCTCAGGAGGCCGCCCGTGTGACCGGATCCTTCG  7800
+HLA-DRB3*01:01:02:01  CCGGATGGCGGCGTCGCTGTCAGTGTCTTCTCAGGAGGCCGCCCGTGTGACCGGATCCTT  7800
 Gogo-DRB3*01:01       ------------------------------------------------------------  7800
 Gogo-DRB3*01:07       ------------------------------------------------------------  7800
 Gogo-DRB3*01:08       ------------------------------------------------------------  7800
 Gogo-DRB3*04:01       ------------------------------------------------------------  7800
 Gogo-DRB3*04:02       ------------------------------------------------------------  7800
 
-HLA-DRB3*01:01:02:01  TGTACCCGCAGCACGTTTCTTGGAGCTGCGTAAGTCTGAGTGTCATTTCTTCAATGGGAC  7860
-Gogo-DRB3*01:01       -----------CACGTTTCTTGGAGCTGCGTAAGTCTGAGTGTCATTTCTTCAATGGGAC  7860
-Gogo-DRB3*01:07       -----------CACGTTTCTTGGAGCTGCTTAAGTCTGAGTGTCATTTCTTCAATGGGAC  7860
-Gogo-DRB3*01:08       ----------------TTCTTGGAGCTGCGTAAGTCTGAGTGTCATTTCTTCAATGGGAC  7860
-Gogo-DRB3*04:01       -----------CACGTTTCTTGGAGCTGCTTAAGTCTGAGTGTCATTTCTTCAATGGGAC  7860
-Gogo-DRB3*04:02       ----------------TTCTTGGAGCTGCGTAAGTCTGAGTGTCATTTCTTCAATGGGAC  7860
+HLA-DRB3*01:01:02:01  CGTGTACCCGCAGCACGTTTCTTGGAGCTGCGTAAGTCTGAGTGTCATTTCTTCAATGGG  7860
+Gogo-DRB3*01:01       -------------CACGTTTCTTGGAGCTGCGTAAGTCTGAGTGTCATTTCTTCAATGGG  7860
+Gogo-DRB3*01:07       -------------CACGTTTCTTGGAGCTGCTTAAGTCTGAGTGTCATTTCTTCAATGGG  7860
+Gogo-DRB3*01:08       ------------------TTCTTGGAGCTGCGTAAGTCTGAGTGTCATTTCTTCAATGGG  7860
+Gogo-DRB3*04:01       -------------CACGTTTCTTGGAGCTGCTTAAGTCTGAGTGTCATTTCTTCAATGGG  7860
+Gogo-DRB3*04:02       ------------------TTCTTGGAGCTGCGTAAGTCTGAGTGTCATTTCTTCAATGGG  7860
 
-HLA-DRB3*01:01:02:01  GGAGCGGGTGCGGTACCTGGACAGATACTTCCATAACCAGGAGGAGTTCCTGCGCTTCGA  7920
-Gogo-DRB3*01:01       GGAGCTGGTGCGGTACCTGGACAGATACTTCCATAACCAAGAGGAGTTCGTGCGCTTCGA  7920
-Gogo-DRB3*01:07       GGAGCGGGTGCGGTTCCTTGAGAGGTACATCCATAACCAAGAGGAGTTCGTGCGCTTCGA  7920
-Gogo-DRB3*01:08       GGAGCTGGTGCGGTACCTGGACAGATACTTCCATAACCAAGAGGAGTTCGTGCGCTTCGA  7920
-Gogo-DRB3*04:01       GGAGCGGGTGCGGTTCCTTGAGAGATACATCCATAACCAAGAGGAGTTCGTGCGCTTCGA  7920
-Gogo-DRB3*04:02       GGAGCGGGTGCGGTTCCTTGAGAGATACATCCATAACCAAGAGGAGTTCGTGCGCTTCGA  7920
+HLA-DRB3*01:01:02:01  ACGGAGCGGGTGCGGTACCTGGACAGATACTTCCATAACCAGGAGGAGTTCCTGCGCTTC  7920
+Gogo-DRB3*01:01       ACGGAGCTGGTGCGGTACCTGGACAGATACTTCCATAACCAAGAGGAGTTCGTGCGCTTC  7920
+Gogo-DRB3*01:07       ACGGAGCGGGTGCGGTTCCTTGAGAGGTACATCCATAACCAAGAGGAGTTCGTGCGCTTC  7920
+Gogo-DRB3*01:08       ACGGAGCTGGTGCGGTACCTGGACAGATACTTCCATAACCAAGAGGAGTTCGTGCGCTTC  7920
+Gogo-DRB3*04:01       ACGGAGCGGGTGCGGTTCCTTGAGAGATACATCCATAACCAAGAGGAGTTCGTGCGCTTC  7920
+Gogo-DRB3*04:02       ACGGAGCGGGTGCGGTTCCTTGAGAGATACATCCATAACCAAGAGGAGTTCGTGCGCTTC  7920
 
-HLA-DRB3*01:01:02:01  CAGCGACGTGGGGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGTCGCCGAGTCCTG  7980
-Gogo-DRB3*01:01       CAGCGACGTGGGGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGTCGCCGAGTACTG  7980
-Gogo-DRB3*01:07       CAGCGACGTGGGGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGATGCCGAGTCCTG  7980
-Gogo-DRB3*01:08       CAGCGACGTGGGGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGATGCCGAGTACTG  7980
-Gogo-DRB3*04:01       CAGCGACGTGGGGGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTGATGCCGAGTACTG  7980
-Gogo-DRB3*04:02       CAGCGACGTGGGGGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTGCTGCCGAGTACTG  7980
+HLA-DRB3*01:01:02:01  GACAGCGACGTGGGGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGTCGCCGAGTCC  7980
+Gogo-DRB3*01:01       GACAGCGACGTGGGGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGTCGCCGAGTAC  7980
+Gogo-DRB3*01:07       GACAGCGACGTGGGGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGATGCCGAGTCC  7980
+Gogo-DRB3*01:08       GACAGCGACGTGGGGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGATGCCGAGTAC  7980
+Gogo-DRB3*04:01       GACAGCGACGTGGGGGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTGATGCCGAGTAC  7980
+Gogo-DRB3*04:02       GACAGCGACGTGGGGGAGTTCCGGGCGGTGACGGAGCTGGGGCGGCCTGCTGCCGAGTAC  7980
 
-HLA-DRB3*01:01:02:01  GAACAGCCAGAAGGACCTCCTGGAGCAGAAGCGGGGCCGGGTGGACAATTACTGCAGACA  8040
-Gogo-DRB3*01:01       GAACAGCCAGAAGGACCTCCTGGAGCAGAAGCGGGGCCGGGTGGACAATTACTGCAGACA  8040
-Gogo-DRB3*01:07       GAACAGCCAGAAGGACCTCCTGGAGCAGAAGCGGGGCCAGGTGGACAATTACTGCAGACA  8040
-Gogo-DRB3*01:08       GAACAGCCAGAAGGACCTCCTGGAGCAGAAGCGGGGCCGGGTGGACAATTAC--------  8040
-Gogo-DRB3*04:01       GAACAGCCAGAAGGACATCCTGGAAGACGAGCGGGCCTCGGTGGACACCTATTGGAGATA  8040
-Gogo-DRB3*04:02       GAACAGCCGGAAGGACGTCCTGGAAGACGAGCGGGCCTCGGTGGACACCTAT--------  8040
+HLA-DRB3*01:01:02:01  TGGAACAGCCAGAAGGACCTCCTGGAGCAGAAGCGGGGCCGGGTGGACAATTACTGCAGA  8040
+Gogo-DRB3*01:01       TGGAACAGCCAGAAGGACCTCCTGGAGCAGAAGCGGGGCCGGGTGGACAATTACTGCAGA  8040
+Gogo-DRB3*01:07       TGGAACAGCCAGAAGGACCTCCTGGAGCAGAAGCGGGGCCAGGTGGACAATTACTGCAGA  8040
+Gogo-DRB3*01:08       TGGAACAGCCAGAAGGACCTCCTGGAGCAGAAGCGGGGCCGGGTGGACAATTAC------  8040
+Gogo-DRB3*04:01       TGGAACAGCCAGAAGGACATCCTGGAAGACGAGCGGGCCTCGGTGGACACCTATTGGAGA  8040
+Gogo-DRB3*04:02       TGGAACAGCCGGAAGGACGTCCTGGAAGACGAGCGGGCCTCGGTGGACACCTAT------  8040
 
-HLA-DRB3*01:01:02:01  CAACTACGGGGTTGGTGAGAGCTTCACAGTGCAGCGGCGAGGTGAGCATGTCGGGGGGCG  8100
-Gogo-DRB3*01:01       CAACTACGGGGTTGTGGAGAGCTTCACAGTGCAGCGGCGAG-------------------  8100
-Gogo-DRB3*01:07       CAACTACGGGGTTGGTGAGAGCTTCACAGTGCAGCGGCGAG-------------------  8100
+HLA-DRB3*01:01:02:01  CACAACTACGGGGTTGGTGAGAGCTTCACAGTGCAGCGGCGAGGTGAGCATGTCGGGGGG  8100
+Gogo-DRB3*01:01       CACAACTACGGGGTTGTGGAGAGCTTCACAGTGCAGCGGCGAG-----------------  8100
+Gogo-DRB3*01:07       CACAACTACGGGGTTGGTGAGAGCTTCACAGTGCAGCGGCGAG-----------------  8100
 Gogo-DRB3*01:08       ------------------------------------------------------------  8100
-Gogo-DRB3*04:01       CAACTACGGGATTGTGGAGAGCTTCACAGTGCAGCGGCGAG-------------------  8100
+Gogo-DRB3*04:01       TACAACTACGGGATTGTGGAGAGCTTCACAGTGCAGCGGCGAG-----------------  8100
 Gogo-DRB3*04:02       ------------------------------------------------------------  8100
 
-HLA-DRB3*01:01:02:01  GGGCCTGGGTCCCTGTGAGCTGGAAATCTGAGAGAGAGTGTGTGTGTGTGTGTGTGTGTG  8160
+HLA-DRB3*01:01:02:01  CGGGGCCTGGGTCCCTGTGAGCTGGAAATCTGAGAGAGAGTGTGTGTGTGTGTGTGTGTG  8160
 Gogo-DRB3*01:01       ------------------------------------------------------------  8160
 Gogo-DRB3*01:07       ------------------------------------------------------------  8160
 Gogo-DRB3*01:08       ------------------------------------------------------------  8160
 Gogo-DRB3*04:01       ------------------------------------------------------------  8160
 Gogo-DRB3*04:02       ------------------------------------------------------------  8160
 
-HLA-DRB3*01:01:02:01  TGTGTGAGAGAGAGAGAGAGAGAGGAAGAGACAGAGAGAGGGAGCGCGCCATCTGTGAGC  8220
+HLA-DRB3*01:01:02:01  TGTGTGTGAGAGAGAGAGAGAGAGAGGAAGAGACAGAGAGAGGGAGCGCGCCATCTGTGA  8220
 Gogo-DRB3*01:01       ------------------------------------------------------------  8220
 Gogo-DRB3*01:07       ------------------------------------------------------------  8220
 Gogo-DRB3*01:08       ------------------------------------------------------------  8220
 Gogo-DRB3*04:01       ------------------------------------------------------------  8220
 Gogo-DRB3*04:02       ------------------------------------------------------------  8220
 
-HLA-DRB3*01:01:02:01  ATTTAGAATCCTCTCAATCCCGAGCAAGCAGTTATGAAGGCACAGGTGTGTGTGTAGAGT  8280
+HLA-DRB3*01:01:02:01  GCATTTAGAATCCTCTCAATCCCGAGCAAGCAGTTATGAAGGCACAGGTGTGTGTGTAGA  8280
 Gogo-DRB3*01:01       ------------------------------------------------------------  8280
 Gogo-DRB3*01:07       ------------------------------------------------------------  8280
 Gogo-DRB3*01:08       ------------------------------------------------------------  8280
 Gogo-DRB3*04:01       ------------------------------------------------------------  8280
 Gogo-DRB3*04:02       ------------------------------------------------------------  8280
 
-HLA-DRB3*01:01:02:01  GTGGATTGGTCTGTGTCTGTGTGCCTGTTGTGGGAGGGGAAGCAGGAGGGGGCTGCTTCT  8340
+HLA-DRB3*01:01:02:01  GTGTGGATTGGTCTGTGTCTGTGTGCCTGTTGTGGGAGGGGAAGCAGGAGGGGGCTGCTT  8340
 Gogo-DRB3*01:01       ------------------------------------------------------------  8340
 Gogo-DRB3*01:07       ------------------------------------------------------------  8340
 Gogo-DRB3*01:08       ------------------------------------------------------------  8340
 Gogo-DRB3*04:01       ------------------------------------------------------------  8340
 Gogo-DRB3*04:02       ------------------------------------------------------------  8340
 
-HLA-DRB3*01:01:02:01  TATCCTTGGAGACTTCTGTGGAGAGGTGACAAGGGAGGTGGGTGCGGGCGGCTGGAGAGA  8400
+HLA-DRB3*01:01:02:01  CTTATCCTTGGAGACTTCTGTGGAGAGGTGACAAGGGAGGTGGGTGCGGGCGGCTGGAGA  8400
 Gogo-DRB3*01:01       ------------------------------------------------------------  8400
 Gogo-DRB3*01:07       ------------------------------------------------------------  8400
 Gogo-DRB3*01:08       ------------------------------------------------------------  8400
 Gogo-DRB3*04:01       ------------------------------------------------------------  8400
 Gogo-DRB3*04:02       ------------------------------------------------------------  8400
 
-HLA-DRB3*01:01:02:01  GAGGAGACCTTGATTGTCCTGGGTCCTTAGAGATGCAGGGAAGGAAAGTGTAAGGTGTGT  8460
+HLA-DRB3*01:01:02:01  GAGAGGAGACCTTGATTGTCCTGGGTCCTTAGAGATGCAGGGAAGGAAAGTGTAAGGTGT  8460
 Gogo-DRB3*01:01       ------------------------------------------------------------  8460
 Gogo-DRB3*01:07       ------------------------------------------------------------  8460
 Gogo-DRB3*01:08       ------------------------------------------------------------  8460
 Gogo-DRB3*04:01       ------------------------------------------------------------  8460
 Gogo-DRB3*04:02       ------------------------------------------------------------  8460
 
-HLA-DRB3*01:01:02:01  GTGGGTGGGGTGAAGGTTTAGGGGAGGAGAGCTGAGGGGTAAGGAAGGTTTGGGATAATG  8520
+HLA-DRB3*01:01:02:01  GTGTGGGTGGGGTGAAGGTTTAGGGGAGGAGAGCTGAGGGGTAAGGAAGGTTTGGGATAA  8520
 Gogo-DRB3*01:01       ------------------------------------------------------------  8520
 Gogo-DRB3*01:07       ------------------------------------------------------------  8520
 Gogo-DRB3*01:08       ------------------------------------------------------------  8520
 Gogo-DRB3*04:01       ------------------------------------------------------------  8520
 Gogo-DRB3*04:02       ------------------------------------------------------------  8520
 
-HLA-DRB3*01:01:02:01  TGAGGAGGCCGGTTCCAGACTGTCCCTGGCACACACCCTTCATGTAATCTCTGAAATAAA  8580
+HLA-DRB3*01:01:02:01  TGTGAGGAGGCCGGTTCCAGACTGTCCCTGGCACACACCCTTCATGTAATCTCTGAAATA  8580
 Gogo-DRB3*01:01       ------------------------------------------------------------  8580
 Gogo-DRB3*01:07       ------------------------------------------------------------  8580
 Gogo-DRB3*01:08       ------------------------------------------------------------  8580
 Gogo-DRB3*04:01       ------------------------------------------------------------  8580
 Gogo-DRB3*04:02       ------------------------------------------------------------  8580
 
-HLA-DRB3*01:01:02:01  AGTGCGTGCTGTTTGTAAAAGCATTAGATTAAGTTCTAGGGGAATTGAGTAGACCTCTAA  8640
+HLA-DRB3*01:01:02:01  AAAGTGCGTGCTGTTTGTAAAAGCATTAGATTAAGTTCTAGGGGAATTGAGTAGACCTCT  8640
 Gogo-DRB3*01:01       ------------------------------------------------------------  8640
 Gogo-DRB3*01:07       ------------------------------------------------------------  8640
 Gogo-DRB3*01:08       ------------------------------------------------------------  8640
 Gogo-DRB3*04:01       ------------------------------------------------------------  8640
 Gogo-DRB3*04:02       ------------------------------------------------------------  8640
 
-HLA-DRB3*01:01:02:01  GGCACCTCTGAAACTTCTTTAGGTATAAATTTCTTGCTAGTTTTTTGTTTTTCTAGTGTG  8700
+HLA-DRB3*01:01:02:01  AAGGCACCTCTGAAACTTCTTTAGGTATAAATTTCTTGCTAGTTTTTTGTTTTTCTAGTG  8700
 Gogo-DRB3*01:01       ------------------------------------------------------------  8700
 Gogo-DRB3*01:07       ------------------------------------------------------------  8700
 Gogo-DRB3*01:08       ------------------------------------------------------------  8700
 Gogo-DRB3*04:01       ------------------------------------------------------------  8700
 Gogo-DRB3*04:02       ------------------------------------------------------------  8700
 
-HLA-DRB3*01:01:02:01  TATATTTTTACATAGTAGAAATGACAGTGAAACTAACTTTTGAATTAAAGTTTTAACACA  8760
+HLA-DRB3*01:01:02:01  TGTATATTTTTACATAGTAGAAATGACAGTGAAACTAACTTTTGAATTAAAGTTTTAACA  8760
 Gogo-DRB3*01:01       ------------------------------------------------------------  8760
 Gogo-DRB3*01:07       ------------------------------------------------------------  8760
 Gogo-DRB3*01:08       ------------------------------------------------------------  8760
 Gogo-DRB3*04:01       ------------------------------------------------------------  8760
 Gogo-DRB3*04:02       ------------------------------------------------------------  8760
 
-HLA-DRB3*01:01:02:01  GTTACTGTATTATTATAATGCTAATAGTTTTCTAGTAGTTACATATTATTCTTTTATATA  8820
+HLA-DRB3*01:01:02:01  CAGTTACTGTATTATTATAATGCTAATAGTTTTCTAGTAGTTACATATTATTCTTTTATA  8820
 Gogo-DRB3*01:01       ------------------------------------------------------------  8820
 Gogo-DRB3*01:07       ------------------------------------------------------------  8820
 Gogo-DRB3*01:08       ------------------------------------------------------------  8820
 Gogo-DRB3*04:01       ------------------------------------------------------------  8820
 Gogo-DRB3*04:02       ------------------------------------------------------------  8820
 
-HLA-DRB3*01:01:02:01  TAATAGTTGTGACACAACTTAGGGATCACTTTCCCCTTTGTTGACCTTTATTATGACATT  8880
+HLA-DRB3*01:01:02:01  TATAATAGTTGTGACACAACTTAGGGATCACTTTCCCCTTTGTTGACCTTTATTATGACA  8880
 Gogo-DRB3*01:01       ------------------------------------------------------------  8880
 Gogo-DRB3*01:07       ------------------------------------------------------------  8880
 Gogo-DRB3*01:08       ------------------------------------------------------------  8880
 Gogo-DRB3*04:01       ------------------------------------------------------------  8880
 Gogo-DRB3*04:02       ------------------------------------------------------------  8880
 
-HLA-DRB3*01:01:02:01  CACCAAAAGTTGAAAATGTATGTTTCTGGTTAATTTTTAATTTATATTTTTTCATTTGAA  8940
+HLA-DRB3*01:01:02:01  TTCACCAAAAGTTGAAAATGTATGTTTCTGGTTAATTTTTAATTTATATTTTTTCATTTG  8940
 Gogo-DRB3*01:01       ------------------------------------------------------------  8940
 Gogo-DRB3*01:07       ------------------------------------------------------------  8940
 Gogo-DRB3*01:08       ------------------------------------------------------------  8940
 Gogo-DRB3*04:01       ------------------------------------------------------------  8940
 Gogo-DRB3*04:02       ------------------------------------------------------------  8940
 
-HLA-DRB3*01:01:02:01  AAAATGTGGAGAGGTCTGTTTTTCATTCAAAAGAGTTCTTTTGAATTATTTTGACCGATT  9000
+HLA-DRB3*01:01:02:01  AAAAAATGTGGAGAGGTCTGTTTTTCATTCAAAAGAGTTCTTTTGAATTATTTTGACCGA  9000
 Gogo-DRB3*01:01       ------------------------------------------------------------  9000
 Gogo-DRB3*01:07       ------------------------------------------------------------  9000
 Gogo-DRB3*01:08       ------------------------------------------------------------  9000
 Gogo-DRB3*04:01       ------------------------------------------------------------  9000
 Gogo-DRB3*04:02       ------------------------------------------------------------  9000
 
-HLA-DRB3*01:01:02:01  TATTGGTCAATTTTAATAACTGCTCTAAGAATTCCCTATTTTATTTGGTAGGTAATGGAC  9060
+HLA-DRB3*01:01:02:01  TTTATTGGTCAATTTTAATAACTGCTCTAAGAATTCCCTATTTTATTTGGTAGGTAATGG  9060
 Gogo-DRB3*01:01       ------------------------------------------------------------  9060
 Gogo-DRB3*01:07       ------------------------------------------------------------  9060
 Gogo-DRB3*01:08       ------------------------------------------------------------  9060
 Gogo-DRB3*04:01       ------------------------------------------------------------  9060
 Gogo-DRB3*04:02       ------------------------------------------------------------  9060
 
-HLA-DRB3*01:01:02:01  AATGATCTACTGCCTAATATCTCTAGGGCTTAGTATTTTTCTCAGTGACTTTGTGGGTTC  9120
+HLA-DRB3*01:01:02:01  ACAATGATCTACTGCCTAATATCTCTAGGGCTTAGTATTTTTCTCAGTGACTTTGTGGGT  9120
 Gogo-DRB3*01:01       ------------------------------------------------------------  9120
 Gogo-DRB3*01:07       ------------------------------------------------------------  9120
 Gogo-DRB3*01:08       ------------------------------------------------------------  9120
 Gogo-DRB3*04:01       ------------------------------------------------------------  9120
 Gogo-DRB3*04:02       ------------------------------------------------------------  9120
 
-HLA-DRB3*01:01:02:01  TTTGTACTGTAAGATTATTAACACTTTATTGATATTTGATTCAGCATTTGCTCCAGTTTG  9180
+HLA-DRB3*01:01:02:01  TCTTTGTACTGTAAGATTATTAACACTTTATTGATATTTGATTCAGCATTTGCTCCAGTT  9180
 Gogo-DRB3*01:01       ------------------------------------------------------------  9180
 Gogo-DRB3*01:07       ------------------------------------------------------------  9180
 Gogo-DRB3*01:08       ------------------------------------------------------------  9180
 Gogo-DRB3*04:01       ------------------------------------------------------------  9180
 Gogo-DRB3*04:02       ------------------------------------------------------------  9180
 
-HLA-DRB3*01:01:02:01  TGGTTTGTATGTTGATTTTGAAAATTCTTTTCCATGTTAAGAATTTGAACATTTTTATTT  9240
+HLA-DRB3*01:01:02:01  TGTGGTTTGTATGTTGATTTTGAAAATTCTTTTCCATGTTAAGAATTTGAACATTTTTAT  9240
 Gogo-DRB3*01:01       ------------------------------------------------------------  9240
 Gogo-DRB3*01:07       ------------------------------------------------------------  9240
 Gogo-DRB3*01:08       ------------------------------------------------------------  9240
 Gogo-DRB3*04:01       ------------------------------------------------------------  9240
 Gogo-DRB3*04:02       ------------------------------------------------------------  9240
 
-HLA-DRB3*01:01:02:01  AATAAAATGTATTGCAAAAATTTTATTAATGATTTACAATCCATCTTAAATCTGCCATTT  9300
+HLA-DRB3*01:01:02:01  TTAATAAAATGTATTGCAAAAATTTTATTAATGATTTACAATCCATCTTAAATCTGCCAT  9300
 Gogo-DRB3*01:01       ------------------------------------------------------------  9300
 Gogo-DRB3*01:07       ------------------------------------------------------------  9300
 Gogo-DRB3*01:08       ------------------------------------------------------------  9300
 Gogo-DRB3*04:01       ------------------------------------------------------------  9300
 Gogo-DRB3*04:02       ------------------------------------------------------------  9300
 
-HLA-DRB3*01:01:02:01  TGTGGTATTTTTGTCTCTAGGTTTCTCCTTACTTCTAAAAACATTGTATTTATTGAGAGT  9360
+HLA-DRB3*01:01:02:01  TTTGTGGTATTTTTGTCTCTAGGTTTCTCCTTACTTCTAAAAACATTGTATTTATTGAGA  9360
 Gogo-DRB3*01:01       ------------------------------------------------------------  9360
 Gogo-DRB3*01:07       ------------------------------------------------------------  9360
 Gogo-DRB3*01:08       ------------------------------------------------------------  9360
 Gogo-DRB3*04:01       ------------------------------------------------------------  9360
 Gogo-DRB3*04:02       ------------------------------------------------------------  9360
 
-HLA-DRB3*01:01:02:01  ATGCTAATGTCGGGGATTTTCCTGGGCATAAGCACCACAAGTAATGAGTTCCAGACCCTG  9420
+HLA-DRB3*01:01:02:01  GTATGCTAATGTCGGGGATTTTCCTGGGCATAAGCACCACAAGTAATGAGTTCCAGACCC  9420
 Gogo-DRB3*01:01       ------------------------------------------------------------  9420
 Gogo-DRB3*01:07       ------------------------------------------------------------  9420
 Gogo-DRB3*01:08       ------------------------------------------------------------  9420
 Gogo-DRB3*04:01       ------------------------------------------------------------  9420
 Gogo-DRB3*04:02       ------------------------------------------------------------  9420
 
-HLA-DRB3*01:01:02:01  CCTTAATCCAAATGTGATTCTGGAAAGAAAAATCATTTTACAATTGGCCTGATAATAATT  9480
+HLA-DRB3*01:01:02:01  TGCCTTAATCCAAATGTGATTCTGGAAAGAAAAATCATTTTACAATTGGCCTGATAATAA  9480
 Gogo-DRB3*01:01       ------------------------------------------------------------  9480
 Gogo-DRB3*01:07       ------------------------------------------------------------  9480
 Gogo-DRB3*01:08       ------------------------------------------------------------  9480
 Gogo-DRB3*04:01       ------------------------------------------------------------  9480
 Gogo-DRB3*04:02       ------------------------------------------------------------  9480
 
-HLA-DRB3*01:01:02:01  CTGCTTGTGTTGCACGGGGGATACATTGAGCAGCTGAATGAAAATATAAGAACTTTCAAA  9540
+HLA-DRB3*01:01:02:01  TTCTGCTTGTGTTGCACGGGGGATACATTGAGCAGCTGAATGAAAATATAAGAACTTTCA  9540
 Gogo-DRB3*01:01       ------------------------------------------------------------  9540
 Gogo-DRB3*01:07       ------------------------------------------------------------  9540
 Gogo-DRB3*01:08       ------------------------------------------------------------  9540
 Gogo-DRB3*04:01       ------------------------------------------------------------  9540
 Gogo-DRB3*04:02       ------------------------------------------------------------  9540
 
-HLA-DRB3*01:01:02:01  ACTAAAATGACGCTCCTAAATCCTTCTGTCTGCTTTAGGACTCATGCTTTTCTAGGAACG  9600
+HLA-DRB3*01:01:02:01  AAACTAAAATGACGCTCCTAAATCCTTCTGTCTGCTTTAGGACTCATGCTTTTCTAGGAA  9600
 Gogo-DRB3*01:01       ------------------------------------------------------------  9600
 Gogo-DRB3*01:07       ------------------------------------------------------------  9600
 Gogo-DRB3*01:08       ------------------------------------------------------------  9600
 Gogo-DRB3*04:01       ------------------------------------------------------------  9600
 Gogo-DRB3*04:02       ------------------------------------------------------------  9600
 
-HLA-DRB3*01:01:02:01  TAAAAATTTGGAGAATCATTTCTGTCTGTCCCACCTTCCCAGGGGCAGAACCATTTCTGT  9660
+HLA-DRB3*01:01:02:01  CGTAAAAATTTGGAGAATCATTTCTGTCTGTCCCACCTTCCCAGGGGCAGAACCATTTCT  9660
 Gogo-DRB3*01:01       ------------------------------------------------------------  9660
 Gogo-DRB3*01:07       ------------------------------------------------------------  9660
 Gogo-DRB3*01:08       ------------------------------------------------------------  9660
 Gogo-DRB3*04:01       ------------------------------------------------------------  9660
 Gogo-DRB3*04:02       ------------------------------------------------------------  9660
 
-HLA-DRB3*01:01:02:01  GGTGTTCTAAGGTGTGAGTGCATGGCAGTAGTATTCCTAAAAATTCATACTCGGTTTTCT  9720
+HLA-DRB3*01:01:02:01  GTGGTGTTCTAAGGTGTGAGTGCATGGCAGTAGTATTCCTAAAAATTCATACTCGGTTTT  9720
 Gogo-DRB3*01:01       ------------------------------------------------------------  9720
 Gogo-DRB3*01:07       ------------------------------------------------------------  9720
 Gogo-DRB3*01:08       ------------------------------------------------------------  9720
 Gogo-DRB3*04:01       ------------------------------------------------------------  9720
 Gogo-DRB3*04:02       ------------------------------------------------------------  9720
 
-HLA-DRB3*01:01:02:01  CATGTACCCAACTCTGTCCCTTTGTCTATGTACATTGCTTTAAATCATATTTTTCTGTCA  9780
+HLA-DRB3*01:01:02:01  CTCATGTACCCAACTCTGTCCCTTTGTCTATGTACATTGCTTTAAATCATATTTTTCTGT  9780
 Gogo-DRB3*01:01       ------------------------------------------------------------  9780
 Gogo-DRB3*01:07       ------------------------------------------------------------  9780
 Gogo-DRB3*01:08       ------------------------------------------------------------  9780
 Gogo-DRB3*04:01       ------------------------------------------------------------  9780
 Gogo-DRB3*04:02       ------------------------------------------------------------  9780
 
-HLA-DRB3*01:01:02:01  CGGTGTACAAGGATGATAAATAGGTGCCAAGTGGAGCACCCAAGTGTGATGAGCCCCCTT  9840
+HLA-DRB3*01:01:02:01  CACGGTGTACAAGGATGATAAATAGGTGCCAAGTGGAGCACCCAAGTGTGATGAGCCCCC  9840
 Gogo-DRB3*01:01       ------------------------------------------------------------  9840
 Gogo-DRB3*01:07       ------------------------------------------------------------  9840
 Gogo-DRB3*01:08       ------------------------------------------------------------  9840
 Gogo-DRB3*04:01       ------------------------------------------------------------  9840
 Gogo-DRB3*04:02       ------------------------------------------------------------  9840
 
-HLA-DRB3*01:01:02:01  ACGGTGGAATGGAGTGAGAAGCTTTCTGATCTCATAAATTGAAGGCTATCTTCAGTCATT  9900
+HLA-DRB3*01:01:02:01  TTACGGTGGAATGGAGTGAGAAGCTTTCTGATCTCATAAATTGAAGGCTATCTTCAGTCA  9900
 Gogo-DRB3*01:01       ------------------------------------------------------------  9900
 Gogo-DRB3*01:07       ------------------------------------------------------------  9900
 Gogo-DRB3*01:08       ------------------------------------------------------------  9900
 Gogo-DRB3*04:01       ------------------------------------------------------------  9900
 Gogo-DRB3*04:02       ------------------------------------------------------------  9900
 
-HLA-DRB3*01:01:02:01  ATGTATTTTACATAAATTAATCCTCATATAACCCCAAGAGGTAAATTAGTATAATTATCC  9960
+HLA-DRB3*01:01:02:01  TTATGTATTTTACATAAATTAATCCTCATATAACCCCAAGAGGTAAATTAGTATAATTAT  9960
 Gogo-DRB3*01:01       ------------------------------------------------------------  9960
 Gogo-DRB3*01:07       ------------------------------------------------------------  9960
 Gogo-DRB3*01:08       ------------------------------------------------------------  9960
 Gogo-DRB3*04:01       ------------------------------------------------------------  9960
 Gogo-DRB3*04:02       ------------------------------------------------------------  9960
 
-HLA-DRB3*01:01:02:01  TTCATTGGGGGTGACAAAGTTGAGACACAGAAGAATCAACTCTTCCAGGATCAACCAGTA 10020
+HLA-DRB3*01:01:02:01  CCTTCATTGGGGGTGACAAAGTTGAGACACAGAAGAATCAACTCTTCCAGGATCAACCAG 10020
 Gogo-DRB3*01:01       ------------------------------------------------------------ 10020
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10020
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10020
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10020
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10020
 
-HLA-DRB3*01:01:02:01  AAAGGCAGACCTTGGATTTGAACCATGCAACCTGGCTCAGGTATCAGTTTTAATTACTAC 10080
+HLA-DRB3*01:01:02:01  TAAAAGGCAGACCTTGGATTTGAACCATGCAACCTGGCTCAGGTATCAGTTTTAATTACT 10080
 Gogo-DRB3*01:01       ------------------------------------------------------------ 10080
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10080
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10080
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10080
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10080
 
-HLA-DRB3*01:01:02:01  ACTCTGTACTTTCAAAAATTTGTAAACACTTTGACAATGCATGCCAATTTCAAGTTATGA 10140
+HLA-DRB3*01:01:02:01  ACACTCTGTACTTTCAAAAATTTGTAAACACTTTGACAATGCATGCCAATTTCAAGTTAT 10140
 Gogo-DRB3*01:01       ------------------------------------------------------------ 10140
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10140
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10140
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10140
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10140
 
-HLA-DRB3*01:01:02:01  AGAAGCAAACGCAATTTTTCACATCTCTCAAATCTAATGGGTCCTCACTATCAAGATTAA 10200
+HLA-DRB3*01:01:02:01  GAAGAAGCAAACGCAATTTTTCACATCTCTCAAATCTAATGGGTCCTCACTATCAAGATT 10200
 Gogo-DRB3*01:01       ------------------------------------------------------------ 10200
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10200
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10200
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10200
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10200
 
-HLA-DRB3*01:01:02:01  ATTCCAGGCTGATGACACTGTAAGGCCACATGGCCAGCTGTGCTGGAGGCCTGGTCAAGG 10260
+HLA-DRB3*01:01:02:01  AAATTCCAGGCTGATGACACTGTAAGGCCACATGGCCAGCTGTGCTGGAGGCCTGGTCAA 10260
 Gogo-DRB3*01:01       ------------------------------------------------------------ 10260
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10260
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10260
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10260
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10260
 
-HLA-DRB3*01:01:02:01  TCAGAGCCTGGGTTTGCAGAGAAGCAGACAAACAGCCAAACCAGCAGAATTACTCTGTCT 10320
+HLA-DRB3*01:01:02:01  GGTCAGAGCCTGGGTTTGCAGAGAAGCAGACAAACAGCCAAACCAGCAGAATTACTCTGT 10320
 Gogo-DRB3*01:01       ------------------------------------------------------------ 10320
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10320
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10320
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10320
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10320
 
-HLA-DRB3*01:01:02:01  TCCTGACTCATTCCCTCTACCTTTTTTTCTCCTAGTCCATCCTCAGGTGACTGTGTATCC 10380
-Gogo-DRB3*01:01       -----------------------------------TCCATCCTCAGGTGACTGTGTATCC 10380
+HLA-DRB3*01:01:02:01  CTTCCTGACTCATTCCCTCTACCTTTTTTTCTCCTAGTCCATCCTCAGGTGACTGTGTAT 10380
+Gogo-DRB3*01:01       -------------------------------------TCCATCCTCAGGTGACTGTGTAT 10380
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10380
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10380
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10380
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10380
 
-HLA-DRB3*01:01:02:01  TGCAAAGACCCAGCCCCTGCAGCACCACAACCTCCTGGTCTGCTCTGTGAGTGGTTTCTA 10440
-Gogo-DRB3*01:01       TGCAAAGACTCAGCCCCTGCAGCACCACAACCTCCTGGTCTGCTCTGTGAGTGGTTTCTA 10440
+HLA-DRB3*01:01:02:01  CCTGCAAAGACCCAGCCCCTGCAGCACCACAACCTCCTGGTCTGCTCTGTGAGTGGTTTC 10440
+Gogo-DRB3*01:01       CCTGCAAAGACTCAGCCCCTGCAGCACCACAACCTCCTGGTCTGCTCTGTGAGTGGTTTC 10440
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10440
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10440
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10440
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10440
 
-HLA-DRB3*01:01:02:01  TCCAGGCAGCATTGAAGTCAGGTGGTTCCGGAACGGCCAGGAAGAGAAGGCTGGGGTGGT 10500
-Gogo-DRB3*01:01       TCCAGGCAGCATTGAAGTCAGGTGGTTCCAGAACGGCCAGGAAGAGAAGGCTGGGGTGGT 10500
+HLA-DRB3*01:01:02:01  TATCCAGGCAGCATTGAAGTCAGGTGGTTCCGGAACGGCCAGGAAGAGAAGGCTGGGGTG 10500
+Gogo-DRB3*01:01       TATCCAGGCAGCATTGAAGTCAGGTGGTTCCAGAACGGCCAGGAAGAGAAGGCTGGGGTG 10500
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10500
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10500
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10500
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10500
 
-HLA-DRB3*01:01:02:01  GTCCACGGGCCTGATCCAGAATGGAGACTGGACCTTCCAGACCCTGGTGATGCTAGAAAC 10560
-Gogo-DRB3*01:01       GTCCACGGGCCTGATCCAGAATGGAGACTGGACCTTCCAGACCCTGGTGATGCTAGAAAC 10560
+HLA-DRB3*01:01:02:01  GTGTCCACGGGCCTGATCCAGAATGGAGACTGGACCTTCCAGACCCTGGTGATGCTAGAA 10560
+Gogo-DRB3*01:01       GTGTCCACGGGCCTGATCCAGAATGGAGACTGGACCTTCCAGACCCTGGTGATGCTAGAA 10560
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10560
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10560
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10560
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10560
 
-HLA-DRB3*01:01:02:01  AGTTCCTCGGAGTGGAGAGGTTTACACTTGCCAAGTGGAGCACCCAAGCGTAACGAGCGC 10620
-Gogo-DRB3*01:01       AGTTCCTCGGAGTGGAGAGGTTTATACCTGCCAAGTGGAGCACCCAAGCGTAACGAGCCC 10620
+HLA-DRB3*01:01:02:01  ACAGTTCCTCGGAGTGGAGAGGTTTACACTTGCCAAGTGGAGCACCCAAGCGTAACGAGC 10620
+Gogo-DRB3*01:01       ACAGTTCCTCGGAGTGGAGAGGTTTATACCTGCCAAGTGGAGCACCCAAGCGTAACGAGC 10620
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10620
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10620
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10620
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10620
 
-HLA-DRB3*01:01:02:01  TCTCACAGTGGAATGGAGTGAGCAGCTTTCTGATTTCATACATTTCTCACCCACCAAGAA 10680
-Gogo-DRB3*01:01       TCTCACAGTGGAATGGA------------------------------------------- 10680
+HLA-DRB3*01:01:02:01  GCTCTCACAGTGGAATGGAGTGAGCAGCTTTCTGATTTCATACATTTCTCACCCACCAAG 10680
+Gogo-DRB3*01:01       CCTCTCACAGTGGAATGGA----------------------------------------- 10680
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10680
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10680
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10680
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10680
 
-HLA-DRB3*01:01:02:01  GGGGACTGTGCTAATCCCTGAGTGTCAGGTTTCTCCTCTCCCACGTCCTATTTTCATTTG 10740
+HLA-DRB3*01:01:02:01  AAGGGGACTGTGCTAATCCCTGAGTGTCAGGTTTCTCCTCTCCCACGTCCTATTTTCATT 10740
 Gogo-DRB3*01:01       ------------------------------------------------------------ 10740
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10740
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10740
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10740
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10740
 
-HLA-DRB3*01:01:02:01  CTCCATGTTCTCATCTCCATCAGCACAGGTCACTGGGGATAGCCCTGTAACAGTGTGTAG 10800
+HLA-DRB3*01:01:02:01  TGCTCCATGTTCTCATCTCCATCAGCACAGGTCACTGGGGATAGCCCTGTAACAGTGTGT 10800
 Gogo-DRB3*01:01       ------------------------------------------------------------ 10800
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10800
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10800
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10800
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10800
 
-HLA-DRB3*01:01:02:01  AAACACCTGTACTCCCTGTGGAATCAGTCATGCTTTTTTTTTTTTTGAACCTCCCCATGA 10860
+HLA-DRB3*01:01:02:01  AGAAACACCTGTACTCCCTGTGGAATCAGTCATGCTTTTTTTTTTTTTGAACCTCCCCAT 10860
 Gogo-DRB3*01:01       ------------------------------------------------------------ 10860
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10860
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10860
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10860
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10860
 
-HLA-DRB3*01:01:02:01  TGTCACAGGTCAGGGTCACCCGATCTCCCCAAGCTCCAGGCCCTGCTTCTGGGTCTGAGA 10920
+HLA-DRB3*01:01:02:01  GATGTCACAGGTCAGGGTCACCCGATCTCCCCAAGCTCCAGGCCCTGCTTCTGGGTCTGA 10920
 Gogo-DRB3*01:01       ------------------------------------------------------------ 10920
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10920
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10920
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10920
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10920
 
-HLA-DRB3*01:01:02:01  CTGAGTTTCTGGTGCTGCTGCTCTGAGTTACTTGTTTTGATCTGGGAAGAGGGGAAGCAT 10980
+HLA-DRB3*01:01:02:01  GACTGAGTTTCTGGTGCTGCTGCTCTGAGTTACTTGTTTTGATCTGGGAAGAGGGGAAGC 10980
 Gogo-DRB3*01:01       ------------------------------------------------------------ 10980
 Gogo-DRB3*01:07       ------------------------------------------------------------ 10980
 Gogo-DRB3*01:08       ------------------------------------------------------------ 10980
 Gogo-DRB3*04:01       ------------------------------------------------------------ 10980
 Gogo-DRB3*04:02       ------------------------------------------------------------ 10980
 
-HLA-DRB3*01:01:02:01  AGGGGCCTACCTGACATGAGGGGAGTCCAATCTCAGCTCTGCCTTTTATTAGCTCTGTCA 11040
+HLA-DRB3*01:01:02:01  ATAGGGGCCTACCTGACATGAGGGGAGTCCAATCTCAGCTCTGCCTTTTATTAGCTCTGT 11040
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11040
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11040
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11040
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11040
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11040
 
-HLA-DRB3*01:01:02:01  CTCTAGACAAACTACTTAGCCTCACTGAGTCTCAGGCTTTCTGTGGATCAGATGTTGAAC 11100
+HLA-DRB3*01:01:02:01  CACTCTAGACAAACTACTTAGCCTCACTGAGTCTCAGGCTTTCTGTGGATCAGATGTTGA 11100
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11100
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11100
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11100
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11100
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11100
 
-HLA-DRB3*01:01:02:01  GCTTGCCTTACATCAAGGCTGTAATATTTGAATGAGTTTGATGTCGGAACCTTGTAACTG 11160
+HLA-DRB3*01:01:02:01  ACGCTTGCCTTACATCAAGGCTGTAATATTTGAATGAGTTTGATGTCGGAACCTTGTAAC 11160
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11160
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11160
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11160
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11160
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11160
 
-HLA-DRB3*01:01:02:01  TTCAGTGTGATTTGAAATCCTTTTTTTCTCCCAAAATGGCTAGTTATTTTAGTTCTTGTG 11220
+HLA-DRB3*01:01:02:01  TGTTCAGTGTGATTTGAAATCCTTTTTTTCTCCCAAAATGGCTAGTTATTTTAGTTCTTG 11220
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11220
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11220
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11220
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11220
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11220
 
-HLA-DRB3*01:01:02:01  GGGCAGCCTTCTTCCCCATTTTCAAAGCTCTGAATCTTAGAGTCTCAATTAAAGAGGTTC 11280
+HLA-DRB3*01:01:02:01  TGGGGCAGCCTTCTTCCCCATTTTCAAAGCTCTGAATCTTAGAGTCTCAATTAAAGAGGT 11280
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11280
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11280
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11280
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11280
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11280
 
-HLA-DRB3*01:01:02:01  AATTTGGAATAAGCATCACTAAACCTGGCTTCCTCTCTCAGGAGCACGGTCTGAATCTGC 11340
-Gogo-DRB3*01:01       -----------------------------------------GAGCACGGTCTGAATCTGC 11340
+HLA-DRB3*01:01:02:01  TCAATTTGGAATAAGCATCACTAAACCTGGCTTCCTCTCTCAGGAGCACGGTCTGAATCT 11340
+Gogo-DRB3*01:01       -------------------------------------------GAGCACGGTCTGAATCT 11340
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11340
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11340
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11340
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11340
 
-HLA-DRB3*01:01:02:01  ACAGAGCAAGATGCTGAGTGGAGTCGGGGGCTTTGTGCTGGGCCTGCTCTTCCTTGGGGC 11400
-Gogo-DRB3*01:01       ACAGAGCAAGATGCTGAGTGGAGTCGGGGGCTTTGTGCTGGGCCTGCTCTTCCTTGGGGC 11400
+HLA-DRB3*01:01:02:01  GCACAGAGCAAGATGCTGAGTGGAGTCGGGGGCTTTGTGCTGGGCCTGCTCTTCCTTGGG 11400
+Gogo-DRB3*01:01       GCACAGAGCAAGATGCTGAGTGGAGTCGGGGGCTTTGTGCTGGGCCTGCTCTTCCTTGGG 11400
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11400
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11400
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11400
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11400
 
-HLA-DRB3*01:01:02:01  CGGGCTGTTCATCTACTTCAGGAATCAGAAAGGTGAGGAGCCTTTGGTAGCTGGGCCTTT 11460
-Gogo-DRB3*01:01       CGGGCTGTTCATCTACTTCAGGAGTCAGAAAG---------------------------- 11460
+HLA-DRB3*01:01:02:01  GCCGGGCTGTTCATCTACTTCAGGAATCAGAAAGGTGAGGAGCCTTTGGTAGCTGGGCCT 11460
+Gogo-DRB3*01:01       GCCGGGCTGTTCATCTACTTCAGGAGTCAGAAAG-------------------------- 11460
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11460
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11460
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11460
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11460
 
-HLA-DRB3*01:01:02:01  CCATAGGCTTTTCTGCAGGAGGAAATAGAGCTTTGCTGAGGTTAGTTCTCAGTATATGAG 11520
+HLA-DRB3*01:01:02:01  TTCCATAGGCTTTTCTGCAGGAGGAAATAGAGCTTTGCTGAGGTTAGTTCTCAGTATATG 11520
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11520
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11520
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11520
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11520
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11520
 
-HLA-DRB3*01:01:02:01  TGGCTCTGAATAAAGCCTTTCTTTCCCCAAACGGCTCTAATGTCCTGCTAATCCAGAAAT 11580
+HLA-DRB3*01:01:02:01  AGTGGCTCTGAATAAAGCCTTTCTTTCCCCAAACGGCTCTAATGTCCTGCTAATCCAGAA 11580
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11580
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11580
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11580
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11580
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11580
 
-HLA-DRB3*01:01:02:01  CATCAGTGCATGGTTACTATGTGAAAGCATAATAGCTTGTGGCCTGCAGAGACAAGAGGA 11640
+HLA-DRB3*01:01:02:01  ATCATCAGTGCATGGTTACTATGTGAAAGCATAATAGCTTGTGGCCTGCAGAGACAAGAG 11640
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11640
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11640
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11640
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11640
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11640
 
-HLA-DRB3*01:01:02:01  AGGTTAACAAGTAGGGGTCCTTTGGTTTGAGATCTTGGAGCAAATTAAGGAAGAGCCACT 11700
+HLA-DRB3*01:01:02:01  GAAGGTTAACAAGTAGGGGTCCTTTGGTTTGAGATCTTGGAGCAAATTAAGGAAGAGCCA 11700
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11700
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11700
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11700
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11700
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11700
 
-HLA-DRB3*01:01:02:01  AAAGTTAATGGAATTACACTGGATCCTGTGACAGACACTTCATGCTTCATGGGTCACATG 11760
+HLA-DRB3*01:01:02:01  CTAAAGTTAATGGAATTACACTGGATCCTGTGACAGACACTTCATGCTTCATGGGTCACA 11760
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11760
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11760
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11760
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11760
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11760
 
-HLA-DRB3*01:01:02:01  GTCTGTTTCTGCTCCTCTCTGCCCTGGTTGGTGTGGGTTTTGGTGTTAGAACTCTCCGGT 11820
+HLA-DRB3*01:01:02:01  TGGTCTGTTTCTGCTCCTCTCTGCCCTGGTTGGTGTGGGTTTTGGTGTTAGAACTCTCCG 11820
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11820
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11820
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11820
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11820
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11820
 
-HLA-DRB3*01:01:02:01  GGGAGATCTGGGACTGTGATATTGTGTTGGAGGACAGATTTGCTTCAATATCTTTTAAGT 11880
+HLA-DRB3*01:01:02:01  GTGGGAGATCTGGGACTGTGATATTGTGTTGGAGGACAGATTTGCTTCAATATCTTTTAA 11880
 Gogo-DRB3*01:01       ------------------------------------------------------------ 11880
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11880
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11880
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11880
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11880
 
-HLA-DRB3*01:01:02:01  GTATATCTTTTCCTCTTTTTCCCAGGACACTCTGGACTTCAGCCAACAGGTAATACCTTT 11940
-Gogo-DRB3*01:01       -------------------------GACACTCTGGACTTCAGCCAACAG----------- 11940
+HLA-DRB3*01:01:02:01  GTGTATATCTTTTCCTCTTTTTCCCAGGACACTCTGGACTTCAGCCAACAGGTAATACCT 11940
+Gogo-DRB3*01:01       ---------------------------GACACTCTGGACTTCAGCCAACAG--------- 11940
 Gogo-DRB3*01:07       ------------------------------------------------------------ 11940
 Gogo-DRB3*01:08       ------------------------------------------------------------ 11940
 Gogo-DRB3*04:01       ------------------------------------------------------------ 11940
 Gogo-DRB3*04:02       ------------------------------------------------------------ 11940
 
-HLA-DRB3*01:01:02:01  TAATCCTCTTTTAGACACAGATTCAGTTTCTCCAGTGAGAGGTGAAGCCAGCTGGACTTC 12000
+HLA-DRB3*01:01:02:01  TTTAATCCTCTTTTAGACACAGATTCAGTTTCTCCAGTGAGAGGTGAAGCCAGCTGGACT 12000
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12000
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12000
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12000
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12000
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12000
 
-HLA-DRB3*01:01:02:01  TGGGTTGGGTGGGGACTTGGAGAACTTTTCTGTCTTACAAGAGGTTTCTAAATGCACCAA 12060
+HLA-DRB3*01:01:02:01  TCTGGGTTGGGTGGGGACTTGGAGAACTTTTCTGTCTTACAAGAGGTTTCTAAATGCACC 12060
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12060
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12060
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12060
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12060
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12060
 
-HLA-DRB3*01:01:02:01  TGAGTGCTCTGTAAAAACACACCAATGAGTGCTCTGTAAAAATTGACACTCTGTGGCTCG 12120
+HLA-DRB3*01:01:02:01  AATGAGTGCTCTGTAAAAACACACCAATGAGTGCTCTGTAAAAATTGACACTCTGTGGCT 12120
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12120
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12120
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12120
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12120
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12120
 
-HLA-DRB3*01:01:02:01  CTAGATGTTTGTAAGATGGACCAATCAGCACTCTGTAAAATGGACCAATCCACACTCTGT 12180
+HLA-DRB3*01:01:02:01  CGCTAGATGTTTGTAAGATGGACCAATCAGCACTCTGTAAAATGGACCAATCCACACTCT 12180
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12180
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12180
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12180
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12180
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12180
 
-HLA-DRB3*01:01:02:01  AAAATGGACCAATCAGCACTCTTTAAAATGGACCAATCAGCAGGATACGGGCGGGGACAA 12240
+HLA-DRB3*01:01:02:01  GTAAAATGGACCAATCAGCACTCTTTAAAATGGACCAATCAGCAGGATACGGGCGGGGAC 12240
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12240
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12240
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12240
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12240
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12240
 
-HLA-DRB3*01:01:02:01  ATAAGGGAATAAAAGCTGGTCACCCTAGCCAGCACCTGCAACCTGCTTAGGTCCTTTTCT 12300
+HLA-DRB3*01:01:02:01  AAATAAGGGAATAAAAGCTGGTCACCCTAGCCAGCACCTGCAACCTGCTTAGGTCCTTTT 12300
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12300
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12300
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12300
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12300
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12300
 
-HLA-DRB3*01:01:02:01  ATGCTGTGGAAGTTTTGTTCTTTTGATCTTCACAATAAATCTTGTGCTCACTCTTTGGGT 12360
+HLA-DRB3*01:01:02:01  CTATGCTGTGGAAGTTTTGTTCTTTTGATCTTCACAATAAATCTTGTGCTCACTCTTTGG 12360
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12360
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12360
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12360
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12360
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12360
 
-HLA-DRB3*01:01:02:01  CCGTGCCACCTTTAAGAGCTATAACACTCACTGCAAGGGTCTGTGGCTTCACTCTTGAAG 12420
+HLA-DRB3*01:01:02:01  GTCCGTGCCACCTTTAAGAGCTATAACACTCACTGCAAGGGTCTGTGGCTTCACTCTTGA 12420
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12420
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12420
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12420
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12420
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12420
 
-HLA-DRB3*01:01:02:01  TCAGCCAGACCCTGAACCTACCGGAAGGAACAAACTCAGGACACACTAGAATGATGGTAG 12480
+HLA-DRB3*01:01:02:01  AGTCAGCCAGACCCTGAACCTACCGGAAGGAACAAACTCAGGACACACTAGAATGATGGT 12480
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12480
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12480
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12480
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12480
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12480
 
-HLA-DRB3*01:01:02:01  AGGTGATAAGGCATGAGACAGAAATAATAGGAAAGACTTTGGATCCAAATTTCTGATCAG 12540
+HLA-DRB3*01:01:02:01  AGAGGTGATAAGGCATGAGACAGAAATAATAGGAAAGACTTTGGATCCAAATTTCTGATC 12540
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12540
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12540
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12540
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12540
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12540
 
-HLA-DRB3*01:01:02:01  GCAATTTACACCAAAACTCCTCCTCTCCACTTAGAAAAGGCCTGTGCTCTGCAGGACTAT 12600
+HLA-DRB3*01:01:02:01  AGGCAATTTACACCAAAACTCCTCCTCTCCACTTAGAAAAGGCCTGTGCTCTGCAGGACT 12600
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12600
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12600
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12600
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12600
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12600
 
-HLA-DRB3*01:01:02:01  TGGCTCTGGGAGACTCAGGAACTTGTTTTTCTTCTTCCTGCAGTGTTCTCATCTGAGTCC 12660
+HLA-DRB3*01:01:02:01  ATTGGCTCTGGGAGACTCAGGAACTTGTTTTTCTTCTTCCTGCAGTGTTCTCATCTGAGT 12660
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12660
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12660
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12660
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12660
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12660
 
-HLA-DRB3*01:01:02:01  TTCAAAGAGGGGGAAAGAAACGTTAGTAGAGCCAGGTTGAAAACAACACTCTCCTCTGTC 12720
+HLA-DRB3*01:01:02:01  CCTTCAAAGAGGGGGAAAGAAACGTTAGTAGAGCCAGGTTGAAAACAACACTCTCCTCTG 12720
 Gogo-DRB3*01:01       ------------------------------------------------------------ 12720
 Gogo-DRB3*01:07       ------------------------------------------------------------ 12720
 Gogo-DRB3*01:08       ------------------------------------------------------------ 12720
 Gogo-DRB3*04:01       ------------------------------------------------------------ 12720
 Gogo-DRB3*04:02       ------------------------------------------------------------ 12720
 
-HLA-DRB3*01:01:02:01  TTTTGCAGGATTCCTGAGCTGAAGTGCAGATGACAATTTA 12760
-Gogo-DRB3*01:01       --------GATTCCTGAGCTGA------------------ 12760
-Gogo-DRB3*01:07       ---------------------------------------- 12760
-Gogo-DRB3*01:08       ---------------------------------------- 12760
-Gogo-DRB3*04:01       ---------------------------------------- 12760
-Gogo-DRB3*04:02       ---------------------------------------- 12760
+HLA-DRB3*01:01:02:01  TCTTTTGCAGGATTCCTGAGCTGAAGTGCAGATGACAATTTAAGGAAGAATCTTCTGCCC 12780
+Gogo-DRB3*01:01       ----------GATTCCTGAGCTGA------------------------------------ 12780
+Gogo-DRB3*01:07       ------------------------------------------------------------ 12780
+Gogo-DRB3*01:08       ------------------------------------------------------------ 12780
+Gogo-DRB3*04:01       ------------------------------------------------------------ 12780
+Gogo-DRB3*04:02       ------------------------------------------------------------ 12780
+
+HLA-DRB3*01:01:02:01  CAGCTTTGCAGGATGAAAAGCTTTCCCGCCTGGCTGTTATTCTTCCACGAGAGAGGGCTT 12840
+Gogo-DRB3*01:01       ------------------------------------------------------------ 12840
+Gogo-DRB3*01:07       ------------------------------------------------------------ 12840
+Gogo-DRB3*01:08       ------------------------------------------------------------ 12840
+Gogo-DRB3*04:01       ------------------------------------------------------------ 12840
+Gogo-DRB3*04:02       ------------------------------------------------------------ 12840
+
+HLA-DRB3*01:01:02:01  TCTCAGGACCTAGTTGCTACTGGTTCAGCAACTGCAGAAAATGTCCTCCCTTGTGGCTTC 12900
+Gogo-DRB3*01:01       ------------------------------------------------------------ 12900
+Gogo-DRB3*01:07       ------------------------------------------------------------ 12900
+Gogo-DRB3*01:08       ------------------------------------------------------------ 12900
+Gogo-DRB3*04:01       ------------------------------------------------------------ 12900
+Gogo-DRB3*04:02       ------------------------------------------------------------ 12900
+
+HLA-DRB3*01:01:02:01  CTCAG 12905
+Gogo-DRB3*01:01       ----- 12905
+Gogo-DRB3*01:07       ----- 12905
+Gogo-DRB3*01:08       ----- 12905
+Gogo-DRB3*04:01       ----- 12905
+Gogo-DRB3*04:02       ----- 12905
 
