@@ -11,27 +11,27 @@ Paan-DRB6*01:09       ------------------------------------LEQGKSECQIFNGREPVRYLNR
 Paan-DRB6*01:10       ----------------------------------GFLEQAKCECHIFNGTEQVQYLDRYI    60
 
 HLA-DRB1*01:01:01:01  YNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFTV   120
-Paan-DRB6*01:01       HKREENLRFHSDVGEFQAVTELGRPVAENWNSQKGILEKRDK-VDSYCRYNYGVFESFTE   120
+Paan-DRB6*01:01       HKREENLRFHSDVGEFQAVTELGRPVAENWNSQKGIL-EKRDKVDSYCRYNYGVFESFTE   120
 Paan-DRB6*01:02       HKREENLRFHSDLGEFQAVTELERPVAENWNSQKGILEEKRDKVDTYCRYNYRVFESFTE   120
 Paan-DRB6*01:03       HKREENLRFHSDLGEFQVVTELGRPVAENWNSQKGILEEKRDX-----------------   120
-Paan-DRB6*01:04       HKREENLRFHSDVGEFQAVTELEWPVAENWNSQKGILEKRDK-VDSYCRYNYGVFESFTE   120
-Paan-DRB6*01:05       HKREENLRFHSDLGEFQAATQLGRPVAENWNSQKGILEEKRDKVDTYCRYNYGVFESFT-   120
+Paan-DRB6*01:04       HKREENLRFHSDVGEFQAVTELEWPVAENWNSQKGIL-EKRDKVDSYCRYNYGVFESFTE   120
+Paan-DRB6*01:05       HKREENLRFHSDLGEFQAATQLGRPVAENWNSQKGILEEKRDKVDTYCRYNYGVFESFTE   120
 Paan-DRB6*01:06       HKREENLRFHSDLGEFQAVTELGRPVAENWNSQNGILEEKRDX-----------------   120
 Paan-DRB6*01:07       YKREENLRFHSDLGEFQAVTQLGRPVAENWNSQKGILEEKRDX-----------------   120
 Paan-DRB6*01:08       HKREENLRFHSDVGEFQAVMELGRPVAENWNSQKGILEEKRDKVDTYCRYNYRVFESFTV   120
 Paan-DRB6*01:09       HKREGNLRFDSDVGEFQAVTELGRPVAENWNSQKGILEEKRDKVDTYCRYNYRVFESFTE   120
-Paan-DRB6*01:10       HKREENLRFHSDVGEFQAVTELGRPVAENWNSQKGILEKRDK-VDSYCRYNYGVFESFTE   120
+Paan-DRB6*01:10       HKREENLRFHSDVGEFQAVTELGRPVAENWNSQKGIL-EKRDKVDSYCRYNYGVFESFTE   120
 
 HLA-DRB1*01:01:01:01  QRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNG   180
-Paan-DRB6*01:01       QR----------------------------------------------------------   180
-Paan-DRB6*01:02       QR----------------------------------------------------------   180
+Paan-DRB6*01:01       QRX---------------------------------------------------------   180
+Paan-DRB6*01:02       QRX---------------------------------------------------------   180
 Paan-DRB6*01:03       ------------------------------------------------------------   180
-Paan-DRB6*01:04       QR----------------------------------------------------------   180
-Paan-DRB6*01:05       ------------------------------------------------------------   180
+Paan-DRB6*01:04       QRX---------------------------------------------------------   180
+Paan-DRB6*01:05       QPR---------------------------------------------------------   180
 Paan-DRB6*01:06       ------------------------------------------------------------   180
 Paan-DRB6*01:07       ------------------------------------------------------------   180
-Paan-DRB6*01:08       QR----------------------------------------------------------   180
-Paan-DRB6*01:09       QR----------------------------------------------------------   180
+Paan-DRB6*01:08       QRX---------------------------------------------------------   180
+Paan-DRB6*01:09       QRX---------------------------------------------------------   180
 Paan-DRB6*01:10       QRX---------------------------------------------------------   180
 
 HLA-DRB1*01:01:01:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLL   240
@@ -39,7 +39,7 @@ Paan-DRB6*01:01       ----------------------------------------------------------
 Paan-DRB6*01:02       ------------------------------------------------------------   240
 Paan-DRB6*01:03       ------------------------------------------------------------   240
 Paan-DRB6*01:04       ------------------------------------------------------------   240
-Paan-DRB6*01:05       ------------------------EQP---------------------------------   240
+Paan-DRB6*01:05       ------------------------------------------------------------   240
 Paan-DRB6*01:06       ------------------------------------------------------------   240
 Paan-DRB6*01:07       ------------------------------------------------------------   240
 Paan-DRB6*01:08       ------------------------------------------------------------   240

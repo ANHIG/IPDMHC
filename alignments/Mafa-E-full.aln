@@ -268,7 +268,7 @@ Mafa-E*02:12          ----------------------------------------------------------
 Mafa-E*02:13          ------------------------------------------------------------   900
 Mafa-E*02:14          ------------------------------------------------------------   900
 
-HLA-E*01:01:01:01     CCGGGGAGAGTCTCAGGCGCCTTTACCCGG-TTCTTTTTCAGTTTAGGCCAAAATGCCCA   960
+HLA-E*01:01:01:01     CCGGGGAGAGTCTCAGGCGCCTTTACCCGGTTCT-TTTTCAGTTTAGGCCAAAATGCCCA   960
 Mafa-E*02:01:01       ------------------------------------------------------------   960
 Mafa-E*02:01:02:01    CCCGGCAGAGTCCCAGGCTCCTTTACCCGGTTTCGTTTTCAGTTTAGGCCAAAATCCCTG   960
 Mafa-E*02:02          ------------------------------------------------------------   960
@@ -727,11 +727,11 @@ Mafa-E*02:03:02:01    GTTGTTGCTGTGATGTGGAGGAGGAAGAGCTCAGGTGGGGAAGGGAGAGGGGTAGAGT
 Mafa-E*02:04:01:01    ATTGTTGCTGTGATGTGGAGGAGGAAGAGCTCAGGTGGGGAAGGGAGAGGGGTAGAGTCT  2460
 Mafa-E*02:05N         ------------------------------------------------------------  2460
 Mafa-E*02:06:01:01    GTTGTTGCTGTGATGTGGAGGAGGAAGAGCTCAGGTGGGGAAGGGAGAGGGGTAGAGTCT  2460
-Mafa-E*02:07          GTTGCTGCTGTGATGTGGAGGAA---GAGCTCAG--------------------------  2460
+Mafa-E*02:07          GTTGCTGCTGTGATGTGGAGG---AAGAGCTCAG--------------------------  2460
 Mafa-E*02:08          GTTGCTGCTGTGATGTGGAGGAGTAACAGCTCAG--------------------------  2460
 Mafa-E*02:09          GTTGCTGCTGTGATGTGGAGGAGTAACAGCTCAG--------------------------  2460
-Mafa-E*02:10          GTTGCTGCTGTGATGTGGAGGAA---GAGCTCAG--------------------------  2460
-Mafa-E*02:11          GTTGCTGCTGTGATGTGGAGGAA---GAGCTCAG--------------------------  2460
+Mafa-E*02:10          GTTGCTGCTGTGATGTGGAGG---AAGAGCTCAG--------------------------  2460
+Mafa-E*02:11          GTTGCTGCTGTGATGTGGAGG---AAGAGCTCAG--------------------------  2460
 Mafa-E*02:12          GTTGCTGCTGTGATGTGGAGGAGTAACAGCTCAG--------------------------  2460
 Mafa-E*02:13          GTTGTTGCTGTGATGTGGAGGAGGAAGAGCTCAG--------------------------  2460
 Mafa-E*02:14          GTTGTTGCTGTGATGTGCAGGAGGAACAGCTCAG--------------------------  2460
@@ -756,13 +756,13 @@ Mafa-E*02:14          ----------------------------------------------------------
 
 HLA-E*01:01:01:01     CTGGGAAGCACCATCCACACACACGAGCCTACCCAGCCTGGGGCCCTGTGTGCCAGCACC  2580
 Mafa-E*02:01:01       ------------------------------------------------------------  2580
-Mafa-E*02:01:02:01    CTGGGAAGCACCATCCACACTCACGGGCCGACCCAGCCCGGG-CCCTGTGTGCCAGCACC  2580
+Mafa-E*02:01:02:01    CTGGGAAGCACCATCCACACTCACGGGCCGACCCAGCCC-GGGCCCTGTGTGCCAGCACC  2580
 Mafa-E*02:02          ------------------------------------------------------------  2580
 Mafa-E*02:03:01       ------------------------------------------------------------  2580
-Mafa-E*02:03:02:01    CTGGGAAGCACCATCCACACTCACGGGCCGACCCAGCCCGGG-CCCTGTGTGCCAGCACC  2580
-Mafa-E*02:04:01:01    CTGGGAAGCACCATCCACACTCACGGGCCGACCCAGCCCGGG-CCCTGTGTGCCAGCACC  2580
+Mafa-E*02:03:02:01    CTGGGAAGCACCATCCACACTCACGGGCCGACCCAGCCC-GGGCCCTGTGTGCCAGCACC  2580
+Mafa-E*02:04:01:01    CTGGGAAGCACCATCCACACTCACGGGCCGACCCAGCCC-GGGCCCTGTGTGCCAGCACC  2580
 Mafa-E*02:05N         ------------------------------------------------------------  2580
-Mafa-E*02:06:01:01    CTGGGAAGCACCATCCACACTCACGGGCCGACCCAGCCCGGG-CCCTGTGTGCCAGCACC  2580
+Mafa-E*02:06:01:01    CTGGGAAGCACCATCCACACTCACGGGCCGACCCAGCCC-GGGCCCTGTGTGCCAGCACC  2580
 Mafa-E*02:07          ------------------------------------------------------------  2580
 Mafa-E*02:08          ------------------------------------------------------------  2580
 Mafa-E*02:09          ------------------------------------------------------------  2580
@@ -774,13 +774,13 @@ Mafa-E*02:14          ----------------------------------------------------------
 
 HLA-E*01:01:01:01     TACTCTTTTTTTTTGAGACGGAGTCTTGGCTCTGTCACCCAGGCTGGAGTGCAATGGCGT  2640
 Mafa-E*02:01:01       ------------------------------------------------------------  2640
-Mafa-E*02:01:02:01    TACTCTTTTTTTT-GAGATGGAATCTTGGCTCTGTCACCCAGGCTGGAGTGCAATGGCGT  2640
+Mafa-E*02:01:02:01    TACTC-TTTTTTTTGAGATGGAATCTTGGCTCTGTCACCCAGGCTGGAGTGCAATGGCGT  2640
 Mafa-E*02:02          ------------------------------------------------------------  2640
 Mafa-E*02:03:01       ------------------------------------------------------------  2640
-Mafa-E*02:03:02:01    TACTCTTTTTTTT-GAGATGGAATCTTGGCTCTGTCACCCAGGCTGGAGTGCAATGGCGT  2640
-Mafa-E*02:04:01:01    TACTCTTTTTTTT-GAGATGGAATCTTGGCTCTGTCACCCAGGCTGGAGTGCAATGGCGT  2640
+Mafa-E*02:03:02:01    TACTC-TTTTTTTTGAGATGGAATCTTGGCTCTGTCACCCAGGCTGGAGTGCAATGGCGT  2640
+Mafa-E*02:04:01:01    TACTC-TTTTTTTTGAGATGGAATCTTGGCTCTGTCACCCAGGCTGGAGTGCAATGGCGT  2640
 Mafa-E*02:05N         ------------------------------------------------------------  2640
-Mafa-E*02:06:01:01    TACTCTTTTTTTT-GAGATGGAATCTTGGCTCTGTCACCCAGGCTGGAGTGCAATGGCGT  2640
+Mafa-E*02:06:01:01    TACTC-TTTTTTTTGAGATGGAATCTTGGCTCTGTCACCCAGGCTGGAGTGCAATGGCGT  2640
 Mafa-E*02:07          ------------------------------------------------------------  2640
 Mafa-E*02:08          ------------------------------------------------------------  2640
 Mafa-E*02:09          ------------------------------------------------------------  2640
@@ -810,13 +810,13 @@ Mafa-E*02:14          ----------------------------------------------------------
 
 HLA-E*01:01:01:01     CCTAGTAGCTGGGACTACACATGCGTGCCACCACACCTGGCTAATTTTTTTTTTTGTATT  2760
 Mafa-E*02:01:01       ------------------------------------------------------------  2760
-Mafa-E*02:01:02:01    CTGAGTAGCTGGGACTACATGTGCATGCCACCACACCCGGCTAATTTTTTTT--TGTACT  2760
+Mafa-E*02:01:02:01    CTGAGTAGCTGGGACTACATGTGCATGCCACCACACCCGGCTAA--TTTTTTTTTGTACT  2760
 Mafa-E*02:02          ------------------------------------------------------------  2760
 Mafa-E*02:03:01       ------------------------------------------------------------  2760
-Mafa-E*02:03:02:01    CTGAGTAGCTGGGACTACATGTGCATGCCACCACACCCGGCTAATTTTTTTT--TGTACT  2760
-Mafa-E*02:04:01:01    CTGAGTAGCTGGGACTACATGTGCATGCCACCACACCCGGCTAATTTTTTTT--TGTACT  2760
+Mafa-E*02:03:02:01    CTGAGTAGCTGGGACTACATGTGCATGCCACCACACCCGGCTAA--TTTTTTTTTGTACT  2760
+Mafa-E*02:04:01:01    CTGAGTAGCTGGGACTACATGTGCATGCCACCACACCCGGCTAA--TTTTTTTTTGTACT  2760
 Mafa-E*02:05N         ------------------------------------------------------------  2760
-Mafa-E*02:06:01:01    CTGAGTAGCTGGGACTACATGTGCATGCCACCACACCCGGCTAATTTTTTTT--TGTACT  2760
+Mafa-E*02:06:01:01    CTGAGTAGCTGGGACTACATGTGCATGCCACCACACCCGGCTAA--TTTTTTTTTGTACT  2760
 Mafa-E*02:07          ------------------------------------------------------------  2760
 Mafa-E*02:08          ------------------------------------------------------------  2760
 Mafa-E*02:09          ------------------------------------------------------------  2760
@@ -988,7 +988,7 @@ Mafa-E*02:12          ----------------------------------------------------------
 Mafa-E*02:13          ------------------------------------------------------------  3300
 Mafa-E*02:14          ------------------------------------------------------------  3300
 
-HLA-E*01:01:01:01     CTTGTTTTTGTTCTACCCCAGGGAGCGACAGTGCCCAGGGGTCTGAG-----TCTCACAG  3360
+HLA-E*01:01:01:01     CTTGTTTTTGTTCTACCCCAGGGAGCGACAGTGCCCAGGGGTCTGA-----GTCTCACAG  3360
 Mafa-E*02:01:01       ---------------------GTAGCGACAGTACCCAGGGATCTGATGAGTCTCTCACAG  3360
 Mafa-E*02:01:02:01    CTTGTTTTTGTTCTACCCCAGGTAGCGACAGTACCCAGGGATCTGATGAGTCTCTCACAG  3360
 Mafa-E*02:02          ---------------------GTAGCGACAGTACCCAGGGATCTGATGAGTCTCTCACAG  3360

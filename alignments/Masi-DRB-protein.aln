@@ -1,20 +1,20 @@
-HLA-DRB1*01:01:01:01  -MVCLKLPGGSCMTALTVTLMVLSSPLALAGDTRPRFLWQLKFECHFFNGTERVRLLERC    60
-Masi-DRB*W001:01      -------------------------------------LEYCKFECHFFNGTERVLNLIRY    60
-Masi-DRB*W002:01      -------------------------------------LDQVKYECHFFNGTERVRLLGRH    60
-Masi-DRB*W003:01      -------------------------------------LEQAKRECHFFNGTERVRFLDRY    60
-Masi-DRB*W004:01      -------------------------------------LQQFKPECHFFNGTERVRYLERH    60
-Masi-DRB*W004:02      -------------------------------------LEHVKSECHFFNGTERVRFLERH    60
-Masi-DRB*W035:01      -------------------------------------LEQAKSECHFFDGTERVRFLDRY    60
+HLA-DRB1*01:01:01:01  MVCLKLPGGSCMTALTVTLMVLSSPLALAGDTRPRFLWQLKFECHFFNGTERVRLLERCI    60
+Masi-DRB*W001:01      ------------------------------------LEYCKFECHFFNGTERVLNLIRYF    60
+Masi-DRB*W002:01      ------------------------------------LDQVKYECHFFNGTERVRLLGRHF    60
+Masi-DRB*W003:01      ------------------------------------LEQAKRECHFFNGTERVRFLDRYF    60
+Masi-DRB*W004:01      ------------------------------------LQQFKPECHFFNGTERVRYLERHF    60
+Masi-DRB*W004:02      ------------------------------------LEHVKSECHFFNGTERVRFLERHF    60
+Masi-DRB*W035:01      ------------------------------------LEQAKSECHFFDGTERVRFLDRYF    60
 
-HLA-DRB1*01:01:01:01  IYNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFT   120
-Masi-DRB*W001:01      FYNQEEYVRYDSDVGEYRAVTELGRPDAKYWNGQKDLLEQRRAEVDTVCRHNYRVVES--   120
-Masi-DRB*W002:01      FYNQEELARFDSDVGEFRAVSELGRPEAENLNTRKDLLERARAAVDTVCRHNYGIVES--   120
-Masi-DRB*W003:01      FYNQEEYVRFDSDVGEFRAVTELGRRSAEYWNSQKDFLEQARTAVDNYCRHNYGVGES--   120
-Masi-DRB*W004:01      FYNQEENLRFDSDVGEYRAVSELGRPEAQSWNSQKDFLEEKRAAVDTYCRHNYRVGES--   120
-Masi-DRB*W004:02      FYNQEENLRFDSDVGEYRAVTELGRPDAENWNSQKDILEEKRARVDNYCRHNYRVGES--   120
-Masi-DRB*W035:01      FYNQEEYVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEDARAAVDTYCRHNYGVGES--   120
+HLA-DRB1*01:01:01:01  YNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFTV   120
+Masi-DRB*W001:01      YNQEEYVRYDSDVGEYRAVTELGRPDAKYWNGQKDLLEQRRAEVDTVCRHNYRVVES---   120
+Masi-DRB*W002:01      YNQEELARFDSDVGEFRAVSELGRPEAENLNTRKDLLERARAAVDTVCRHNYGIVES---   120
+Masi-DRB*W003:01      YNQEEYVRFDSDVGEFRAVTELGRRSAEYWNSQKDFLEQARTAVDNYCRHNYGVGES---   120
+Masi-DRB*W004:01      YNQEENLRFDSDVGEYRAVSELGRPEAQSWNSQKDFLEEKRAAVDTYCRHNYRVGES---   120
+Masi-DRB*W004:02      YNQEENLRFDSDVGEYRAVTELGRPDAENWNSQKDILEEKRARVDNYCRHNYRVGES---   120
+Masi-DRB*W035:01      YNQEEYVRFDSDVGEFRAVTELGRPDAEYWNSQKDILEDARAAVDTYCRHNYGVGES---   120
 
-HLA-DRB1*01:01:01:01  VQRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQN   180
+HLA-DRB1*01:01:01:01  QRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNG   180
 Masi-DRB*W001:01      ------------------------------------------------------------   180
 Masi-DRB*W002:01      ------------------------------------------------------------   180
 Masi-DRB*W003:01      ------------------------------------------------------------   180
@@ -22,7 +22,7 @@ Masi-DRB*W004:01      ----------------------------------------------------------
 Masi-DRB*W004:02      ------------------------------------------------------------   180
 Masi-DRB*W035:01      ------------------------------------------------------------   180
 
-HLA-DRB1*01:01:01:01  GDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGL   240
+HLA-DRB1*01:01:01:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLL   240
 Masi-DRB*W001:01      ------------------------------------------------------------   240
 Masi-DRB*W002:01      ------------------------------------------------------------   240
 Masi-DRB*W003:01      ------------------------------------------------------------   240
@@ -30,11 +30,11 @@ Masi-DRB*W004:01      ----------------------------------------------------------
 Masi-DRB*W004:02      ------------------------------------------------------------   240
 Masi-DRB*W035:01      ------------------------------------------------------------   240
 
-HLA-DRB1*01:01:01:01  LFLGAGLFIYFRNQKGHSGLQPTGFLS   267
-Masi-DRB*W001:01      ---------------------------   267
-Masi-DRB*W002:01      ---------------------------   267
-Masi-DRB*W003:01      ---------------------------   267
-Masi-DRB*W004:01      ---------------------------   267
-Masi-DRB*W004:02      ---------------------------   267
-Masi-DRB*W035:01      ---------------------------   267
+HLA-DRB1*01:01:01:01  FLGAGLFIYFRNQKGHSGLQPTGFLS   266
+Masi-DRB*W001:01      --------------------------   266
+Masi-DRB*W002:01      --------------------------   266
+Masi-DRB*W003:01      --------------------------   266
+Masi-DRB*W004:01      --------------------------   266
+Masi-DRB*W004:02      --------------------------   266
+Masi-DRB*W035:01      --------------------------   266
 

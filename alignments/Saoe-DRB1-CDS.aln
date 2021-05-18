@@ -9,7 +9,7 @@ HLA-DRB1*01:01:01:01  GGTTGCTGGAAAGATGCATCTATAACCAAGAGGAGTCCGTGCGCTTCGACAGCGACGT
 Saoe-DRB1*03:01       GGTTCCTGGACAGATACTTCCATAACCAGGAGGAGTTCCTGCGCTTCGACAGCGACGTGT   120
 Saoe-DRB1*03:02       GGTTCCTGGACAGATACTTCCATAACCAGGAGGAGTTCCTGCGCTTCGACAGCGACGTGT   120
 Saoe-DRB1*03:03N      GGTTCCTGGACAGATACTT--ATAACCAGGAGGAGTTCCTGCGCTTCGACAGCGACGTGG   120
-Saoe-DRB1*03:04N      GGTTCCTGGACAGAT--ATTTATAACCAGGAGGAGTTCCTGCGCTTCGACAGCGACGTGG   120
+Saoe-DRB1*03:04N      GGTTCCTGGACAGATATTT--ATAACCAGGAGGAGTTCCTGCGCTTCGACAGCGACGTGG   120
 Saoe-DRB1*03:05       GGTTCCTGGAAAGATTCATCTATAACCAGGAGGAGAACCTGCGCTTCGACAGCGACGTGG   120
 
 HLA-DRB1*01:01:01:01  GGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGATGCCGAGTACTGGAACAGCCAGA   180
@@ -19,12 +19,12 @@ Saoe-DRB1*03:03N      GGGAGTAACCGGCGGTGACGGAGCGGGGGCGGCGGACGGCAGAGCACTTCAACAGCCG
 Saoe-DRB1*03:04N      GGGAGTAACCGGCGGTGACGGAGCGGGGGCGGCGGACGGCAGAGCACTTCAACAGCCGGA   180
 Saoe-DRB1*03:05       GGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGACGAGGAGAACTGGAACAGCCAGA   180
 
-HLA-DRB1*01:01:01:01  AGGACCT-CCTGGAGCAGAGGCGGGCCGCGGTGGACACCTACTGCAGACACAACTACGGG   240
-Saoe-DRB1*03:01       AGAAC-TACATGGAGGATGCGCGGGCCGCGGTGGACAGTT---GCAGACACAACTACGAG   240
-Saoe-DRB1*03:02       AGGAACTACATGGAGGATGCGCGGGCCGCGGTGGACAGTT---GCAGACACAACTACGAG   240
-Saoe-DRB1*03:03N      AGGAACTACATGGAGGATGCGCGGGCCGCGGTGGACAGTT---GCAGACACAACTACGAG   240
-Saoe-DRB1*03:04N      AGGAACTACATGGAGGATGCGCGGGCCGCGGTGGACAGTT---GCAGACACAACTACGAG   240
-Saoe-DRB1*03:05       AGGACAT-CCTGGAGCAGAAGCGGGCCGCGGTGGACACCTTCTGCAGACACAACTACGAG   240
+HLA-DRB1*01:01:01:01  A-GGACCTCCTGGAGCAGAGGCGGGCCGCGGTGGACACCTACTGCAGACACAACTACGGG   240
+Saoe-DRB1*03:01       A-GAACTACATGGAGGATGCGCGGGCCGCGGTGGACA---GTTGCAGACACAACTACGAG   240
+Saoe-DRB1*03:02       AGGAACTACATGGAGGATGCGCGGGCCGCGGTGGACA---GTTGCAGACACAACTACGAG   240
+Saoe-DRB1*03:03N      AGGAACTACATGGAGGATGCGCGGGCCGCGGTGGACA---GTTGCAGACACAACTACGAG   240
+Saoe-DRB1*03:04N      AGGAACTACATGGAGGATGCGCGGGCCGCGGTGGACA---GTTGCAGACACAACTACGAG   240
+Saoe-DRB1*03:05       A-GGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACACCTTCTGCAGACACAACTACGAG   240
 
 HLA-DRB1*01:01:01:01  GTTGGTGAGAGCTTCACAGTGCAGCGGCGAGTTGAGCCTAAGGTGACTGTGTATCCTTCA   300
 Saoe-DRB1*03:01       AT----------TTCA--------------------------------------------   300
@@ -34,10 +34,10 @@ Saoe-DRB1*03:04N      AT----------TTCA------------------------------------------
 Saoe-DRB1*03:05       AT----------TTCA--------------------------------------------   300
 
 HLA-DRB1*01:01:01:01  AAGACCCAGCCCCTGCAGCACCACAACCTCCTGGTCTGCTCTGTGAGTGGTTTCTATCCA   360
-Saoe-DRB1*03:01       --------------------------------------------GAGAGGTT--------   360
-Saoe-DRB1*03:02       --------------------------------------------GAGAGGTT--------   360
-Saoe-DRB1*03:03N      --------------------------------------------GAGAGGTT--------   360
-Saoe-DRB1*03:04N      --------------------------------------------GAGAGGTT--------   360
+Saoe-DRB1*03:01       --------------------------------------------GAGAGGTTCCT-----   360
+Saoe-DRB1*03:02       --------------------------------------------GAGAGGTTCCT-----   360
+Saoe-DRB1*03:03N      --------------------------------------------GAGAGGTTCCT-----   360
+Saoe-DRB1*03:04N      --------------------------------------------GAGAGGTTCCT-----   360
 Saoe-DRB1*03:05       --------------------------------------------GAGAGGTTCCT-----   360
 
 HLA-DRB1*01:01:01:01  GGCAGCATTGAAGTCAGGTGGTTCCGGAACGGCCAGGAAGAGAAGGCTGGGGTGGTGTCC   420
@@ -48,17 +48,17 @@ Saoe-DRB1*03:04N      ----------------------------------------------------------
 Saoe-DRB1*03:05       ------------------------------------------------------------   420
 
 HLA-DRB1*01:01:01:01  ACAGGCCTGATCCAGAATGGAGATTGGACCTTCCAGACCCTGGTGATGCTGGAAACAGTT   480
-Saoe-DRB1*03:01       --------------------------------------CCTAGTGCTGC-----------   480
-Saoe-DRB1*03:02       --------------------------------------CCTAGTGCTGC-----------   480
-Saoe-DRB1*03:03N      --------------------------------------CCTAGTGCTGC-----------   480
-Saoe-DRB1*03:04N      --------------------------------------CCTAGTGCTGC-----------   480
+Saoe-DRB1*03:01       --------------------------------------------------------AGTG   480
+Saoe-DRB1*03:02       --------------------------------------------------------AGTG   480
+Saoe-DRB1*03:03N      --------------------------------------------------------AGTG   480
+Saoe-DRB1*03:04N      --------------------------------------------------------AGTG   480
 Saoe-DRB1*03:05       --------------------------------------------------------AGTG   480
 
 HLA-DRB1*01:01:01:01  CCTCGGAGTGGAGAGGTTTACACCTGCCAAGTGGAGCACCCAAGTGTGACGAGCCCTCTC   540
-Saoe-DRB1*03:01       ---------GGAGAG---------------------------------------------   540
-Saoe-DRB1*03:02       ---------GGAGAG---------------------------------------------   540
-Saoe-DRB1*03:03N      ---------GGAGAG---------------------------------------------   540
-Saoe-DRB1*03:04N      ---------GGAGAG---------------------------------------------   540
+Saoe-DRB1*03:01       CTGCGGAGAG--------------------------------------------------   540
+Saoe-DRB1*03:02       CTGCGGAGAG--------------------------------------------------   540
+Saoe-DRB1*03:03N      CTGCGGAGAG--------------------------------------------------   540
+Saoe-DRB1*03:04N      CTGCGGAGAG--------------------------------------------------   540
 Saoe-DRB1*03:05       CCGCGGAGAG--------------------------------------------------   540
 
 HLA-DRB1*01:01:01:01  ACAGTGGAATGGA   553

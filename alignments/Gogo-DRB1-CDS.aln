@@ -83,7 +83,7 @@ Gogo-DRB1*03:09       CGGGCCCTGGTGGACACCTATTGCAGACACAACTACGGGGTTGGGGAGAGCTTCACAG
 Gogo-DRB1*03:10       CGGGCCTCGGTGGACACCTAT---------------------------------------   360
 Gogo-DRB1*03:11       CGGGCCTCGGTGGACACCTAT---------------------------------------   360
 Gogo-DRB1*03:12       CGGGGCCAGGTGGACAATTAC---------------------------------------   360
-Gogo-DRB1*03:13       CGGGCCGAGGTGGACACC---------------------------------------GTG   360
+Gogo-DRB1*03:13       CGGGCCGAGGTGGACACCGTG---------------------------------------   360
 Gogo-DRB1*03:14       CGGGCCTCGGTGGACACCTAC---------------------------------------   360
 Gogo-DRB1*10:01       CGGGCCGACGTGGACACCTTCTGCAGACACAACTACAGGGTTGGTGAGAGGTTCACAGTG   360
 Gogo-DRB1*10:02       CGGGCCGACGTGGACACCTTCTGCAGACACAACTACAGGGTTGGTGAGAGGTTCACAGTG   360
@@ -197,7 +197,7 @@ HLA-DRB1*01:01:01:01  CCAACAGGATTCCTGAGCTGA   801
 Gogo-DRB1*02:01       ---------------------   801
 Gogo-DRB1*03:01       ---------------------   801
 Gogo-DRB1*03:02       ---------------------   801
-Gogo-DRB1*03:07       CCAACAGGACTC-TGAGCTGA   801
+Gogo-DRB1*03:07       CCAACAG-GACTCTGAGCTGA   801
 Gogo-DRB1*03:08       ---------------------   801
 Gogo-DRB1*03:09       CCAACAGGATTCCTGAGCTGA   801
 Gogo-DRB1*03:10       ---------------------   801

@@ -543,8 +543,8 @@ Aona-DQB1*23:11       ----------------------------------------------------------
 Aona-DQB1*23:12       ------------------------------------------------------------  2040
 
 HLA-DQB1*05:01:01:01  CGGGCTAGGGCCAGGCTGGGGCCTGACTGACTGGCCCGTGATTCCCCGCAGAGGATTTCG  2100
-Aona-DQB1*22:01:01    ---------------------------------------------------AGG------  2100
-Aona-DQB1*22:01:02    ---------------------------------------------------AGG------  2100
+Aona-DQB1*22:01:01    ------------------------------------------------------------  2100
+Aona-DQB1*22:01:02    ------------------------------------------------------------  2100
 Aona-DQB1*23:01       ------------------------------------------------------------  2100
 Aona-DQB1*23:02       ------------------------------------------------------------  2100
 Aona-DQB1*23:03       ------------------------------------------------------------  2100
@@ -559,8 +559,8 @@ Aona-DQB1*23:11       ----------------------------------------------------------
 Aona-DQB1*23:12       ------------------------------------------------------------  2100
 
 HLA-DQB1*05:01:01:01  TGTACCAGTTTAAGGGCCTGTGCTACTTCACCAACGGGACGGAGCGCGTGCGGGGTGTGA  2160
-Aona-DQB1*22:01:01    ---------TTAAGGGCATGTGCTACTTCAGGAACGGGACGGAGCGCGTGCGCCTTGTGA  2160
-Aona-DQB1*22:01:02    ---------TTAAGGGCATGTGCTACTTCAGGAACGGGACGGAGCGCGTGCGCCTTGTGA  2160
+Aona-DQB1*22:01:01    ------AGGTTAAGGGCATGTGCTACTTCAGGAACGGGACGGAGCGCGTGCGCCTTGTGA  2160
+Aona-DQB1*22:01:02    ------AGGTTAAGGGCATGTGCTACTTCAGGAACGGGACGGAGCGCGTGCGCCTTGTGA  2160
 Aona-DQB1*23:01       ------AGTTTAAGGGTCTCTGCTACTTCACCAACGGGACGGAGCGCGTGCGGAGTGTGA  2160
 Aona-DQB1*23:02       ------AGTTTAAGGGTCTCTGCTACTTCACCAACGGGACGGAGCGCGTGCGGAGTGTGA  2160
 Aona-DQB1*23:03       ------AGTTTAAGGGTCTCTGCTACTTCACCAACGGGACGGAGCGCGTGCGTCTTGTGA  2160

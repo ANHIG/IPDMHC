@@ -6,7 +6,7 @@ Mamu-AG*02:02         ------------------------CTCCTCCTGGTGCTCTCAGGGGTACTGGCCCTGA
 Mamu-AG*03:01         ---------------------------CTCCTGGTGCTCTCAGGGGTCCTGGCCCTGACC    60
 Mamu-AG*03:02         ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTACTGGCCCTGACC    60
 Mamu-AG*03:03         ATGGCGGTCATGGCGCCCCGAACCCTCCTCCTGGTGCTCTCAGGGGTACTGGCCCTGACC    60
-Mamu-AG*03:04         GTG---------------------------------CTCTCAGGGGTACTGGCCCTGACC    60
+Mamu-AG*03:04         ---------------------------------GTGCTCTCAGGGGTACTGGCCCTGACC    60
 Mamu-AG*05:01         ------------------------------------------------------------    60
 
 HLA-A*01:01:01:01     CAGACCTGGGCGGGCTCCCACTCCATGAGGTATTTCTTCACATCCGTGTCCCGGCCCGGC   120
@@ -197,7 +197,7 @@ Mamu-AG*03:04         ----------------------------------------------------------
 Mamu-AG*05:01         ------------------------------------------------------------  1080
 
 HLA-A*01:01:01:01     ACAGCTTGTAAAGTGTGA  1098
-Mamu-AG*01:01         ACGGCTT-TAAAGTGTGA  1098
+Mamu-AG*01:01         ACGGCTTTAAAG-TGTGA  1098
 Mamu-AG*02:01:01      ACGGCTTGTAAAGTGTGA  1098
 Mamu-AG*02:01:02      ACGGCTTGTAAAGTGTGA  1098
 Mamu-AG*02:02         ACGGCTTGTAAAGTGTGA  1098

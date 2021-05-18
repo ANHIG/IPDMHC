@@ -773,7 +773,7 @@ Patr-A*03:01          GTTGGTCGGGGCCGGGCGGGGCTTGGGGGACTGGGCTGACCGCGGGGTCGGGGCCAGG
 Patr-A*03:02          GTTGGTCGGGGCCGGGCGGGGCTTGGGGGACTGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
 Patr-A*03:03          ---------------------------------------------------------GTT  1020
 Patr-A*03:04          ---------------------------------------------------------GTT  1020
-Patr-A*03:05          GTTGGTCGGGGCGGGG-----CTCGGGGGACCGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
+Patr-A*03:05          GTTGGTCG-----GGGCGGGGCTCGGGGGACCGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
 Patr-A*03:06          GTTGGTCGGGGCCGGGCGGGGCTTGGGGGACTGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
 Patr-A*03:07          GTTGGTCGGGGCCGGGCGGGGCTTGGGGGACTGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
 Patr-A*04:01          ---------------------------------------------------------GTT  1020
@@ -781,7 +781,7 @@ Patr-A*04:02          ---------------------------------------------------------G
 Patr-A*04:04          GTTGGTCGGGGCCGGGCGGGGCTCGGGGAACAGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
 Patr-A*05:01          GTTGGTCGGGGCCGGGCGGGGCTCGGGGAACAGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
 Patr-A*06:01          ---------------------------------------------------------GTT  1020
-Patr-A*06:02          GTTGGTCGGGGCGGGG-----CTCGGGGGACCGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
+Patr-A*06:02          GTTGGTCG-----GGGCGGGGCTCGGGGGACCGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
 Patr-A*07:01          ---------------------------------------------------------GTT  1020
 Patr-A*08:01:01:01    GTTGGTCGGGGCTGGGCGGGGCTCGGGGAACAGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
 Patr-A*08:01:01:02    GTTGGTCGGGGCTGGGCGGGGCTCGGGGAACAGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
@@ -804,7 +804,7 @@ Patr-A*17:01:01:01    GTTGGTCGGGGCCGGGCGGGGCTCGGGGGACAGGGCTGACCGCGGGGTCGGGGCCAGG
 Patr-A*17:01:01:02    GTTGGTCGGGGCCGGGCGGGGCTCGGGGGACAGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
 Patr-A*17:02          ---------------------------------------------------------GTT  1020
 Patr-A*17:03          ---------------------------------------------------------GTT  1020
-Patr-A*17:04          GTTGGTCGGGGCGGGG-----CTCGGGGGACCGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
+Patr-A*17:04          GTTGGTCG-----GGGCGGGGCTCGGGGGACCGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
 Patr-A*18:01          GTTGGTCGGGGCCGGGCGGGGCTCGGGGAACAGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
 Patr-A*21:01          ---------------------------------------------------------GTT  1020
 Patr-A*22:01          GTTGGTCGGGGCCGGGCGGGGCTCGGGGAACAGGGCTGACCGCGGGGTCGGGGCCAGGTT  1020
@@ -2559,7 +2559,7 @@ Patr-A*05:01          TGTTCATGAATATTTTTTTCTATAGTGTGAGACAGCTGCCTTGTGTGGGACTGAGAGG
 Patr-A*06:01          ------------------------------------------------------------  3240
 Patr-A*06:02          ------------------------------------------------------------  3240
 Patr-A*07:01          ------------------------------------------------------------  3240
-Patr-A*08:01:01:01    TGTTCATGAATATTTTTT-CTATAGTGTGAGACAGCTGCCTTGTGTGGGACTGAGAGGCA  3240
+Patr-A*08:01:01:01    TGTTCATGAATA-TTTTTTCTATAGTGTGAGACAGCTGCCTTGTGTGGGACTGAGAGGCA  3240
 Patr-A*08:01:01:02    ------------------------------------------------------------  3240
 Patr-A*08:02          ------------------------------------------------------------  3240
 Patr-A*08:03          ------------------------------------------------------------  3240
@@ -2598,7 +2598,7 @@ Patr-A*03:02          ----------------------------------------------------------
 Patr-A*03:03          ------------------------------------------------------------  3300
 Patr-A*03:04          ------------------------------------------------------------  3300
 Patr-A*03:05          ------------------------------------------------------------  3300
-Patr-A*03:06          AGAGTTGTTCCTGCCCTTCCCTT-------------------------------------  3300
+Patr-A*03:06          AGAGTTGTTCCTGCCCTTCCC-TT------------------------------------  3300
 Patr-A*03:07          ------------------------------------------------------------  3300
 Patr-A*04:01          ------------------------------------------------------------  3300
 Patr-A*04:02          ------------------------------------------------------------  3300

@@ -475,7 +475,7 @@ Patr-DRB1*07:02       ----------------------------------------------------------
 Patr-DRB1*10:01       ------------------------------------------------------------   840
 
 HLA-DRB1*01:01:01:01  TTGCCCTCTTCATGAGACTTGTGTAAGGGGCCTTTGCACAAGTCATTTCTTTTCAAATCT   900
-Patr-DRB1*02:01:01:01 TTGCCCTCTCCATGAGACT-GTGTAAGGGGCCTTTGCACAAGTCATTTCTTTTCAAATCT   900
+Patr-DRB1*02:01:01:01 TTGCCCTCTCCATGAGAC-TGTGTAAGGGGCCTTTGCACAAGTCATTTCTTTTCAAATCT   900
 Patr-DRB1*02:02       ------------------------------------------------------------   900
 Patr-DRB1*02:03       ------------------------------------------------------------   900
 Patr-DRB1*02:04       ------------------------------------------------------------   900
@@ -2345,7 +2345,7 @@ Patr-DRB1*07:02       ----------------------------------------------------------
 Patr-DRB1*10:01       ------------------------------------------------------------  4140
 
 HLA-DRB1*01:01:01:01  AAGAGAAGGAGGAGGACCTGTGAACCAGAGATGCTCAGCCATTATTAGCAAGGAAATACA  4200
-Patr-DRB1*02:01:01:01 AAGAGAAGGAGGAGGACCTGTGAACCAGAGATGCTCAGTCATTATTAGCGAGGAAATACG  4200
+Patr-DRB1*02:01:01:01 AAGAGAAGGAGGAGGACCTGTGAACCAGAGATGCTCAGTCATTATTAGCGAGGAAATAC-  4200
 Patr-DRB1*02:02       ------------------------------------------------------------  4200
 Patr-DRB1*02:03       ------------------------------------------------------------  4200
 Patr-DRB1*02:04       ------------------------------------------------------------  4200
@@ -2379,7 +2379,7 @@ Patr-DRB1*07:02       ----------------------------------------------------------
 Patr-DRB1*10:01       ------------------------------------------------------------  4200
 
 HLA-DRB1*01:01:01:01  AGAGAGCCCCTGTGTGCAGTGGTGACTACTCATGCAAAATGTCACACAGCCAATATTTAA  4260
-Patr-DRB1*02:01:01:01 -GAGAGCCCCTGTGTGCAGTGGTGACTACTCATGCAAAATGTCACACAGCCAATATTTAA  4260
+Patr-DRB1*02:01:01:01 GGAGAGCCCCTGTGTGCAGTGGTGACTACTCATGCAAAATGTCACACAGCCAATATTTAA  4260
 Patr-DRB1*02:02       ------------------------------------------------------------  4260
 Patr-DRB1*02:03       ------------------------------------------------------------  4260
 Patr-DRB1*02:04       ------------------------------------------------------------  4260
@@ -2685,7 +2685,7 @@ Patr-DRB1*07:02       ----------------------------------------------------------
 Patr-DRB1*10:01       ------------------------------------------------------------  4740
 
 HLA-DRB1*01:01:01:01  GCTTTAGAATTAAGGAATAC---AAATAATGTGAGCTGCAGTTATAGGGATCAAAAAAGT  4800
-Patr-DRB1*02:01:01:01 GCTTTAGAATTAAGGAATACAAAAAATAATATGAGCTGCAGTTATAGG-ATCATAAAAGT  4800
+Patr-DRB1*02:01:01:01 GCTTTAGAATTAAGGAATACAAAAAATAATATGAGCTGCAGTTATA-GGATCATAAAAGT  4800
 Patr-DRB1*02:02       ------------------------------------------------------------  4800
 Patr-DRB1*02:03       ------------------------------------------------------------  4800
 Patr-DRB1*02:04       ------------------------------------------------------------  4800
@@ -2923,7 +2923,7 @@ Patr-DRB1*07:02       ----------------------------------------------------------
 Patr-DRB1*10:01       ------------------------------------------------------------  5160
 
 HLA-DRB1*01:01:01:01  ATTTATCATTTTAAACGTTCTATATGTCTATCCTGGGCATGTGTTGAAGAACACAAGGAA  5220
-Patr-DRB1*02:01:01:01 ATTTATCATTTTAAACGTTGTATATGTCTATC-TGGGCATGTGTTCAAGAACACAAGGAA  5220
+Patr-DRB1*02:01:01:01 ATTTATCATTTTAAACGTTGTATATGTCTAT-CTGGGCATGTGTTCAAGAACACAAGGAA  5220
 Patr-DRB1*02:02       ------------------------------------------------------------  5220
 Patr-DRB1*02:03       ------------------------------------------------------------  5220
 Patr-DRB1*02:04       ------------------------------------------------------------  5220
@@ -2957,7 +2957,7 @@ Patr-DRB1*07:02       ----------------------------------------------------------
 Patr-DRB1*10:01       ------------------------------------------------------------  5220
 
 HLA-DRB1*01:01:01:01  GTATTAAATCACTCCTTCTTCTGAAGTTTGACTGGCAAAATTGGGCTAGAGTTACGAAAT  5280
-Patr-DRB1*02:01:01:01 GTATTAAATCACTCCTTTTTCTGAGGTTTGACTAGCAAG-TTGGGCTAGAGTTAC-AAAT  5280
+Patr-DRB1*02:01:01:01 GTATTAAATCACTCCTTTTTCTGAGGTTTGACTAGC-AAGTTGGGCTAGAGTTAC-AAAT  5280
 Patr-DRB1*02:02       ------------------------------------------------------------  5280
 Patr-DRB1*02:03       ------------------------------------------------------------  5280
 Patr-DRB1*02:04       ------------------------------------------------------------  5280
@@ -3297,7 +3297,7 @@ Patr-DRB1*07:02       ----------------------------------------------------------
 Patr-DRB1*10:01       ------------------------------------------------------------  5820
 
 HLA-DRB1*01:01:01:01  CTCCTGGGCTGCTGGTGGTGGGCGTTGCGGGTGGGGCCGGTTAAGGTTCCCAGTGCCCGC  5880
-Patr-DRB1*02:01:01:01 CCCCTAGGTTGCTGGTGGTGGGCGTTGCGGTTGGGGCCGGTTAAGGTTCC-AGTGCCCGC  5880
+Patr-DRB1*02:01:01:01 CCCCTAGGTTGCTGGTGGTGGGCGTTGCGGTTGGGGCCGGTTAAGGTT-CCAGTGCCCGC  5880
 Patr-DRB1*02:02       ------------------------------------------------------------  5880
 Patr-DRB1*02:03       ------------------------------------------------------------  5880
 Patr-DRB1*02:04       ------------------------------------------------------------  5880
@@ -3739,7 +3739,7 @@ Patr-DRB1*07:02       ----------------------------------------------------------
 Patr-DRB1*10:01       ------------------------------------------------------------  6600
 
 HLA-DRB1*01:01:01:01  GATTGTCTCGGGTCCTTAGAGATGCGGGGAAGGGAAATGTAAGGGGTGTGTGATTGGGGT  6660
-Patr-DRB1*02:01:01:01 GATTATCTCGG-TCCTTAGAGATGCAGGGAAGGGAAATGTAAGGGGTGTGTGGTTGGGGT  6660
+Patr-DRB1*02:01:01:01 GATTATCTC-GGTCCTTAGAGATGCAGGGAAGGGAAATGTAAGGGGTGTGTGGTTGGGGT  6660
 Patr-DRB1*02:02       ------------------------------------------------------------  6660
 Patr-DRB1*02:03       ------------------------------------------------------------  6660
 Patr-DRB1*02:04       ------------------------------------------------------------  6660
@@ -3875,7 +3875,7 @@ Patr-DRB1*07:02       ----------------------------------------------------------
 Patr-DRB1*10:01       ------------------------------------------------------------  6840
 
 HLA-DRB1*01:01:01:01  CTGAAGCTTCTTTATATCTAAATTTCTTGCTAGTTTTTTGGGTTTTTTTAGTGTGTATAT  6900
-Patr-DRB1*02:01:01:01 CTGAAGCTTCTTTAGATCTAAATTTCTTCCTAGTTTTTTGT-TTTTTTCAGTTTGTATAT  6900
+Patr-DRB1*02:01:01:01 CTGAAGCTTCTTTAGATCTAAATTTCTTCCTAGTTTTTT-GTTTTTTTCAGTTTGTATAT  6900
 Patr-DRB1*02:02       ------------------------------------------------------------  6900
 Patr-DRB1*02:03       ------------------------------------------------------------  6900
 Patr-DRB1*02:04       ------------------------------------------------------------  6900

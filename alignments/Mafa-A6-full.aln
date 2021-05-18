@@ -272,7 +272,7 @@ HLA-A*01:01:01:01     GGGAGAGGCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTTAGGCCAAAAATCCCCC
 Mafa-A6*01:01         ------------------------------------------------------------   960
 Mafa-A6*01:02         ------------------------------------------------------------   960
 Mafa-A6*01:03         ------------------------------------------------------------   960
-Mafa-A6*01:04:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTGTCCTTTTTAGTTTGGGCCAAAA-TCCCCGCG   960
+Mafa-A6*01:04:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTGTCCTTTTTAGTTTGGGCC-AAAATCCCCGCG   960
 Mafa-A6*01:05         ------------------------------------------------------------   960
 Mafa-A6*01:06         ------------------------------------------------------------   960
 Mafa-A6*01:07         ------------------------------------------------------------   960
@@ -434,7 +434,7 @@ HLA-A*01:01:01:01     CCTGTACCAGAGAGTGACTCTGAGGTTCCGCCCTGCTCTCTGACACAATTAAGGGATA
 Mafa-A6*01:01         ------------------------------------------------------------  1500
 Mafa-A6*01:02         ------------------------------------------------------------  1500
 Mafa-A6*01:03         ------------------------------------------------------------  1500
-Mafa-A6*01:04:01:01   CCTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTATCTGACACAATTAAGG-ATAAA  1500
+Mafa-A6*01:04:01:01   CCTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTATCTGACACAATTAA-GGATAAA  1500
 Mafa-A6*01:05         ------------------------------------------------------------  1500
 Mafa-A6*01:06         ------------------------------------------------------------  1500
 Mafa-A6*01:07         ------------------------------------------------------------  1500
@@ -956,7 +956,7 @@ HLA-A*01:01:01:01     TGTGATGGATATGAATTTGTTCATGAATATTTTTTTCTATAGTGTGAGACAGCTGCCT
 Mafa-A6*01:01         ------------------------------------------TGTGA-------------  3240
 Mafa-A6*01:02         ------------------------------------------TGTGA-------------  3240
 Mafa-A6*01:03         ------------------------------------------------------------  3240
-Mafa-A6*01:04:01:01   TGTGACGGATGTGAATTTGTTCATGAATATTTTTT-CTATAGTGTGA-------------  3240
+Mafa-A6*01:04:01:01   TGTGACGGATGTGAATTTGTTCATGAATA-TTTTTTCTATAGTGTGA-------------  3240
 Mafa-A6*01:05         ------------------------------------------------------------  3240
 Mafa-A6*01:06         ------------------------------------------TGTGA-------------  3240
 Mafa-A6*01:07         ------------------------------------------TGTGA-------------  3240

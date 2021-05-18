@@ -1,9 +1,9 @@
 HLA-DRB1*01:01:01:01  MVCLKLPGGSCMTALTVTLMVLSSPLALAGDTRPRFLWQLKFECHFFNGTERVRLLERCI    60
-Paan-DRB1*03:01       -------------------LEYSTS-----------------ECHFFNGTERVRFLDRYF    60
-Paan-DRB1*03:02       -------------------LEYSTS-----------------ECHFFNGMERVRFLDRYF    60
-Paan-DRB1*03:03       -------------------LEYSTS-----------------ECHFFNGTERVRFLDRYF    60
-Paan-DRB1*03:04       -------------------LEYSTS-----------------ECHFFNGTERVRFLDRYF    60
-Paan-DRB1*03:05       -------------------LEYSTS-----------------ECHFFNGTERVRYLDRYF    60
+Paan-DRB1*03:01       ------------------------------------LEYSTSECHFFNGTERVRFLDRYF    60
+Paan-DRB1*03:02       ------------------------------------LEYSTSECHFFNGMERVRFLDRYF    60
+Paan-DRB1*03:03       ------------------------------------LEYSTSECHFFNGTERVRFLDRYF    60
+Paan-DRB1*03:04       ------------------------------------LEYSTSECHFFNGTERVRFLDRYF    60
+Paan-DRB1*03:05       ------------------------------------LEYSTSECHFFNGTERVRYLDRYF    60
 Paan-DRB1*07:01       ------------------------------------LWQSKAKCHFFNGTERVRYLERHI    60
 Paan-DRB1*10:01       ------------------------------------LEYVKFECHFFNGTERVRYLIRVF    60
 
@@ -17,13 +17,13 @@ Paan-DRB1*07:01       YNQEELMRFDSDVGEYRAVSELGRPAAEYWNSLKDYLEQKRAAVDTYCRHNYGVVESF
 Paan-DRB1*10:01       HNREEYARFDSDVGEFRAVTELGRRSAEYWNSQKDFLEQKRAAVDTYCRHNYGVVESFTV   120
 
 HLA-DRB1*01:01:01:01  QRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNG   180
-Paan-DRB1*03:01       QR----------------------------------------------------------   180
-Paan-DRB1*03:02       QR----------------------------------------------------------   180
-Paan-DRB1*03:03       QR----------------------------------------------------------   180
-Paan-DRB1*03:04       QR----------------------------------------------------------   180
-Paan-DRB1*03:05       QR----------------------------------------------------------   180
-Paan-DRB1*07:01       QR----------------------------------------------------------   180
-Paan-DRB1*10:01       QR----------------------------------------------------------   180
+Paan-DRB1*03:01       QRR---------------------------------------------------------   180
+Paan-DRB1*03:02       QRR---------------------------------------------------------   180
+Paan-DRB1*03:03       QRR---------------------------------------------------------   180
+Paan-DRB1*03:04       QRR---------------------------------------------------------   180
+Paan-DRB1*03:05       QRR---------------------------------------------------------   180
+Paan-DRB1*07:01       QRR---------------------------------------------------------   180
+Paan-DRB1*10:01       QRR---------------------------------------------------------   180
 
 HLA-DRB1*01:01:01:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLL   240
 Paan-DRB1*03:01       ------------------------------------------------------------   240

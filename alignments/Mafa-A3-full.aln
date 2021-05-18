@@ -555,13 +555,13 @@ Mafa-A3*13:32         ----------------------------------------------------------
 
 HLA-A*01:01:01:01     GGGAGAGGCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTTAGGCCAAAAATCCCCCCG   960
 Mafa-A3*13:01         ------------------------------------------------------------   960
-Mafa-A3*13:02:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCCAAAA-TGCCCGCG   960
-Mafa-A3*13:03:01      GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCCAAAA-TGCCCGCG   960
+Mafa-A3*13:02:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCC-AAAATGCCCGCG   960
+Mafa-A3*13:03:01      GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCC-AAAATGCCCGCG   960
 Mafa-A3*13:03:02      ------------------------------------------------------------   960
 Mafa-A3*13:04         ------------------------------------------------------------   960
 Mafa-A3*13:05         ------------------------------------------------------------   960
 Mafa-A3*13:06         ------------------------------------------------------------   960
-Mafa-A3*13:07:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCCAAAA-TGCCCGCG   960
+Mafa-A3*13:07:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCC-AAAATGCCCGCG   960
 Mafa-A3*13:07:02      ------------------------------------------------------------   960
 Mafa-A3*13:08         ------------------------------------------------------------   960
 Mafa-A3*13:09         ------------------------------------------------------------   960
@@ -574,11 +574,11 @@ Mafa-A3*13:15         ----------------------------------------------------------
 Mafa-A3*13:16         ------------------------------------------------------------   960
 Mafa-A3*13:17:01      ------------------------------------------------------------   960
 Mafa-A3*13:17:02      ------------------------------------------------------------   960
-Mafa-A3*13:18         GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCCAAAA-TGCCCGCG   960
-Mafa-A3*13:19:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCCAAAA-TGCCCGCG   960
+Mafa-A3*13:18         GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCC-AAAATGCCCGCG   960
+Mafa-A3*13:19:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCC-AAAATGCCCGCG   960
 Mafa-A3*13:20         ------------------------------------------------------------   960
-Mafa-A3*13:21:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCCAAAA-TCCCCGCG   960
-Mafa-A3*13:22:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCCAAAA-TCCCCGCG   960
+Mafa-A3*13:21:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCC-AAAATCCCCGCG   960
+Mafa-A3*13:22:01:01   GGGAGAGCCCCAGGCGCCTTTACCCGGTTTCATTTTCAGTTGAGGCC-AAAATCCCCGCG   960
 Mafa-A3*13:23         ------------------------------------------------------------   960
 Mafa-A3*13:24         ------------------------------------------------------------   960
 Mafa-A3*13:25         ------------------------------------------------------------   960
@@ -888,13 +888,13 @@ Mafa-A3*13:32         ----------------------------------------------------------
 
 HLA-A*01:01:01:01     CCTGTACCAGAGAGTGACTCTGAGGTTCCGCCCTGCTCTCTGACACAATTAAGGGATAAA  1500
 Mafa-A3*13:01         ------------------------------------------------------------  1500
-Mafa-A3*13:02:01:01   CCTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTATCTGACACAATTAAGG-ATAAA  1500
+Mafa-A3*13:02:01:01   CCTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTATCTGACACAATTAA-GGATAAA  1500
 Mafa-A3*13:03:01      ------------------------------------------------------------  1500
 Mafa-A3*13:03:02      ------------------------------------------------------------  1500
 Mafa-A3*13:04         ------------------------------------------------------------  1500
 Mafa-A3*13:05         ------------------------------------------------------------  1500
 Mafa-A3*13:06         ------------------------------------------------------------  1500
-Mafa-A3*13:07:01:01   CCTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTATCTGACACAATTAAGG-ATAAA  1500
+Mafa-A3*13:07:01:01   CCTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTATCTGACACAATTAA-GGATAAA  1500
 Mafa-A3*13:07:02      ------------------------------------------------------------  1500
 Mafa-A3*13:08         ------------------------------------------------------------  1500
 Mafa-A3*13:09         ------------------------------------------------------------  1500
@@ -908,10 +908,10 @@ Mafa-A3*13:16         ----------------------------------------------------------
 Mafa-A3*13:17:01      ------------------------------------------------------------  1500
 Mafa-A3*13:17:02      ------------------------------------------------------------  1500
 Mafa-A3*13:18         ------------------------------------------------------------  1500
-Mafa-A3*13:19:01:01   ACTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTATCTGACACAATTAAGG-ATAAA  1500
+Mafa-A3*13:19:01:01   ACTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTATCTGACACAATTAA-GGATAAA  1500
 Mafa-A3*13:20         ------------------------------------------------------------  1500
-Mafa-A3*13:21:01:01   CCTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTCTCTGACACAATTAAGA-ATAAA  1500
-Mafa-A3*13:22:01:01   CCTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTCTCTGACACAATTAAGA-ATAAA  1500
+Mafa-A3*13:21:01:01   CCTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTCTCTGACACAATTAA-GAATAAA  1500
+Mafa-A3*13:22:01:01   CCTGTACCAGAGAGTGACTCTGAGGGTCCGCCCTGCTCTCTGACACAATTAA-GAATAAA  1500
 Mafa-A3*13:23         ------------------------------------------------------------  1500
 Mafa-A3*13:24         ------------------------------------------------------------  1500
 Mafa-A3*13:25         ------------------------------------------------------------  1500
@@ -1560,7 +1560,7 @@ Mafa-A3*13:03:02      ----------------------------------------------------------
 Mafa-A3*13:04         ------------------------------------------------------------  2580
 Mafa-A3*13:05         ------------------------------------------------------------  2580
 Mafa-A3*13:06         ------------------------------------------------------------  2580
-Mafa-A3*13:07:01:01   CCTGTGTGCCAGCACCTACTT-TTTTGTAAAGCACCTGTTAAAATGAAGGACAGATAGAT  2580
+Mafa-A3*13:07:01:01   CCTGTGTGCCAGCACCTAC-TTTTTTGTAAAGCACCTGTTAAAATGAAGGACAGATAGAT  2580
 Mafa-A3*13:07:02      ------------------------------------------------------------  2580
 Mafa-A3*13:08         ------------------------------------------------------------  2580
 Mafa-A3*13:09         ------------------------------------------------------------  2580
@@ -1574,10 +1574,10 @@ Mafa-A3*13:16         ----------------------------------------------------------
 Mafa-A3*13:17:01      ------------------------------------------------------------  2580
 Mafa-A3*13:17:02      ------------------------------------------------------------  2580
 Mafa-A3*13:18         ------------------------------------------------------------  2580
-Mafa-A3*13:19:01:01   CCTGTGTGCCAGCACCTACTT-TTTTGTAAAGCACCTGTTAAAATGAAGGACAGATAGAT  2580
+Mafa-A3*13:19:01:01   CCTGTGTGCCAGCACCTAC-TTTTTTGTAAAGCACCTGTTAAAATGAAGGACAGATAGAT  2580
 Mafa-A3*13:20         ------------------------------------------------------------  2580
-Mafa-A3*13:21:01:01   CCTGTGTGCCAGCACCTACTT-TTTTGTAAAGCACCTGTTACAATGAAGGACAGATAGAT  2580
-Mafa-A3*13:22:01:01   CCTGTGTGCCAGCACCTACTT-TTTTGTAAAGCACCTGTTACAATGAAGGACAGATAGAT  2580
+Mafa-A3*13:21:01:01   CCTGTGTGCCAGCACCTAC-TTTTTTGTAAAGCACCTGTTACAATGAAGGACAGATAGAT  2580
+Mafa-A3*13:22:01:01   CCTGTGTGCCAGCACCTAC-TTTTTTGTAAAGCACCTGTTACAATGAAGGACAGATAGAT  2580
 Mafa-A3*13:23         ------------------------------------------------------------  2580
 Mafa-A3*13:24         ------------------------------------------------------------  2580
 Mafa-A3*13:25         ------------------------------------------------------------  2580
@@ -1981,7 +1981,7 @@ Mafa-A3*13:16         ----------------------------------------------------------
 Mafa-A3*13:17:01      ------------------------------------------------------------  3240
 Mafa-A3*13:17:02      ------------------------------------------------TGTGA-------  3240
 Mafa-A3*13:18         ------------------------------------------------------------  3240
-Mafa-A3*13:19:01:01   CCTCACTGTGACGGATGTGAATTTGTTCATGAATATTTTTT-CTATAGTGTGA-------  3240
+Mafa-A3*13:19:01:01   CCTCACTGTGACGGATGTGAATTTGTTCATGAATA-TTTTTTCTATAGTGTGA-------  3240
 Mafa-A3*13:20         ------------------------------------------------TGTGA-------  3240
 Mafa-A3*13:21:01:01   CCTCACTGTGACGGA---------------------------------TGTGA-------  3240
 Mafa-A3*13:22:01:01   CCTCACTGTGACGGA---------------------------------TGTGA-------  3240

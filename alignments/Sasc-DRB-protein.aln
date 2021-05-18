@@ -3,13 +3,13 @@ Sasc-DRB*W012:01      ----------------------------------RFLEQLKGECHHFNRTERVRLLAR
 Sasc-DRB*W012:02      ----------------------------------RFLEQAKSECHHLNGTQRVRLLDRYF    60
 Sasc-DRB*W012:03      ----------------------------------RFLEQRKGECHFLNGTQRVRLLDRCF    60
 Sasc-DRB*W012:04      ----------------------------------RFLEQFKDECHHLNGTQQMRFLARLI    60
-Sasc-DRB*W014:01      ----------------------------------RFLKQVKHECHHFKGMERF--LFRHI    60
-Sasc-DRB*W014:02      ----------------------------------RFLKQVKHECHHFKGMERF--LFRHI    60
+Sasc-DRB*W014:01      ----------------------------------RFLKQVKHECHHFKGME--RFLFRHI    60
+Sasc-DRB*W014:02      ----------------------------------RFLKQVKHECHHFKGME--RFLFRHI    60
 Sasc-DRB*W014:03      ----------------------------------RFLKHVKHECHHFKGTERVRFLFRDI    60
-Sasc-DRB*W014:04      ----------------------------------RFLKQVKHECHHFKGMERF--LFRHI    60
-Sasc-DRB*W019:01      ----------C------------------------FLEHNKFECHHLNGTQRVRYLHRFI    60
+Sasc-DRB*W014:04      ----------------------------------RFLKQVKHECHHFKGME--RFLFRHI    60
+Sasc-DRB*W019:01      ----------------------------------CFLEHNKFECHHLNGTQRVRYLHRFI    60
 Sasc-DRB*W019:02      ----------------------------------RFLEHLKFECHFFNGTERVRYLVREI    60
-Sasc-DRB*W019:03      ----------C------------------------FLEHNKFECHHLNGTQRVRYLHRFI    60
+Sasc-DRB*W019:03      ----------------------------------CFLEHNKFECHHLNGTQRVRYLHRFI    60
 
 HLA-DRB1*01:01:01:01  YNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFTV   120
 Sasc-DRB*W012:01      YNQEEFVRFDSDVGEFRAVTELGRPIAENLNSRKEVLEYMRAAVDTFCRHNYKGFEMFLV   120

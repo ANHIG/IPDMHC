@@ -1412,19 +1412,19 @@ Mane-DRB6*01:10       GCAGTACCTAAACAGAAACATCCATAAAGGGGAGAAGAACCTGCGCTTCCAGAGCGAC
 Mane-DRB6*01:11       GCAGTACCTGAACAGAAACATCCATAAACGGGGGGAGAACCTGGGCTTCCACAGCGACGT  6060
 Mane-DRB6*01:12       GCAGTACCTGAACAGAAACATCCATAAACGGGAGGAGAACCTGCGCTTCCACAGCGACGT  6060
 
-HLA-DRB1*01:01:01:01  GGGGGAGTACCGGGCGGTGACGGAGCTGG---GGCGGCCTGATGCCGAGTACTGGAACAG  6120
-Mane-DRB6*01:01       GGGGGAGTTCCAGGCGGTGACGGAACTGG---GGCGGCCTGTCGCGGAGAACTGGAACAG  6120
-Mane-DRB6*01:02       GGGGGAGTTCCAGGCGGTGACGGAACTGG---GGCGGCCTGTCGCGGAGAACTGGAACAG  6120
+HLA-DRB1*01:01:01:01  GGGGGAGTACCGGGCGGTGACGGAGCTGGGGCG---GCCTGATGCCGAGTACTGGAACAG  6120
+Mane-DRB6*01:01       GGGGGAGTTCCAGGCGGTGACGGAACTGGGGCG---GCCTGTCGCGGAGAACTGGAACAG  6120
+Mane-DRB6*01:02       GGGGGAGTTCCAGGCGGTGACGGAACTGGGGCG---GCCTGTCGCGGAGAACTGGAACAG  6120
 Mane-DRB6*01:03       GGGGGAGTTCCAGGCGGTGACGGAACTGGAGTGGCCGCCTGTCGCGGAGAACTGGAACAG  6120
-Mane-DRB6*01:04       GGGGGAGTTCCAGGCGGTGACGGAACTGG---GGCGGCCTGTCGCGGAGAACTGGAACAG  6120
-Mane-DRB6*01:05       GGGGGAGTTTCAGGCGGTGACGCAACTGG---AGCGGCCTGTCGCGGAGAACTGGAACAG  6120
+Mane-DRB6*01:04       GGGGGAGTTCCAGGCGGTGACGGAACTGGGGCG---GCCTGTCGCGGAGAACTGGAACAG  6120
+Mane-DRB6*01:05       GGGGGAGTTTCAGGCGGTGACGCAACTGGAGCG---GCCTGTCGCGGAGAACTGGAACAG  6120
 Mane-DRB6*01:06       GGGGGAGTTCCAGGCGGTGACGGAA-----------------------------------  6120
 Mane-DRB6*01:07       GGGGGAGTTCCAGGCGGTGACGGAACTGGAGTGGCCGCCTGTCGCGGAGAACTGGAACAG  6120
 Mane-DRB6*01:08       GGGGGAGTTCCAGGCGGTGACGGAA-----------------------------------  6120
 Mane-DRB6*01:09       GGGGGAGTTCCAGGCGGTGACGGAA-----------------------------------  6120
 Mane-DRB6*01:10       CGGGGAGTTCCAGGCGGTGACTGAACCGGAGTGGCCGCCTGTCGCGGAGAACTGGAACAG  6120
-Mane-DRB6*01:11       GGGGGAGTTCCAGGCGGTGACGCAACTGG---GGCGGCCTGTCACAGAGT----------  6120
-Mane-DRB6*01:12       GGGGGAGTTCCAGGCGGTGATGGAACTGG---GGCGACCTGTCACAGAGT----------  6120
+Mane-DRB6*01:11       GGGGGAGTTCCAGGCGGTGACGCAACTGGGGCG---GCCTGTCACAGAGT----------  6120
+Mane-DRB6*01:12       GGGGGAGTTCCAGGCGGTGATGGAACTGGGGCG---ACCTGTCACAGAGT----------  6120
 
 HLA-DRB1*01:01:01:01  CCAGAAGGACCTCCTGGAGCAGAGGCGGGCCGCGGTGGACACCTACTGCAGACACAACTA  6180
 Mane-DRB6*01:01       CCGGATGGGCATCCTGGAGGAGAAGCGGGACAAGGTGGACATCTACTGCAGATACAATTA  6180
@@ -1443,7 +1443,7 @@ Mane-DRB6*01:12       ----------------------------------------------------------
 HLA-DRB1*01:01:01:01  CGGGGTTGGTGAGAGCTTCACAGTGCAGCGGCGAGGTGAGCGCGGCGCGGGGCGGGGCCT  6240
 Mane-DRB6*01:01       CGGGGTTTTT--------------------------------------------------  6240
 Mane-DRB6*01:02       CGGGGTTTTT--------------------------------------------------  6240
-Mane-DRB6*01:03       CGGGGTT---------TT----------------G-------------------------  6240
+Mane-DRB6*01:03       CGGGGTTTTG--------------------------------------------------  6240
 Mane-DRB6*01:04       ACGGGTTTTT--------------------------------------------------  6240
 Mane-DRB6*01:05       CGGGGTTTTT--------------------------------------------------  6240
 Mane-DRB6*01:06       ------------------------------------------------------------  6240
@@ -2006,10 +2006,10 @@ Mane-DRB6*01:02       ----------------------------------------------------------
 Mane-DRB6*01:03       ------------------------------------------------------------  8640
 Mane-DRB6*01:04       ------------------------------------------------------------  8640
 Mane-DRB6*01:05       ------------------------------------------------------------  8640
-Mane-DRB6*01:06       TGGGGT----------GGCCTGTCACAGAGTTACAATTAT--------------------  8640
+Mane-DRB6*01:06       TGGGGT----------GGCCTGTCACAGAGTTACAATT----------------------  8640
 Mane-DRB6*01:07       ------------------------------------------------------------  8640
-Mane-DRB6*01:08       TGGGGT----------GGCCTGTCACAGAGTTACAATTGT--------------------  8640
-Mane-DRB6*01:09       TGGGGT----------GGCCTGTCACAGAGTTACAATTGT--------------------  8640
+Mane-DRB6*01:08       TGGGGT----------GGCCTGTCACAGAGTTACAATT----------------------  8640
+Mane-DRB6*01:09       TGGGGT----------GGCCTGTCACAGAGTTACAATT----------------------  8640
 Mane-DRB6*01:10       ------------------------------------------------------------  8640
 Mane-DRB6*01:11       ------------------------------------------------------------  8640
 Mane-DRB6*01:12       ------------------------------------------------------------  8640
@@ -2020,10 +2020,10 @@ Mane-DRB6*01:02       ----------------------------------------------------------
 Mane-DRB6*01:03       ------------------------------------------------------------  8700
 Mane-DRB6*01:04       ------------------------------------------------------------  8700
 Mane-DRB6*01:05       ------------------------------------------------------------  8700
-Mane-DRB6*01:06       -------------------------GGGGTTTTT--------------------------  8700
+Mane-DRB6*01:06       -----------------------ATGGGGTTTTT--------------------------  8700
 Mane-DRB6*01:07       ------------------------------------------------------------  8700
-Mane-DRB6*01:08       -------------------------GGGGTTTTT--------------------------  8700
-Mane-DRB6*01:09       -------------------------GGGGTTTTT--------------------------  8700
+Mane-DRB6*01:08       -----------------------GTGGGGTTTTT--------------------------  8700
+Mane-DRB6*01:09       -----------------------GTGGGGTTTTT--------------------------  8700
 Mane-DRB6*01:10       ------------------------------------------------------------  8700
 Mane-DRB6*01:11       ------------------------------------------------------------  8700
 Mane-DRB6*01:12       ------------------------------------------------------------  8700

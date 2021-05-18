@@ -1,25 +1,25 @@
 HLA-DRB1*01:01:01:01  MVCLKLPGGSCMTALTVTLMVLSSPLALAGDTRPRFLWQLKFECHFFNGTERVRLLERCI    60
 Gogo-DRB6*01:02N      ----------------------------------RFLEKAKCECHIFNGTKRVRYLNRYI    60
-Gogo-DRB6*01:03N      LEKAK-----C-------------------------------ECHIFNGTKRVQYLNRYI    60
+Gogo-DRB6*01:03N      ------------------------------------LEKAKCECHIFNGTKRVQYLNRYI    60
 Gogo-DRB6*01:04       -----------------------------------FLEKAKCECHIFNGTKRVLYLNRYI    60
 Gogo-DRB6*02:02N      ----------------------------------RFLEQAKCECHILNGTERVQYLNRYI    60
 Gogo-DRB6*02:03N      -------------------------------------EQAKCECHILNGTERVQYLNRYI    60
 Gogo-DRB6*02:04       -----------------------------------FLEQAKCECHILNGTERVQYLNRYI    60
 
 HLA-DRB1*01:01:01:01  YNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFTV   120
-Gogo-DRB6*01:02N      HKWEENLRFDSDVEEFQAVTELGRPVAENWNSQKGILEENRDKVD---------------   120
-Gogo-DRB6*01:03N      HKREENLRFDSDVEEFQAVTELGRPVAENWNSQKGILEEKRDKVD---------------   120
-Gogo-DRB6*01:04       HKWEENLRFDSDVEEFQAVTELGRPVAENWNSQKGILEENRDKVD---------------   120
+Gogo-DRB6*01:02N      HKWEENLRFDSDVEEFQAVTELGRPVAENWNSQKGILEENRDKVDILQIQLRGFX-----   120
+Gogo-DRB6*01:03N      HKREENLRFDSDVEEFQAVTELGRPVAENWNSQKGILEEKRDKVDILQIQLRGFX-----   120
+Gogo-DRB6*01:04       HKWEENLRFDSDVEEFQAVTELGRPVAENWNSQKGILEENRDKVDI--------------   120
 Gogo-DRB6*02:02N      HKREENLRFDSDVGEFQAVTELGRPVAEKWNSQKEILEEKRDKVDTYCRYSYGVFESFTV   120
 Gogo-DRB6*02:03N      HKREENLRFDSDVGEFQAVTELGRPVAEKWNSQKEILEEKRDKVDTYCRYSYGVFESFTV   120
 Gogo-DRB6*02:04       HKREENLRFDSDVGEFQAVTELGRPVAEKWNSQKEILEEKRDKVDT--------------   120
 
 HLA-DRB1*01:01:01:01  QRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNG   180
-Gogo-DRB6*01:02N      ----------------------ILQIQLRGFX----------------------------   180
-Gogo-DRB6*01:03N      ----------------------ILQIQLRGFX----------------------------   180
+Gogo-DRB6*01:02N      ------------------------------------------------------------   180
+Gogo-DRB6*01:03N      ------------------------------------------------------------   180
 Gogo-DRB6*01:04       ------------------------------------------------------------   180
 Gogo-DRB6*02:02N      PRX---------------------------------------------------------   180
-Gogo-DRB6*02:03N      LR----------------------------------------------------------   180
+Gogo-DRB6*02:03N      LRX---------------------------------------------------------   180
 Gogo-DRB6*02:04       ------------------------------------------------------------   180
 
 HLA-DRB1*01:01:01:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLL   240

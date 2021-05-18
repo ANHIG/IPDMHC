@@ -35,7 +35,7 @@ Caja-F4*04:06         ATGGCACCACGAACCCTCCTCCTGCTGCTTTCTGGGGCCCTGGCCCTGGCCGAGACCC
 Caja-F4*04:07         ATGGCACCACGAACCCTCCTCCTGCTGCTTTCTGGGGCCCTGGCCCTGGCCGAGACCCAG   360
 
 HLA-F*01:01:01:01     GCGGGTGAGTGCGGGGTCCAGAGAGAAACGGCCTCTGTGGGGAGGAGTGAGGGGCCCGCC   420
-Caja-F4*04:01         GCGGGTGAGTGCGGGGTCGGGAGGGAAATGACCTCTGCGGGGAGGATCGAGAGGCC-GCC   420
+Caja-F4*04:01         GCGGGTGAGTGCGGGGTCGGGAGGGAAATGACCTCTGCGGGGAGGATCGAGAGG-CCGCC   420
 Caja-F4*04:03         GCGG--------------------------------------------------------   420
 Caja-F4*04:06         GCGG--------------------------------------------------------   420
 Caja-F4*04:07         GCGG--------------------------------------------------------   420
@@ -52,7 +52,7 @@ Caja-F4*04:03         --------------GCTCCCACTCCTTGCGGTATTTGAGCACCGCCGTGTCCCGGCCT
 Caja-F4*04:06         --------------GCTCCCACTCCTTGCGGTATTTGAGCACCGCCGTGTCCCGGCCTGG   540
 Caja-F4*04:07         --------------GCTCCCACTCCTTGAGGTATTTGAGCACCGCCGTGTCCCGGCCTGG   540
 
-HLA-F*01:01:01:01     CCGCGGGGAGCCCCGC------TACATCGCCGTGGAGTACGTAGACGACACGCAATTCCT   600
+HLA-F*01:01:01:01     CCGCGGGGAGCC------CCGCTACATCGCCGTGGAGTACGTAGACGACACGCAATTCCT   600
 Caja-F4*04:01         CCGCGGGGAGTCCAGATACAGGTACATCGCAGTGGGCTACGTGGACGACACGCAGTTCAT   600
 Caja-F4*04:03         CCGCGGGGAGTCCAGATACAGGTACATCGCAGTGGGCTACGTGGACGACACGCAGTTCAT   600
 Caja-F4*04:06         CCGCGGGGAGTCCAGATACAGGTACATCGCAGTGGGCTACGTGGACGACACGCAGTTCAT   600
@@ -94,7 +94,7 @@ Caja-F4*04:03         ----------------------------------------------------------
 Caja-F4*04:06         ------------------------------------------------------------   960
 Caja-F4*04:07         ------------------------------------------------------------   960
 
-HLA-F*01:01:01:01     TGGGCGGGGAGGGGGCGGGGCTAGCTGGGCGGGGCTGACTGCGGGGAC-CGGCTAGGGTC  1020
+HLA-F*01:01:01:01     TGGGCGGGGAGGGGGCGGGGCTAGCTGGGCGGGGCTGACTGCGGGGACCGGCTAG-GGTC  1020
 Caja-F4*04:01         TGGTCGGGGAGTGGGTAGGATTCGGTGGGCGGGGCTGACCATGGGGGCGGGGCCAGGGTC  1020
 Caja-F4*04:03         --------------------------------------------------------GGTC  1020
 Caja-F4*04:06         --------------------------------------------------------GGTC  1020
@@ -179,7 +179,7 @@ Caja-F4*04:06         ----------------------------------------------------------
 Caja-F4*04:07         ------------------------------------------------------------  1800
 
 HLA-F*01:01:01:01     CCTGTCCATTCTCAGGTTGGTCACATGGGTGCTGCTGGGGTTTCCCATGAGGAGTGCAAA  1860
-Caja-F4*04:01         CCTGTCTATTCTCAGGATGGTCACATGAGCACTGCTTGG-TGTCCCATGAGGAGGGCAAA  1860
+Caja-F4*04:01         CCTGTCTATTCTCAGGATGGTCACATGAGCACTGCT-TGGTGTCCCATGAGGAGGGCAAA  1860
 Caja-F4*04:03         ------------------------------------------------------------  1860
 Caja-F4*04:06         ------------------------------------------------------------  1860
 Caja-F4*04:07         ------------------------------------------------------------  1860
@@ -238,7 +238,7 @@ Caja-F4*04:03         TCGTTGCTGGCCTGGTTGTCCTTGGAGCTGTGGTCACTGGA------------GCTGT
 Caja-F4*04:06         TCGTTGCTGGCCTGGTTGTCCTTGGAGCTGTGGTCACTGGA------------GCTGTGA  2400
 Caja-F4*04:07         TCGTTGCTGGCCTGGTTGTCCTTGGAGCTGTGGTCACTGGA------------GCTGTGA  2400
 
-HLA-F*01:01:01:01     TGTGGAGGAAGAAGAGCTCAGG--TAGGAAGGGGTGAGGAGT-GGAGTCTGAGTTTTCTT  2460
+HLA-F*01:01:01:01     TGTGGAGGAAGAAGAGCTCAG--GTAGGAAGGGGTGAGGAGT-GGAGTCTGAGTTTTCTT  2460
 Caja-F4*04:01         TGTGGAGCAAGAAGATCT---GGTTGGGAAGGGGTGAGGAGTGGGGGTCTGAGCTTTCTT  2460
 Caja-F4*04:03         TGTGGAGCAAGAAGATCT---GGTTGGGAAGGG---------------------------  2460
 Caja-F4*04:06         TGTGGAGCAAGAAGATCT---GGTTGGGAAGGG---------------------------  2460
@@ -257,50 +257,50 @@ Caja-F4*04:06         ----------------------------------------------------------
 Caja-F4*04:07         ------------------------------------------------------------  2580
 
 HLA-F*01:01:01:01     AAAGCTCCTGTGAAAATGAAGGACAGATTCTTCACTTCGATGATTATGGTGGTGATGGGA  2640
-Caja-F4*04:01         AAAGC-------AAAACGAACAACAGATTCTTCCCTTTGAAGACTGTGGTGGTG--GGGA  2640
+Caja-F4*04:01         AAAGC-------AAAACGAACAACAGATTCTTCCCTTTGAAGACTGTGGTGGTGG-GGAC  2640
 Caja-F4*04:03         ------------------------------------------------------------  2640
 Caja-F4*04:06         ------------------------------------------------------------  2640
 Caja-F4*04:07         ------------------------------------------------------------  2640
 
-HLA-F*01:01:01:01     CCTGATC-CCAGCAGTCACAAATCACAGGGGAAGGTCCCTGCTGATGACAGACCTCAGGA  2700
-Caja-F4*04:01         CCTTATTGCCAACAGTCACAAACCACAGGGGAAGGTCCCTGCTGAGGACAGACCTTAGGA  2700
+HLA-F*01:01:01:01     CCTGATCCCAGCAGTCACAAATCACAGGGGAAGGTCCCTGCTGATGACAGACCTCAGGAG  2700
+Caja-F4*04:01         CTTATTGCCAACAGTCACAAACCACAGGGGAAGGTCCCTGCTGAGGACAGACCTTAGGAG  2700
 Caja-F4*04:03         ------------------------------------------------------------  2700
 Caja-F4*04:06         ------------------------------------------------------------  2700
 Caja-F4*04:07         ------------------------------------------------------------  2700
 
-HLA-F*01:01:01:01     GGGCAGTTGGTCCAGGACCCACATCTGCTTTCTTCATATTTCTTGATCCTGCCCTGGATC  2760
-Caja-F4*04:01         GGACAGTTGGTCCAGGACCCACACCTGCTTCCTTCTTATTTTCTGATACTGCCCTGGATC  2760
+HLA-F*01:01:01:01     GGCAGTTGGTCCAGGACCCACATCTGCTTTCTTCATATTTCTTGATCCTGCCCTGGATCT  2760
+Caja-F4*04:01         GACAGTTGGTCCAGGACCCACACCTGCTTCCTTCTTATTTTCTGATACTGCCCTGGATCT  2760
 Caja-F4*04:03         ------------------------------------------------------------  2760
 Caja-F4*04:06         ------------------------------------------------------------  2760
 Caja-F4*04:07         ------------------------------------------------------------  2760
 
-HLA-F*01:01:01:01     TACAGTTACACTTTTCTGGAAACTTCTCTGGGATCAAAGACTAGGGGTTTGCTCTAGGAC  2820
-Caja-F4*04:01         TGCAGTTATACATTTCTGAGAACTTCTCTGGGATCAAAGACTATGGGGTTGCTCTAGGAC  2820
+HLA-F*01:01:01:01     ACAGTTACACTTTTCTGGAAACTTCTCTGGGATCAAAGACTAGGGGTTTGCTCTAGGACC  2820
+Caja-F4*04:01         GCAGTTATACATTTCTGAGAACTTCTCTGGGATCAAAGACTATGGGGTTGCTCTAGGACC  2820
 Caja-F4*04:03         ------------------------------------------------------------  2820
 Caja-F4*04:06         ------------------------------------------------------------  2820
 Caja-F4*04:07         ------------------------------------------------------------  2820
 
-HLA-F*01:01:01:01     CTTATGGCCCTGCCTCCTTTCTGGCCTCTCACAGGACATTTTCTTCCCATAGATAGAAAC  2880
-Caja-F4*04:01         CTTATAAC----CCTCCTTTCTGGCCTCTCACAGGACATTTTCTTCCCACAGATGGAAAC  2880
-Caja-F4*04:03         ----------------------------------------------------ATGGAAAC  2880
-Caja-F4*04:06         ----------------------------------------------------ATGGAAAC  2880
-Caja-F4*04:07         ----------------------------------------------------ATGGAAAC  2880
+HLA-F*01:01:01:01     TTATGGCCCTGCCTCCTTTCTGGCCTCTCACAGGACATTTTCTTCCCATAGATAGAAACA  2880
+Caja-F4*04:01         TTATAAC----CCTCCTTTCTGGCCTCTCACAGGACATTTTCTTCCCACAGATGGAAACA  2880
+Caja-F4*04:03         ---------------------------------------------------ATGGAAACA  2880
+Caja-F4*04:06         ---------------------------------------------------ATGGAAACA  2880
+Caja-F4*04:07         ---------------------------------------------------ATGGAAACA  2880
 
-HLA-F*01:01:01:01     AGAGGGAGCTACTCTCAGGCTGCAG-GTAAG-ATGAAGGAGGCTGATCCCTGAGATTGTT  2940
-Caja-F4*04:01         AGAGAGAGATACTCTCAGGCTGCAAAGTAAGTATAAAGGGGGCTGAACCCTGAGATCATT  2940
-Caja-F4*04:03         AGAGAGAGATACTCTCAGGCTGCA------------------------------------  2940
-Caja-F4*04:06         AGAGAGAGATACTCTCAGGCTGCAA-----------------------------------  2940
-Caja-F4*04:07         AGAGAGAGATACTCTCAGGCTGCAA-----------------------------------  2940
+HLA-F*01:01:01:01     GAGGGAGCTACTCTCAGGCTGCAG--GTAAG-ATGAAGGAGGCTGATCCCTGAGATTGTT  2940
+Caja-F4*04:01         GAGAGAGATACTCTCAGGCTGCAA-AGTAAGTATAAAGGGGGCTGAACCCTGAGATCATT  2940
+Caja-F4*04:03         GAGAGAGATACTCTCAGGCTGCA-ATGTGAG-----------------------------  2940
+Caja-F4*04:06         GAGAGAGATACTCTCAGGCTGCAA------------------------------------  2940
+Caja-F4*04:07         GAGAGAGATACTCTCAGGCTGCAA------------------------------------  2940
 
 HLA-F*01:01:01:01     GGGATATTGTGGTCAGGAGCCTATGAGGGAGCTCACCCACCCCACAGT---TCCTCTAGC  3000
 Caja-F4*04:01         GGGATACTGTGGTT--GAGCTCAAGGAGAAGCTGTCCCAGCCCACAGTTCCTCCTCTAGC  3000
-Caja-F4*04:03         ----------------------ATGTGAGA--------------------------TAGC  3000
+Caja-F4*04:03         -------------------------------------------------------ATAGC  3000
 Caja-F4*04:06         ------------------------------------------------------------  3000
 Caja-F4*04:07         ------------------------------------------------------------  3000
 
 HLA-F*01:01:01:01     CACAT---CTGTGGGCTCTGACCAGGTCCTGTTTTTGTTCTACCCCAATCACTGACAGTG  3060
 Caja-F4*04:01         CGCATCTCCTGTGGGCTCTGACCAGGTCCTGTTTGTGTTCTATCCCAGTCATTGACACTG  3060
-Caja-F4*04:03         CGCCT--TGTGTGGG-----------------------------------ACTGAGA---  3060
+Caja-F4*04:03         CGCCTT------------------------------------------------------  3060
 Caja-F4*04:06         ------------------------------------------------------------  3060
 Caja-F4*04:07         ------------------------------------------------------------  3060
 
@@ -311,20 +311,20 @@ Caja-F4*04:06         ----------------------------------------------------------
 Caja-F4*04:07         ------------------------------------------------------------  3120
 
 HLA-F*01:01:01:01     GATGTGAGTGGGGTGTTGGGGGGGAACAGAGGGGACTCAGCTGTGCTATTGGGTTTCTTT  3180
-Caja-F4*04:01         GATGTAAGTGGGGTATTGTGGGG-AACAGAGGGAATGCGGGTTTGCTATGGGGTTTCTTT  3180
-Caja-F4*04:03         ------------------------------------------------------------  3180
+Caja-F4*04:01         GATGTAAGTGGGGTATT-GTGGGGAACAGAGGGAATGCGGGTTTGCTATGGGGTTTCTTT  3180
+Caja-F4*04:03         ------------------GTGTGGGACTGAGAAG--CAAGATTTGTTCATGCCTCCCTTT  3180
 Caja-F4*04:06         ------------------------------------------------------------  3180
 Caja-F4*04:07         ------------------------------------------------------------  3180
 
 HLA-F*01:01:01:01     GACTTGGATGTCTTGAGCATGAAATGGGCTATTTAGAGTGTTACCTCTCACTGTGACTGA  3240
 Caja-F4*04:01         GACTTGGATGTCCTGAGTATGCGATGGGCGGTTCAAAGTGTCACCTCTCAC---------  3240
-Caja-F4*04:03         ---------------AGCAAG---------------------------------------  3240
+Caja-F4*04:03         ------------------------------------------------------------  3240
 Caja-F4*04:06         ------------------------------------------------------------  3240
 Caja-F4*04:07         ------------------------------------------------------------  3240
 
 HLA-F*01:01:01:01     TACGAATTTGTTCATGAATATTTTCTCTATAGTGTGAGACAGCTTCCTTGTGTGGGACTG  3300
 Caja-F4*04:01         --------------------------------TGTGA-----------------------  3300
-Caja-F4*04:03         -----ATTTGTTCATG-----CCTCCCTTT--TGTGA-----------------------  3300
+Caja-F4*04:03         --------------------------------TGTGA-----------------------  3300
 Caja-F4*04:06         --------------------------------TGTGA-----------------------  3300
 Caja-F4*04:07         --------------------------------TGTGA-----------------------  3300
 
