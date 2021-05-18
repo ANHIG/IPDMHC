@@ -17,9 +17,9 @@ Saoe-DRB3*05:16       ----------------------------------RFLDLLKSECRFFNRSEQVRFLER
 Saoe-DRB3*05:17       ----------------------------------RFLDLLKSECRSFNRSEQVRFLERHI    60
 
 HLA-DRB3*01:01:02:01  HNQEEFLRFDSDVGEYRAVTELGRPVAESWNSQKDLLEQKRGRVDNYCRHNYGVGESFTV   120
-Saoe-DRB3*05:01N      YNQDEFLLFHSDVGEY--------PV----------------------------------   120
-Saoe-DRB3*05:02N      YNQDEFLLFHSDVGEY--------PV----------------------------------   120
-Saoe-DRB3*05:03N      YNQDEFLLFHSDVGEYRCVIALGRPEEESWNHRKELLELKPGQVDTYCRHNYGTGRASX-   120
+Saoe-DRB3*05:01N      YNQDEFLLFHSDVGEYPVRNRAGAAX----------------------------------   120
+Saoe-DRB3*05:02N      YNQDEFLLFHSDVGEYPVRNRAGAAX----------------------------------   120
+Saoe-DRB3*05:03N      YNQDEFLLFHSDVGEYRCVIALGRPEEESWNHRKELLELKPGQVDTYCRHNYGTG-----   120
 Saoe-DRB3*05:05       YNQDEFLLFHSDVGEYPVVIALGRPEEESWNHRKELLELKPGQVDTYCR-----------   120
 Saoe-DRB3*05:06       YNQDEFLLFHSDVGEYPVVIALGRPEEESWNHRKELLELKPGQVDTWCR-----------   120
 Saoe-DRB3*05:07       YNQDEFLLFHSDVGSIRCVIALGRPEEESWNHRKELLELKPGPVDTYCR-----------   120
@@ -55,7 +55,7 @@ Saoe-DRB3*05:17       ----------------------------------------------------------
 HLA-DRB3*01:01:02:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSALTVEWRARSESAQSKMLSGVGGFVLGLL   240
 Saoe-DRB3*05:01N      ------------------------------------------------------------   240
 Saoe-DRB3*05:02N      ------------------------------------------------------------   240
-Saoe-DRB3*05:03N      ------------------------------------------------------------   240
+Saoe-DRB3*05:03N      -------------------------------------RASX-------------------   240
 Saoe-DRB3*05:05       ------------------------------------------------------------   240
 Saoe-DRB3*05:06       ------------------------------------------------------------   240
 Saoe-DRB3*05:07       ------------------------------------------------------------   240
@@ -71,8 +71,8 @@ Saoe-DRB3*05:16       ----------------------------------------------------------
 Saoe-DRB3*05:17       ------------------------------------------------------------   240
 
 HLA-DRB3*01:01:02:01  FLGAGLFIYFRNQKGHSGLQPTGFLS   266
-Saoe-DRB3*05:01N      ----------RNRAGAAX--------   266
-Saoe-DRB3*05:02N      ----------RNRAGAAX--------   266
+Saoe-DRB3*05:01N      --------------------------   266
+Saoe-DRB3*05:02N      --------------------------   266
 Saoe-DRB3*05:03N      --------------------------   266
 Saoe-DRB3*05:05       --------------------------   266
 Saoe-DRB3*05:06       --------------------------   266
