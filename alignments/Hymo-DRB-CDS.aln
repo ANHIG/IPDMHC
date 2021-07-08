@@ -58,9 +58,9 @@ Hymo-DRB*W096:01      TTGGTGAGAGCTTCACAGTGCAGCGGCGAG----------------------------
 Hymo-DRB*W096:02      TTGTGGAGAGCTTCACAGTGCAGCGGCGAG------------------------------   300
 Hymo-DRB*W097:01      GTGTGGAGAGCTTCACAGTGCAGCGGCGAG------------------------------   300
 Hymo-DRB*W098:01      TTGGTGAGAGCTTCACGGTGCAGCGGCGAG------------------------------   300
-Hymo-DRB*W098:02      TTGGTGAGAGCTTCACAGTGCAGCGGCGAGGTGAGCAT----------------------   300
+Hymo-DRB*W098:02      TTGGTGAGAGCTTCACAGTGCAGCGGCGAG------------------------------   300
 Hymo-DRB*W099:01      TTGGTGAGAGCTTCACGGTGCAGCGGCGAG------------------------------   300
-Hymo-DRB*W100:01      TTGGTGAGAGCTTCACAGTGCAGCGGCGAGGTGAGCAT----------------------   300
+Hymo-DRB*W100:01      TTGGTGAGAGCTTCACAGTGCAGCGGCGAG------------------------------   300
 Hymo-DRB*W103:01      TTGGTGAGAGCTTCACGGTGCAGCGGCGAG------------------------------   300
 
 HLA-DRB1*01:01:01:01  AGACCCAGCCCCTGCAGCACCACAACCTCCTGGTCTGCTCTGTGAGTGGTTTCTATCCAG   360
@@ -84,12 +84,12 @@ Hymo-DRB*W096:01      ----------------------------------------------------------
 Hymo-DRB*W096:02      ------------------------------------------------------------   420
 Hymo-DRB*W097:01      ------------------------------------------------------------   420
 Hymo-DRB*W098:01      ------------------------------------------------------------   420
-Hymo-DRB*W098:02      -------------------------------------------GGCGGGGGCGG------   420
+Hymo-DRB*W098:02      -----------------------------------------------------------G   420
 Hymo-DRB*W099:01      ------------------------------------------------------------   420
-Hymo-DRB*W100:01      ---------------GGTGG---------------------------GGGGCGG------   420
+Hymo-DRB*W100:01      -----------------------------------------------------------G   420
 Hymo-DRB*W103:01      ------------------------------------------------------------   420
 
-HLA-DRB1*01:01:01:01  CAGGCCTGATCCAGAATGGAGATTGGACCTTCCAGACCCTGGTGATGCTGGAAACAGTTC   480
+HLA-DRB1*01:01:01:01  CAGGCCTGATCCAGAATGGAGATTGGACCTTCCAGACCCTGGTGATGCTGGAAAC---AG   480
 Hymo-DRB*W094:01      ------------------------------------------------------------   480
 Hymo-DRB*W094:02      ------------------------------------------------------------   480
 Hymo-DRB*W095:01      ------------------------------------------------------------   480
@@ -97,12 +97,12 @@ Hymo-DRB*W096:01      ----------------------------------------------------------
 Hymo-DRB*W096:02      ------------------------------------------------------------   480
 Hymo-DRB*W097:01      ------------------------------------------------------------   480
 Hymo-DRB*W098:01      ------------------------------------------------------------   480
-Hymo-DRB*W098:02      --GGCCTG--------------------------GGTCCCTGTGA-GCTGGGAA------   480
+Hymo-DRB*W098:02      TGAGCATGGC-GGGGGCGGGGCCTGGGTCCCTGTGA----------GCTGGGAATCTGAG   480
 Hymo-DRB*W099:01      ------------------------------------------------------------   480
-Hymo-DRB*W100:01      --GGCCTG--------------------------GGTCCCTGTGA-GCTGGGAA------   480
+Hymo-DRB*W100:01      TGAGCATGGTGGGGGGCGGGGCCTGGGTCCCTGTGA----------GCTGGGAATCTGAG   480
 Hymo-DRB*W103:01      ------------------------------------------------------------   480
 
-HLA-DRB1*01:01:01:01  CTCGGAGTG---GAGAG-GTTTACACCTGC-----CAAGTG---GAGCACCCAAGTGTGA   540
+HLA-DRB1*01:01:01:01  TTCCTCGGAGTGGAGAGGTTTACACCTGCCAAGTGGAGCACCCAAG-TGTGACGAGCCCT   540
 Hymo-DRB*W094:01      ------------------------------------------------------------   540
 Hymo-DRB*W094:02      ------------------------------------------------------------   540
 Hymo-DRB*W095:01      ------------------------------------------------------------   540
@@ -110,21 +110,21 @@ Hymo-DRB*W096:01      ----------------------------------------------------------
 Hymo-DRB*W096:02      ------------------------------------------------------------   540
 Hymo-DRB*W097:01      ------------------------------------------------------------   540
 Hymo-DRB*W098:01      ------------------------------------------------------------   540
-Hymo-DRB*W098:02      -TCTGAGTGAGTGTGTGTGTGAGTGTGTGTGTGTGTGAGACACAGAG-----------AG   540
+Hymo-DRB*W098:02      TGAGTGTGTGTGTGAGTGTGTGTGTGTGTGAGACACAGAGAGAGAG------------CC   540
 Hymo-DRB*W099:01      ------------------------------------------------------------   540
-Hymo-DRB*W100:01      -TCTGAGTGTGTGTGAGTGTTTGTGTGTGTGTGAGAGAGAGAGAGAGAGAGAGAGAG-GA   540
+Hymo-DRB*W100:01      TGTGTGTGAGTGTTTGTGTGTGTGTGAGAGAGAGAGAGAGAGAGAGAGAGGAAGAGCCCC   540
 Hymo-DRB*W103:01      ------------------------------------------------------------   540
 
-HLA-DRB1*01:01:01:01  CGAGCCCTCTCACAGTGGAATGGA   564
-Hymo-DRB*W094:01      ------------------------   564
-Hymo-DRB*W094:02      ------------------------   564
-Hymo-DRB*W095:01      ------------------------   564
-Hymo-DRB*W096:01      ------------------------   564
-Hymo-DRB*W096:02      ------------------------   564
-Hymo-DRB*W097:01      ------------------------   564
-Hymo-DRB*W098:01      ------------------------   564
-Hymo-DRB*W098:02      AGAGCCATCT--------------   564
-Hymo-DRB*W099:01      ------------------------   564
-Hymo-DRB*W100:01      AGAGCCCCATCG------------   564
-Hymo-DRB*W103:01      ------------------------   564
+HLA-DRB1*01:01:01:01  CTCACAGTGGAATGGA   556
+Hymo-DRB*W094:01      ----------------   556
+Hymo-DRB*W094:02      ----------------   556
+Hymo-DRB*W095:01      ----------------   556
+Hymo-DRB*W096:01      ----------------   556
+Hymo-DRB*W096:02      ----------------   556
+Hymo-DRB*W097:01      ----------------   556
+Hymo-DRB*W098:01      ----------------   556
+Hymo-DRB*W098:02      ATCT------------   556
+Hymo-DRB*W099:01      ----------------   556
+Hymo-DRB*W100:01      ATCG------------   556
+Hymo-DRB*W103:01      ----------------   556
 

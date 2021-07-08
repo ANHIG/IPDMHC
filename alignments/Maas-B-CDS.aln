@@ -268,18 +268,18 @@ Maas-B*069:02         GGAGGGAGCTACTCTCAGGCTGCGTCCAGCGACAGTGCCCAGGGCTCTGATGTGTCTC
 Maas-B*074:01         GGAGGGAGCTACTCTCAGGCTGCGTCCAACGACAGTGCCCAGGGCTCTGATGTGTCTCTC  1080
 Maas-B*075:01         GGAGGGAGCTACTCTCAGGCTGCGTCCAGCGACAGTGCCCAGGGCTCTGATGTGTCTCTC  1080
 
-HLA-B*07:02:01:01     ACAGCT---------TGA  1098
-Maas-B*007:01         ACGGCT---------TGA  1098
+HLA-B*07:02:01:01     ACAGCTTGA---------  1098
+Maas-B*007:01         ACGGCTTGA---------  1098
 Maas-B*017:01         ACAGCTTGTAAAGTGTGA  1098
-Maas-B*017:02         ACGGCT---------TGA  1098
-Maas-B*030:01         ACGGCT---------TGA  1098
-Maas-B*037:01         ACGGCT---------TGA  1098
-Maas-B*039:01         ACGGCT---------TGA  1098
-Maas-B*043:01         ATGGCT---------TGA  1098
-Maas-B*043:02         ATGGCT---------TGA  1098
-Maas-B*045:01         ACGGCT---------TGA  1098
-Maas-B*069:01         ACGGCT---------TGA  1098
-Maas-B*069:02         ACGGCT---------TGA  1098
-Maas-B*074:01         ACGGCT---------TGA  1098
-Maas-B*075:01         ACAGCT---------TGA  1098
+Maas-B*017:02         ACGGCTTGA---------  1098
+Maas-B*030:01         ACGGCTTGA---------  1098
+Maas-B*037:01         ACGGCTTGA---------  1098
+Maas-B*039:01         ACGGCTTGA---------  1098
+Maas-B*043:01         ATGGCTTGA---------  1098
+Maas-B*043:02         ATGGCTTGA---------  1098
+Maas-B*045:01         ACGGCTTGA---------  1098
+Maas-B*069:01         ACGGCTTGA---------  1098
+Maas-B*069:02         ACGGCTTGA---------  1098
+Maas-B*074:01         ACGGCTTGA---------  1098
+Maas-B*075:01         ACAGCTTGA---------  1098
 

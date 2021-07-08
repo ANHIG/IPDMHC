@@ -431,7 +431,7 @@ Mane-A4*14:15N        AGGAGGGAGCTACTCTCAGGCTGCAAGCAGTGACAGTGCCCAGGGCTCTGATGTGTCT
 Mane-A4*14:16         ------------------------------------------------------------  1080
 
 HLA-A*01:01:01:01     CACAGCTTGTAAAGTGTGA  1099
-Mane-A4*01:01:01N     CACGGCTTGTAAAGTG---  1099
+Mane-A4*01:01:01N     CACGGCTTGTAAAG--TG-  1099
 Mane-A4*02:01         -------------------  1099
 Mane-A4*14:01:01      -------------------  1099
 Mane-A4*14:01:02      -------------------  1099
@@ -439,18 +439,18 @@ Mane-A4*14:01:03      -------------------  1099
 Mane-A4*14:01:04      -------------------  1099
 Mane-A4*14:02         -------------------  1099
 Mane-A4*14:03:01      -------------------  1099
-Mane-A4*14:03:02      CACGGCTTGTAAAGTG---  1099
+Mane-A4*14:03:02      CACGGCTTGTAAAG--TG-  1099
 Mane-A4*14:04         -------------------  1099
-Mane-A4*14:05N        CACAGCTTGTAAAGTG---  1099
-Mane-A4*14:06N        CACGGCTTGTAAAGTG---  1099
-Mane-A4*14:07N        CACAGCTTGTAAAGTG---  1099
-Mane-A4*14:08         CACGGCTTGTAAAGTG---  1099
-Mane-A4*14:09N        CACGGCTTGTAAAGTG---  1099
+Mane-A4*14:05N        CACAGCTTGTAAAG--TG-  1099
+Mane-A4*14:06N        CACGGCTTGTAAAG--TG-  1099
+Mane-A4*14:07N        CACAGCTTGTAAAG--TG-  1099
+Mane-A4*14:08         CACGGCTTGTAAAG--TG-  1099
+Mane-A4*14:09N        CACGGCTTGTAAAG--TG-  1099
 Mane-A4*14:10         -------------------  1099
 Mane-A4*14:11         -------------------  1099
-Mane-A4*14:12         CACGGCTTGTAAAGTG---  1099
+Mane-A4*14:12         CACGGCTTGTAAAG--TG-  1099
 Mane-A4*14:13         -------------------  1099
 Mane-A4*14:14         -------------------  1099
-Mane-A4*14:15N        CACGGCTTGTAAAGTG---  1099
+Mane-A4*14:15N        CACGGCTTGTAAAG--TG-  1099
 Mane-A4*14:16         -------------------  1099
 

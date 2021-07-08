@@ -218,7 +218,7 @@ SLA-6*08:01           GGGAGGCGGAGGGAGTAGCTGAACAGTATCGGGCATACTTGGAGATCGAGTGTGTGGA
 SLA-6*09:01           GGGAGGCGGAGGGAGTAGCTGAACAGTATCGGGCATACTTGGAGATCGAGTGTGTGGAGT  1200
 SLA-6*10:01           GGGAGGCGGAGGGAGTAGCTGAACAGTATCGGGCATACTTGGAGATCGAGTGTGTGGAGT  1200
 
-SLA-6*01:01           GGCTCCGCAAGTACCTCGAGAAGGGGAAGGACGTGCTGCAGCGCGCAGGT--AGACTGCG  1260
+SLA-6*01:01           GGCTCCGCAAGTACCTCGAGAAGGGGAAGGACGTGCTGCAGCGCGCAG--GTAGACTGCG  1260
 SLA-6*02:01           GGCTCCGCAAGTACCTCGAGAAGGGGAAGGACGTGCTGCAGCGCGCAG------------  1260
 SLA-6*03:01           GGCTCCGCAAGTACCTCGAGAAGGGGAAGGACGTGCTGCAGCGCGCAG------------  1260
 SLA-6*04:01           GGCTCCGCAAGTACCTCGAGAAGGGGAAGGACGTGCTGCAGCGCGCAGGTAGAGACTGCG  1260
@@ -430,7 +430,7 @@ SLA-6*10:01           ----------------------------------------------------------
 SLA-6*01:01           CCCCCTAGCCTGGGAACCTCCATATGCCACGGGTGAGGCCCTTTAGAAAAAAAAAAAAAA  2400
 SLA-6*02:01           ------------------------------------------------------------  2400
 SLA-6*03:01           ------------------------------------------------------------  2400
-SLA-6*04:01           CCCCCTAGCCTGGGAACCTCCATATGCCACGGGTGAGGCCCTTTAGAAAAAAAAAAAAAA  2400
+SLA-6*04:01           CCCCCTAGCCTGGGAACCTCCATATGCCACGGGTGAGGCCCTTTAG-AAAAAAAAAAAAA  2400
 SLA-6*05:01           ------------------------------------------------------------  2400
 SLA-6*06:01           ------------------------------------------------------------  2400
 SLA-6*07:01           ------------------------------------------------------------  2400
@@ -441,7 +441,7 @@ SLA-6*10:01           ----------------------------------------------------------
 SLA-6*01:01           AAAAGGAAAAGAAGGAAAGAAAACAGAGAGAGAGCAGGAGC-------------------  2460
 SLA-6*02:01           ------------------------------------------------------------  2460
 SLA-6*03:01           ------------------------------------------------------------  2460
-SLA-6*04:01           AAA-GGAAAAGAAGGAAAGAAAACAGAGAGAGAGCAGGAGTAGACCTTCTGGGGGGGGGT  2460
+SLA-6*04:01           AAAAGGAAAAGAAGGAAAGAAAACAGAGAGAGAGCAGGAGTAGACCTTCTGGGGGGGGGT  2460
 SLA-6*05:01           ------------------------------------------------------------  2460
 SLA-6*06:01           ------------------------------------------------------------  2460
 SLA-6*07:01           ------------------------------------------------------------  2460

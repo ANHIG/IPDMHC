@@ -1,5 +1,5 @@
 Sasa-DAB*06:01        MSMSIFCVSLTLVLSIFSGTDGYFYHMMTQCRYSSKDLQGIELITSYVFNQAENIRFNST    60
-Sasa-DAB*01:01        MS--IFCVSLTLVLSIFSGTDGYFEQVVRQCRYSSKDLQGIEFIDSYVFNKAEYIRFNST    60
+Sasa-DAB*01:01        --MSIFCVSLTLVLSIFSGTDGYFEQVVRQCRYSSKDLQGIEFIDSYVFNKAEYIRFNST    60
 Sasa-DAB*01:02        MSMSIFCVSLTLVLSIFSGTDGYFEQVVRQCRYSSKDLQGIELIDSYVFNKAEYIRFNST    60
 Sasa-DAB*02:01        MSMSIFCVSLTLVLSIFSGTDGYFEQVVRQCRYSSKDLQGIEFIDSYVFNKAEYVRFNST    60
 Sasa-DAB*02:02        -------VSLTLVLSIFSGTDGYFEHVVRQCRYSSKDLQGIEFIDSYVFNKAEYVRFNST    60
@@ -131,7 +131,7 @@ Sasa-DAB*06:01        TPRSGEKISCMVEHISLTEPMVYHWDPSLPEAERNKIAIGASGLVLGAILALAGLIYY
 Sasa-DAB*01:01        TPRSGEKISCMVEHISLTEPMVYHWDPSLPEAERNKIAIGASGLVLGAILALAGLIYYKK   240
 Sasa-DAB*01:02        TPRSGEKISCMVEHISLTEPMVYHWDPSLPEAERNKIAIGASG-----------------   240
 Sasa-DAB*02:01        TPRSGEKISCMVEHISLTEPMVYHWDPSLPEAERNKIAIGASG-----------------   240
-Sasa-DAB*02:02        TPRSGEKISCMVEHISLTEPMVYH------------------------------------   240
+Sasa-DAB*02:02        TPRSGEKISCMVEHISLTEPMVYHW-----------------------------------   240
 Sasa-DAB*03:01        TPRSGEKISCMVEHISLTEPMVYHWDPSLPEAERNKIAIGASG-----------------   240
 Sasa-DAB*03:02        ------------------------------------------------------------   240
 Sasa-DAB*03:03        TPRSGEKISCMVEHISLTEPMVYHWDPSLPEAERNKIAIGASG-----------------   240
@@ -139,13 +139,13 @@ Sasa-DAB*04:01        TPRSGEKISCMVEHISLTEPMVYHWDPSLPEAERNKIAIGASG---------------
 Sasa-DAB*05:01        TPRSGEKISCMVEHISLTEPMVYHWDPSLPEAERNKIAIGASG-----------------   240
 Sasa-DAB*07:01        TPRSGEKISCMVEHISLTEPMVYHWDPSLPEAERNKIAIGASGLVLGAILALAGLIYYKK   240
 Sasa-DAB*08:01        TPRSGEKISCMVEHISLTEPMVYHWDPSLPEAERNKIAIGASG-----------------   240
-Sasa-DAB*08:02        TPRSGEKISCMVEHISLTEPMVYH------------------------------------   240
+Sasa-DAB*08:02        TPRSGEKISCMVEHISLTEPMVYHW-----------------------------------   240
 Sasa-DAB*09:01        ------------------------------------------------------------   240
-Sasa-DAB*09:02        TPRSGEKISCMVEHISLTEPMVYH------------------------------------   240
-Sasa-DAB*10:01        TPRSGEKISCMVEHISLTEPMVYH------------------------------------   240
-Sasa-DAB*11:01        TPRSGEKISCMVEHISLTEPMVYH------------------------------------   240
+Sasa-DAB*09:02        TPRSGEKISCMVEHISLTEPMVYHW-----------------------------------   240
+Sasa-DAB*10:01        TPRSGEKISCMVEHISLTEPMVYHW-----------------------------------   240
+Sasa-DAB*11:01        TPRSGEKISCMVEHISLTEPMVYHW-----------------------------------   240
 Sasa-DAB*11:02        ------------------------------------------------------------   240
-Sasa-DAB*12:01        TPRSGEKISCMVEHISLTEPMVYH------------------------------------   240
+Sasa-DAB*12:01        TPRSGEKISCMVEHISLTEPMVYHW-----------------------------------   240
 Sasa-DAB*12:02        ------------------------------------------------------------   240
 Sasa-DAB*13:01        ------------------------------------------------------------   240
 Sasa-DAB*13:02        ------------------------------------------------------------   240

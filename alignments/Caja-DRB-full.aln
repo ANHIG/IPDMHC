@@ -3785,29 +3785,29 @@ Caja-DRB*W012:04:02   GAAGGACTACATGGAGCAGACGCGGGCCGCGGTGGACACCGTGTGCAGACACAACTAC
 Caja-DRB*W012:05      GAAGGACTACATGGAGCAGACGCGGGCCGCGGTGGACACCGTGTGCAGACACAACTACGG  6180
 Caja-DRB*W012:06      GAAGGACTACATGGAGCAGACGCGGGCCGCGGTGGACACCGTGTGCAGACACAACTACGG  6180
 Caja-DRB*W012:07      GAAGGACTACATGGAGCAGACGCGGGCCGCGGTGGACACCGTGTGCAGACACAACTACGG  6180
-Caja-DRB*W016:01      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACAGAT---GCAGACACAACTACGA  6180
-Caja-DRB*W016:04      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACAGAT---GCAGACACAACTACGA  6180
+Caja-DRB*W016:01      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACA---GATGCAGACACAACTACGA  6180
+Caja-DRB*W016:04      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACA---GATGCAGACACAACTACGA  6180
 Caja-DRB*W016:05      GAAGGACCTCCTGGAGCAGAGGCGGGCCGCGGTGGACACCTACTGCAGACACAACTACGA  6180
 Caja-DRB*W016:06      GAAGGACATCCTGGAGGACAGGCGGGCCGCGGTGGACACCGTGTGCAGACACAACTACGA  6180
 Caja-DRB*W016:07      GAAGGACATCCTGGAGGACAGGCGGGCCGCGGTGGACACCGTGTGCAGACACAACTACGA  6180
-Caja-DRB*W016:08      GAAGGACATCCTGGAGCAGACGCGGGCCGAGGTGGACAGAT---GCAGACACAACTACGA  6180
-Caja-DRB*W016:09      GAAGGACATCCTGGAGCAGAAGCGGGCCGAGGTGGACAGAT---GCAGACACAACTACGA  6180
-Caja-DRB*W016:10      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACAGAT---GCAGACACAACTACGA  6180
+Caja-DRB*W016:08      GAAGGACATCCTGGAGCAGACGCGGGCCGAGGTGGACA---GATGCAGACACAACTACGA  6180
+Caja-DRB*W016:09      GAAGGACATCCTGGAGCAGAAGCGGGCCGAGGTGGACA---GATGCAGACACAACTACGA  6180
+Caja-DRB*W016:10      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACA---GATGCAGACACAACTACGA  6180
 Caja-DRB*W016:11      GAAGGACATCCTGGAGCAGAGGCGGGCCGCGGTGGACACCTTCTGCAGACACAACTACGA  6180
 Caja-DRB*W016:12      GAAGGACCTCCTGGAGCAGAGGCGGGCCGAGGTGGACACCGTGTGCAGACACAACTACGA  6180
 Caja-DRB*W016:13      GAAGGACATCCTGGAGCAGAGGCGGGCCGCGGTGGACACCTACTGCAGACACAACTACGA  6180
-Caja-DRB*W016:14      GAAGGACCTCCTGGAGCAGAAGCGGGCCGAGGTGGACAGAT---GCAGACACAACTACGA  6180
+Caja-DRB*W016:14      GAAGGACCTCCTGGAGCAGAAGCGGGCCGAGGTGGACA---GATGCAGACACAACTACGA  6180
 Caja-DRB*W016:15      GAAGGACCTCCTGGAGCAGAGGCGGGCCGAGGTGGACACCTACTGCAGACACAACTACGA  6180
 Caja-DRB*W016:16      GAAGGACCTCCTGGAGCAGACGCGGGCCGAGGTGGACACCGTGTGCAGACACAACTACGA  6180
-Caja-DRB*W016:17      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACAGAT---GCAGACACAACTACGA  6180
-Caja-DRB*W016:18      GAAGGACATCCTGGAGCAGAAGCGGGCCGAGGTGGACAGAT---GCAGACACAACTACGA  6180
+Caja-DRB*W016:17      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACA---GATGCAGACACAACTACGA  6180
+Caja-DRB*W016:18      GAAGGACATCCTGGAGCAGAAGCGGGCCGAGGTGGACA---GATGCAGACACAACTACGA  6180
 Caja-DRB*W016:20      GAAGGACCTCCTGGAGCAGACGCGGGCCGAGGTGGACACCGTGTGCAGACACAACTACGA  6180
 Caja-DRB*W016:22      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACACCTACTGCAGACACAACTACGA  6180
-Caja-DRB*W016:23      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACAGAT---GCAGACACAACTACGA  6180
+Caja-DRB*W016:23      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACA---GATGCAGACACAACTACGA  6180
 Caja-DRB*W016:24      GAAGGACCTCCTGGAGCAGAGGCGGGCCGAGGTGGACACCGTGTGCAGACACAACTACGA  6180
 Caja-DRB*W016:25      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACACCTACTGCAGACACAACTACGA  6180
-Caja-DRB*W016:26      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACAGAT---GCAGACACAACTACGA  6180
-Caja-DRB*W016:27      GAAGGACATCCTGGAGCAGAAGCGGGCCGAGGTGGACAGAT---GCAGACACAACTACGA  6180
+Caja-DRB*W016:26      GAAGGACATCCTGGAGCAGAAGCGGGCCGCGGTGGACA---GATGCAGACACAACTACGA  6180
+Caja-DRB*W016:27      GAAGGACATCCTGGAGCAGAAGCGGGCCGAGGTGGACA---GATGCAGACACAACTACGA  6180
 
 HLA-DRB1*01:01:01:01  GGTTGGTGAGAGCTTCACAGTGCAGCGGCGAGGTGAGCGCGGCGCGGGGCGGGGCCTGAG  6240
 Caja-DRB*W012:01:01   GATTTTTGAGAGGTTCCTAGTGCAGCGGCGAG----------------------------  6240
@@ -3833,7 +3833,7 @@ Caja-DRB*W016:10      GGTTTCAGAGACGTTCCTAGTGCCGCGGAGAG--------------------------
 Caja-DRB*W016:11      GGGTTTCGAGACGTTCCTAGTGCCGCGGAGAG----------------------------  6240
 Caja-DRB*W016:12      GATTTCAGAGAGGTTCCTAGTGCCGCGGAGAG----------------------------  6240
 Caja-DRB*W016:13      GATTTTAGACAGGTTCCTAGTGCCGCGGAGAG----------------------------  6240
-Caja-DRB*W016:14      GGT----------TTCA-------------------------------------------  6240
+Caja-DRB*W016:14      GGTTTCA-----------------------------------------------------  6240
 Caja-DRB*W016:15      GATTTCAGAGAGGTTCCTAGTGCCGCGGAGAG----------------------------  6240
 Caja-DRB*W016:16      GATTTTCGAGACGTTCCTAGTGCCGCGGAGAG----------------------------  6240
 Caja-DRB*W016:17      GATTTTCGAGACGTTCCTAGTGCCGCGGAGAG----------------------------  6240
@@ -5844,9 +5844,9 @@ Caja-DRB*W016:25      ----GAGCGCAGTCTGAATCTGCACAGAGCAAGATGCTGAGTGGAGTTGGGGGCTTTG
 Caja-DRB*W016:26      ----GAGGCATGTCTGAATCTGCACAGAGCAAGATGCTGAGTGGAGTCGGGGGCTTTGTG  9480
 Caja-DRB*W016:27      ----GAGCGCAGTCTGAATCTGCACAGAGCAAGATGCTGAGTGGAGTTGGGGGCTTTGTG  9480
 
-HLA-DRB1*01:01:01:01  CTGGGCCTGCTCTTCCTTGGGGCCGGGCTGTTCATCTACTTCAGGAATCAGAAAGGTGAG  9540
+HLA-DRB1*01:01:01:01  CTGGGCCTGCTCTTCCTTGGGGCCGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
 Caja-DRB*W012:01:01   CTGGGCCTGCTCTTCCTTGGGGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
-Caja-DRB*W012:02:01   CTGGGCCTGCTCTTCCTTGGCGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
+Caja-DRB*W012:02:01   CTGGGCCTGCTCTTCCTTGGCGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAGGACAT  9540
 Caja-DRB*W012:02:03   CTGGGCCTGCTCTTCCTTGGCGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
 Caja-DRB*W012:02:04   CTGGGCCTGCTCTTCCTTGGCGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
 Caja-DRB*W012:03:01   CTGGGCCTGCTCTTCCTTGGCGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
@@ -5854,7 +5854,7 @@ Caja-DRB*W012:03:02   ----------------------------------------------------------
 Caja-DRB*W012:03:03   CTGGGCCTGCTCTTCCTTGGCGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
 Caja-DRB*W012:04:01   CTGGGCATGCTCTTCCTTGGCGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
 Caja-DRB*W012:04:02   CTGGGCATGCTCTTCCTTGGCGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
-Caja-DRB*W012:05      CTGGGCCTGCTCTTCCTTGGCGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
+Caja-DRB*W012:05      CTGGGCCTGCTCTTCCTTGGCGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAGGACAT  9540
 Caja-DRB*W012:06      CTGGGCCTGCTCTTCCTTGGCGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
 Caja-DRB*W012:07      CTGGGCCTGCTCTTCCTTGGGGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
 Caja-DRB*W016:01      CTGGGCCTGCTCTTCCTTGGGGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
@@ -5881,9 +5881,9 @@ Caja-DRB*W016:25      CTGGGCCTGCTCTTCCTTGGGGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG---
 Caja-DRB*W016:26      CTGGGCCTGCTCTTCCTTGGGGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
 Caja-DRB*W016:27      CTGGGCCTGCTCTTCCTTGGGGCAGGGCTGTTCATCTACTTCAGGAATCAGAAAG-----  9540
 
-HLA-DRB1*01:01:01:01  GAGCCTTTGGGAGCTGACTCTCTCCATAGGCTTTTCTGGAGGAGGAACCATGGTTTTGCT  9600
+HLA-DRB1*01:01:01:01  ---------------------------------GTGAGGAGCCTTTGGGAGCTGACTCTC  9600
 Caja-DRB*W012:01:01   ------------------------------------------------------------  9600
-Caja-DRB*W012:02:01   ------------------------------------------------------------  9600
+Caja-DRB*W012:02:01   TCTGCCCTTCGGCCATCAGGAGTCGTTAGCTGA---------------------------  9600
 Caja-DRB*W012:02:03   ------------------------------------------------------------  9600
 Caja-DRB*W012:02:04   ------------------------------------------------------------  9600
 Caja-DRB*W012:03:01   ------------------------------------------------------------  9600
@@ -5891,7 +5891,7 @@ Caja-DRB*W012:03:02   ----------------------------------------------------------
 Caja-DRB*W012:03:03   ------------------------------------------------------------  9600
 Caja-DRB*W012:04:01   ------------------------------------------------------------  9600
 Caja-DRB*W012:04:02   ------------------------------------------------------------  9600
-Caja-DRB*W012:05      ------------------------------------------------------------  9600
+Caja-DRB*W012:05      TCTGCCCTTCGGCCATCAGGAGTCCTTAGCTGA---------------------------  9600
 Caja-DRB*W012:06      ------------------------------------------------------------  9600
 Caja-DRB*W012:07      ------------------------------------------------------------  9600
 Caja-DRB*W016:01      ------------------------------------------------------------  9600
@@ -5918,7 +5918,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------  9600
 Caja-DRB*W016:27      ------------------------------------------------------------  9600
 
-HLA-DRB1*01:01:01:01  GAGAGGTTAGTTCTCAGTATACGAGTGGCCCTGAATAAAGCCTTTCTTTCCCCAAACGGC  9660
+HLA-DRB1*01:01:01:01  TCCATAGGCTTTTCTGGAGGAGGAACCATGGTTTTGCTGAGAGGTTAGTTCTCAGTATAC  9660
 Caja-DRB*W012:01:01   ------------------------------------------------------------  9660
 Caja-DRB*W012:02:01   ------------------------------------------------------------  9660
 Caja-DRB*W012:02:03   ------------------------------------------------------------  9660
@@ -5955,7 +5955,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------  9660
 Caja-DRB*W016:27      ------------------------------------------------------------  9660
 
-HLA-DRB1*01:01:01:01  TCTAATGTCCTGCTAATCCAGAAATCATCAGTGCATGGTTACTATGTCAAAGCATAATAG  9720
+HLA-DRB1*01:01:01:01  GAGTGGCCCTGAATAAAGCCTTTCTTTCCCCAAACGGCTCTAATGTCCTGCTAATCCAGA  9720
 Caja-DRB*W012:01:01   ------------------------------------------------------------  9720
 Caja-DRB*W012:02:01   ------------------------------------------------------------  9720
 Caja-DRB*W012:02:03   ------------------------------------------------------------  9720
@@ -5992,7 +5992,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------  9720
 Caja-DRB*W016:27      ------------------------------------------------------------  9720
 
-HLA-DRB1*01:01:01:01  CTTGTGGCCTGCAGAGACAAGAGGAAGGTTAACAAGTAGGGGTCCTTTTGTTTGAGATCC  9780
+HLA-DRB1*01:01:01:01  AATCATCAGTGCATGGTTACTATGTCAAAGCATAATAGCTTGTGGCCTGCAGAGACAAGA  9780
 Caja-DRB*W012:01:01   ------------------------------------------------------------  9780
 Caja-DRB*W012:02:01   ------------------------------------------------------------  9780
 Caja-DRB*W012:02:03   ------------------------------------------------------------  9780
@@ -6029,7 +6029,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------  9780
 Caja-DRB*W016:27      ------------------------------------------------------------  9780
 
-HLA-DRB1*01:01:01:01  TGGAGCAAATTAAGGAAGAGCCACTAAGGCTAATGGAATTACACTGGATCCTGTGACAGA  9840
+HLA-DRB1*01:01:01:01  GGAAGGTTAACAAGTAGGGGTCCTTTTGTTTGAGATCCTGGAGCAAATTAAGGAAGAGCC  9840
 Caja-DRB*W012:01:01   ------------------------------------------------------------  9840
 Caja-DRB*W012:02:01   ------------------------------------------------------------  9840
 Caja-DRB*W012:02:03   ------------------------------------------------------------  9840
@@ -6066,7 +6066,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------  9840
 Caja-DRB*W016:27      ------------------------------------------------------------  9840
 
-HLA-DRB1*01:01:01:01  CACTTCAGGCTTCATGGGTCACATGGTCTGTCTCTGCTCCTTTCTGCCCCTTTCTGCCCT  9900
+HLA-DRB1*01:01:01:01  ACTAAGGCTAATGGAATTACACTGGATCCTGTGACAGACACTTCAGGCTTCATGGGTCAC  9900
 Caja-DRB*W012:01:01   ------------------------------------------------------------  9900
 Caja-DRB*W012:02:01   ------------------------------------------------------------  9900
 Caja-DRB*W012:02:03   ------------------------------------------------------------  9900
@@ -6103,7 +6103,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------  9900
 Caja-DRB*W016:27      ------------------------------------------------------------  9900
 
-HLA-DRB1*01:01:01:01  GGTTGGTGCGGGTTGTGGTGTTAGAGAAATCTCAGGTGGGAGATCTGCGGCTGGGACATT  9960
+HLA-DRB1*01:01:01:01  ATGGTCTGTCTCTGCTCCTTTCTGCCCCTTTCTGCCCTGGTTGGTGCGGGTTGTGGTGTT  9960
 Caja-DRB*W012:01:01   ------------------------------------------------------------  9960
 Caja-DRB*W012:02:01   ------------------------------------------------------------  9960
 Caja-DRB*W012:02:03   ------------------------------------------------------------  9960
@@ -6140,7 +6140,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------  9960
 Caja-DRB*W016:27      ------------------------------------------------------------  9960
 
-HLA-DRB1*01:01:01:01  GTGTTGGAGGACAGATTTGCTTCAATAACTTTTAAGTGTATTTCTTTTCCTCTTTTTCCC 10020
+HLA-DRB1*01:01:01:01  AGAGAAATCTCAGGTGGGAGATCTGCGGCTGGGACATTGTGTTGGAGGACAGATTTGCTT 10020
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10020
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10020
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10020
@@ -6177,7 +6177,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10020
 Caja-DRB*W016:27      ------------------------------------------------------------ 10020
 
-HLA-DRB1*01:01:01:01  AGGACACTCTGGACTTCAGCCAACAGGTAATACCTTTTAATCCTCTTTTAGAAACAGACA 10080
+HLA-DRB1*01:01:01:01  CAATAACTTTTAAGTGTATTTCTTTTCCTCTTTTTCCCAGGACACTCTGGACTTCAGCCA 10080
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10080
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10080
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10080
@@ -6190,31 +6190,31 @@ Caja-DRB*W012:04:02   ----------------------------------------------------------
 Caja-DRB*W012:05      ------------------------------------------------------------ 10080
 Caja-DRB*W012:06      ------------------------------------------------------------ 10080
 Caja-DRB*W012:07      ------------------------------------------------------------ 10080
-Caja-DRB*W016:01      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:04      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:05      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:06      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
+Caja-DRB*W016:01      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:04      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:05      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:06      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
 Caja-DRB*W016:07      ------------------------------------------------------------ 10080
-Caja-DRB*W016:08      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:09      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:10      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:11      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:12      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:13      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
+Caja-DRB*W016:08      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:09      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:10      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:11      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:12      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:13      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
 Caja-DRB*W016:14      ------------------------------------------------------------ 10080
-Caja-DRB*W016:15      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:16      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:17      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:18      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:20      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:22      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:23      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
+Caja-DRB*W016:15      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:16      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:17      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:18      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:20      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:22      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:23      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
 Caja-DRB*W016:24      ------------------------------------------------------------ 10080
-Caja-DRB*W016:25      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:26      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
-Caja-DRB*W016:27      --GACGCTCTGGACTTCAGCCAACAG---------------------------------- 10080
+Caja-DRB*W016:25      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:26      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
+Caja-DRB*W016:27      ----------------------------------------GACGCTCTGGACTTCAGCCA 10080
 
-HLA-DRB1*01:01:01:01  CAGTTTCCCTAGTGAGAGGTGAAGCCAGCTGGACTTCTGGGTGGGGTGGGGACTTGGAGA 10140
+HLA-DRB1*01:01:01:01  ACAGGTAATACCTTTTAATCCTCTTTTAGAAACAGACACAGTTTCCCTAGTGAGAGGTGA 10140
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10140
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10140
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10140
@@ -6227,31 +6227,31 @@ Caja-DRB*W012:04:02   ----------------------------------------------------------
 Caja-DRB*W012:05      ------------------------------------------------------------ 10140
 Caja-DRB*W012:06      ------------------------------------------------------------ 10140
 Caja-DRB*W012:07      ------------------------------------------------------------ 10140
-Caja-DRB*W016:01      ------------------------------------------------------------ 10140
-Caja-DRB*W016:04      ------------------------------------------------------------ 10140
-Caja-DRB*W016:05      ------------------------------------------------------------ 10140
-Caja-DRB*W016:06      ------------------------------------------------------------ 10140
+Caja-DRB*W016:01      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:04      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:05      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:06      ACAG-------------------------------------------------------- 10140
 Caja-DRB*W016:07      ------------------------------------------------------------ 10140
-Caja-DRB*W016:08      ------------------------------------------------------------ 10140
-Caja-DRB*W016:09      ------------------------------------------------------------ 10140
-Caja-DRB*W016:10      ------------------------------------------------------------ 10140
-Caja-DRB*W016:11      ------------------------------------------------------------ 10140
-Caja-DRB*W016:12      ------------------------------------------------------------ 10140
-Caja-DRB*W016:13      ------------------------------------------------------------ 10140
+Caja-DRB*W016:08      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:09      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:10      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:11      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:12      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:13      ACAG-------------------------------------------------------- 10140
 Caja-DRB*W016:14      ------------------------------------------------------------ 10140
-Caja-DRB*W016:15      ------------------------------------------------------------ 10140
-Caja-DRB*W016:16      ------------------------------------------------------------ 10140
-Caja-DRB*W016:17      ------------------------------------------------------------ 10140
-Caja-DRB*W016:18      ------------------------------------------------------------ 10140
-Caja-DRB*W016:20      ------------------------------------------------------------ 10140
-Caja-DRB*W016:22      ------------------------------------------------------------ 10140
-Caja-DRB*W016:23      ------------------------------------------------------------ 10140
+Caja-DRB*W016:15      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:16      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:17      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:18      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:20      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:22      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:23      ACAG-------------------------------------------------------- 10140
 Caja-DRB*W016:24      ------------------------------------------------------------ 10140
-Caja-DRB*W016:25      ------------------------------------------------------------ 10140
-Caja-DRB*W016:26      ------------------------------------------------------------ 10140
-Caja-DRB*W016:27      ------------------------------------------------------------ 10140
+Caja-DRB*W016:25      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:26      ACAG-------------------------------------------------------- 10140
+Caja-DRB*W016:27      ACAG-------------------------------------------------------- 10140
 
-HLA-DRB1*01:01:01:01  ACTTTTCTTACAAGAGGTTTCTAAATGCCCCAATCAGTGCTTTGTAAAAACACACCAATA 10200
+HLA-DRB1*01:01:01:01  AGCCAGCTGGACTTCTGGGTGGGGTGGGGACTTGGAGAACTTTTCTTACAAGAGGTTTCT 10200
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10200
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10200
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10200
@@ -6288,7 +6288,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10200
 Caja-DRB*W016:27      ------------------------------------------------------------ 10200
 
-HLA-DRB1*01:01:01:01  GGTTCTCTGTGGCTAGCTGGATGTTTGTAAAATGGACCAATTTGCACTCTGTAAAATGGA 10260
+HLA-DRB1*01:01:01:01  AAATGCCCCAATCAGTGCTTTGTAAAAACACACCAATAGGTTCTCTGTGGCTAGCTGGAT 10260
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10260
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10260
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10260
@@ -6325,7 +6325,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10260
 Caja-DRB*W016:27      ------------------------------------------------------------ 10260
 
-HLA-DRB1*01:01:01:01  CCAATCAGCATTCTTTAAAATGGACCAATCAGCACTTTTAAAATGGGCCAATCAGCACTC 10320
+HLA-DRB1*01:01:01:01  GTTTGTAAAATGGACCAATTTGCACTCTGTAAAATGGACCAATCAGCATTCTTTAAAATG 10320
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10320
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10320
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10320
@@ -6362,7 +6362,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10320
 Caja-DRB*W016:27      ------------------------------------------------------------ 10320
 
-HLA-DRB1*01:01:01:01  TTTAAAATGGACCAATCAGCACTCTTTAAAATGGACCAATCTGCAGGACATGGGCAGGGA 10380
+HLA-DRB1*01:01:01:01  GACCAATCAGCACTTTTAAAATGGGCCAATCAGCACTCTTTAAAATGGACCAATCAGCAC 10380
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10380
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10380
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10380
@@ -6399,7 +6399,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10380
 Caja-DRB*W016:27      ------------------------------------------------------------ 10380
 
-HLA-DRB1*01:01:01:01  CAAATACAGGAATAAAAGCTGGCCACCCCAACCAGCAGTGGCAACCCACTCAGGTCCTCT 10440
+HLA-DRB1*01:01:01:01  TCTTTAAAATGGACCAATCTGCAGGACATGGGCAGGGACAAATACAGGAATAAAAGCTGG 10440
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10440
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10440
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10440
@@ -6436,7 +6436,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10440
 Caja-DRB*W016:27      ------------------------------------------------------------ 10440
 
-HLA-DRB1*01:01:01:01  TCCCTGCTGTGGAAGTTTTGTTCTTTTGATCTTCACAATAAATCTTGCTGCTGCCTACTC 10500
+HLA-DRB1*01:01:01:01  CCACCCCAACCAGCAGTGGCAACCCACTCAGGTCCTCTTCCCTGCTGTGGAAGTTTTGTT 10500
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10500
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10500
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10500
@@ -6473,7 +6473,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10500
 Caja-DRB*W016:27      ------------------------------------------------------------ 10500
 
-HLA-DRB1*01:01:01:01  TTTGGGTCCCTGCCGCCTTTAAGAGCTGTAACACTCACTGTGAAGGTCTGCTTGAAGTCA 10560
+HLA-DRB1*01:01:01:01  CTTTTGATCTTCACAATAAATCTTGCTGCTGCCTACTCTTTGGGTCCCTGCCGCCTTTAA 10560
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10560
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10560
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10560
@@ -6510,7 +6510,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10560
 Caja-DRB*W016:27      ------------------------------------------------------------ 10560
 
-HLA-DRB1*01:01:01:01  GCGAGACCACAAACCCACTGGAAGGAACAAACTGCGGACACACTAGAATGATGGTAGAGG 10620
+HLA-DRB1*01:01:01:01  GAGCTGTAACACTCACTGTGAAGGTCTGCTTGAAGTCAGCGAGACCACAAACCCACTGGA 10620
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10620
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10620
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10620
@@ -6547,7 +6547,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10620
 Caja-DRB*W016:27      ------------------------------------------------------------ 10620
 
-HLA-DRB1*01:01:01:01  TGATAAGGCATGAGACAGAAATAATAGGAAAGACTTTGGATCCAAATTTCTGATCAGGCA 10680
+HLA-DRB1*01:01:01:01  AGGAACAAACTGCGGACACACTAGAATGATGGTAGAGGTGATAAGGCATGAGACAGAAAT 10680
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10680
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10680
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10680
@@ -6584,7 +6584,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10680
 Caja-DRB*W016:27      ------------------------------------------------------------ 10680
 
-HLA-DRB1*01:01:01:01  ATTTACACCAAAATTCCTCCTCTCCACTTAGAAAAGGGCTGTGCTCTGCGGGACTATTGG 10740
+HLA-DRB1*01:01:01:01  AATAGGAAAGACTTTGGATCCAAATTTCTGATCAGGCAATTTACACCAAAATTCCTCCTC 10740
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10740
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10740
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10740
@@ -6621,7 +6621,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10740
 Caja-DRB*W016:27      ------------------------------------------------------------ 10740
 
-HLA-DRB1*01:01:01:01  CTCAGGGGAGACTCAGGAACTTGTTTTTCTGCTTCCTGCAGTGCTCTCATCTGAGCCCTT 10800
+HLA-DRB1*01:01:01:01  TCCACTTAGAAAAGGGCTGTGCTCTGCGGGACTATTGGCTCAGGGGAGACTCAGGAACTT 10800
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10800
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10800
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10800
@@ -6658,7 +6658,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10800
 Caja-DRB*W016:27      ------------------------------------------------------------ 10800
 
-HLA-DRB1*01:01:01:01  GAAAGAGGAGAAAAGAAACTGTTAGTAGAGCCAGGTTGAAAACAACACTCTCCTCTGTCT 10860
+HLA-DRB1*01:01:01:01  GTTTTTCTGCTTCCTGCAGTGCTCTCATCTGAGCCCTTGAAAGAGGAGAAAAGAAACTGT 10860
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10860
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10860
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10860
@@ -6695,7 +6695,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10860
 Caja-DRB*W016:27      ------------------------------------------------------------ 10860
 
-HLA-DRB1*01:01:01:01  TTTGCAGGATTCCTGAGCTGAAATGCAGATGACCACATTCAAGGAAGAACCTTCTGTCCC 10920
+HLA-DRB1*01:01:01:01  TAGTAGAGCCAGGTTGAAAACAACACTCTCCTCTGTCTTTTGCAGGATTCCTGAGCTGAA 10920
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10920
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10920
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10920
@@ -6708,31 +6708,31 @@ Caja-DRB*W012:04:02   ----------------------------------------------------------
 Caja-DRB*W012:05      ------------------------------------------------------------ 10920
 Caja-DRB*W012:06      ------------------------------------------------------------ 10920
 Caja-DRB*W012:07      ------------------------------------------------------------ 10920
-Caja-DRB*W016:01      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:04      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:05      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:06      -------GACTCCTGAGCTGA--------------------------------------- 10920
+Caja-DRB*W016:01      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:04      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:05      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:06      ---------------------------------------------GACTCCTGAGCTGA- 10920
 Caja-DRB*W016:07      ------------------------------------------------------------ 10920
-Caja-DRB*W016:08      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:09      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:10      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:11      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:12      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:13      -------GACTCCTGAGCTGA--------------------------------------- 10920
+Caja-DRB*W016:08      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:09      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:10      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:11      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:12      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:13      ---------------------------------------------GACTCCTGAGCTGA- 10920
 Caja-DRB*W016:14      ------------------------------------------------------------ 10920
-Caja-DRB*W016:15      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:16      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:17      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:18      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:20      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:22      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:23      -------GACTCCTGAGCTGA--------------------------------------- 10920
+Caja-DRB*W016:15      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:16      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:17      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:18      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:20      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:22      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:23      ---------------------------------------------GACTCCTGAGCTGA- 10920
 Caja-DRB*W016:24      ------------------------------------------------------------ 10920
-Caja-DRB*W016:25      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:26      -------GACTCCTGAGCTGA--------------------------------------- 10920
-Caja-DRB*W016:27      -------GACTCCTGAGCTGA--------------------------------------- 10920
+Caja-DRB*W016:25      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:26      ---------------------------------------------GACTCCTGAGCTGA- 10920
+Caja-DRB*W016:27      ---------------------------------------------GACTCCTGAGCTGA- 10920
 
-HLA-DRB1*01:01:01:01  AGCTTTGCAGAATGAAAAGCTTTCCTGCTTGGCAGTTATTCTTCCACAAGAGAGGGCTTT 10980
+HLA-DRB1*01:01:01:01  ATGCAGATGACCACATTCAAGGAAGAACCTTCTGTCCCAGCTTTGCAGAATGAAAAGCTT 10980
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 10980
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 10980
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 10980
@@ -6769,7 +6769,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 10980
 Caja-DRB*W016:27      ------------------------------------------------------------ 10980
 
-HLA-DRB1*01:01:01:01  CTCAGGACCTGGTTGCTACTGGTTCGGCAACTGCAGAAAATGTCCTCCCTTGTGGCTTCC 11040
+HLA-DRB1*01:01:01:01  TCCTGCTTGGCAGTTATTCTTCCACAAGAGAGGGCTTTCTCAGGACCTGGTTGCTACTGG 11040
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 11040
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 11040
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 11040
@@ -6806,7 +6806,7 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 11040
 Caja-DRB*W016:27      ------------------------------------------------------------ 11040
 
-HLA-DRB1*01:01:01:01  TCAGCTCCTGCCCTTGGCCTGAAGTCCCAGCATTGATGACAGCGCCTCATCTTCAACTTT 11100
+HLA-DRB1*01:01:01:01  TTCGGCAACTGCAGAAAATGTCCTCCCTTGTGGCTTCCTCAGCTCCTGCCCTTGGCCTGA 11100
 Caja-DRB*W012:01:01   ------------------------------------------------------------ 11100
 Caja-DRB*W012:02:01   ------------------------------------------------------------ 11100
 Caja-DRB*W012:02:03   ------------------------------------------------------------ 11100
@@ -6843,40 +6843,40 @@ Caja-DRB*W016:25      ----------------------------------------------------------
 Caja-DRB*W016:26      ------------------------------------------------------------ 11100
 Caja-DRB*W016:27      ------------------------------------------------------------ 11100
 
-HLA-DRB1*01:01:01:01  T 11101
-Caja-DRB*W012:01:01   - 11101
-Caja-DRB*W012:02:01   - 11101
-Caja-DRB*W012:02:03   - 11101
-Caja-DRB*W012:02:04   - 11101
-Caja-DRB*W012:03:01   - 11101
-Caja-DRB*W012:03:02   - 11101
-Caja-DRB*W012:03:03   - 11101
-Caja-DRB*W012:04:01   - 11101
-Caja-DRB*W012:04:02   - 11101
-Caja-DRB*W012:05      - 11101
-Caja-DRB*W012:06      - 11101
-Caja-DRB*W012:07      - 11101
-Caja-DRB*W016:01      - 11101
-Caja-DRB*W016:04      - 11101
-Caja-DRB*W016:05      - 11101
-Caja-DRB*W016:06      - 11101
-Caja-DRB*W016:07      - 11101
-Caja-DRB*W016:08      - 11101
-Caja-DRB*W016:09      - 11101
-Caja-DRB*W016:10      - 11101
-Caja-DRB*W016:11      - 11101
-Caja-DRB*W016:12      - 11101
-Caja-DRB*W016:13      - 11101
-Caja-DRB*W016:14      - 11101
-Caja-DRB*W016:15      - 11101
-Caja-DRB*W016:16      - 11101
-Caja-DRB*W016:17      - 11101
-Caja-DRB*W016:18      - 11101
-Caja-DRB*W016:20      - 11101
-Caja-DRB*W016:22      - 11101
-Caja-DRB*W016:23      - 11101
-Caja-DRB*W016:24      - 11101
-Caja-DRB*W016:25      - 11101
-Caja-DRB*W016:26      - 11101
-Caja-DRB*W016:27      - 11101
+HLA-DRB1*01:01:01:01  AGTCCCAGCATTGATGACAGCGCCTCATCTTCAACTTTT 11139
+Caja-DRB*W012:01:01   --------------------------------------- 11139
+Caja-DRB*W012:02:01   --------------------------------------- 11139
+Caja-DRB*W012:02:03   --------------------------------------- 11139
+Caja-DRB*W012:02:04   --------------------------------------- 11139
+Caja-DRB*W012:03:01   --------------------------------------- 11139
+Caja-DRB*W012:03:02   --------------------------------------- 11139
+Caja-DRB*W012:03:03   --------------------------------------- 11139
+Caja-DRB*W012:04:01   --------------------------------------- 11139
+Caja-DRB*W012:04:02   --------------------------------------- 11139
+Caja-DRB*W012:05      --------------------------------------- 11139
+Caja-DRB*W012:06      --------------------------------------- 11139
+Caja-DRB*W012:07      --------------------------------------- 11139
+Caja-DRB*W016:01      --------------------------------------- 11139
+Caja-DRB*W016:04      --------------------------------------- 11139
+Caja-DRB*W016:05      --------------------------------------- 11139
+Caja-DRB*W016:06      --------------------------------------- 11139
+Caja-DRB*W016:07      --------------------------------------- 11139
+Caja-DRB*W016:08      --------------------------------------- 11139
+Caja-DRB*W016:09      --------------------------------------- 11139
+Caja-DRB*W016:10      --------------------------------------- 11139
+Caja-DRB*W016:11      --------------------------------------- 11139
+Caja-DRB*W016:12      --------------------------------------- 11139
+Caja-DRB*W016:13      --------------------------------------- 11139
+Caja-DRB*W016:14      --------------------------------------- 11139
+Caja-DRB*W016:15      --------------------------------------- 11139
+Caja-DRB*W016:16      --------------------------------------- 11139
+Caja-DRB*W016:17      --------------------------------------- 11139
+Caja-DRB*W016:18      --------------------------------------- 11139
+Caja-DRB*W016:20      --------------------------------------- 11139
+Caja-DRB*W016:22      --------------------------------------- 11139
+Caja-DRB*W016:23      --------------------------------------- 11139
+Caja-DRB*W016:24      --------------------------------------- 11139
+Caja-DRB*W016:25      --------------------------------------- 11139
+Caja-DRB*W016:26      --------------------------------------- 11139
+Caja-DRB*W016:27      --------------------------------------- 11139
 

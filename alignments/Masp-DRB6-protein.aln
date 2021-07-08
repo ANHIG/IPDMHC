@@ -2,27 +2,27 @@ HLA-DRB1*01:01:01:01  MVCLKLPGGSCMTALTVTLMVLSSPLALAGDTRPRFLWQLKFECHFFNGTERVRLLER
 Masp-DRB6*01:01       ------------------------------------LEQGKSECQIFNGRERVRYLNRNI    60
 Masp-DRB6*01:02       ------------------------------------LEQGKFECQIFNGREWVRYLNRNI    60
 Masp-DRB6*04:01       ------------------------------------LEQAKCECHIFNGTERVRYLNRNI    60
-Masp-DRB6*04:02       LEQAK-----CV-------------------------------CHIFNGTERVQYLNRYI    60
+Masp-DRB6*04:02       ------------------------------------LEQAKCVCHIFNGTERVQYLNRYI    60
 Masp-DRB6*04:03       ------------------------------------LEQAKCECHFFNGTERVQYLNRYI    60
 Masp-DRB6*04:04       ------------------------------------LEQAKCECHIFNGTEPVQHLNRYV    60
 
-HLA-DRB1*01:01:01:01  YNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFTV   120
-Masp-DRB6*01:01       HKREENLRFDSDVGEFQAVMEVGRPVAENWNSQKGILEEKRDKVDTYCRYNYRV------   120
-Masp-DRB6*01:02       HKREENLRFDSDVGEFQAVMEVGRPVAENWNSQKGILEEKRDKVDTYCRYNYRV------   120
-Masp-DRB6*04:01       HKREENLRFHSDLGEFQAVTELERPVAENWNSQKSILEEKRDKVDTYCRYNYRVFESFT-   120
-Masp-DRB6*04:02       HKREENLRFHSDVGEFQAVTELEWPVAENWNSQKGILEEKRD------------------   120
-Masp-DRB6*04:03       HKREGNLRFHSDLGEFQAVTELEWPVAENWNSQKGILEEKWDKVDAYCRNNYGV------   120
+HLA-DRB1*01:01:01:01  YNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAV--DTYCRHNYGVGESF   120
+Masp-DRB6*01:01       HKREENLRFDSDVGEFQAVMEVGRPVAENWNSQKGILEEKRDKV--DTYCRYNYRV----   120
+Masp-DRB6*01:02       HKREENLRFDSDVGEFQAVMEVGRPVAENWNSQKGILEEKRDKV--DTYCRYNYRV----   120
+Masp-DRB6*04:01       HKREENLRFHSDLGEFQAVTELERPVAENWNSQKSILEEKRDKV--DTYCRYNYRVFESF   120
+Masp-DRB6*04:02       HKREENLRFHSDVGEFQAVTELEWPVAENWNSQKGILEEKRDKVTPTADTITEF------   120
+Masp-DRB6*04:03       HKREGNLRFHSDLGEFQAVTELEWPVAENWNSQKGILEEKWDKV--DAYCRNNYGV----   120
 Masp-DRB6*04:04       YKREENLRFHSDLGEFX-------------------------------------------   120
 
-HLA-DRB1*01:01:01:01  QRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNG   180
+HLA-DRB1*01:01:01:01  TVQRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQ   180
 Masp-DRB6*01:01       ------------------------------------------------------------   180
 Masp-DRB6*01:02       ------------------------------------------------------------   180
-Masp-DRB6*04:01       ------------------------------------------------------------   180
-Masp-DRB6*04:02       --KVTPTADTITE-----------------------------------------------   180
+Masp-DRB6*04:01       T-----------------------------------------------------------   180
+Masp-DRB6*04:02       ------------------------------------------------------------   180
 Masp-DRB6*04:03       ------------------------------------------------------------   180
 Masp-DRB6*04:04       ------------------------------------------------------------   180
 
-HLA-DRB1*01:01:01:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLL   240
+HLA-DRB1*01:01:01:01  NGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLG   240
 Masp-DRB6*01:01       ------------------------------------------------------------   240
 Masp-DRB6*01:02       ------------------------------------------------------------   240
 Masp-DRB6*04:01       ------------------------------------------------------------   240
@@ -30,11 +30,11 @@ Masp-DRB6*04:02       ----------------------------------------------------------
 Masp-DRB6*04:03       ------------------------------------------------------------   240
 Masp-DRB6*04:04       ------------------------------------------------------------   240
 
-HLA-DRB1*01:01:01:01  FLGAGLFIYFRNQKGHSGLQPTGFLS   266
-Masp-DRB6*01:01       --------------------------   266
-Masp-DRB6*01:02       --------------------------   266
-Masp-DRB6*04:01       --------------------------   266
-Masp-DRB6*04:02       --------------------------   266
-Masp-DRB6*04:03       --------------------------   266
-Masp-DRB6*04:04       --------------------------   266
+HLA-DRB1*01:01:01:01  LLFLGAGLFIYFRNQKGHSGLQPTGFLS   268
+Masp-DRB6*01:01       ----------------------------   268
+Masp-DRB6*01:02       ----------------------------   268
+Masp-DRB6*04:01       ----------------------------   268
+Masp-DRB6*04:02       ----------------------------   268
+Masp-DRB6*04:03       ----------------------------   268
+Masp-DRB6*04:04       ----------------------------   268
 

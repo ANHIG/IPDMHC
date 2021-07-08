@@ -395,11 +395,11 @@ Popy-DRB6*02:01N      ----------------------------------------------------------
 Popy-DRB6*02:02N      ------------------------------------------------------------  5940
 
 HLA-DRB1*01:01:01:01  AGCACGTTTCTTGTGGCAGCTTAAGTTTGAATGTCATTTCTTCAATGGGACGGAGCGGGT  6000
-Popy-DRB6*02:01N      --C---------------------------------------------------------  6000
+Popy-DRB6*02:01N      ------------------------------------------------------------  6000
 Popy-DRB6*02:02N      -------------GAGCAGGCTAAGTGTGAGTGTCATATCTTCAATGGGACGAAGCAGGT  6000
 
 HLA-DRB1*01:01:01:01  GCGGTTGCTGGAAAGATGCATCTATAACCAAGAGGAGTCCGTGCGCTTCGACAGCGACGT  6060
-Popy-DRB6*02:01N      -----------------------------------------TGCGCTTCGACAGCGACGT  6060
+Popy-DRB6*02:01N      ----------------------------------------CTGCGCTTCGACAGCGACGT  6060
 Popy-DRB6*02:02N      GCAGTACCTGAACAGACACATCCATAAAAGGGAGGAGAACCTGCGCTTCCACAGCGACGT  6060
 
 HLA-DRB1*01:01:01:01  GGGGGAGTACCGGGCGGTGACGGAGCTGGGGCGGCCTGATGCCGAGTACTGGAACAGCCA  6120

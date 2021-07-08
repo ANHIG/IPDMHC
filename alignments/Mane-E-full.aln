@@ -405,7 +405,7 @@ Mane-E*02:03          ATGTGGAGGAGGAACAGCTCAG------------------------------------
 Mane-E*02:04          ATGTGCAGGAGGAAGAGCTCAG--------------------------------------  2460
 Mane-E*02:05          ATGTGCAGGAGGAAGAGCTCAG--------------------------------------  2460
 Mane-E*02:06          ATGTGGAGGAGGAAGAGCTCAG--------------------------------------  2460
-Mane-E*02:07          ATGTGGAGGAA---GAGCTCAG--------------------------------------  2460
+Mane-E*02:07          ATGTGGAGG---AAGAGCTCAG--------------------------------------  2460
 Mane-E*02:08          ATGTGGAGGAGGAAGAGCTCAG--------------------------------------  2460
 
 HLA-E*01:01:01:01     CCCACTGGGTGTTTCAAGCCCTAGGTAAAAGTGTGTCCTGCCTCGTTACTGGGAAGCACC  2520
@@ -548,7 +548,7 @@ Mane-E*02:06          ----------------------------------------------------------
 Mane-E*02:07          ------------------------------------------------------------  3300
 Mane-E*02:08          ------------------------------------------------------------  3300
 
-HLA-E*01:01:01:01     CTACCCCAGGGAGCGACAGTGCCCAGGGGTCTGAG-----TCTCACAGCTTGTAAAGGTG  3360
+HLA-E*01:01:01:01     CTACCCCAGGGAGCGACAGTGCCCAGGGGTCTGA-----GTCTCACAGCTTGTAAAGGTG  3360
 Mane-E*02:01          ---------GTAGTGACAGTGCCCAGGGATCTGATGAGTCTCTCACAGCTTGTAAAG---  3360
 Mane-E*02:02          ------------------------------------------------------------  3360
 Mane-E*02:03          ------------------------------------------------------------  3360

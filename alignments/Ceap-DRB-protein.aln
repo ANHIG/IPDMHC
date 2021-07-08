@@ -1,28 +1,28 @@
-HLA-DRB1*01:01:01:01  MVCLKLPGGSCMTALTVTLMVLSSPLALAGDTRPRFLWQLKFECHFFNGTERVRLLERCI    60
-Ceap-DRB*W013:01      ----------------------------------RFLEQAKSECHFLNGTERVRFLDRYF    60
-Ceap-DRB*W013:02      ----------------------------------RFLEQAKSECHFLNGTERVRFLDRYF    60
-Ceap-DRB*W013:03      ----------------------------------RFLEQFKPECHFLNGTERVRYLQRLI    60
-Ceap-DRB*W015:01      ----------------------------------RFLRQFKPECHFLNGTERVRSSERHI    60
-Ceap-DRB*W015:02      ----------------------------------RFLRQFKPECHFLNGTERVRLLERHI    60
-Ceap-DRB*W032:01      HVSW-----SSLSVVPSTGRSARGSWSDTPTTR-RSMW-----------VRRRR------    60
+HLA-DRB1*01:01:01:01  MVCLKLPGGSCMTALTVTLMVLSSPLALAGDT--RPRFLWQLKFECHFFNGTERVRLLER    60
+Ceap-DRB*W013:01      ------------------------------------RFLEQAKSECHFLNGTERVRFLDR    60
+Ceap-DRB*W013:02      ------------------------------------RFLEQAKSECHFLNGTERVRFLDR    60
+Ceap-DRB*W013:03      ------------------------------------RFLEQFKPECHFLNGTERVRYLQR    60
+Ceap-DRB*W015:01      ------------------------------------RFLRQFKPECHFLNGTERVRSSER    60
+Ceap-DRB*W015:02      ------------------------------------RFLRQFKPECHFLNGTERVRLLER    60
+Ceap-DRB*W032:01      -------------------HVSWSSLSVVPSTGRSARGSWSDTPT------TRRSMWVRR    60
 
-HLA-DRB1*01:01:01:01  YNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFTV   120
-Ceap-DRB*W013:01      YNQEEYVRFDSDVGEFRAVTELGRPSAEYWNSQKDILEDARGQVDNYCRHNYGVGESFTV   120
-Ceap-DRB*W013:02      YNQEEYVRFDSDVGEFRAVTELGRPSAEYWNSQKDILEDARGQVDNYCRHNYGVGESFTV   120
-Ceap-DRB*W013:03      YNQEEYARFDSDVGEYRAVTELGRPVAEYLNSQKDYLEQRRAAVDNYCRHNYGVGESFTV   120
-Ceap-DRB*W015:01      YNQEENVRFDSDVGEFRAVTELGRPDAEYWNSQKDYMEQRRAAVDTYCRHNYEISERFLV   120
-Ceap-DRB*W015:02      YNQEEFVRFDSDVGEFRAVTELGRPDAEYWNSQKDYMEQRRAAVDTYCRHNYEISERFLV   120
-Ceap-DRB*W032:01      -------------GGLRPVTELGRPDQQYYDSREDIMEQTRAAADTVCRR----------   120
+HLA-DRB1*01:01:01:01  CIYNQEESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESF   120
+Ceap-DRB*W013:01      YFYNQEEYVRFDSDVGEFRAVTELGRPSAEYWNSQKDILEDARGQVDNYCRHNYGVGESF   120
+Ceap-DRB*W013:02      YFYNQEEYVRFDSDVGEFRAVTELGRPSAEYWNSQKDILEDARGQVDNYCRHNYGVGESF   120
+Ceap-DRB*W013:03      LIYNQEEYARFDSDVGEYRAVTELGRPVAEYLNSQKDYLEQRRAAVDNYCRHNYGVGESF   120
+Ceap-DRB*W015:01      HIYNQEENVRFDSDVGEFRAVTELGRPDAEYWNSQKDYMEQRRAAVDTYCRHNYEISERF   120
+Ceap-DRB*W015:02      HIYNQEEFVRFDSDVGEFRAVTELGRPDAEYWNSQKDYMEQRRAAVDTYCRHNYEISERF   120
+Ceap-DRB*W032:01      -------------RRGGLRPVTELGRPDQQYYDSREDIMEQTRAAADTVCRR--------   120
 
-HLA-DRB1*01:01:01:01  QRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNG   180
-Ceap-DRB*W013:01      QRR---------------------------------------------------------   180
-Ceap-DRB*W013:02      QRR---------------------------------------------------------   180
-Ceap-DRB*W013:03      QRR---------------------------------------------------------   180
-Ceap-DRB*W015:01      PRR---------------------------------------------------------   180
-Ceap-DRB*W015:02      PRR---------------------------------------------------------   180
+HLA-DRB1*01:01:01:01  TVQRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQ   180
+Ceap-DRB*W013:01      TVQRR-------------------------------------------------------   180
+Ceap-DRB*W013:02      TVQRR-------------------------------------------------------   180
+Ceap-DRB*W013:03      TVQRR-------------------------------------------------------   180
+Ceap-DRB*W015:01      LVPRR-------------------------------------------------------   180
+Ceap-DRB*W015:02      LVPRR-------------------------------------------------------   180
 Ceap-DRB*W032:01      ------------------------------------------------------------   180
 
-HLA-DRB1*01:01:01:01  DWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLL   240
+HLA-DRB1*01:01:01:01  NGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLG   240
 Ceap-DRB*W013:01      ------------------------------------------------------------   240
 Ceap-DRB*W013:02      ------------------------------------------------------------   240
 Ceap-DRB*W013:03      ------------------------------------------------------------   240
@@ -30,11 +30,11 @@ Ceap-DRB*W015:01      ----------------------------------------------------------
 Ceap-DRB*W015:02      ------------------------------------------------------------   240
 Ceap-DRB*W032:01      ------------------------------------------------------------   240
 
-HLA-DRB1*01:01:01:01  FLGAGLFIYFRNQKGHSGLQPTGFLS   266
-Ceap-DRB*W013:01      --------------------------   266
-Ceap-DRB*W013:02      --------------------------   266
-Ceap-DRB*W013:03      --------------------------   266
-Ceap-DRB*W015:01      --------------------------   266
-Ceap-DRB*W015:02      --------------------------   266
-Ceap-DRB*W032:01      --------------------------   266
+HLA-DRB1*01:01:01:01  LLFLGAGLFIYFRNQKGHSGLQPTGFLS   268
+Ceap-DRB*W013:01      ----------------------------   268
+Ceap-DRB*W013:02      ----------------------------   268
+Ceap-DRB*W013:03      ----------------------------   268
+Ceap-DRB*W015:01      ----------------------------   268
+Ceap-DRB*W015:02      ----------------------------   268
+Ceap-DRB*W032:01      ----------------------------   268
 

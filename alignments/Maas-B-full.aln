@@ -733,20 +733,20 @@ Maas-B*069:02         ------------------------------------CCAGCGACAGTGCCCAGGGCTC
 Maas-B*074:01         ------------------------------------CCAACGACAGTGCCCAGGGCTCTG  2940
 Maas-B*075:01         ------------------------------------CCAGCGACAGTGCCCAGGGCTCTG  2940
 
-HLA-B*07:02:01:01     ATGTGTCTCTCACAGCT---------TGAAAAGGTGAGATTCTTGGGGTCTAGAGTGGGT  3000
-Maas-B*007:01         ATGAGTCTCTCACGGCT---------TGA-------------------------------  3000
+HLA-B*07:02:01:01     ATGTGTCTCTCACAGCTTGA---------AAAGGTGAGATTCTTGGGGTCTAGAGTGGGT  3000
+Maas-B*007:01         ATGAGTCTCTCACGGCTTGA----------------------------------------  3000
 Maas-B*017:01         ATGTGTCTCTCACAGCTTGTAAAGTGTGA-------------------------------  3000
-Maas-B*017:02         ATGTGTCTCTCACGGCT---------TGA-------------------------------  3000
-Maas-B*030:01         ATGTGTCTCTCACGGCT---------TGA-------------------------------  3000
-Maas-B*037:01         ATGAGTCTCTCACGGCT---------TGA-------------------------------  3000
-Maas-B*039:01         ATGTGTCTCTCACGGCT---------TGA-------------------------------  3000
-Maas-B*043:01         ATGAGTCTCTCATGGCT---------TGA-------------------------------  3000
-Maas-B*043:02         ATGAGTCTCTCATGGCT---------TGA-------------------------------  3000
-Maas-B*045:01         ATGTGTCTCTCACGGCT---------TGA-------------------------------  3000
-Maas-B*069:01         ATGTGTCTCTCACGGCT---------TGA-------------------------------  3000
-Maas-B*069:02         ATGTGTCTCTCACGGCT---------TGA-------------------------------  3000
-Maas-B*074:01         ATGTGTCTCTCACGGCT---------TGA-------------------------------  3000
-Maas-B*075:01         ATGTGTCTCTCACAGCT---------TGA-------------------------------  3000
+Maas-B*017:02         ATGTGTCTCTCACGGCTTGA----------------------------------------  3000
+Maas-B*030:01         ATGTGTCTCTCACGGCTTGA----------------------------------------  3000
+Maas-B*037:01         ATGAGTCTCTCACGGCTTGA----------------------------------------  3000
+Maas-B*039:01         ATGTGTCTCTCACGGCTTGA----------------------------------------  3000
+Maas-B*043:01         ATGAGTCTCTCATGGCTTGA----------------------------------------  3000
+Maas-B*043:02         ATGAGTCTCTCATGGCTTGA----------------------------------------  3000
+Maas-B*045:01         ATGTGTCTCTCACGGCTTGA----------------------------------------  3000
+Maas-B*069:01         ATGTGTCTCTCACGGCTTGA----------------------------------------  3000
+Maas-B*069:02         ATGTGTCTCTCACGGCTTGA----------------------------------------  3000
+Maas-B*074:01         ATGTGTCTCTCACGGCTTGA----------------------------------------  3000
+Maas-B*075:01         ATGTGTCTCTCACAGCTTGA----------------------------------------  3000
 
 HLA-B*07:02:01:01     GGGGTGGCGGGTCTGGGGGTGGGTGGGGCAGAGGGGAAAGGCCTGGGTAATGGGGATTCT  3060
 Maas-B*007:01         ------------------------------------------------------------  3060
