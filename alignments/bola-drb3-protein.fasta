@@ -8,8 +8,10 @@ MVCLYFSGGSWMAALIVMLMVLCPPLAWAREIQPHFLEYTKKECHFFNGTERVRFLDRYFHNGEEFVRFDSDWGEYRAVT
 ----------------------------------HFLEYSTSECHFFNGTERVRFLDRYFHNGEEFVRFDSDWGEYRAVTELGRPDAEYWNSQ-EILERARAAVDTYCRHNYGGVESFTVQRR-----------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*002:02
 -------------------------------------EYSTSECHFFNGTERVRFLDRYFHNGEEFVRFDSDWGEYRAATELGRPDAEYWNSQ-EILERARAAVDTYCRHNYGGVESFTVQRR-----------------------------------------------------------------------------------------------------------------------------------------------
->BoLA-DRB3*003:01
+>BoLA-DRB3*003:01:01
 -------------------------------------EYCKSECHFFNGTERVRFLERSFYNGEEFVRFDSDWGEYRAVTELGRPDAKYWNSQKDLLEQKRANVDTYCRHNYGVGESFTVQRR-----------------------------------------------------------------------------------------------------------------------------------------------
+>BoLA-DRB3*003:01:02
+----------------------------------HFLEYCKSECHFFNGTERVRFLERSFYNGEEFVRFDSDWGEYRAVTELGRPDAKYWNSQKDLLEQKRANVDTYCRHNYGVGESFTVQRR-----------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*003:02:01
 ----------------------------------HFLEYCKSECHFFNGTERVRFLERSFYNGEEFVRFDSDWGEYRAVTELGRPDAKYWNSQKDLLEQKRANVDTYCRHNYGVVESFTVQRR-----------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*003:03
@@ -179,7 +181,7 @@ MVCLYFSGGSWMAALIVMLMVLCPPLAWAREIQPHFLEYTKKECHFFNGTERVRFLDRYFHNGEEFVRFDSDWGEYRAVT
 >BoLA-DRB3*020:01:02
 ----------------------------------HLLEYCKRECHFFNGTERVRLLDRYFYNGEERVRFDSDWGEFRAVTELGRPSAEYWNSQKDFLEQRRAAVDTYCRHNYGVVESFTVQRR-----------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*020:02:01
--------------------------------------EYCKRECHFFNGTERVRLLDRYFYNGEERVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLEQRRAAVDTYCRHNYGVGESFT---------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------HFLEYCKRECHFFNGTERVRLLDRYFYNGEERVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLEQRRAAVDTYCRHNYGVGESFTVQRR-----------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*020:02:02
 ----------------------------------HFLEYCKRECHFFNGTERVRLLDRYFYNGEERVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLEQRRAAVDTYCRHNYGVGESFTVQR------------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*020:03
@@ -403,7 +405,7 @@ MVCLYFSGGSWMAALIVMLMVLCPPLAWAREIQPHFLEYYKGECHFFNGTERVRFLDRHFYNGEEFVRFDSDWGEFRAVT
 >BoLA-DRB3*035:01
 ----------------------------------HFLEYSKSECHFFNGTERVRYLDRYYTNGEENVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLERKRANVDTYCRHNYGVFESFTVQRR-----------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*036:01
--------------------------------------EYSKSECHFFNGTERVRFLDRYYTNGEETVRFDSDWGEFRALTELGRQDAEQWNSQKDTLERERAYVDTYCRHNYGGVESFT---------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------HFLEYSKSECHFFNGTERVRFLDRYYTNGEETVRFDSDWGEFRALTELGRQDAEQWNSQKDTLERERAYVDTYCRHNYGGVESFTVQRR-----------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*037:01
 -------------------------------------EYSTSECHFFNGTERVRYLDRYFYNGEEYVRFDSDWGEFRAVTELGRPDAKYWNSQKDTLEDERASVDTYCRYNYGV--------------------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*038:01
@@ -415,7 +417,7 @@ MVCLYFSGGSWMAALIVMLMVLCPPLAWAREIQPHFLEYYKGECHFFNGTERVRFLDRHFYNGEEFVRFDSDWGEFRAVT
 >BoLA-DRB3*040:02
 ----------------------------------HFLEYYKGECHFFNGTERVRLLDRHFYNGEEYVRFDSDWGEFRAVTELGRPDAKYWNSQKDFLEQKRAEVDRVCRHNYGGVESFTVQRR-----------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*041:01
--------------------------------------EYTKKECHFFNGTERVRFLDRYFYNGEEYVRFDSDWSEYRAVTELGRPDAEYWNSQ-EILERARAAVDTYCRHNYGVGESFT---------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------HFLEYTKKECHFFNGTERVRFLDRYFYNGEEYVRFDSDWSEYRAVTELGRPDAEYWNSQ-EILERARAAVDTYCRHNYGVGESFTVQR------------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*042:01
 -------------------------------------EYRKSECHFFNGTERVRFLDRYFYNGEEHVRFDSDWGEYRAVTELGRPDAKYWNSQKEILERRRAEVDTVCRHNYGVVESFT---------------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*043:01
@@ -762,3 +764,5 @@ MVCLYFSGGSWMAALIVMLMVLCPPLAWAREIQPHFLEYYKGECHFFNGTERVRFLDRHFYNGEEFVRFDSDWGEFRAVT
 ----------------------------------HFLEYCKRECHFFNGTERVRFLDRYFHNGEERVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLEQRRAAVDAYCRHNYGVGESFTAQRR-----------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DRB3*168:01
 ----------------------------------HFLEYSTSECHFFNGTERVRFLDRSFYNGEEFVRFDSDWGEFRAVTELGRPDAEYWNSQKEILEERRAYVDRECRHNYGVGESFTVQR------------------------------------------------------------------------------------------------------------------------------------------------
+>BoLA-DRB3*169:01
+----------------------------------HFLEYSTGECHFFNGTERVRYLDRYFYNGEEYVRFDSDWGEFRAVTELGRPSAEHLNGQKDTLERERAYVDTYCRHNYGVVESFTVQRR-----------------------------------------------------------------------------------------------------------------------------------------------

@@ -1741,7 +1741,7 @@ Masp-DRB*W025:02      GAAGGACTACCTGGAGCAGGAGCGGGCCGCGGTGGACACCTTCTGCAGACACAACTAC
 Masp-DRB*W025:03      GAAGGACCTCCTGGAGCGGGCGCGGGCCGCGGTGGACACCGTGTGCAGATACAACTACCG  6180
 Masp-DRB*W025:04      GAAGGACGTCCTGGAGCGGGAGCGGGCCGCGGTGGACACCTACTGCAGACACAACTACGG  6180
 Masp-DRB*W025:05      GAAGGACCTCCTGGAGCAGAAGCGGGCCGCGGTGGACACCTACTGCAGACACAACTACCG  6180
-Masp-DRB*W026:01      GAAGGACTACCTGGAAGACAGGCGGGCCGTGGTGGACAT---CTGCAGACACAACTACGG  6180
+Masp-DRB*W026:01      GAAGGACTACCTGGAAGACAGGCGGGCCGTGGTGGACATC---TGCAGACACAACTACGG  6180
 Masp-DRB*W037:01      GAAGGACATCCTGGAGCAGAAGCGGGCCTCGGTGGACACCTACTGCAGACACAACTACGG  6180
 Masp-DRB*W051:01      GAAGGACCTCCTGGAGCAGAAGCGGGGCCAGGTTGACAACTACTGCAGATACAACTATGG  6180
 Masp-DRB*W052:01      GAAGGACATCCTGGAGCGGGAGCGGGCCGAGGTGGACACCTTCTGCAGACACAACTACGG  6180
@@ -1752,19 +1752,19 @@ Masp-DRB*W071:01      GAAGGACTTCCTGGAGCAGAAGCGGGGCCAGGTGGACAACTTCTGCAGACACAACTAC
 HLA-DRB1*01:01:01:01  GGTTGGTGAGAGCTTCACAGTGCAGCGGCGAGGTGAGCGCGGCGCGGGGCGGGGCCTGAG  6240
 Masp-DRB*W003:01      GGTTGGTGAGAGCTTCACAGTG--------------------------------------  6240
 Masp-DRB*W003:02      GGTTGGTGAGAGCTTCACAGTG--------------------------------------  6240
-Masp-DRB*W004:01      GGTT--------CTT---------------------------------------------  6240
+Masp-DRB*W004:01      GGTTCTT-----------------------------------------------------  6240
 Masp-DRB*W025:01      GGTTGGTGAGAGCTTCACAGTG--------------------------------------  6240
-Masp-DRB*W025:02      G-------------------------GGTGTG----------------------------  6240
+Masp-DRB*W025:02      GGGTGTG-----------------------------------------------------  6240
 Masp-DRB*W025:03      GGGTGGTGAGAGCTTCACAGTG--------------------------------------  6240
-Masp-DRB*W025:04      G-------------------------GGTGTG----------------------------  6240
-Masp-DRB*W025:05      GATT---------------GTG--------------------------------------  6240
-Masp-DRB*W026:01      GGTT-----------------------GCG------------------------------  6240
+Masp-DRB*W025:04      GGGTGTG-----------------------------------------------------  6240
+Masp-DRB*W025:05      GATTGTG-----------------------------------------------------  6240
+Masp-DRB*W026:01      GGTTGCG-----------------------------------------------------  6240
 Masp-DRB*W037:01      GGTTTTT-----------------------------------------------------  6240
 Masp-DRB*W051:01      GGTTTTTGAGAGCTTCACAGTG--------------------------------------  6240
-Masp-DRB*W052:01      GGTTGTGGAGAGCTTCACA----------GAG----------------------------  6240
+Masp-DRB*W052:01      GGTTGTGGAGAGCTTCACAGAG--------------------------------------  6240
 Masp-DRB*W054:01      GGTTGGT-----------------------------------------------------  6240
 Masp-DRB*W070:01      GGTTGGT-----------------------------------------------------  6240
-Masp-DRB*W071:01      GGTT---------------GTG--------------------------------------  6240
+Masp-DRB*W071:01      GGTTGTG-----------------------------------------------------  6240
 
 HLA-DRB1*01:01:01:01  TCCCTGTAAGCGGAGAATCTGAGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTAAGAAA  6300
 Masp-DRB*W003:01      ------------------------------------------------------------  6300

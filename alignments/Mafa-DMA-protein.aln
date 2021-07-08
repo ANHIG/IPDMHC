@@ -3,7 +3,7 @@ Mafa-DMA*02:01        ------------------------------PTPVWRDDLQNHTFPHTVYCQDGSPSMG
 Mafa-DMA*02:02:01     ------------------------------PTPVWRDDLQNHTFLHTVYCQDGSPSMGLS    60
 Mafa-DMA*02:02:02     ------------------------------PTPVWRDDLQNHTFLHTVYCQDGSPSMGLS    60
 Mafa-DMA*02:03        ------------------------------PTPVWRDDLQNHTFLHTVYCQDGSPSMGLS    60
-Mafa-DMA*02:04:01     ------------------------------PTPVWRDDLQNHTFLHTVYCQDGSPSMGLS    60
+Mafa-DMA*02:04:01:01  MGHEQNQGAALLQMLPLLWLLPHSWAVPEAPTPVWRDDLQNHTFLHTVYCQDGSPSMGLS    60
 Mafa-DMA*02:04:02     ------------------------------PTPVWRDDLQNHTFLHTVYCQDGSPSMGLS    60
 Mafa-DMA*02:04:03     ------------------------------PTPVWRDDLQNHTFLHTVYCQDGSPSMGLS    60
 Mafa-DMA*02:04:04     ------------------------------PTPVWRDDLQNHTFLHTVYCQDGSPSMGLS    60
@@ -16,7 +16,7 @@ Mafa-DMA*02:01        EAYDEDQLFFFDFSQNTRVPRLPEFADWAQEQGDAPAILFDKAFCEMMIQQIGPQLDG
 Mafa-DMA*02:02:01     EAYDKDQLFFFDFSQNTRVPRLPEFADWAQEQGDAPAILFDKAFCEMMIQQIGPQLDGKI   120
 Mafa-DMA*02:02:02     EAYDKDQLFFFDFSQNTRVPRLPEFADWAQEQGDAPAILFDKAFCEMMIQQIGPQLDGKI   120
 Mafa-DMA*02:03        EAYDKDQLFFFDFSQNTRVPRLPEFADWAQEQGDAPAILFDKAFCEMMIQQIGPHLDGKI   120
-Mafa-DMA*02:04:01     EAYDEDQLFFFDFSQNTRVPRLPEFADWAQEQGDAPAILFDKAFCEMMIQQIGPQLDGKI   120
+Mafa-DMA*02:04:01:01  EAYDEDQLFFFDFSQNTRVPRLPEFADWAQEQGDAPAILFDKAFCEMMIQQIGPQLDGKI   120
 Mafa-DMA*02:04:02     EAYDEDQLFFFDFSQNTRVPRLPEFADWAQEQGDAPAILFDKAFCEMMIQQIGPQLDGKI   120
 Mafa-DMA*02:04:03     EAYDEDQLFFFDFSQNTRVPRLPEFADWAQEQGDAPAILFDKAFCEMMIQQIGPQLDGKI   120
 Mafa-DMA*02:04:04     EAYDEDQLFFFDFSQNTRVPRLPEFADWAQEQGDAPAILFDKAFCEMMIQQIGPQLDGKI   120
@@ -29,7 +29,7 @@ Mafa-DMA*02:01        PVSR------------------------------------------------------
 Mafa-DMA*02:02:01     PVSR--------------------------------------------------------   180
 Mafa-DMA*02:02:02     PVSR--------------------------------------------------------   180
 Mafa-DMA*02:03        PVSR--------------------------------------------------------   180
-Mafa-DMA*02:04:01     PVSR--------------------------------------------------------   180
+Mafa-DMA*02:04:01:01  PVSRGFPIAEVFTLKPLEFGKPNTLVCFVSNLFPPMLTVNWQHHSVPVEGSGPTFVSAVD   180
 Mafa-DMA*02:04:02     PVSR--------------------------------------------------------   180
 Mafa-DMA*02:04:03     PVSR--------------------------------------------------------   180
 Mafa-DMA*02:04:04     PVSR--------------------------------------------------------   180
@@ -42,7 +42,7 @@ Mafa-DMA*02:01        ----------------------------------------------------------
 Mafa-DMA*02:02:01     ------------------------------------------------------------   240
 Mafa-DMA*02:02:02     ------------------------------------------------------------   240
 Mafa-DMA*02:03        ------------------------------------------------------------   240
-Mafa-DMA*02:04:01     ------------------------------------------------------------   240
+Mafa-DMA*02:04:01:01  GLSFQAFSYLNITPEPSDIFSCIVTHEIDRYTAIAYWVPQNALPSDLLENVLCGVAFGLG   240
 Mafa-DMA*02:04:02     ------------------------------------------------------------   240
 Mafa-DMA*02:04:03     ------------------------------------------------------------   240
 Mafa-DMA*02:04:04     ------------------------------------------------------------   240
@@ -55,7 +55,7 @@ Mafa-DMA*02:01        ---------------------   261
 Mafa-DMA*02:02:01     ---------------------   261
 Mafa-DMA*02:02:02     ---------------------   261
 Mafa-DMA*02:03        ---------------------   261
-Mafa-DMA*02:04:01     ---------------------   261
+Mafa-DMA*02:04:01:01  VLGIIVGIVLIIYFRKPCSGD   261
 Mafa-DMA*02:04:02     ---------------------   261
 Mafa-DMA*02:04:03     ---------------------   261
 Mafa-DMA*02:04:04     ---------------------   261

@@ -34,7 +34,7 @@ HLA-F*01:01:01:01     CTCCTCGCCCCCAGGCTCCCACTCCTTGAGGTATTTCAGCACCGCTGTGTCGCGGCCC
 Caja-F6*06:01         --------------GCTCCCACTCCTTGAGGTATTTGAGCACCGCCGTGTCCCGGCCTGG   540
 Caja-F6*06:02         --------------GCTCCCACTCCTTGAGGTATTTGAGCACCGCCGTGTCCCGGCCTGG   540
 
-HLA-F*01:01:01:01     CCGCGGGGAGCCCCGC------TACATCGCCGTGGAGTACGTAGACGACACGCAATTCCT   600
+HLA-F*01:01:01:01     CCGCGGGGAGCC------CCGCTACATCGCCGTGGAGTACGTAGACGACACGCAATTCCT   600
 Caja-F6*06:01         CCGCGGGGAGTCCAGATACAGGTACATCGCAGTGGGCTACGTGGACGACACGCAGTTCAT   600
 Caja-F6*06:02         CCGCGGGGAGTCCAGATACAGGTACATCGCAGTGGGCTACGTGGACGACACGCAGTTCAT   600
 
@@ -158,7 +158,7 @@ HLA-F*01:01:01:01     TTGTCCTTGGAGCTGTGGTCACTGGAGCTGTGGTCGCTGCTGTGATGTGGAGGAAGAA
 Caja-F6*06:01         TTGTCCTTGGAGCTGTGGTCACTGGA------------GCTGTGATGTGGAGGAAGAAGA  2400
 Caja-F6*06:02         TTGTCCTTGGAGCTGTGGTCACTGGA------------GCTGTGATGTGGAGGAAGAAGA  2400
 
-HLA-F*01:01:01:01     GCTCAGG--TAGGAAGGGGTGAGGAGTGGAGTCTGAGTTTTCTTGTCCCACTGGGGGTTG  2460
+HLA-F*01:01:01:01     GCTCAG--GTAGGAAGGGGTGAGGAGTGGAGTCTGAGTTTTCTTGTCCCACTGGGGGTTG  2460
 Caja-F6*06:01         TCT---GGCTGGGAAGGG------------------------------------------  2460
 Caja-F6*06:02         TCT---GGCTGGGAAGGG------------------------------------------  2460
 
@@ -203,20 +203,20 @@ Caja-F6*06:01         ----------------------------------------------------------
 Caja-F6*06:02         ------------------------------------------------------------  3060
 
 HLA-F*01:01:01:01     AGCTAATAAAGGTGACACTCCAGGGCAGGGGCCCTGATGTGAGTGGGGTGTTGGGGGGGA  3120
-Caja-F6*06:01         -----------------------------------------------GTGT---------  3120
-Caja-F6*06:02         -----------------------------------------------GTGT---------  3120
+Caja-F6*06:01         ------------------------------------------GTGTGGGACTGAGAAGCA  3120
+Caja-F6*06:02         ------------------------------------------GTGTGGGACTGAGAAGCA  3120
 
 HLA-F*01:01:01:01     ACAGAGGGGACTCAGCTGTGCTATTGGGTTTCTTTGACTTGGATGTCTTGAGCATGAAAT  3180
-Caja-F6*06:01         ------GGGACTGAG----------------------------------AAGCAAG----  3180
-Caja-F6*06:02         ------GGGACTGAG----------------------------------AAGCAAG----  3180
+Caja-F6*06:01         A-----------------------------------------------------------  3180
+Caja-F6*06:02         A-----------------------------------------------------------  3180
 
 HLA-F*01:01:01:01     GGGCTATTTAGAGTGTTACCTCTCACTGTGACTGATACGAATTTGTTCATGAATATTTTC  3240
-Caja-F6*06:01         ----------------------------------------ATTTGTTCATG-----CCTC  3240
-Caja-F6*06:02         ----------------------------------------ATTTGTTCATG-----CCTC  3240
+Caja-F6*06:01         ---------------------------------------GATTTGTTCATGCCTCCCTTT  3240
+Caja-F6*06:02         ---------------------------------------GATTTGTTCATGCCTCCCTTT  3240
 
 HLA-F*01:01:01:01     TCTATAGTGTGAGACAGCTTCCTTGTGTGGGACTGAGAAGCAAGATATCAATGTAGCAGA  3300
-Caja-F6*06:01         CCTTT--TGTGA------------------------------------------------  3300
-Caja-F6*06:02         CCTTT--TGTGA------------------------------------------------  3300
+Caja-F6*06:01         -------TGTGA------------------------------------------------  3300
+Caja-F6*06:02         -------TGTGA------------------------------------------------  3300
 
 HLA-F*01:01:01:01     ATTGCACTTGTGCCTCACGAACATACATAAATTTTAAAAATAAAGAATAAAAATATATCT  3360
 Caja-F6*06:01         ------------------------------------------------------------  3360

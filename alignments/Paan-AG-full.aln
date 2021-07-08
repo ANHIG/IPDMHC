@@ -351,9 +351,9 @@ Paan-AG*02:01         -----------------------------------------GCAGTGACAGTGCCCAA
 HLA-A*01:01:01:01     CTCTGATGTGTCTCTCACAGCTTGTAAAGGTGAGAGCTTGGAGGGCCTGATGTGTGTTGG  3060
 Paan-AG*01:01:01      CTCTGATGTGTCTCTCACGGCTTGTAAAG-------------------------------  3060
 Paan-AG*01:01:02      ------------------------------------------------------------  3060
-Paan-AG*01:02         CTCTGATGTGTCTCTCACGGCTT-TAAAG-------------------------------  3060
-Paan-AG*01:03         CTCTGATGTGTCTCTCACGGCTT-TAAAG-------------------------------  3060
-Paan-AG*02:01         TTCTGATGTGTCTCTCACGGCTT-TAAAG-------------------------------  3060
+Paan-AG*01:02         CTCTGATGTGTCTCTCACGGCTTTAAAG--------------------------------  3060
+Paan-AG*01:03         CTCTGATGTGTCTCTCACGGCTTTAAAG--------------------------------  3060
+Paan-AG*02:01         TTCTGATGTGTCTCTCACGGCTTTAAAG--------------------------------  3060
 
 HLA-A*01:01:01:01     GTGTTGGGTGGAACAGTGGACACAGCTGTGCTATGGGGTTTCTTTGCGTTGGATGTATTG  3120
 Paan-AG*01:01:01      ------------------------------------------------------------  3120

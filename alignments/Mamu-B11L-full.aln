@@ -183,13 +183,13 @@ Mamu-B11L*01:01:01    CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCG---------------------
 Mamu-B11L*01:01:02    CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCG-----------------------   780
 Mamu-B11L*01:02       CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCG-----------------------   780
 Mamu-B11L*01:03       CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCG-----------------------   780
-Mamu-B11L*01:04:01:01 CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCGGTGAGTGACCC-GGCCCGGGGCG   780
-Mamu-B11L*01:05:01:01 CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCGGTGAGTGACCC-GGCCCGGGGCG   780
+Mamu-B11L*01:04:01:01 CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCGGTGAGTGA-CCCGGCCCGGGGCG   780
+Mamu-B11L*01:05:01:01 CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCGGTGAGTGA-CCCGGCCCGGGGCG   780
 Mamu-B11L*01:06:01:01 CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCGGTGAGTGACCCCGGCCCGGGGCG   780
 Mamu-B11L*01:07       CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCG-----------------------   780
 Mamu-B11L*01:08       TGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCG-----------------------   780
 Mamu-B11L*01:09       CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCG-----------------------   780
-Mamu-B11L*01:10:01:01 CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCGGTGAGTGACCC-GGCCCGGGGCG   780
+Mamu-B11L*01:10:01:01 CGCACCGCGCTTCGCTACTACAACCAGAGCGAGGCCGGTGAGTGA-CCCGGCCCGGGGCG   780
 Mamu-B11L*01:11:01:01 CGCACCGCGCTTCGCTACTACAACCCGAGCGAGGCCGGTGAGTGACCCCGGCCCGGGGCG   780
 Mamu-B11L*01:12       CGCACAGCGCTTCGCTACTACAACCAGAGCGAGGCCG-----------------------   780
 
@@ -204,7 +204,7 @@ Mamu-B11L*01:06:01:01 CAGGTCACGACCCCTCCCCATGCCCCACGGATGGC------------------CCGGG
 Mamu-B11L*01:07       ------------------------------------------------------------   840
 Mamu-B11L*01:08       ------------------------------------------------------------   840
 Mamu-B11L*01:09       ------------------------------------------------------------   840
-Mamu-B11L*01:10:01:01 CAGGTCACGACCCCTCCCCATGCCCCACGGACGG------------------TCCGGGTC   840
+Mamu-B11L*01:10:01:01 CAGGTCACGACCCCTCCCCATGCCCCACGGACGGT------------------CCGGGTC   840
 Mamu-B11L*01:11:01:01 CAGGTCACGACCCCTCCCCATGCCCCACGGATGGC------------------CCGGGTC   840
 Mamu-B11L*01:12       ------------------------------------------------------------   840
 
@@ -213,14 +213,14 @@ Mamu-B11L*01:01:01    ----------------------------------------------------------
 Mamu-B11L*01:01:02    ------------------------------------------------------------   900
 Mamu-B11L*01:02       ------------------------------------------------------------   900
 Mamu-B11L*01:03       ------------------------------------------------------------   900
-Mamu-B11L*01:04:01:01 CGAGATCCA---CCCCGAGGCAGCAGGACCAGCCCAAGACCCTCGACCTGGGAGTGCCGC   900
-Mamu-B11L*01:05:01:01 CGAGATCCA---CCCCGAGGCAGCAGGACCAGCCCAAGACCCTCGACCTGGGAGTGCCGC   900
-Mamu-B11L*01:06:01:01 CGAGATCCA---CCCCGAGGCTGCAGGACCCGCCCAAGACCCTCGACCTGGGAGTGCCGC   900
+Mamu-B11L*01:04:01:01 CGAGATCCACCCC---GAGGCAGCAGGACCAGCCCAAGACCCTCGACCTGGGAGTGCCGC   900
+Mamu-B11L*01:05:01:01 CGAGATCCACCCC---GAGGCAGCAGGACCAGCCCAAGACCCTCGACCTGGGAGTGCCGC   900
+Mamu-B11L*01:06:01:01 CGAGATCCACCCC---GAGGCTGCAGGACCCGCCCAAGACCCTCGACCTGGGAGTGCCGC   900
 Mamu-B11L*01:07       ------------------------------------------------------------   900
 Mamu-B11L*01:08       ------------------------------------------------------------   900
 Mamu-B11L*01:09       ------------------------------------------------------------   900
 Mamu-B11L*01:10:01:01 CGAGATCCACCAC---GAGGCAGCAGGACCAGCCCAAGACCCTCGACCTGGGAGTGCCGC   900
-Mamu-B11L*01:11:01:01 CGAGATCCA---CCCCGAGGCTGCAGGACCCGCCCAAGACCCTCGACCTGGGAGTGCCGC   900
+Mamu-B11L*01:11:01:01 CGAGATCCACCCC---GAGGCTGCAGGACCCGCCCAAGACCCTCGACCTGGGAGTGCCGC   900
 Mamu-B11L*01:12       ------------------------------------------------------------   900
 
 HLA-B*07:02:01:01     AGGCGCGTTTACCCGGTTTCATTTTCAGTTGAGGCCAAAATCCCCGCGGGTTGGTCGGGG   960
@@ -538,7 +538,7 @@ Mamu-B11L*01:10:01:01 CCAGGGGCTGCTGGAGCTCCCTCACCCTGAGATGGGGTAAGGAGGGGGATGAGGGGTC
 Mamu-B11L*01:11:01:01 CCAGGGGCTGCTGGAGC-CCCTCACCCTGAGATGGGGTAAGGAGGGGGATGAGGGGTCAT  2160
 Mamu-B11L*01:12       CCAGGGGCTGCTGGAGC-CCCTCACCCTGAGATGGG------------------------  2160
 
-HLA-B*07:02:01:01     ATCTCTTCTCAGGGAAAGCA-----------GGAGCCCTTCAGCA---------------  2220
+HLA-B*07:02:01:01     ATCTCTTCTCAGGGAAAGCAGGAGCCCTTCAG----------------------------  2220
 Mamu-B11L*01:01:01    ------------------------------------------------------------  2220
 Mamu-B11L*01:01:02    ------------------------------------------------------------  2220
 Mamu-B11L*01:02       ------------------------------------------------------------  2220
@@ -553,7 +553,7 @@ Mamu-B11L*01:10:01:01 A-----TCTCAGGGAAAGCGGGAGCCCTTCTGGAGCCCTTCAGCAGGATCAGGGCTTA
 Mamu-B11L*01:11:01:01 A-----TCTCAGGGAAAGCGGGAGCCCTTCTGGAGCCCTTCAGCAGGATCAGGGCTTAGG  2220
 Mamu-B11L*01:12       ------------------------------------------------------------  2220
 
-HLA-B*07:02:01:01     -----GGGTCAGGGCCCCTCATCTTCCCCTCCTTTCCCAGAGCCGTCTTCCCAGTCCACC  2280
+HLA-B*07:02:01:01     ---CAGGGTCAGGGCCCCTCATCTTCCCCTCCTTTCCCAGAGCCGTCTTCCCAGTCCACC  2280
 Mamu-B11L*01:01:01    ------------------------------------------------------------  2280
 Mamu-B11L*01:01:02    ------------------------------------------------------------  2280
 Mamu-B11L*01:02       ------------------------------------------------------------  2280
@@ -633,14 +633,14 @@ Mamu-B11L*01:01:01    ----------------------------------------------------------
 Mamu-B11L*01:01:02    ------------------------------------------------------------  2580
 Mamu-B11L*01:02       ------------------------------------------------------------  2580
 Mamu-B11L*01:03       ------------------------------------------------------------  2580
-Mamu-B11L*01:04:01:01 CTTACTCTTCTGTGCAGCACACGTGACAAGGAAGGACA-ATGTATCACTTTGATGGTTGT  2580
-Mamu-B11L*01:05:01:01 CTTACTCTTCTGTGCAGCACACGTGACAAGGAAGAACA-ATGTATCACTTTGATGGTTGT  2580
-Mamu-B11L*01:06:01:01 CTTACTCTTCTGTGCAGCACCCGTGACAAGGAAGGACA-ATGTATCACCTTGATGGTTGT  2580
+Mamu-B11L*01:04:01:01 CTTACTCTTCTGTGCAGCACACGTGACAAGGAAGGAC-AATGTATCACTTTGATGGTTGT  2580
+Mamu-B11L*01:05:01:01 CTTACTCTTCTGTGCAGCACACGTGACAAGGAAGAAC-AATGTATCACTTTGATGGTTGT  2580
+Mamu-B11L*01:06:01:01 CTTACTCTTCTGTGCAGCACCCGTGACAAGGAAGGAC-AATGTATCACCTTGATGGTTGT  2580
 Mamu-B11L*01:07       ------------------------------------------------------------  2580
 Mamu-B11L*01:08       ------------------------------------------------------------  2580
 Mamu-B11L*01:09       ------------------------------------------------------------  2580
-Mamu-B11L*01:10:01:01 CTTACTCTTCTGTGCAGCACACGTGACAAGGAAGGACAG-TGTATCACCTTGATGGTTGT  2580
-Mamu-B11L*01:11:01:01 CTTACTCTTCTGTGCAGCACCCGTGACAAGGAAGGACA-ATGTATCACCTTGATGGTTGT  2580
+Mamu-B11L*01:10:01:01 CTTACTCTTCTGTGCAGCACACGTGACAAGGAAGGAC-AGTGTATCACCTTGATGGTTGT  2580
+Mamu-B11L*01:11:01:01 CTTACTCTTCTGTGCAGCACCCGTGACAAGGAAGGAC-AATGTATCACCTTGATGGTTGT  2580
 Mamu-B11L*01:12       ------------------------------------------------------------  2580
 
 HLA-B*07:02:01:01     GGTGTTGGGGTCCTGATTCCAGCATTCATGAGTCAGGGGAAGGTCCCTGCTAAGGACAGA  2640
@@ -703,67 +703,67 @@ Mamu-B11L*01:10:01:01 TAAGATCCCATGGTTCCTCTAAGATCCCTCTAAGATCCTCACAGGACATTTACTTCCC
 Mamu-B11L*01:11:01:01 TAAGATCCTATGGCCCTGCC----TCCTCCCTGTCCCCTCACAGGACATTTACTTCCCGC  2820
 Mamu-B11L*01:12       ------------------------------------------------------------  2820
 
-HLA-B*07:02:01:01     AGGTGGAAAAGGAGGGAGCTACTCTCAGGCTGCGT-GTAAGTGGTGGGGGTGGGAGTGTG  2880
+HLA-B*07:02:01:01     AGGTGGAAAAGGAGGGAGCTACTCTCA--GGCTGCGTGTAAGTGGTGGGGGTGGGAGTGT  2880
 Mamu-B11L*01:01:01    ------------------------------------------------------------  2880
 Mamu-B11L*01:01:02    ------------------------------------------------------------  2880
 Mamu-B11L*01:02       ------------------------------------------------------------  2880
 Mamu-B11L*01:03       ------------------------------------------------------------  2880
-Mamu-B11L*01:04:01:01 AGGTGGAAAAAGCCGGAGCTACTGT-AAGTGGCGGG------------GGCAGGAGTGTG  2880
-Mamu-B11L*01:05:01:01 AGGTGGAAAAAGCCGGAGCTACTGT-AAGTGGCGGG------------GGCAGGAGTGAG  2880
-Mamu-B11L*01:06:01:01 AGGTGGAAAAAGCCGGAGCTACTGT-AAGTGGCGGG------------GGCGGGAGTGTG  2880
+Mamu-B11L*01:04:01:01 AGGTGGAAAAAGCCGGAGCTACTGTAAGTGGCGGG--------------GGCAGGAGTGT  2880
+Mamu-B11L*01:05:01:01 AGGTGGAAAAAGCCGGAGCTACTGTAAGTGGCGGG--------------GGCAGGAGTGA  2880
+Mamu-B11L*01:06:01:01 AGGTGGAAAAAGCCGGAGCTACTGTAAGTGGCGGG--------------GGCGGGAGTGT  2880
 Mamu-B11L*01:07       ------------------------------------------------------------  2880
 Mamu-B11L*01:08       ------------------------------------------------------------  2880
 Mamu-B11L*01:09       ------------------------------------------------------------  2880
 Mamu-B11L*01:10:01:01 AGGTGGAAAAAGCGGGAGCTACTGTAA---------------------------------  2880
-Mamu-B11L*01:11:01:01 AGGTGGAAAAAGCCGGAGCTACTGT-AAGTGGCGGG------------GGCGGGAGTGTG  2880
+Mamu-B11L*01:11:01:01 AGGTGGAAAAAGCCGGAGCTACTGTAAGTGGCGGG--------------GGCGGGAGTGT  2880
 Mamu-B11L*01:12       ------------------------------------------------------------  2880
 
-HLA-B*07:02:01:01     GAGGAGCTCACCCACCCCATAATTCCTCCTGTCCCACGTCTCCTGCGGGCTCTGACCAGG  2940
+HLA-B*07:02:01:01     GGAGGAGCTCACCCACCCCATAATTCCTCCTGTCCCACGTCTCCTGCGGGCTCTGACCAG  2940
 Mamu-B11L*01:01:01    ------------------------------------------------------------  2940
 Mamu-B11L*01:01:02    ------------------------------------------------------------  2940
 Mamu-B11L*01:02       ------------------------------------------------------------  2940
 Mamu-B11L*01:03       ------------------------------------------------------------  2940
-Mamu-B11L*01:04:01:01 GAGGAGCTCACCCACTCCATTATTCCTCCTGCACCACGTCTCCTGTGGGCTCTGACCAGG  2940
-Mamu-B11L*01:05:01:01 GAGGAGCTCACCCACTCCATTATTCCTCCTGCACCACGTCTCCTGTGGGCTCTGACCAGG  2940
-Mamu-B11L*01:06:01:01 GAGGAGCTCACCCGTTCCATTATTCCTCCTGCACCACGTCTCCTGTGGGCTCTGACCAGG  2940
+Mamu-B11L*01:04:01:01 GGAGGAGCTCACCCACTCCATTATTCCTCCTGCACCACGTCTCCTGTGGGCTCTGACCAG  2940
+Mamu-B11L*01:05:01:01 GGAGGAGCTCACCCACTCCATTATTCCTCCTGCACCACGTCTCCTGTGGGCTCTGACCAG  2940
+Mamu-B11L*01:06:01:01 GGAGGAGCTCACCCGTTCCATTATTCCTCCTGCACCACGTCTCCTGTGGGCTCTGACCAG  2940
 Mamu-B11L*01:07       ------------------------------------------------------------  2940
 Mamu-B11L*01:08       ------------------------------------------------------------  2940
 Mamu-B11L*01:09       ------------------------------------------------------------  2940
 Mamu-B11L*01:10:01:01 ------------------------------------------------------------  2940
-Mamu-B11L*01:11:01:01 GAGGAGCTCACCCGTTCCATTATTCCTCCTGCACCACGTCTCCTGTGGGCTCTGACCAGG  2940
+Mamu-B11L*01:11:01:01 GGAGGAGCTCACCCGTTCCATTATTCCTCCTGCACCACGTCTCCTGTGGGCTCTGACCAG  2940
 Mamu-B11L*01:12       ------------------------------------------------------------  2940
 
-HLA-B*07:02:01:01     TCCTGTTTTTGTTCTACTCCAG----GCAGCGACAGTGCCCAGGGCTCTGATGTGTCTCT  3000
+HLA-B*07:02:01:01     GTCCTGTTTTTGTTCTACTCCAG----GCAGCGACAGTGCCCAGGGCTCTGAT-GTGTCT  3000
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3000
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3000
 Mamu-B11L*01:02       ------------------------------------------------------------  3000
 Mamu-B11L*01:03       ------------------------------------------------------------  3000
-Mamu-B11L*01:04:01:01 TCCTGTTTTTGTTCTACC----CCAGGGAGCAGCAGTGCCCAGGGCTCTGA--------T  3000
-Mamu-B11L*01:05:01:01 TCCTGTTTTTGTTCTACC----CCAGGGAGCAGCAGTGCCCAGGGCTCTGA--------T  3000
-Mamu-B11L*01:06:01:01 TCCTGTTTTTGTTCTACC----CCAGGGAGCAGCAGTGCCCAGGGCTCTGA--------T  3000
+Mamu-B11L*01:04:01:01 GTCCTGTTTTTGTTCTACC----CCAGGGAGCAGCAGTGCCCAGGGCTCTGATCAGGACT  3000
+Mamu-B11L*01:05:01:01 GTCCTGTTTTTGTTCTACC----CCAGGGAGCAGCAGTGCCCAGGGCTCTGATCAGGACT  3000
+Mamu-B11L*01:06:01:01 GTCCTGTTTTTGTTCTACC----CCAGGGAGCAGCAGTGCCCAGGGCTCTGATCAGGACT  3000
 Mamu-B11L*01:07       ------------------------------------------------------------  3000
 Mamu-B11L*01:08       ------------------------------------------------------------  3000
 Mamu-B11L*01:09       ------------------------------------------------------------  3000
 Mamu-B11L*01:10:01:01 ------------------------------------------------------------  3000
-Mamu-B11L*01:11:01:01 TCCTGTTTTTGTTCTACC----CCAGGGAGCAGCAGTGCCCAGGGCTCTGA--------T  3000
+Mamu-B11L*01:11:01:01 GTCCTGTTTTTGTTCTACC----CCAGGGAGCAGCAGTGCCCAGGGCTCTGATCAGGACT  3000
 Mamu-B11L*01:12       ------------------------------------------------------------  3000
 
-HLA-B*07:02:01:01     CACAGCT-TGAAAAGGTGAGATTCTTGGGGTCTAGAGTGGGTGGGGTGGCGGGTCTGGGG  3060
+HLA-B*07:02:01:01     CTCACAGCTTGAAAAGGTGAGATTCTTGGGGTCTAGAGTGGGTGGGGTGGCGGGTCTGGG  3060
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3060
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3060
 Mamu-B11L*01:02       ------------------------------------------------------------  3060
 Mamu-B11L*01:03       ------------------------------------------------------------  3060
-Mamu-B11L*01:04:01:01 CAGGACTCTGA-------------------------------------------------  3060
-Mamu-B11L*01:05:01:01 CAGGACTCTGA-------------------------------------------------  3060
-Mamu-B11L*01:06:01:01 CAGGACTCTGA-------------------------------------------------  3060
+Mamu-B11L*01:04:01:01 CTGA--------------------------------------------------------  3060
+Mamu-B11L*01:05:01:01 CTGA--------------------------------------------------------  3060
+Mamu-B11L*01:06:01:01 CTGA--------------------------------------------------------  3060
 Mamu-B11L*01:07       ------------------------------------------------------------  3060
 Mamu-B11L*01:08       ------------------------------------------------------------  3060
 Mamu-B11L*01:09       ------------------------------------------------------------  3060
 Mamu-B11L*01:10:01:01 ------------------------------------------------------------  3060
-Mamu-B11L*01:11:01:01 CAGGACTCTGA-------------------------------------------------  3060
+Mamu-B11L*01:11:01:01 CTGA--------------------------------------------------------  3060
 Mamu-B11L*01:12       ------------------------------------------------------------  3060
 
-HLA-B*07:02:01:01     GTGGGTGGGGCAGAGGGGAAAGGCCTGGGTAATGGGGATTCTTTGATTGGGATGTTTCGC  3120
+HLA-B*07:02:01:01     GGTGGGTGGGGCAGAGGGGAAAGGCCTGGGTAATGGGGATTCTTTGATTGGGATGTTTCG  3120
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3120
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3120
 Mamu-B11L*01:02       ------------------------------------------------------------  3120
@@ -778,7 +778,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3120
 Mamu-B11L*01:12       ------------------------------------------------------------  3120
 
-HLA-B*07:02:01:01     GTGTGTGGTGGGCTGTTTAGAGTGTCATCGCTTACCATGACTAACCAGAATTTGTTCATG  3180
+HLA-B*07:02:01:01     CGTGTGTGGTGGGCTGTTTAGAGTGTCATCGCTTACCATGACTAACCAGAATTTGTTCAT  3180
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3180
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3180
 Mamu-B11L*01:02       ------------------------------------------------------------  3180
@@ -793,7 +793,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3180
 Mamu-B11L*01:12       ------------------------------------------------------------  3180
 
-HLA-B*07:02:01:01     ACTGTTGTTTTCTGTAGCCTGAGACAGCTGTCTTGTGAGGGACTGAGATGCAGGATTTCT  3240
+HLA-B*07:02:01:01     GACTGTTGTTTTCTGTAGCCTGAGACAGCTGTCTTGTGAGGGACTGAGATGCAGGATTTC  3240
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3240
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3240
 Mamu-B11L*01:02       ------------------------------------------------------------  3240
@@ -808,7 +808,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3240
 Mamu-B11L*01:12       ------------------------------------------------------------  3240
 
-HLA-B*07:02:01:01     TCACGCCTCCCCTTTGTGACTTCAAGAGCCTCTGGCATCTCTTTCTGCAAAGGCACCTGA  3300
+HLA-B*07:02:01:01     TTCACGCCTCCCCTTTGTGACTTCAAGAGCCTCTGGCATCTCTTTCTGCAAAGGCACCTG  3300
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3300
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3300
 Mamu-B11L*01:02       ------------------------------------------------------------  3300
@@ -823,7 +823,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3300
 Mamu-B11L*01:12       ------------------------------------------------------------  3300
 
-HLA-B*07:02:01:01     ATGTGTCTGCGTCCCTGTTAGCATAATGTGAGGAGGTGGAGAGACAGCCCACCCTTGTGT  3360
+HLA-B*07:02:01:01     AATGTGTCTGCGTCCCTGTTAGCATAATGTGAGGAGGTGGAGAGACAGCCCACCCTTGTG  3360
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3360
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3360
 Mamu-B11L*01:02       ------------------------------------------------------------  3360
@@ -838,7 +838,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3360
 Mamu-B11L*01:12       ------------------------------------------------------------  3360
 
-HLA-B*07:02:01:01     CCACTGTGACCCCTGTTCCCATGCTGACCTGTGTTTCCTCCCCAGTCATCTTTCTTGTTC  3420
+HLA-B*07:02:01:01     TCCACTGTGACCCCTGTTCCCATGCTGACCTGTGTTTCCTCCCCAGTCATCTTTCTTGTT  3420
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3420
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3420
 Mamu-B11L*01:02       ------------------------------------------------------------  3420
@@ -853,7 +853,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3420
 Mamu-B11L*01:12       ------------------------------------------------------------  3420
 
-HLA-B*07:02:01:01     CAGAGAGGTGGGGCTGGATGTCTCCATCTCTGTCTCAACTTTACGTGCACTGAGCTGCAA  3480
+HLA-B*07:02:01:01     CCAGAGAGGTGGGGCTGGATGTCTCCATCTCTGTCTCAACTTTACGTGCACTGAGCTGCA  3480
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3480
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3480
 Mamu-B11L*01:02       ------------------------------------------------------------  3480
@@ -868,7 +868,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3480
 Mamu-B11L*01:12       ------------------------------------------------------------  3480
 
-HLA-B*07:02:01:01     CTTCTTACTTCCCTACTGAAAATAAGAATCTGAATATAAATTTGTTTTCTCAAATATTTG  3540
+HLA-B*07:02:01:01     ACTTCTTACTTCCCTACTGAAAATAAGAATCTGAATATAAATTTGTTTTCTCAAATATTT  3540
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3540
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3540
 Mamu-B11L*01:02       ------------------------------------------------------------  3540
@@ -883,7 +883,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3540
 Mamu-B11L*01:12       ------------------------------------------------------------  3540
 
-HLA-B*07:02:01:01     CTATGAGAGGTTGATGGATTAATTAAATAAGTCAATTCCTGGAATTTGAGAGAGCAAATA  3600
+HLA-B*07:02:01:01     GCTATGAGAGGTTGATGGATTAATTAAATAAGTCAATTCCTGGAATTTGAGAGAGCAAAT  3600
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3600
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3600
 Mamu-B11L*01:02       ------------------------------------------------------------  3600
@@ -898,7 +898,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3600
 Mamu-B11L*01:12       ------------------------------------------------------------  3600
 
-HLA-B*07:02:01:01     AAGACCTGAGAACCTTCCAGAATCTGCATGTTCGCTGTGCTGAGTCTGTTGCAGGTGGGG  3660
+HLA-B*07:02:01:01     AAAGACCTGAGAACCTTCCAGAATCTGCATGTTCGCTGTGCTGAGTCTGTTGCAGGTGGG  3660
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3660
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3660
 Mamu-B11L*01:02       ------------------------------------------------------------  3660
@@ -913,7 +913,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3660
 Mamu-B11L*01:12       ------------------------------------------------------------  3660
 
-HLA-B*07:02:01:01     TGTGGAGAAGGCTGTGGGGGGCCGAGTGTGGATGGGGCCTGTGCCCATTTGGTGTTGAGT  3720
+HLA-B*07:02:01:01     GTGTGGAGAAGGCTGTGGGGGGCCGAGTGTGGATGGGGCCTGTGCCCATTTGGTGTTGAG  3720
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3720
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3720
 Mamu-B11L*01:02       ------------------------------------------------------------  3720
@@ -928,7 +928,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3720
 Mamu-B11L*01:12       ------------------------------------------------------------  3720
 
-HLA-B*07:02:01:01     CCATCATGGGCTTTATGTGGTTAGTCCTCAGCTGGGTCACCTTCACTGCTCCATTGTCCT  3780
+HLA-B*07:02:01:01     TCCATCATGGGCTTTATGTGGTTAGTCCTCAGCTGGGTCACCTTCACTGCTCCATTGTCC  3780
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3780
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3780
 Mamu-B11L*01:02       ------------------------------------------------------------  3780
@@ -943,7 +943,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3780
 Mamu-B11L*01:12       ------------------------------------------------------------  3780
 
-HLA-B*07:02:01:01     TGTCCCTTCAGTGGAAACTTGTCCAGTGGGAGCTGTGACCACAGAGGCTCACACATCGCC  3840
+HLA-B*07:02:01:01     TTGTCCCTTCAGTGGAAACTTGTCCAGTGGGAGCTGTGACCACAGAGGCTCACACATCGC  3840
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3840
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3840
 Mamu-B11L*01:02       ------------------------------------------------------------  3840
@@ -958,7 +958,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3840
 Mamu-B11L*01:12       ------------------------------------------------------------  3840
 
-HLA-B*07:02:01:01     CAGGGCGGCCCCTGCACACGGGGGTCTCTGTGCATTCTGAGACAAATTTTCAGAGCCATT  3900
+HLA-B*07:02:01:01     CCAGGGCGGCCCCTGCACACGGGGGTCTCTGTGCATTCTGAGACAAATTTTCAGAGCCAT  3900
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3900
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3900
 Mamu-B11L*01:02       ------------------------------------------------------------  3900
@@ -973,7 +973,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3900
 Mamu-B11L*01:12       ------------------------------------------------------------  3900
 
-HLA-B*07:02:01:01     CACCTCCTGCTCTGCTTCTAGAGCTCCTTTTCTGCTCTGCTCTTCTGCCCTCTCTCCCTG  3960
+HLA-B*07:02:01:01     TCACCTCCTGCTCTGCTTCTAGAGCTCCTTTTCTGCTCTGCTCTTCTGCCCTCTCTCCCT  3960
 Mamu-B11L*01:01:01    ------------------------------------------------------------  3960
 Mamu-B11L*01:01:02    ------------------------------------------------------------  3960
 Mamu-B11L*01:02       ------------------------------------------------------------  3960
@@ -988,7 +988,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  3960
 Mamu-B11L*01:12       ------------------------------------------------------------  3960
 
-HLA-B*07:02:01:01     CCCTGGTTCTAGTGATCTTGGTGCTGAATCCAATCCCAACTCATGAATCTGTAAAGCAGA  4020
+HLA-B*07:02:01:01     GCCCTGGTTCTAGTGATCTTGGTGCTGAATCCAATCCCAACTCATGAATCTGTAAAGCAG  4020
 Mamu-B11L*01:01:01    ------------------------------------------------------------  4020
 Mamu-B11L*01:01:02    ------------------------------------------------------------  4020
 Mamu-B11L*01:02       ------------------------------------------------------------  4020
@@ -1003,7 +1003,7 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  4020
 Mamu-B11L*01:12       ------------------------------------------------------------  4020
 
-HLA-B*07:02:01:01     GTCTAATTTAGACTTACATTTGTCTGTGAAATTGGACCCGTCATCAAGGACTGTTCTTTC  4080
+HLA-B*07:02:01:01     AGTCTAATTTAGACTTACATTTGTCTGTGAAATTGGACCCGTCATCAAGGACTGTTCTTT  4080
 Mamu-B11L*01:01:01    ------------------------------------------------------------  4080
 Mamu-B11L*01:01:02    ------------------------------------------------------------  4080
 Mamu-B11L*01:02       ------------------------------------------------------------  4080
@@ -1018,18 +1018,18 @@ Mamu-B11L*01:10:01:01 ----------------------------------------------------------
 Mamu-B11L*01:11:01:01 ------------------------------------------------------------  4080
 Mamu-B11L*01:12       ------------------------------------------------------------  4080
 
-HLA-B*07:02:01:01     CTGAAGAGAGAACCTGATTGTGTGCTGCAGTGTGCTGGGGCAGGGGGTGCGG  4132
-Mamu-B11L*01:01:01    ----------------------------------------------------  4132
-Mamu-B11L*01:01:02    ----------------------------------------------------  4132
-Mamu-B11L*01:02       ----------------------------------------------------  4132
-Mamu-B11L*01:03       ----------------------------------------------------  4132
-Mamu-B11L*01:04:01:01 ----------------------------------------------------  4132
-Mamu-B11L*01:05:01:01 ----------------------------------------------------  4132
-Mamu-B11L*01:06:01:01 ----------------------------------------------------  4132
-Mamu-B11L*01:07       ----------------------------------------------------  4132
-Mamu-B11L*01:08       ----------------------------------------------------  4132
-Mamu-B11L*01:09       ----------------------------------------------------  4132
-Mamu-B11L*01:10:01:01 ----------------------------------------------------  4132
-Mamu-B11L*01:11:01:01 ----------------------------------------------------  4132
-Mamu-B11L*01:12       ----------------------------------------------------  4132
+HLA-B*07:02:01:01     CCTGAAGAGAGAACCTGATTGTGTGCTGCAGTGTGCTGGGGCAGGGGGTGCGG  4133
+Mamu-B11L*01:01:01    -----------------------------------------------------  4133
+Mamu-B11L*01:01:02    -----------------------------------------------------  4133
+Mamu-B11L*01:02       -----------------------------------------------------  4133
+Mamu-B11L*01:03       -----------------------------------------------------  4133
+Mamu-B11L*01:04:01:01 -----------------------------------------------------  4133
+Mamu-B11L*01:05:01:01 -----------------------------------------------------  4133
+Mamu-B11L*01:06:01:01 -----------------------------------------------------  4133
+Mamu-B11L*01:07       -----------------------------------------------------  4133
+Mamu-B11L*01:08       -----------------------------------------------------  4133
+Mamu-B11L*01:09       -----------------------------------------------------  4133
+Mamu-B11L*01:10:01:01 -----------------------------------------------------  4133
+Mamu-B11L*01:11:01:01 -----------------------------------------------------  4133
+Mamu-B11L*01:12       -----------------------------------------------------  4133
 

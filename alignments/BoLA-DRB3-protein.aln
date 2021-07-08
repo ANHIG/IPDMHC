@@ -3,7 +3,8 @@ BoLA-DRB3*001:01      ----------------------------------HFLEYSKSECHFFNGTERVRFLDR
 BoLA-DRB3*001:03      ----------------------------------HFLEYSKSECHFFNGTERVRFLDRYY    60
 BoLA-DRB3*002:01      ----------------------------------HFLEYSTSECHFFNGTERVRFLDRYF    60
 BoLA-DRB3*002:02      -------------------------------------EYSTSECHFFNGTERVRFLDRYF    60
-BoLA-DRB3*003:01      -------------------------------------EYCKSECHFFNGTERVRFLERSF    60
+BoLA-DRB3*003:01:01   -------------------------------------EYCKSECHFFNGTERVRFLERSF    60
+BoLA-DRB3*003:01:02   ----------------------------------HFLEYCKSECHFFNGTERVRFLERSF    60
 BoLA-DRB3*003:02:01   ----------------------------------HFLEYCKSECHFFNGTERVRFLERSF    60
 BoLA-DRB3*003:03      -------------------------------------EYCKSECHFFDGTERVRFLERSF    60
 BoLA-DRB3*004:01      ----------------------------------HFLEYSTSECHFFNGTERVRFLDRYF    60
@@ -88,7 +89,7 @@ BoLA-DRB3*019:03      -------------------------------------EYSKSECHFFNGTERVRYLDR
 BoLA-DRB3*019:04      ----------------------------------HFLEYCKSECHFFNGTERVRFLDRYF    60
 BoLA-DRB3*020:01:01   ----------------------------------HFLEYCKRECHFFNGTERVRLLDRYF    60
 BoLA-DRB3*020:01:02   ----------------------------------HLLEYCKRECHFFNGTERVRLLDRYF    60
-BoLA-DRB3*020:02:01   -------------------------------------EYCKRECHFFNGTERVRLLDRYF    60
+BoLA-DRB3*020:02:01   ----------------------------------HFLEYCKRECHFFNGTERVRLLDRYF    60
 BoLA-DRB3*020:02:02   ----------------------------------HFLEYCKRECHFFNGTERVRLLDRYF    60
 BoLA-DRB3*020:03      -------------------------------------EYCKRECHFFNGTERVRLLDRYF    60
 BoLA-DRB3*020:04      --------------------------------------YCKRECHFFNGTERVRLLDRYF    60
@@ -200,13 +201,13 @@ BoLA-DRB3*034:01      ----------------------------------HFLEYCKSECHFFNGTERVRFLER
 BoLA-DRB3*034:02      -------------------------------------EYCKSECHFFNGTERVRFLERSF    60
 BoLA-DRB3*034:03      ----------------------------------HFLEYCKSECHFFNGTERVRFLERSF    60
 BoLA-DRB3*035:01      ----------------------------------HFLEYSKSECHFFNGTERVRYLDRYY    60
-BoLA-DRB3*036:01      -------------------------------------EYSKSECHFFNGTERVRFLDRYY    60
+BoLA-DRB3*036:01      ----------------------------------HFLEYSKSECHFFNGTERVRFLDRYY    60
 BoLA-DRB3*037:01      -------------------------------------EYSTSECHFFNGTERVRYLDRYF    60
 BoLA-DRB3*038:01      -------------------------------------EYSKSECHFFNGTERVRYLDRYF    60
 BoLA-DRB3*039:01      -------------------------------------EYSTGECHFFNGTERVRYLDRYF    60
 BoLA-DRB3*040:01      -------------------------------------EYSTGECHFFNGTERVRYLDRYF    60
 BoLA-DRB3*040:02      ----------------------------------HFLEYYKGECHFFNGTERVRLLDRHF    60
-BoLA-DRB3*041:01      -------------------------------------EYTKKECHFFNGTERVRFLDRYF    60
+BoLA-DRB3*041:01      ----------------------------------HFLEYTKKECHFFNGTERVRFLDRYF    60
 BoLA-DRB3*042:01      -------------------------------------EYRKSECHFFNGTERVRFLDRYF    60
 BoLA-DRB3*043:01      ----------------------------------HFLEYRKSECHFFNGTERVRYLDRSF    60
 BoLA-DRB3*043:02      ----------------------------------HFLEYRKSECHFFNGTERVRYLDRYF    60
@@ -380,13 +381,15 @@ BoLA-DRB3*165:01      ----------------------------------HFLEYSTSECHFFNGTERVRYLDR
 BoLA-DRB3*166:01      ----------------------------------HFLEYCKSECHFFNGTERVRFLDRSF    60
 BoLA-DRB3*167:01      ----------------------------------HFLEYCKRECHFFNGTERVRFLDRYF    60
 BoLA-DRB3*168:01      ----------------------------------HFLEYSTSECHFFNGTERVRFLDRSF    60
+BoLA-DRB3*169:01      ----------------------------------HFLEYSTGECHFFNGTERVRYLDRYF    60
 
 BoLA-DRB3*016:01      HNGEEFVRFDSDWGEYRAVTELGRPDAKYWNSQKDFLEEKRAAVDTYCRHNYGVGESFTV   120
 BoLA-DRB3*001:01      TNGEETVRFDSDWGEFRAVTELGRQDAEYWNSQKDFLEEKRAEVDRVCRHNYGGMESFTV   120
 BoLA-DRB3*001:03      TNGEETVRFDSDWGEFRAVTELGRQDAEYWNSQKDILEEKRAEVDRVCRHNYGGMESFTV   120
 BoLA-DRB3*002:01      HNGEEFVRFDSDWGEYRAVTELGRPDAEYWNSQ-EILERARAAVDTYCRHNYGGVESFTV   120
 BoLA-DRB3*002:02      HNGEEFVRFDSDWGEYRAATELGRPDAEYWNSQ-EILERARAAVDTYCRHNYGGVESFTV   120
-BoLA-DRB3*003:01      YNGEEFVRFDSDWGEYRAVTELGRPDAKYWNSQKDLLEQKRANVDTYCRHNYGVGESFTV   120
+BoLA-DRB3*003:01:01   YNGEEFVRFDSDWGEYRAVTELGRPDAKYWNSQKDLLEQKRANVDTYCRHNYGVGESFTV   120
+BoLA-DRB3*003:01:02   YNGEEFVRFDSDWGEYRAVTELGRPDAKYWNSQKDLLEQKRANVDTYCRHNYGVGESFTV   120
 BoLA-DRB3*003:02:01   YNGEEFVRFDSDWGEYRAVTELGRPDAKYWNSQKDLLEQKRANVDTYCRHNYGVVESFTV   120
 BoLA-DRB3*003:03      YNGEEFVRFDSDWGEYRAVTELGRPDAKLWNSQKDLLEQKRANVDTYCRHNYGVVESFT-   120
 BoLA-DRB3*004:01      YNGEEYVRFDSDWGEFQAVTELGRPDAKYWNSQKDILERERAAVDTYCRHNYGGVESFTV   120
@@ -471,7 +474,7 @@ BoLA-DRB3*019:03      YNGEEFVRFDSDWGEYRAVTELGRRVAEYWNSQKDILERKRANVDTYCRHNYGVCESF
 BoLA-DRB3*019:04      YNGEEFVRFDSDWGEYRAVTELGRPSAEYWNSQKDILERRRANVDTYCRHNYGVGESFTV   120
 BoLA-DRB3*020:01:01   YNGEERVRFDSDWGEFRAVTELGRPSAEYWNSQKDFLEQRRAAVDTYCRHNYGVVESFTV   120
 BoLA-DRB3*020:01:02   YNGEERVRFDSDWGEFRAVTELGRPSAEYWNSQKDFLEQRRAAVDTYCRHNYGVVESFTV   120
-BoLA-DRB3*020:02:01   YNGEERVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLEQRRAAVDTYCRHNYGVGESFT-   120
+BoLA-DRB3*020:02:01   YNGEERVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLEQRRAAVDTYCRHNYGVGESFTV   120
 BoLA-DRB3*020:02:02   YNGEERVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLEQRRAAVDTYCRHNYGVGESFTV   120
 BoLA-DRB3*020:03      YNGEERVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLEQRRAAVDTYCRHNYGVVESFT-   120
 BoLA-DRB3*020:04      YNGEERVRFDSDWGEFRAVTELGRPSAEYWNSQKDFLEQRRAVVDTYCRHNYGVVESFTV   120
@@ -583,13 +586,13 @@ BoLA-DRB3*034:01      YNGEEFVRFDSDWGEYRAVTELGRRVAEQLNSQKDLLEQKRANVDTYCRHNYGVVESF
 BoLA-DRB3*034:02      YNGEEFVRFDSDWGEYRAVTELGRRVAKQLNSQKDLLEQKRANVDTYCRHNYGVVESFT-   120
 BoLA-DRB3*034:03      YNGEEFVRFDSDWGEYRAVTELGRRVAEQLNSQKDILERKRANVDTYCRHNYGVGESFTV   120
 BoLA-DRB3*035:01      TNGEENVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLERKRANVDTYCRHNYGVFESFTV   120
-BoLA-DRB3*036:01      TNGEETVRFDSDWGEFRALTELGRQDAEQWNSQKDTLERERAYVDTYCRHNYGGVESFT-   120
+BoLA-DRB3*036:01      TNGEETVRFDSDWGEFRALTELGRQDAEQWNSQKDTLERERAYVDTYCRHNYGGVESFTV   120
 BoLA-DRB3*037:01      YNGEEYVRFDSDWGEFRAVTELGRPDAKYWNSQKDTLEDERASVDTYCRYNYGV------   120
 BoLA-DRB3*038:01      YNGEEYVRFDSDWGEYRAVTELGRPDAEYWNSQKDFLERKRANVDTYCRHNYGV------   120
 BoLA-DRB3*039:01      YNGEEYVRFDSDWGEFQAVTELGRPDAEYWNSQKDTLERERAYVDTYCRHNYGV------   120
 BoLA-DRB3*040:01      YNGEEYARFDSDWGEFRAVTELGRPDAKYWNSQKDFLEQKRAEVDRVCRHNYGGVESFT-   120
 BoLA-DRB3*040:02      YNGEEYVRFDSDWGEFRAVTELGRPDAKYWNSQKDFLEQKRAEVDRVCRHNYGGVESFTV   120
-BoLA-DRB3*041:01      YNGEEYVRFDSDWSEYRAVTELGRPDAEYWNSQ-EILERARAAVDTYCRHNYGVGESFT-   120
+BoLA-DRB3*041:01      YNGEEYVRFDSDWSEYRAVTELGRPDAEYWNSQ-EILERARAAVDTYCRHNYGVGESFTV   120
 BoLA-DRB3*042:01      YNGEEHVRFDSDWGEYRAVTELGRPDAKYWNSQKEILERRRAEVDTVCRHNYGVVESFT-   120
 BoLA-DRB3*043:01      YNGEEFVRFDSDWGEYRAVTELGRRVAEQWNSQKDLLERKRANVDTYCRHNYGVGESFTV   120
 BoLA-DRB3*043:02      YNGEEFVRFDSDWGEYRAVTELGRRVAEQWNSQKDLLERKRANVDTYCRHNYGVGESFTV   120
@@ -763,13 +766,15 @@ BoLA-DRB3*165:01      HNGEEFVRFDSDWGEYRAVTELGRRVAEQLNGQKDTLEDERASVDTYCRHNYGVVESF
 BoLA-DRB3*166:01      HNGEEFVRFDSDWGEYRAVTELGRRVAEQLNGQKDILERKRAYVDTYCRHNYGVGESFTV   120
 BoLA-DRB3*167:01      HNGEERVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLEQRRAAVDAYCRHNYGVGESFTA   120
 BoLA-DRB3*168:01      YNGEEFVRFDSDWGEFRAVTELGRPDAEYWNSQKEILEERRAYVDRECRHNYGVGESFTV   120
+BoLA-DRB3*169:01      YNGEEYVRFDSDWGEFRAVTELGRPSAEHLNGQKDTLERERAYVDTYCRHNYGVVESFTV   120
 
 BoLA-DRB3*016:01      QRRVEPIVTVYPAKTQPLQHHNLLVCSVNGFYPGNIEVRWFRNGHEEEAGVISTGLIQNG   180
 BoLA-DRB3*001:01      QRRVEPTVTVYPAKTQPLQHHNLLVCSVNGFYPGHIEVRWFRNAHEEEA-----------   180
 BoLA-DRB3*001:03      QRR---------------------------------------------------------   180
 BoLA-DRB3*002:01      QRR---------------------------------------------------------   180
 BoLA-DRB3*002:02      QRR---------------------------------------------------------   180
-BoLA-DRB3*003:01      QRR---------------------------------------------------------   180
+BoLA-DRB3*003:01:01   QRR---------------------------------------------------------   180
+BoLA-DRB3*003:01:02   QRR---------------------------------------------------------   180
 BoLA-DRB3*003:02:01   QRR---------------------------------------------------------   180
 BoLA-DRB3*003:03      ------------------------------------------------------------   180
 BoLA-DRB3*004:01      QRR---------------------------------------------------------   180
@@ -854,7 +859,7 @@ BoLA-DRB3*019:03      ----------------------------------------------------------
 BoLA-DRB3*019:04      QR----------------------------------------------------------   180
 BoLA-DRB3*020:01:01   QR----------------------------------------------------------   180
 BoLA-DRB3*020:01:02   QRR---------------------------------------------------------   180
-BoLA-DRB3*020:02:01   ------------------------------------------------------------   180
+BoLA-DRB3*020:02:01   QRR---------------------------------------------------------   180
 BoLA-DRB3*020:02:02   QR----------------------------------------------------------   180
 BoLA-DRB3*020:03      ------------------------------------------------------------   180
 BoLA-DRB3*020:04      QRR---------------------------------------------------------   180
@@ -966,13 +971,13 @@ BoLA-DRB3*034:01      QRR-------------------------------------------------------
 BoLA-DRB3*034:02      ------------------------------------------------------------   180
 BoLA-DRB3*034:03      QRR---------------------------------------------------------   180
 BoLA-DRB3*035:01      QRR---------------------------------------------------------   180
-BoLA-DRB3*036:01      ------------------------------------------------------------   180
+BoLA-DRB3*036:01      QRR---------------------------------------------------------   180
 BoLA-DRB3*037:01      ------------------------------------------------------------   180
 BoLA-DRB3*038:01      ------------------------------------------------------------   180
 BoLA-DRB3*039:01      ------------------------------------------------------------   180
 BoLA-DRB3*040:01      ------------------------------------------------------------   180
 BoLA-DRB3*040:02      QRR---------------------------------------------------------   180
-BoLA-DRB3*041:01      ------------------------------------------------------------   180
+BoLA-DRB3*041:01      QR----------------------------------------------------------   180
 BoLA-DRB3*042:01      ------------------------------------------------------------   180
 BoLA-DRB3*043:01      QRR---------------------------------------------------------   180
 BoLA-DRB3*043:02      QRR---------------------------------------------------------   180
@@ -1146,13 +1151,15 @@ BoLA-DRB3*165:01      QR--------------------------------------------------------
 BoLA-DRB3*166:01      QR----------------------------------------------------------   180
 BoLA-DRB3*167:01      QRR---------------------------------------------------------   180
 BoLA-DRB3*168:01      QR----------------------------------------------------------   180
+BoLA-DRB3*169:01      QRR---------------------------------------------------------   180
 
 BoLA-DRB3*016:01      DWTFQTMVMLETVPQSGEVYTCQVEHPSQTSPITVEWRARSDSAQSKMMSGVGGFVLGLF   240
 BoLA-DRB3*001:01      -----------------------VDHPSRTSPITVEWRARSDSAQSKMMSGVGGFVLGLL   240
 BoLA-DRB3*001:03      ------------------------------------------------------------   240
 BoLA-DRB3*002:01      ------------------------------------------------------------   240
 BoLA-DRB3*002:02      ------------------------------------------------------------   240
-BoLA-DRB3*003:01      ------------------------------------------------------------   240
+BoLA-DRB3*003:01:01   ------------------------------------------------------------   240
+BoLA-DRB3*003:01:02   ------------------------------------------------------------   240
 BoLA-DRB3*003:02:01   ------------------------------------------------------------   240
 BoLA-DRB3*003:03      ------------------------------------------------------------   240
 BoLA-DRB3*004:01      ------------------------------------------------------------   240
@@ -1529,13 +1536,15 @@ BoLA-DRB3*165:01      ----------------------------------------------------------
 BoLA-DRB3*166:01      ------------------------------------------------------------   240
 BoLA-DRB3*167:01      ------------------------------------------------------------   240
 BoLA-DRB3*168:01      ------------------------------------------------------------   240
+BoLA-DRB3*169:01      ------------------------------------------------------------   240
 
 BoLA-DRB3*016:01      FLAVGLFIYFRNQKGRPTLQPTGLLS   266
 BoLA-DRB3*001:01      FLAVGLFIYFR---------------   266
 BoLA-DRB3*001:03      --------------------------   266
 BoLA-DRB3*002:01      --------------------------   266
 BoLA-DRB3*002:02      --------------------------   266
-BoLA-DRB3*003:01      --------------------------   266
+BoLA-DRB3*003:01:01   --------------------------   266
+BoLA-DRB3*003:01:02   --------------------------   266
 BoLA-DRB3*003:02:01   --------------------------   266
 BoLA-DRB3*003:03      --------------------------   266
 BoLA-DRB3*004:01      --------------------------   266
@@ -1912,4 +1921,5 @@ BoLA-DRB3*165:01      --------------------------   266
 BoLA-DRB3*166:01      --------------------------   266
 BoLA-DRB3*167:01      --------------------------   266
 BoLA-DRB3*168:01      --------------------------   266
+BoLA-DRB3*169:01      --------------------------   266
 
