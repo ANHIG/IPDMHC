@@ -1,204 +1,510 @@
 DLA-64*001:01:01      ATGGAGGTGGTGATGCCGCGAGCCCTCCTCGTGCTGCTGTCGGCGGCCCTGGCCGTGACC    60
+DLA-64*001:01:02      -------------TGCCGCGAGCCCTCCTCGTGCTGCTGTCGGCGGCCCTGGCCGTGACC    60
+DLA-64*001:01:03      -------------TGCCGCGAGCCCTCCTCGTGCTGCTGTCGGCGGCCCTGGCCGTGACC    60
 DLA-64*001:01:04      ------------------------------------------------------------    60
 DLA-64*001:02         ATGGAGGTGGTGATGCCGCGAGCCCTCCTCGTGCTGCTGTCGGCGGCCCTGGCCGTGACC    60
+DLA-64*001:03         -------------TGCCGCGAGCCCTCCTCGTGCTGCTGTCGGCGGCCCTGGCCGTGACC    60
+DLA-64*001:04         -------------TGCCGCGAGCCCTCCTCGTGCTGCTGTCGGCGGCCCTGGCCGTGACC    60
+DLA-64*001:05:01      ATGGAGGTGGTGATGCCGCGAGCCCTCCTCGTGCTGCTGTCGGCGGCCCTGGCCGTGACC    60
+DLA-64*001:05:02      ATGGAGGTGGTGATGCCGCGAGCCCTCCTCGTGCTGCTGTCGGCGGCCCTGGCCGTGACC    60
 
 DLA-64*001:01:01      CTGACCCGGGCGGGTGAGTGCGGGCGGGAGCGAGGGGACCGGCGGGCGGGGACGCGGGAC   120
+DLA-64*001:01:02      CTGACCCGGGCGG-----------------------------------------------   120
+DLA-64*001:01:03      CTGACCCGGGCGG-----------------------------------------------   120
 DLA-64*001:01:04      ------------------------------------------------------------   120
 DLA-64*001:02         CTGACCCGGGCGGGTGAGTGCGGGCGGGAGCGAGGGGACCGGCGGGCGGGGACGCGGGAC   120
+DLA-64*001:03         CTGACCCGGGCGG-----------------------------------------------   120
+DLA-64*001:04         CTGACCCGGGCGG-----------------------------------------------   120
+DLA-64*001:05:01      CCGACCCGGGCGG-----------------------------------------------   120
+DLA-64*001:05:02      CCGACCCGGGCGG-----------------------------------------------   120
 
 DLA-64*001:01:01      CCCGGGAAGCCGCCTCTCCGCCGCCCCCGGCCCCCCGCGGCCTGGGCTCCCCGGTCCCTC   180
+DLA-64*001:01:02      ------------------------------------------------------------   180
+DLA-64*001:01:03      ------------------------------------------------------------   180
 DLA-64*001:01:04      ------------------------------------------------------------   180
 DLA-64*001:02         CCCGGGAAGCCGCCTCTCCGCCGCCCCCGGC------------------------CCCTC   180
+DLA-64*001:03         ------------------------------------------------------------   180
+DLA-64*001:04         ------------------------------------------------------------   180
+DLA-64*001:05:01      ------------------------------------------------------------   180
+DLA-64*001:05:02      ------------------------------------------------------------   180
 
 DLA-64*001:01:01      CCGCCTCCGCCCCGCCCCGGGCATCTCCCCTGGGCCCCGGGCCCCGCGGCGGGAGGGGGT   240
+DLA-64*001:01:02      ------------------------------------------------------------   240
+DLA-64*001:01:03      ------------------------------------------------------------   240
 DLA-64*001:01:04      ------------------------------------------------------------   240
 DLA-64*001:02         CCGCCTCCGCCCCGCCCCGGGCATCTCCCCTGGGCCCCGGGCCCCGCGGCGGGAGGGGGT   240
+DLA-64*001:03         ------------------------------------------------------------   240
+DLA-64*001:04         ------------------------------------------------------------   240
+DLA-64*001:05:01      ------------------------------------------------------------   240
+DLA-64*001:05:02      ------------------------------------------------------------   240
 
 DLA-64*001:01:01      CGGGCGGGGTCTCAGCCCTCGGCTCCGCAGGCTCCCACTCCCTGAGGTTTTTCCACACCG   300
+DLA-64*001:01:02      ------------------------------GCTCCCACTCCCTGAGGTTTTTCCACACCG   300
+DLA-64*001:01:03      ------------------------------GCTCCCACTCCCTGAGGTTTTTCCACACCG   300
 DLA-64*001:01:04      ------------------------------GCTCCCACTCCCTGAGGTTTTTCCACACCG   300
 DLA-64*001:02         CGGGCGGGGTCTCAGCCCTCGGCTCCGCAGGCTCCCACTCCCTGAGGTTTTTCCACACCG   300
+DLA-64*001:03         ------------------------------GCTCCCACTCCCTGAGGTTTTTCCACACCG   300
+DLA-64*001:04         ------------------------------GCTCCCACTCCCTGAGGTTTTTCCACACCG   300
+DLA-64*001:05:01      ------------------------------GCTCCCACTCCCTGAGGTTTTTCCACACCG   300
+DLA-64*001:05:02      ------------------------------GCTCCCACTCCCTGAGGTTTTTCCACACCG   300
 
 DLA-64*001:01:01      CCGTGTCCCGGCCCGGCCGCGGGGACCCCCTCTACATCTCTGTGGGCTACGTGGACGACA   360
+DLA-64*001:01:02      CCGTGTCCCGGCCCGGCCGCGGGGACCCCCTCTACATCTCTGTGGGCTACGTGGACGACA   360
+DLA-64*001:01:03      CCGTGTCCCGGCCCGGCCGCGGGGACCCCCTCTACATCTCTGTGGGCTACGTGGACGACA   360
 DLA-64*001:01:04      CCGTGTCCCGGCCCGGCCGCGGGGACCCCCTCTACATCTCTGTGGGCTACGTGGACGACA   360
 DLA-64*001:02         CCGTGTCCCGGCCCGGCCGCGGGGACCCCCTCTACATCTCTGTGGGCTACGTGGACGACA   360
+DLA-64*001:03         CCGTGTCCCGGCCCGGCCGCGGGGACCCCCTCTACATCTCTGTGGGCTACGTGGACGACA   360
+DLA-64*001:04         CCGTGTCCCGGCCCGGCCGCGGGGACCCCCTCTACATCTCTGTGGGCTACGTGGACGACA   360
+DLA-64*001:05:01      CCGTGTCCCGGCCCGGCCGCGGGGACCCCCTCTACATCTCTGTGGGCTACGTGGACGACA   360
+DLA-64*001:05:02      CCGTGTCCCGGCCCGGCCGCGGGGACCCCCTCTACATCTCTGTGGGCTACGTGGACGACA   360
 
 DLA-64*001:01:01      CGCAGTTCCTGCGGTTCAACAGCGACGCGGCGAGTCCGAAGGTGGAGCCGCGGGCGCGGT   420
+DLA-64*001:01:02      CGCAGTTCCTGCGGTTCAACAGCGACGCGGCGAGTCCGAAGGTGGAGCCGCGGGCGCGGT   420
+DLA-64*001:01:03      CGCAGTTCCTGCGGTTCAACAGCGACGCGGCGAGTCCGAAGGTGGAGCCGCGGGCGCGGT   420
 DLA-64*001:01:04      CGCAGTTCCTGCGGTTCAACAGCGACGCGGCGAGTCCGAAGGTGGAGCCGCGGGCGCGGT   420
 DLA-64*001:02         CGCAGTTCCTGCGGTTCAACAGCGACGCGGCGAGTCCGAAGGTGGAGCCGCGGGCGCGGT   420
+DLA-64*001:03         CGCAGTTCCTGCGGTTCAACAGCGACGCGGCGAGTCCGAAGGTGGAGCCGCGGGCGCGGT   420
+DLA-64*001:04         CGCAGTTCCTGCGGTTCAACAGCGACGCGGCGAGTCCGAAGGTGGAGCCGCGGGCGCGGT   420
+DLA-64*001:05:01      CGCAGTTCCTGCGGTTCAACAGCGACGCGGCGAGTCCGAAGGTGGAGCCGCGGGCGCGGT   420
+DLA-64*001:05:02      CGCAGTTCCTGCGGTTCAACAGCGACGCGGCGAGTCCGAAGGTGGAGCCGCGGGCGCGGT   420
 
 DLA-64*001:01:01      GGATGGAGCAGGAGGGGCCGGAGTTTTGGGAGGAGCAGACGGAGATCGCCAAGGTGCACG   480
+DLA-64*001:01:02      GGATGGAGCAGGAGGGGCCGGAGTTTTGGGAGGAGCAGACGGAGATCGCCAAGGTGCACG   480
+DLA-64*001:01:03      GGATGGAGCAGGAGGGGCCGGAGTTTTGGGAGGAGCAGACGGAGATCGCCAAGGTGCACG   480
 DLA-64*001:01:04      GGATGGAGCAGGAGGGGCCGGAGTTTTGGGAGGAGCAGACGGAGATCGCCAAGGTGCACG   480
 DLA-64*001:02         GGATGGAGCAGGAGGGGCCGGAGTTTTGGGAGGAGCAGACGGAGATCGCCAAGGTGCACG   480
+DLA-64*001:03         GGATGGAGCAGGAGGGGCCGGAGTTTTGGGAGGAGCAGACGGAGATCGCCAAGGTGCACG   480
+DLA-64*001:04         GGATGGAGCAGGAGGGGCCGGAGTTTTGGGACGGGCAGACGGAGATCGCCAAGGTGCACG   480
+DLA-64*001:05:01      GGATGGAGCAGGAGGGGCCGGAGTTTTGGGAGGAGCAGACGGAGATCGCCAAGGTGCACG   480
+DLA-64*001:05:02      GGATGGAGCAGGAGGGGCCGGAGTTTTGGGAGGAGCAGACGGAGATCGCCAAGGTGCACG   480
 
 DLA-64*001:01:01      CCCAGACCTCCCGATCCAACCTGCAGACGGCCCTCGGCTACTACAACCAGAGCGAGGCCG   540
+DLA-64*001:01:02      CCCAGACCTCCCGATCCAACCTGCAGACGGCTCTCGGCTACTACAACCAGAGCGAGGCCG   540
+DLA-64*001:01:03      CCCAGACCTCCCGATCCAACCTGCAGACGGCCCTCGGCTACTACAACCAGAGCGAGGCCG   540
 DLA-64*001:01:04      CCCAGACCTCCCGATCCAACCTGCAGACGGCCCTCGGCTACTACAACCAGAGCGAGGCCG   540
 DLA-64*001:02         CCCAGACCTCCCGATCCAACCTGCAGACGGCCCTCGGCTACTACAACCAGAGCGAGGCCG   540
+DLA-64*001:03         CCCAGACCTCCCGATCCAACCTGCAGACGGCCCTCGGCTACTACAACCAGAGCGAGGCCG   540
+DLA-64*001:04         CCCAGACCTCCCGATCCAACCTGCAGACGGCCCTCGGCTACTACAACCAGAGCGAGGCCG   540
+DLA-64*001:05:01      CCCAGACCTCCCGATCCAACCTGCAGACGGCCCTCGGCTACTACAACCAGAGCGAGGCCG   540
+DLA-64*001:05:02      CCCAGACCTCCCGATCCAACCTGCAGACGGCTCTCGGCTACTACAACCAGAGCGAGGCCG   540
 
 DLA-64*001:01:01      GTGAGTGACCCGGGCCGGGTCCAGTTCACGAGTCCATGAACCCCCTTGCACAGCCTGGGG   600
+DLA-64*001:01:02      ------------------------------------------------------------   600
+DLA-64*001:01:03      ------------------------------------------------------------   600
 DLA-64*001:01:04      ------------------------------------------------------------   600
 DLA-64*001:02         GTGAGTGACCCGGGCCGGGTCCAGTTCACGAGTCCATGAACCCCCTTGCACAGCCTGGGG   600
+DLA-64*001:03         ------------------------------------------------------------   600
+DLA-64*001:04         ------------------------------------------------------------   600
+DLA-64*001:05:01      ------------------------------------------------------------   600
+DLA-64*001:05:02      ------------------------------------------------------------   600
 
 DLA-64*001:01:01      TCTCCCCGAGTTCCCGGGTCGGAGATTGACCCCCGGGCCAGGAGACCGTCCTGGCCCCCT   660
+DLA-64*001:01:02      ------------------------------------------------------------   660
+DLA-64*001:01:03      ------------------------------------------------------------   660
 DLA-64*001:01:04      ------------------------------------------------------------   660
 DLA-64*001:02         TCTCCCCGAGTTCCCGGGTCGGAGATTGACCCCCGGGCCAGGAGACCGTCCTGGCCCCCT   660
+DLA-64*001:03         ------------------------------------------------------------   660
+DLA-64*001:04         ------------------------------------------------------------   660
+DLA-64*001:05:01      ------------------------------------------------------------   660
+DLA-64*001:05:02      ------------------------------------------------------------   660
 
 DLA-64*001:01:01      ACGCGGGACGAGCCTGCAGGGACTTGCGGACAGTTTCCGAGGTCTCTGACCACTCGCCGG   720
+DLA-64*001:01:02      ------------------------------------------------------------   720
+DLA-64*001:01:03      ------------------------------------------------------------   720
 DLA-64*001:01:04      ------------------------------------------------------------   720
 DLA-64*001:02         ACGCGGGACGAGCCTGCAGGGACTTGCGGACAGTTTCCGAGGTCTCTGACCACTCGCCGG   720
+DLA-64*001:03         ------------------------------------------------------------   720
+DLA-64*001:04         ------------------------------------------------------------   720
+DLA-64*001:05:01      ------------------------------------------------------------   720
+DLA-64*001:05:02      ------------------------------------------------------------   720
 
 DLA-64*001:01:01      CCGTAGGTCCAATGCCAGGGGAGTCTAGGTGGACCGGGCTGACGGCGGGGACCGGGCTAC   780
+DLA-64*001:01:02      ------------------------------------------------------------   780
+DLA-64*001:01:03      ------------------------------------------------------------   780
 DLA-64*001:01:04      ------------------------------------------------------------   780
 DLA-64*001:02         CCGTAGGTCCAATGCCAGGGGAGTCTAGGTGGACCGGGCTGACGGCGGGGACCGGGCTAC   780
+DLA-64*001:03         ------------------------------------------------------------   780
+DLA-64*001:04         ------------------------------------------------------------   780
+DLA-64*001:05:01      ------------------------------------------------------------   780
+DLA-64*001:05:02      ------------------------------------------------------------   780
 
 DLA-64*001:01:01      CGGGGCGGGACTGACTGAGACGGGGGC-GGGGGGGGTTGCCCAGGGTCTCACACCTTCCA   840
+DLA-64*001:01:02      --------------------------------------------GGTCTCACACCTTCCA   840
+DLA-64*001:01:03      --------------------------------------------GGTCTCACACCTTCCA   840
 DLA-64*001:01:04      --------------------------------------------GGTCTCACACCTTCCA   840
 DLA-64*001:02         CGGGGCGGGACTGACTGAGACGGGGGCGGGGGGGGGTTGCCCAGGGTCTCACACCTTCCA   840
+DLA-64*001:03         --------------------------------------------GGTCTCACACCTTCCA   840
+DLA-64*001:04         --------------------------------------------GGTCTCACACCTTCCA   840
+DLA-64*001:05:01      --------------------------------------------GGTCTCACACCTTCCA   840
+DLA-64*001:05:02      --------------------------------------------GGTCTCACACCTTCCA   840
 
 DLA-64*001:01:01      GTGGACTTCGGGCTGCGACGTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATGAGCAGTT   900
+DLA-64*001:01:02      GTGGACTTCGGGCTGCGACGTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATGAGCAGTT   900
+DLA-64*001:01:03      GTGGACTTCGGGCTGCGACGTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATGAGCAGTT   900
 DLA-64*001:01:04      GTGGACTTCGGGCTGCGACGTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATGAGCAGTT   900
 DLA-64*001:02         GTGGACTTCGGGCTGCGACGTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATGAGCAGTT   900
+DLA-64*001:03         GTGGACTTCGGGCTGCGACGTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATGAGCAGTT   900
+DLA-64*001:04         GTGGACTTCGGGCTGCGACGTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATGAGCAGTT   900
+DLA-64*001:05:01      GTGGACTTCGGGCTGCGACGTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATGAGCAGTT   900
+DLA-64*001:05:02      GTGGACTTCGGGCTGCGACGTGGGGCCGGACGGGCGCCTCCTCCGCGGGTATGAGCAGTT   900
 
 DLA-64*001:01:01      CGCGTACGACGGCGCCGATTACCTGGCCCTGGACGAGGACCTGCGCTCCTGGACCGCGGC   960
+DLA-64*001:01:02      CGCGTACGACGGCGCCGATTACCTGGCCCTGGACGAGGACCTGCGCTCCTGGACCGCGGC   960
+DLA-64*001:01:03      CGCGTACGACGGCGCCGATTACCTGGCCCTGGACGAGGACCTGCGCTCCTGGACCGCGGC   960
 DLA-64*001:01:04      CGCGTACGACGGCGCGGATTACCTGGCCCTGGACGAGGACCTGCGCTCCTGGACCGCGGC   960
 DLA-64*001:02         CGCGTACGACGGCGCCGATTACCTGGCCCTGGACGAGGACCTGCGCTCCTGGACCGCGGC   960
+DLA-64*001:03         CGCGTACGACGGCGCCGATTACCTGGCCCTGGACGAGGACCTGCGCTCCTGGACCGCGGC   960
+DLA-64*001:04         CGCGTACGACGGCGCCGATTACCTGGCCCTGGACGAGGACCTGCGCTCCTGGACCGCGGC   960
+DLA-64*001:05:01      CGCGTACGACGGCGCCGATTACCTGGCCCTGGACGAGGACCTGCGCTCCTGGACCGCGGC   960
+DLA-64*001:05:02      CGCGTACGACGGCGCCGATTACCTGGCCCTGGACGAGGACCTGCGCTCCTGGACCGCGGC   960
 
 DLA-64*001:01:01      GGACGCGGCGGCGCAGATCACCCGGCGCAAGTGGGAGGCGGCGGGCGCGGCCCAGTACTA  1020
+DLA-64*001:01:02      GGACGCGGCGGCGCAGATCACCCGGCGCAAGTGGGAGGCGGCGGGCGCGGCCCAGTACTA  1020
+DLA-64*001:01:03      GGACGCGGCGGCGCAGATCACCCGGCGCAAGTGGGAGGCGGCGGGCGCGGCCCAGTACTA  1020
 DLA-64*001:01:04      GGACGCGGCGGCGCAGATCACCCGGCGCAAGTGGGAGGCGGCGGGCGCGGCCCAGTACTA  1020
 DLA-64*001:02         GGACGCGGCGGCGCAGATCACCCGGCGCAAGTGGGAGGCGGCGGGCGCGGCCCAGTACTA  1020
+DLA-64*001:03         GGACGCGGCGGCGCAGATCACCCGGCGCAAGTGGGAGGCGGCGGGCGCGGCCCAGTACTA  1020
+DLA-64*001:04         GGACGCGGCGGCGCAGATCACCCGGCGCAAGTGGGAGGCGGCGGGCGCGGCCCAGTACTA  1020
+DLA-64*001:05:01      GGACGCGGCGGCGCAGATCACCCGGCGCAAGTGGGAGGCGGCGGGCGCGGCCCAGTACTA  1020
+DLA-64*001:05:02      GGACGCGGCGGCGCAGATCACCCGGCGCAAGTGGGAGGCGGCGGGCGCGGCCCAGTACTA  1020
 
 DLA-64*001:01:01      CCGGGTATACCTGCAGGGGGAGTGCGTGCAGTCGCTCCTTAAGTACCTGGAGAGAGGGAA  1080
+DLA-64*001:01:02      CCGGGTATACCTGCAGGGGGAGTGCGTGCAGTCGCTCCTTAAGTACCTGGAGAGAGGGAA  1080
+DLA-64*001:01:03      CCGGGTATACCTGCAGGGGGAGTGCGTGCAGTCGCTTCTTAAGTACCTGGAGAGAGGGAA  1080
 DLA-64*001:01:04      CCGGGTATACCTGCAGGGGGAGTGCGTGCAGTCGCTCCTTAAGTACCTGGAGAGAGGGAA  1080
 DLA-64*001:02         CCGGGTATACCTGCAGGGGGAGTGCGTGCAGTCGCTCCTTAAGTACCTGGAGAGAGGGAA  1080
+DLA-64*001:03         CCGGGTATACCTGCAGGGGGAGTGCGTGCTGTCGCTCCTTAAGTACCTGGAGAGAGGGAA  1080
+DLA-64*001:04         CCGGGTATACCTGCAGGGGGAGTGCGTGCAGTCGCTCCTTAAGTACCTGGAGAGAGGGAA  1080
+DLA-64*001:05:01      CCGGGTATACCTGCAGGGGGAGTGCGTGCAGTCGCTCCTTAAGTACCTGGAGAGAGGGAA  1080
+DLA-64*001:05:02      CCGGGTATACCTGCAGGGGGAGTGCGTGCAGTCGCTCCTTAAGTACCTGGAGAGAGGGAA  1080
 
 DLA-64*001:01:01      AGAGACCCTGCAGCGCACAGGTCTGTGGGGCAGCTGGGACTCCGGGATCTCCCCTCCCGC  1140
+DLA-64*001:01:02      AGAGACCCTGCAGCGCACAG----------------------------------------  1140
+DLA-64*001:01:03      AGAGACCCTGCAGCGCACAG----------------------------------------  1140
 DLA-64*001:01:04      AGAGACCCTGCAGCGCACAG----------------------------------------  1140
 DLA-64*001:02         AGAGACCCTGCAGCTCACAGGTCTGTGGGGCAGCTGGGACTCCGGGATCTCCCCTCCCGC  1140
+DLA-64*001:03         AGAGACCCTGCAGCGCACAG----------------------------------------  1140
+DLA-64*001:04         AGAGACCCTGCAGCGCACAG----------------------------------------  1140
+DLA-64*001:05:01      AGAGACCCTGCAGCGCACAG----------------------------------------  1140
+DLA-64*001:05:02      AGAGACCCTGCAGCGCACAG----------------------------------------  1140
 
 DLA-64*001:01:01      TGGGGCTGTACCTCCTGCTATCCCTACAAAAAGGAAAATGGAATTGACACCAGAATTCCT  1200
+DLA-64*001:01:02      ------------------------------------------------------------  1200
+DLA-64*001:01:03      ------------------------------------------------------------  1200
 DLA-64*001:01:04      ------------------------------------------------------------  1200
 DLA-64*001:02         TGGGGCTGTACCTCCTGCTATCCCTACAAAAAGGAAAATGGAATTGACACCAGAATTCCT  1200
+DLA-64*001:03         ------------------------------------------------------------  1200
+DLA-64*001:04         ------------------------------------------------------------  1200
+DLA-64*001:05:01      ------------------------------------------------------------  1200
+DLA-64*001:05:02      ------------------------------------------------------------  1200
 
 DLA-64*001:01:01      CCCCTGCCCCACTTCTTGGATCCTGAAAGTGAAGACTTTCTTGGTTTTCAGTTCTGTACT  1260
+DLA-64*001:01:02      ------------------------------------------------------------  1260
+DLA-64*001:01:03      ------------------------------------------------------------  1260
 DLA-64*001:01:04      ------------------------------------------------------------  1260
 DLA-64*001:02         CCCCTGCCCCACTTCTT-------------------------------------------  1260
+DLA-64*001:03         ------------------------------------------------------------  1260
+DLA-64*001:04         ------------------------------------------------------------  1260
+DLA-64*001:05:01      ------------------------------------------------------------  1260
+DLA-64*001:05:02      ------------------------------------------------------------  1260
 
 DLA-64*001:01:01      AAAGAGAGACTCGCTCAGAAAACCCATCCTTCTCTCTGGACATTTAAGGGATCCAGTCTT  1320
+DLA-64*001:01:02      ------------------------------------------------------------  1320
+DLA-64*001:01:03      ------------------------------------------------------------  1320
 DLA-64*001:01:04      ------------------------------------------------------------  1320
 DLA-64*001:02         ------------------------------------------------GGATCCAGTCTT  1320
+DLA-64*001:03         ------------------------------------------------------------  1320
+DLA-64*001:04         ------------------------------------------------------------  1320
+DLA-64*001:05:01      ------------------------------------------------------------  1320
+DLA-64*001:05:02      ------------------------------------------------------------  1320
 
 DLA-64*001:01:01      TATGGAGAGGGATAGAGATATCTCTGAAATAATTTAATAGCAGATTTCTTTGACCCTGGC  1380
+DLA-64*001:01:02      ------------------------------------------------------------  1380
+DLA-64*001:01:03      ------------------------------------------------------------  1380
 DLA-64*001:01:04      ------------------------------------------------------------  1380
 DLA-64*001:02         TATGGAGAGGGATAGAGATATCTCTGAAATAATTTAATAGCAGATTTCTTTGACCCTGGC  1380
+DLA-64*001:03         ------------------------------------------------------------  1380
+DLA-64*001:04         ------------------------------------------------------------  1380
+DLA-64*001:05:01      ------------------------------------------------------------  1380
+DLA-64*001:05:02      ------------------------------------------------------------  1380
 
 DLA-64*001:01:01      ATTCACCTTGGGCACCACTGACTGACTTCCTCCCTCAGGCCTTGCTCCCTGTCCCACACC  1440
+DLA-64*001:01:02      ------------------------------------------------------------  1440
+DLA-64*001:01:03      ------------------------------------------------------------  1440
 DLA-64*001:01:04      ------------------------------------------------------------  1440
 DLA-64*001:02         ATTCACCTTGGGCACCACTGACTGACTTCCTCCCTCAGGCCTTGCTCCCTGTCCCACACC  1440
+DLA-64*001:03         ------------------------------------------------------------  1440
+DLA-64*001:04         ------------------------------------------------------------  1440
+DLA-64*001:05:01      ------------------------------------------------------------  1440
+DLA-64*001:05:02      ------------------------------------------------------------  1440
 
 DLA-64*001:01:01      CCACTTAATTGGAGGTCTGCCTCCAGGTTTTAAGAGGCACTGGACTTCCTCTACCTAGGT  1500
+DLA-64*001:01:02      ------------------------------------------------------------  1500
+DLA-64*001:01:03      ------------------------------------------------------------  1500
 DLA-64*001:01:04      ------------------------------------------------------------  1500
 DLA-64*001:02         CCACTTAATTGGAGGTCTGCCTCCAGGTTTTAAGAGGCACTGGACTTCCTCTACCTAGGT  1500
+DLA-64*001:03         ------------------------------------------------------------  1500
+DLA-64*001:04         ------------------------------------------------------------  1500
+DLA-64*001:05:01      ------------------------------------------------------------  1500
+DLA-64*001:05:02      ------------------------------------------------------------  1500
 
 DLA-64*001:01:01      CAGGACCAGAAGTCTCTGTTGTCCCACTCAGAGACCTGGAACTTCCTACCTTAGGCTATC  1560
+DLA-64*001:01:02      ------------------------------------------------------------  1560
+DLA-64*001:01:03      ------------------------------------------------------------  1560
 DLA-64*001:01:04      ------------------------------------------------------------  1560
 DLA-64*001:02         CAGGACCAGAAGTCTCTGTTGTCCCACTCAGAGACCTGGAACTTCCTACCTTAGGCTATC  1560
+DLA-64*001:03         ------------------------------------------------------------  1560
+DLA-64*001:04         ------------------------------------------------------------  1560
+DLA-64*001:05:01      ------------------------------------------------------------  1560
+DLA-64*001:05:02      ------------------------------------------------------------  1560
 
 DLA-64*001:01:01      TTATCCTGATTCTAGATCTTCCAAAGGGATAGGAAGGTATCCCAGATCCTGGAGTTCAGG  1620
+DLA-64*001:01:02      ------------------------------------------------------------  1620
+DLA-64*001:01:03      ------------------------------------------------------------  1620
 DLA-64*001:01:04      ------------------------------------------------------------  1620
 DLA-64*001:02         TTATCCTGATTCTAGATCTTCCAAAGGGATAGGAAGGTATCCCAGATCCTGGAGTTCAGG  1620
+DLA-64*001:03         ------------------------------------------------------------  1620
+DLA-64*001:04         ------------------------------------------------------------  1620
+DLA-64*001:05:01      ------------------------------------------------------------  1620
+DLA-64*001:05:02      ------------------------------------------------------------  1620
 
 DLA-64*001:01:01      CTGGTGTCTGTATTTTGCACTCCCTCTCCCCCATTTGTCCTCTTCATTCTCAGCATGGTC  1680
+DLA-64*001:01:02      ------------------------------------------------------------  1680
+DLA-64*001:01:03      ------------------------------------------------------------  1680
 DLA-64*001:01:04      ------------------------------------------------------------  1680
 DLA-64*001:02         CTGGTGTCTGTATTTTGCACTCCCTCTCCCCCATTTGTCCTCTTCATTCTCAGCATGGTC  1680
+DLA-64*001:03         ------------------------------------------------------------  1680
+DLA-64*001:04         ------------------------------------------------------------  1680
+DLA-64*001:05:01      ------------------------------------------------------------  1680
+DLA-64*001:05:02      ------------------------------------------------------------  1680
 
 DLA-64*001:01:01      ACAACAGTGCTGCTTAGGTGGCCCACCCGGTATAATGCAAATTTGTAAATTTTCTGACCC  1740
+DLA-64*001:01:02      ------------------------------------------------------------  1740
+DLA-64*001:01:03      ------------------------------------------------------------  1740
 DLA-64*001:01:04      ------------------------------------------------------------  1740
 DLA-64*001:02         ACAACAGTGCTGCTTAGGTGGCCCACCCGGTATAATGCAAATTTGTAAATTTTCTGACCC  1740
+DLA-64*001:03         ------------------------------------------------------------  1740
+DLA-64*001:04         ------------------------------------------------------------  1740
+DLA-64*001:05:01      ------------------------------------------------------------  1740
+DLA-64*001:05:02      ------------------------------------------------------------  1740
 
 DLA-64*001:01:01      TTCTCCTTAGATCCTCCAAAAATCTACCTGACCCGCCACCCCATCTCTGACCATGAGGTC  1800
+DLA-64*001:01:02      ------------------------------------------------------------  1800
+DLA-64*001:01:03      ------------------------------------------------------------  1800
 DLA-64*001:01:04      ------------------------------------------------------------  1800
 DLA-64*001:02         TTCTCCTTAGATCCTCCAAAAATCTACCTGACCCGCCACCCCATCTCTGACCATGAGGTC  1800
+DLA-64*001:03         ------------------------------------------------------------  1800
+DLA-64*001:04         ------------------------------------------------------------  1800
+DLA-64*001:05:01      ------------------------------------------------------------  1800
+DLA-64*001:05:02      ------------------------------------------------------------  1800
 
 DLA-64*001:01:01      ACCCTGAGGTGCTGGGCGCTGGGCTTCTACCCTGCGGAGATCACCCTGACCTGGCAGCGG  1860
+DLA-64*001:01:02      ------------------------------------------------------------  1860
+DLA-64*001:01:03      ------------------------------------------------------------  1860
 DLA-64*001:01:04      ------------------------------------------------------------  1860
 DLA-64*001:02         ACCCTGAGGTGCTGGGCGCTGGGCTTCTACCCTGCGGAGATCACCCTGACCTGGCAGCGG  1860
+DLA-64*001:03         ------------------------------------------------------------  1860
+DLA-64*001:04         ------------------------------------------------------------  1860
+DLA-64*001:05:01      ------------------------------------------------------------  1860
+DLA-64*001:05:02      ------------------------------------------------------------  1860
 
 DLA-64*001:01:01      GATGGGGAGGACCAGACCCAGGACACAGAGGTTGTGGACACCAGGCCTGCAGGAGATGGG  1920
+DLA-64*001:01:02      ------------------------------------------------------------  1920
+DLA-64*001:01:03      ------------------------------------------------------------  1920
 DLA-64*001:01:04      ------------------------------------------------------------  1920
 DLA-64*001:02         GATGGGGAGGACCAGACCCAGGACACAGAGGTTGTGGACACCAGGCCTGCAGGAGATGGG  1920
+DLA-64*001:03         ------------------------------------------------------------  1920
+DLA-64*001:04         ------------------------------------------------------------  1920
+DLA-64*001:05:01      ------------------------------------------------------------  1920
+DLA-64*001:05:02      ------------------------------------------------------------  1920
 
 DLA-64*001:01:01      ACCTTCCAGAAGTGGGCAGCTGTGGTGGTGCCCTCTGGACAGGAGCAGAGATACACGTGC  1980
+DLA-64*001:01:02      ------------------------------------------------------------  1980
+DLA-64*001:01:03      ------------------------------------------------------------  1980
 DLA-64*001:01:04      ------------------------------------------------------------  1980
 DLA-64*001:02         ACCTTCCAGAAGTGGGCAGCTGTGGTGGTGCCCTCTGGACAGGAGCAGAGATACACGTGC  1980
+DLA-64*001:03         ------------------------------------------------------------  1980
+DLA-64*001:04         ------------------------------------------------------------  1980
+DLA-64*001:05:01      ------------------------------------------------------------  1980
+DLA-64*001:05:02      ------------------------------------------------------------  1980
 
 DLA-64*001:01:01      CACGTGCAGCATGAGGGGCTGGCGGAGCCTGTCACGCGGAGATGGGGTAAGGAGGGCCTC  2040
+DLA-64*001:01:02      ------------------------------------------------------------  2040
+DLA-64*001:01:03      ------------------------------------------------------------  2040
 DLA-64*001:01:04      ------------------------------------------------------------  2040
 DLA-64*001:02         CACGTGCAGCATGAGGGGCTGGCGGAGCCTGTCACGCGGAGATGGGGTAAGGAGGGCCTC  2040
+DLA-64*001:03         ------------------------------------------------------------  2040
+DLA-64*001:04         ------------------------------------------------------------  2040
+DLA-64*001:05:01      ------------------------------------------------------------  2040
+DLA-64*001:05:02      ------------------------------------------------------------  2040
 
 DLA-64*001:01:01      GGGGTAGAGCTTCTACTCAGGGCAAGTGGAGCTCTTCTGGAGAATTTCAGCAGAGTCAGG  2100
+DLA-64*001:01:02      ------------------------------------------------------------  2100
+DLA-64*001:01:03      ------------------------------------------------------------  2100
 DLA-64*001:01:04      ------------------------------------------------------------  2100
 DLA-64*001:02         GGGGTAGAGCTTCTACTCAGGGCAAGTGGAGCTCTTCTGGAGAATTTCAGCAGAGTCAGG  2100
+DLA-64*001:03         ------------------------------------------------------------  2100
+DLA-64*001:04         ------------------------------------------------------------  2100
+DLA-64*001:05:01      ------------------------------------------------------------  2100
+DLA-64*001:05:02      ------------------------------------------------------------  2100
 
 DLA-64*001:01:01      TCTCAAGTCAGAGGCTGGACCCTCATCCTCCCTCCCCTTTCCAGAGCCTTCCCCTCTGTC  2160
+DLA-64*001:01:02      ------------------------------------------------------------  2160
+DLA-64*001:01:03      ------------------------------------------------------------  2160
 DLA-64*001:01:04      ------------------------------------------------------------  2160
 DLA-64*001:02         TCTCAAGTCAGAGGCTGGACCCTCATCCTCCCTCCCCTTTCCAGAGCCTTCCCCTCTGTC  2160
+DLA-64*001:03         ------------------------------------------------------------  2160
+DLA-64*001:04         ------------------------------------------------------------  2160
+DLA-64*001:05:01      ------------------------------------------------------------  2160
+DLA-64*001:05:02      ------------------------------------------------------------  2160
 
 DLA-64*001:01:01      CACCATTGTCATCGTCAGCATTGCTGCTCTGGTTCTCCTCGTGGTCGCTGGGGTGATTGG  2220
+DLA-64*001:01:02      ------------------------------------------------------------  2220
+DLA-64*001:01:03      ------------------------------------------------------------  2220
 DLA-64*001:01:04      ------------------------------------------------------------  2220
 DLA-64*001:02         CACCATTGTCATCGTCAGCATTGCTGCTCTGGTTCTCCTCGTGGTCGCTGGGGTGATTGG  2220
+DLA-64*001:03         ------------------------------------------------------------  2220
+DLA-64*001:04         ------------------------------------------------------------  2220
+DLA-64*001:05:01      ------------------------------------------------------------  2220
+DLA-64*001:05:02      ------------------------------------------------------------  2220
 
 DLA-64*001:01:01      AGCTGTGATCTGGAGGAAGCAGCGCTCGGGTAGGGAACCGACTGAATACTCTGTGTTTTC  2280
+DLA-64*001:01:02      ------------------------------------------------------------  2280
+DLA-64*001:01:03      ------------------------------------------------------------  2280
 DLA-64*001:01:04      ------------------------------------------------------------  2280
 DLA-64*001:02         AGCTGTGATCTGGAGGAAGCAGCGCTCGGGTAGGGAACCGACTGAATACTCTGTGTTTTC  2280
+DLA-64*001:03         ------------------------------------------------------------  2280
+DLA-64*001:04         ------------------------------------------------------------  2280
+DLA-64*001:05:01      ------------------------------------------------------------  2280
+DLA-64*001:05:02      ------------------------------------------------------------  2280
 
 DLA-64*001:01:01      CTGTCCTGTTGGGGGTTTCCTAGGGAGCACGCTGTCCTGCCTTGTTAACGGGAGGTGCCG  2340
+DLA-64*001:01:02      ------------------------------------------------------------  2340
+DLA-64*001:01:03      ------------------------------------------------------------  2340
 DLA-64*001:01:04      ------------------------------------------------------------  2340
 DLA-64*001:02         CTGTCCTGTTGGGGGTTTCCTAGGGAGCACGCTGTCCTGCCTTGTTAACGGGAGGTGCCG  2340
+DLA-64*001:03         ------------------------------------------------------------  2340
+DLA-64*001:04         ------------------------------------------------------------  2340
+DLA-64*001:05:01      ------------------------------------------------------------  2340
+DLA-64*001:05:02      ------------------------------------------------------------  2340
 
 DLA-64*001:01:01      TCCATACACGGTTACTCTCCCACACTGGAGCTGTGTACTCACACTCACTGTGCAGCAAAC  2400
+DLA-64*001:01:02      ------------------------------------------------------------  2400
+DLA-64*001:01:03      ------------------------------------------------------------  2400
 DLA-64*001:01:04      ------------------------------------------------------------  2400
 DLA-64*001:02         TCCATACACGGTTACTCTCCCACACTGGAGCTGTGTACTCACACTCACTGTGCAGCAAAC  2400
+DLA-64*001:03         ------------------------------------------------------------  2400
+DLA-64*001:04         ------------------------------------------------------------  2400
+DLA-64*001:05:01      ------------------------------------------------------------  2400
+DLA-64*001:05:02      ------------------------------------------------------------  2400
 
 DLA-64*001:01:01      ACTTGGGAAAATGAAGGCCAGAGTTTCGCCTTGGTGATTCTGGTGACGGGGACTGATTCC  2460
+DLA-64*001:01:02      ------------------------------------------------------------  2460
+DLA-64*001:01:03      ------------------------------------------------------------  2460
 DLA-64*001:01:04      ------------------------------------------------------------  2460
 DLA-64*001:02         ACTTGGGAAAATGAAGGCCAGAGTTTCGCCTTGGTGATTCTGGTGACGGGGACTGATTCC  2460
+DLA-64*001:03         ------------------------------------------------------------  2460
+DLA-64*001:04         ------------------------------------------------------------  2460
+DLA-64*001:05:01      ------------------------------------------------------------  2460
+DLA-64*001:05:02      ------------------------------------------------------------  2460
 
 DLA-64*001:01:01      CAGCCGTCACAGGACAGAGCGGAAGGCCCCTGCTGAGGACAGACCTCCAGCAAGTCAGGT  2520
+DLA-64*001:01:02      ------------------------------------------------------------  2520
+DLA-64*001:01:03      ------------------------------------------------------------  2520
 DLA-64*001:01:04      ------------------------------------------------------------  2520
 DLA-64*001:02         CAGCCGTCACAGGACAGAGCGGAAGGCCCCTGCTGAGGACAGACCTCCAGCAAGTCAGGT  2520
+DLA-64*001:03         ------------------------------------------------------------  2520
+DLA-64*001:04         ------------------------------------------------------------  2520
+DLA-64*001:05:01      ------------------------------------------------------------  2520
+DLA-64*001:05:02      ------------------------------------------------------------  2520
 
 DLA-64*001:01:01      GGTCCAGTGACCCCTCACCTCATGGCTTGTCTCCTGACCCTGACCTGGGCGGTCAGTCAG  2580
+DLA-64*001:01:02      ------------------------------------------------------------  2580
+DLA-64*001:01:03      ------------------------------------------------------------  2580
 DLA-64*001:01:04      ------------------------------------------------------------  2580
 DLA-64*001:02         GGTCCAGTGACCCCTCACCTCATGGCTTGTCTCCTGACCCTGACCTGGGCGGTCAGTCAG  2580
+DLA-64*001:03         ------------------------------------------------------------  2580
+DLA-64*001:04         ------------------------------------------------------------  2580
+DLA-64*001:05:01      ------------------------------------------------------------  2580
+DLA-64*001:05:02      ------------------------------------------------------------  2580
 
 DLA-64*001:01:01      AATTCTGCAGACTCACTCTGCACCAGGACTGGGAGCTTCCTCGAGGATCTCCTGGCCCAG  2640
+DLA-64*001:01:02      ------------------------------------------------------------  2640
+DLA-64*001:01:03      ------------------------------------------------------------  2640
 DLA-64*001:01:04      ------------------------------------------------------------  2640
 DLA-64*001:02         AATTCTGCAGACTCACTCTGCACCAGGACTGGGAGCTTCCTCGAGGATCTCCTGGCCCAG  2640
+DLA-64*001:03         ------------------------------------------------------------  2640
+DLA-64*001:04         ------------------------------------------------------------  2640
+DLA-64*001:05:01      ------------------------------------------------------------  2640
+DLA-64*001:05:02      ------------------------------------------------------------  2640
 
 DLA-64*001:01:01      CCCTGTGCCCGGCCTCTCACATGATGTTTTCTTCCCACACAGGAGGAAAAGGACCAGGCT  2700
+DLA-64*001:01:02      ------------------------------------------------------------  2700
+DLA-64*001:01:03      ------------------------------------------------------------  2700
 DLA-64*001:01:04      ------------------------------------------------------------  2700
 DLA-64*001:02         CCCTGTGCCCGGCCTCTCACATGATGTTTTCTTCCCACACAGGAGGAAAAGGACCAGGCT  2700
+DLA-64*001:03         ------------------------------------------------------------  2700
+DLA-64*001:04         ------------------------------------------------------------  2700
+DLA-64*001:05:01      ------------------------------------------------------------  2700
+DLA-64*001:05:02      ------------------------------------------------------------  2700
 
 DLA-64*001:01:01      ACTCTCATGCTGCACGTGAGTATGCAGGGAGTGATCCCTGAGACCCCGGGGGAGTGTAGA  2760
+DLA-64*001:01:02      ------------------------------------------------------------  2760
+DLA-64*001:01:03      ------------------------------------------------------------  2760
 DLA-64*001:01:04      ------------------------------------------------------------  2760
 DLA-64*001:02         ACTCTCATGCTGCACGTGAGTATGCAGGGAGTGATCCCTGAGACCCCGGGGGAGTGTAGA  2760
+DLA-64*001:03         ------------------------------------------------------------  2760
+DLA-64*001:04         ------------------------------------------------------------  2760
+DLA-64*001:05:01      ------------------------------------------------------------  2760
+DLA-64*001:05:02      ------------------------------------------------------------  2760
 
 DLA-64*001:01:01      CAGGACCCCATGGGGAGCTCACCCCCACAGCTGCTCCTTTAGTCTCACCTCCTGTGAGCT  2820
+DLA-64*001:01:02      ------------------------------------------------------------  2820
+DLA-64*001:01:03      ------------------------------------------------------------  2820
 DLA-64*001:01:04      ------------------------------------------------------------  2820
 DLA-64*001:02         CAGGACCCCATGGGGAGCTCACCCCCACAGCTGCTCCTTTAGTCTCACCTCCTGTGAGCT  2820
+DLA-64*001:03         ------------------------------------------------------------  2820
+DLA-64*001:04         ------------------------------------------------------------  2820
+DLA-64*001:05:01      ------------------------------------------------------------  2820
+DLA-64*001:05:02      ------------------------------------------------------------  2820
 
 DLA-64*001:01:01      CTGACCACGTCCTGTTTATTCTCCTCTAGGTGATGACAGTGCCCAGGGCTCTGATGTGTC  2880
+DLA-64*001:01:02      ------------------------------------------------------------  2880
+DLA-64*001:01:03      ------------------------------------------------------------  2880
 DLA-64*001:01:04      ------------------------------------------------------------  2880
 DLA-64*001:02         CTGACCACGTCCTGTTTATTCTCCTCTAGGTGATGACAGTGCCCAGGGCTCTGATGTGTC  2880
+DLA-64*001:03         ------------------------------------------------------------  2880
+DLA-64*001:04         ------------------------------------------------------------  2880
+DLA-64*001:05:01      ------------------------------------------------------------  2880
+DLA-64*001:05:02      ------------------------------------------------------------  2880
 
 DLA-64*001:01:01      TCTGACAGCTCCTAGAGGTGAGACCCCAGAGACCCTGAAGTGGGGAGGGTTGGGGCACTG  2940
+DLA-64*001:01:02      ------------------------------------------------------------  2940
+DLA-64*001:01:03      ------------------------------------------------------------  2940
 DLA-64*001:01:04      ------------------------------------------------------------  2940
 DLA-64*001:02         TCTGACAGCTCCTAGAGGTGAGACCCCAGAGACCCTGAAGTGGGGAGGGTTGGGGCACTG  2940
+DLA-64*001:03         ------------------------------------------------------------  2940
+DLA-64*001:04         ------------------------------------------------------------  2940
+DLA-64*001:05:01      ------------------------------------------------------------  2940
+DLA-64*001:05:02      ------------------------------------------------------------  2940
 
 DLA-64*001:01:01      GGGACCAGATGAGCACGAGGGGGCTGTTGAGAATGTCAGCACTTATGTGACCGACCTCAC  3000
+DLA-64*001:01:02      ------------------------------------------------------------  3000
+DLA-64*001:01:03      ------------------------------------------------------------  3000
 DLA-64*001:01:04      ------------------------------------------------------------  3000
 DLA-64*001:02         GGGACCAGATGAGCACGAGGGGGCTGTTGAGAATGTCAGCACTTATGTGACCGACCTCAC  3000
+DLA-64*001:03         ------------------------------------------------------------  3000
+DLA-64*001:04         ------------------------------------------------------------  3000
+DLA-64*001:05:01      ------------------------------------------------------------  3000
+DLA-64*001:05:02      ------------------------------------------------------------  3000
 
 DLA-64*001:01:01      AGTACCGACAATTTGTACTTGATTTTTTCTCACAGTGTGA  3040
+DLA-64*001:01:02      ----------------------------------------  3040
+DLA-64*001:01:03      ----------------------------------------  3040
 DLA-64*001:01:04      ----------------------------------------  3040
 DLA-64*001:02         AGTACCGACAATTTGTACTTGATTTTTTCTCACAGTGTGA  3040
+DLA-64*001:03         ----------------------------------------  3040
+DLA-64*001:04         ----------------------------------------  3040
+DLA-64*001:05:01      ----------------------------------------  3040
+DLA-64*001:05:02      ----------------------------------------  3040
 
