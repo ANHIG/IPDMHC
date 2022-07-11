@@ -1,80 +1,84 @@
-HLA-B*07:02:01:01     MLVMAPRTVLLLLSAA--------LALTETWA-------------------GSHSMRYF-    60
-Mafa-B21Ps*01:01:01:01---MVPRTFLLLLSGA--------LALTETWA-------------------GSHSLRCF-    60
-Mafa-B21Ps*01:01:02:01---MVPRTFLLLLSGA--------LALTETWA-------------------GSHSLRCF-    60
-Mafa-B21Ps*01:01:02:02---MVPRTFLLLLSGA--------LALTETWA-------------------GSHSLRCF-    60
-Mafa-B21Ps*01:02      ----------------------------------------------------SHSLRCF-    60
-Mafa-B21Ps*01:03:01:01---MVPRTFLLLLSGA--------LALTETWA-------------------GSHSLRCF-    60
-Mafa-B21Ps*01:04:01:01---GAPNLPPAALGGPGPDRDLGRLALLEVFQRRHVPARPRGAALHRRGLRGRHAVRAVR    60
-Mafa-B21Ps*01:05:01:01---GAPNLPPAALGGPGPDRDLGRLALLEVFQRRHVPARPRGAPLHRRGLRGRHAVPAVR    60
-Mafa-B21Ps*01:06:01:01----------------------------------------------------SHSLRYF-    60
+HLA-B*07:02:01:01     MLVMAPRTVLLLLSAALALTETWAGSHSMRYFYTSVSRPGRGEPRFISVGYVDDTQFVRF    60
+Mafa-B21Ps*01:01:01:01---MVPRTFLLLLSGALALTETWAGSHSLRCFSAGTSRPGHWEPRFIAVGYVDDTQFLRF    60
+Mafa-B21Ps*01:01:02:01---MVPRTFLLLLSGALALTETWAGSHSLRCFSAGTSRPGHWEPRFIAVGYVDDTQFLRF    60
+Mafa-B21Ps*01:01:02:02---MVPRTFLLLLSGALALTETWAGSHSLRCFSAGTSRPGHWEPRFIAVGYVDDTQFLRF    60
+Mafa-B21Ps*01:02      -------------------------SHSLRCFSAGTSRPGHWEPRFIAVGYVDDTQFLRF    60
+Mafa-B21Ps*01:03:01:01---MVPRTFLLLLSGALALTETWAGSHSLRCFSAGTSRPGHWEPRFIAVGYVDDTQFLRF    60
+Mafa-B21Ps*01:04:01:01---MVPRTFLLLLSGALALTETWAGSHSLRYFSAGTSRPGRGEPRFIAVGYVDDTQFVRF    60
+Mafa-B21Ps*01:05:01:01---MVPRTFLLLLSGALALTETWAGSHSLRYFSAGTSRPGRGEPRFIAVGYVDDTQFLRF    60
+Mafa-B21Ps*01:05:02:01---MVPRTFLLLLSGALALTETWAGSHSLRYFSAGTSRPGRGEPRFIAVGYVDDTQFLRF    60
+Mafa-B21Ps*01:06:01:01-------------------------SHSLRYFSAGRSRPGHWEPRFIAVGYVDDTQFVRF    60
+Mafa-B21Ps*01:07:01:01---MVPRTFLLLLSGALALTETWAGSHSLRCFSAGTSRPGRGEPRFIAVGYVDDTQFVRF    60
 
-HLA-B*07:02:01:01     ------------------------YTSVSRPGRGEPRFISVGYVDDTQFVRFDSDAASP-   120
-Mafa-B21Ps*01:01:01:01------------------------SAGTSRPGHWEPRFIAVGYVDDTQFLRFDSDAASP-   120
-Mafa-B21Ps*01:01:02:01------------------------SAGTSRPGHWEPRFIAVGYVDDTQFLRFDSDAASP-   120
-Mafa-B21Ps*01:01:02:02------------------------SAGTSRPGHWEPRFIAVGYVDDTQFLRFDSDAASP-   120
-Mafa-B21Ps*01:02      ------------------------SAGTSRPGHWEPRFIAVGYVDDTQFLRFDSDAASP-   120
-Mafa-B21Ps*01:03:01:01------------------------SAGTSRPGHWEPRFIAVGYVDDTQFLRFDRDAASP-   120
-Mafa-B21Ps*01:04:01:01QRRRESKDGVAGAVVGAGGAGVLGRADRARQGH---------------HTVFPSEPAEPA   120
-Mafa-B21Ps*01:05:01:01QRRRESKDGVAGAVVGAGGAGVLGRADRARQGH---------------HTVFPSEPAEPA   120
-Mafa-B21Ps*01:06:01:01------------------------SAGRSRPGHWEPRFIAVGYVDDTQFVRFDSDAASP-   120
+HLA-B*07:02:01:01     DSDAASPREEPRAPWIEQEGPEYWDRNTQIYKAQAQTDRESLRNLRGYYNQSEAGSHTLQ   120
+Mafa-B21Ps*01:01:01:01DSDAASPRMESRAPWLEQEGPEYX------------------------------------   120
+Mafa-B21Ps*01:01:02:01DSDAASPRMESRAPWLEQEGPEYX------------------------------------   120
+Mafa-B21Ps*01:01:02:02DSDAASPRMESRAPWLEQEGPEYX------------------------------------   120
+Mafa-B21Ps*01:02      DSDAASPRMESRAPWLEQEGPEYX------------------------------------   120
+Mafa-B21Ps*01:03:01:01DRDAASPRMESRAPWLEQEGPEYX------------------------------------   120
+Mafa-B21Ps*01:04:01:01DSDAASPRMESRAPWLEQEGPEYWEEQTELAKDITQSFRVSLRNLRGYYNQSEAGSHTLQ   120
+Mafa-B21Ps*01:05:01:01DSDAASPRMESRAPWLEQEGPEYWEEQTELAKDITQSFRVSLRNLRGYYNQSEAGSHTLQ   120
+Mafa-B21Ps*01:05:02:01DSDAASPRMESRAPWLEQEGPEYWEEQTELAKDITQSFRVSLRNRRGYYNQSEAGSHTLQ   120
+Mafa-B21Ps*01:06:01:01DSDAASPRMESRAPWLEQEGPEYWEEQTGLAKNITQFFRVGLGNLRGYYNQSEAGSHTIQ   120
+Mafa-B21Ps*01:07:01:01DSDAASPRMESRAPWLEQEGPEYWEEQTELAKDITQSFRVSLGTALRYYNQSEAGSHTIQ   120
 
-HLA-B*07:02:01:01     -----------------REEP---RAP-------WIEQEGPEYWDRNTQIYKAQAQTDRE   180
-Mafa-B21Ps*01:01:01:01-----------------RMES---RAP-------WLEQEGPEYX----------------   180
-Mafa-B21Ps*01:01:02:01-----------------RMES---RAP-------WLEQEGPEYX----------------   180
-Mafa-B21Ps*01:01:02:02-----------------RMES---RAP-------WLEQEGPEYX----------------   180
-Mafa-B21Ps*01:02      -----------------RMES---RAP-------WLEQEGPEYX----------------   180
-Mafa-B21Ps*01:03:01:01-----------------RMES---RAP-------WLEQEGPEYX----------------   180
-Mafa-B21Ps*01:04:01:01RLLQPERGRVSHPPVDIRLRPGTRRAPPPRVSAVRLRRQGLHRSERGPALLN--------   180
-Mafa-B21Ps*01:05:01:01RLLQPERGRVSHPPVDIRLRPGTRRAPPPRVSAVRLRRQGLHRSERGPALLN--------   180
-Mafa-B21Ps*01:06:01:01-----------------RMES---RAP-------WLEQEGPEYWEEQTGLAKNITQFFRV   180
+HLA-B*07:02:01:01     SMYGCDVGPDGRLLRGHDQYAYDGKDYIALNEDLRSWTAADTAAQITQRKWEAAREAEQR   180
+Mafa-B21Ps*01:01:01:01------------------------------------------------------------   180
+Mafa-B21Ps*01:01:02:01------------------------------------------------------------   180
+Mafa-B21Ps*01:01:02:02------------------------------------------------------------   180
+Mafa-B21Ps*01:02      ------------------------------------------------------------   180
+Mafa-B21Ps*01:03:01:01------------------------------------------------------------   180
+Mafa-B21Ps*01:04:01:01WIYGCDLGPDGHLLRGYQQFAYDGKDYIALNEDLRSX-----------------------   180
+Mafa-B21Ps*01:05:01:01WIYGCDLGPDGHLLRGYQQFAYDGKDYIALNEDLRSX-----------------------   180
+Mafa-B21Ps*01:05:02:01WIYGCDLGPDGHLLRGYQQFAYDGKDYIALNEDLRSX-----------------------   180
+Mafa-B21Ps*01:06:01:01RMYGCDLGPDGHLLRGYHQFAYDGKDYIALNEDLRSX-----------------------   180
+Mafa-B21Ps*01:07:01:01RMYGCDLGPDGHLLRGYHQFAYDGKDYIALNEDLRSX-----------------------   180
 
-HLA-B*07:02:01:01     SLRNLRGYYNQSEAGSHTLQSMYGCDVGPDGRLLRGHDQYAYDGKDYIALNEDLRSWTAA   240
+HLA-B*07:02:01:01     RAYLEGECVEWLRRYLENGKDKLERADPPKTHVTHHPISDHEATLRCWALGFYPAEITLT   240
 Mafa-B21Ps*01:01:01:01------------------------------------------------------------   240
 Mafa-B21Ps*01:01:02:01------------------------------------------------------------   240
 Mafa-B21Ps*01:01:02:02------------------------------------------------------------   240
 Mafa-B21Ps*01:02      ------------------------------------------------------------   240
 Mafa-B21Ps*01:03:01:01------------------------------------------------------------   240
-Mafa-B21Ps*01:04:01:01-----RGRHGGSE---HPAQ----VGGGPRGRAVE-----SPPGGRVRAVAPETPGEREG   240
-Mafa-B21Ps*01:05:01:01-----RGRHGGSE---HPAQ----VGGGPRGRAVE-----SPPGGRVRAVAPETPGEREG   240
-Mafa-B21Ps*01:06:01:01GLGNLRGYYNQSEAGSHTIQRMYGCDLGPDGHLLRGYHQFAYDGKDYIALNEDLRSX---   240
+Mafa-B21Ps*01:04:01:01------------------------------------------------------------   240
+Mafa-B21Ps*01:05:01:01------------------------------------------------------------   240
+Mafa-B21Ps*01:05:02:01------------------------------------------------------------   240
+Mafa-B21Ps*01:06:01:01------------------------------------------------------------   240
+Mafa-B21Ps*01:07:01:01------------------------------------------------------------   240
 
-HLA-B*07:02:01:01     DTAAQITQRKWEAAREAEQRRAYLEGECVEWLRRYLENGKDKLERADPPKTHVTHHPISD   300
+HLA-B*07:02:01:01     WQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHEGLPKPLTLRWEP   300
 Mafa-B21Ps*01:01:01:01------------------------------------------------------------   300
 Mafa-B21Ps*01:01:02:01------------------------------------------------------------   300
 Mafa-B21Ps*01:01:02:02------------------------------------------------------------   300
 Mafa-B21Ps*01:02      ------------------------------------------------------------   300
 Mafa-B21Ps*01:03:01:01------------------------------------------------------------   300
-Mafa-B21Ps*01:04:01:01DTAA----------------------------RRSPKDTRDP-----PPR----------   300
-Mafa-B21Ps*01:05:01:01DTAA----------------------------RRSPKDTRDP-----PPR----------   300
+Mafa-B21Ps*01:04:01:01------------------------------------------------------------   300
+Mafa-B21Ps*01:05:01:01------------------------------------------------------------   300
+Mafa-B21Ps*01:05:02:01------------------------------------------------------------   300
 Mafa-B21Ps*01:06:01:01------------------------------------------------------------   300
+Mafa-B21Ps*01:07:01:01------------------------------------------------------------   300
 
-HLA-B*07:02:01:01     HEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQR   360
+HLA-B*07:02:01:01     SSQSTVPIVGIVAGLAVLAVVVIGAVVAAVMCRRKSSGGKGGSYSQAACSDSAQGSDVSL   360
 Mafa-B21Ps*01:01:01:01------------------------------------------------------------   360
 Mafa-B21Ps*01:01:02:01------------------------------------------------------------   360
 Mafa-B21Ps*01:01:02:02------------------------------------------------------------   360
 Mafa-B21Ps*01:02      ------------------------------------------------------------   360
 Mafa-B21Ps*01:03:01:01------------------------------------------------------------   360
-Mafa-B21Ps*01:04:01:01------------------------------------LRPX--------------------   360
-Mafa-B21Ps*01:05:01:01------------------------------------LRPX--------------------   360
+Mafa-B21Ps*01:04:01:01------------------------------------------------------------   360
+Mafa-B21Ps*01:05:01:01------------------------------------------------------------   360
+Mafa-B21Ps*01:05:02:01------------------------------------------------------------   360
 Mafa-B21Ps*01:06:01:01------------------------------------------------------------   360
+Mafa-B21Ps*01:07:01:01------------------------------------------------------------   360
 
-HLA-B*07:02:01:01     YTCHVQHEGLPKPLTLRWEPSSQSTVPIVGIVAGLAVLAVVVIGAVVAAVMCRRKSSGGK   420
-Mafa-B21Ps*01:01:01:01------------------------------------------------------------   420
-Mafa-B21Ps*01:01:02:01------------------------------------------------------------   420
-Mafa-B21Ps*01:01:02:02------------------------------------------------------------   420
-Mafa-B21Ps*01:02      ------------------------------------------------------------   420
-Mafa-B21Ps*01:03:01:01------------------------------------------------------------   420
-Mafa-B21Ps*01:04:01:01------------------------------------------------------------   420
-Mafa-B21Ps*01:05:01:01------------------------------------------------------------   420
-Mafa-B21Ps*01:06:01:01------------------------------------------------------------   420
-
-HLA-B*07:02:01:01     GGSYSQAACSDSAQGSDVSLTA   442
-Mafa-B21Ps*01:01:01:01----------------------   442
-Mafa-B21Ps*01:01:02:01----------------------   442
-Mafa-B21Ps*01:01:02:02----------------------   442
-Mafa-B21Ps*01:02      ----------------------   442
-Mafa-B21Ps*01:03:01:01----------------------   442
-Mafa-B21Ps*01:04:01:01----------------------   442
-Mafa-B21Ps*01:05:01:01----------------------   442
-Mafa-B21Ps*01:06:01:01----------------------   442
+HLA-B*07:02:01:01     TA   362
+Mafa-B21Ps*01:01:01:01--   362
+Mafa-B21Ps*01:01:02:01--   362
+Mafa-B21Ps*01:01:02:02--   362
+Mafa-B21Ps*01:02      --   362
+Mafa-B21Ps*01:03:01:01--   362
+Mafa-B21Ps*01:04:01:01--   362
+Mafa-B21Ps*01:05:01:01--   362
+Mafa-B21Ps*01:05:02:01--   362
+Mafa-B21Ps*01:06:01:01--   362
+Mafa-B21Ps*01:07:01:01--   362
 

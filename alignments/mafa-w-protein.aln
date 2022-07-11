@@ -1,7 +1,6 @@
 HLA-W*01:01:01:01     GLTPFNGYTAATWTRTAVSSVGMNIPYHGASYLVRNQELRSWTAADKAAQMPWRRNRQSC    60
 Mafa-W*01:01          GLTPCNGYTAATWTRTGASSASMNITYEGASYLVLNQELCSWTPADKVAQMPWHRNMQSC    60
 Mafa-W*01:02          -----------SHTLQWIHSCDLDR---------------DWSLLRKYEHNLGGRQL-PC    60
-Mafa-W*01:03          -----------SHTLQWMHSCDLDP---------------DWSLLRKYEHNLRGRQL-PC    60
 Mafa-W*01:04          -----------SHTLQWIHSCDLDP---------------DWSLLREYEHNLRRRQL-PC    60
 Mafa-W*01:05          -----------------VSHPPMDTQLX--------------------------------    60
 Mafa-W*01:06          -----------------VSHTPLCTQLRPG----------------------------PG    60
@@ -9,11 +8,12 @@ Mafa-W*01:07          GLTHSIVYTAATWTRTGASSAGMNTPYDYASYLLINQQLRSWTAPDKAAQMLWRRNTQ
 Mafa-W*01:08          -----------SHTLHCIHSCDLDP---------------DWSLLRGYEHILRRRQL-PR    60
 Mafa-W*01:09          GLTPSIVYTAATWTRTGASSAGMNTPYEGASYLIINQELCSWTARDKAAQMLWRRNTQSC    60
 Mafa-W*01:10          -----------FHTLHCIHNCDLDP---------------DWSLLCGYEHNLX-------    60
+Mafa-W*01:11          -----------SHTLQWMHSCDLDP---------------DWSLLRKYEHNLRGRQL-PC    60
+Mafa-W*01:12          -----------SHTLQWMHSCDLDP---------------DWSLLRKYEHNLRGRQL-PC    60
 
 HLA-W*01:01:01:01     SKPTCR---EGGRSGS-----------------------AKSLRMGRRGCSAQNPKD---   120
 Mafa-W*01:01          X-----------------------------------------------------------   120
 Mafa-W*01:02          PKPGTELLDPRGQGGSDALAEEHAELLKTYPQGRWPERLSKGLKNGKETPQCADPPKTRV   120
-Mafa-W*01:03          PKPGTELLDPRGQGGSDALAEEHAELLKTYPQGRWPERLSKGLKNGKETPQCADPPKTRV   120
 Mafa-W*01:04          PKPGTALLDPRGQGGSDALAX---------------------------------------   120
 Mafa-W*01:05          ------------------------------------------------------------   120
 Mafa-W*01:06          LEPPARVX----------------------------------------------------   120
@@ -21,11 +21,12 @@ Mafa-W*01:07          SKPTCR---EGGRSGS-----------------------AKALRMGRRRCSARIPQKT
 Mafa-W*01:08          PKPGAALLDRSGQGGSDALAEEHAELVKTYLQGRWVERISKALRMGRR------------   120
 Mafa-W*01:09          SKPTCR---EGGQNGS-----------------------AKALRMGRRRRSARIPQKTHM   120
 Mafa-W*01:10          ------------------------------------------------------------   120
+Mafa-W*01:11          PKPGTELLDPRGQGGSDALAEEHAELLKTYPQGRWPERLSKGLKNGKETPQCADPPKTRV   120
+Mafa-W*01:12          PKPGTELLDPRGQGGSDALAEEHAELLKTYPQGRWPERLSKGLKNGKETPQCADPPKTRV   120
 
 HLA-W*01:01:01:01     SHDPPPHLX----------------------------   157
 Mafa-W*01:01          -------------------------------------   157
 Mafa-W*01:02          THHPISDHEATLRCWALGFYPVEITMTQQRNGEDQIX   157
-Mafa-W*01:03          THHPISDHEATLRCWALGFYPVEITMTQQRNGEDQIX   157
 Mafa-W*01:04          -------------------------------------   157
 Mafa-W*01:05          -------------------------------------   157
 Mafa-W*01:06          -------------------------------------   157
@@ -33,4 +34,6 @@ Mafa-W*01:07          THHPISNHEATLRCWVLGFCPVWRSHX----------   157
 Mafa-W*01:08          ------------RCSA---------QIPQRHTX----   157
 Mafa-W*01:09          THHPISNHEATLRCWALGFYPVEITLTQX--------   157
 Mafa-W*01:10          -------------------------------------   157
+Mafa-W*01:11          THHPISDHEATLRCWALGFYPVEITMAQQRNGEDQIX   157
+Mafa-W*01:12          THHPISDHEATLRCWALGFYPVEITMTQQRNGEDQIX   157
 
