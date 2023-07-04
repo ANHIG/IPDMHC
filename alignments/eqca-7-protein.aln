@@ -1,21 +1,84 @@
 Eqca-7*001:01         DTRTFLLLLSGALTLTKTWAGFHSMRYFNTAVSRPGRGEP----RFITVGYVDDTQFVRF    60
+Eqca-7*001:02         ---------------------SHSLRYFNTAVSRPGRGEP----RFITVGYVDDTQFVRF    60
+Eqca-7*001:03         ---------------------SHSLRYFSTAVSRPGRGEP----RFITVGYVDDTQFVRF    60
+Eqca-7*001:04         ---------------------SHSLRYFNTAVSRPGRGEP----RFITVGYVDDTQFVRF    60
+Eqca-7*001:05         ---------------------SHSMRYFSTAVSRPGRGEP----RFITVGYVDDTQFVRF    60
+Eqca-7*001:06         ---------------------SHSMRYFNTAVSRPGRGEP----RFITVGYVDDTQFVRF    60
+Eqca-7*001:07         ---------------------FHSMRYFNTAVSRPGRGEP----RFITVGYVDDTQFVRF    60
 Eqca-7*002:01         DPRTFLLLLSGALTLTKTWAGSHSLRYFNTALSRPAAGAPLHQRR-----YVDDTQFVRF    60
+Eqca-7*002:02N        ---------------------SHSLRYFNTALSRPGRGEP----RFITVGYVDDTQFVRF    60
+Eqca-7*003:01         ---------------------SHSLRYFNTAVSRPGRGEP----RFITVGYVDDTQFVRF    60
+Eqca-7*004:01         ---------------------SHSMRYFNTAVSRPGRGEP----RFITVGYVDDTQFVRF    60
 
 Eqca-7*001:01         DSDAASPRMEPRAPWMEQEGPEYWEENTQTIKSTAQNFRVGLNTLRGYYNQSEAGSHTYQ   120
+Eqca-7*001:02         DSDAASPRMEPRAPWMEQEGPEYWEENTQTIKSTAQNFRVGLNTLRGYYNQSEAGSHTYQ   120
+Eqca-7*001:03         DSDAASPRMEPRAPWMEQEGPEYWEENTQTIKSTAQNFRVGLNTLRGYYNQSEAGSHTYQ   120
+Eqca-7*001:04         DSDAASPRMEPRAPWMEQEGPEYWEENTQTIKSTAQNFRVGLNTLRGYYNQSEAGSHTYQ   120
+Eqca-7*001:05         DSDAASPRMEPRAPWMEQEGPEYWEENTQTIKSTAQNFRVGLNTLRGYYNQSEAGSHTYQ   120
+Eqca-7*001:06         DSDAASPRMEPRAPWMEQEGPEYWEENTQTIKSTAQNFRVGLNTLRGYYNQSEAGSHTYQ   120
+Eqca-7*001:07         DSDAASPRMEPRAPWMEQEGPEYWEENTQTIKSTAQNFRVGLNNLRGYYNQSEAGSHTYQ   120
 Eqca-7*002:01         DSDAENPRMEP-APWVEQEGPEYWEENTRTIKSTAQNFRVSLNNLRGYYNQSEAGSHTIQ   120
+Eqca-7*002:02N        DSDAENPRMEPRAPWVEQEGPEYWEENTRTIKSTAQNFRVSLNNLRGYYNQSEAGSHTIQ   120
+Eqca-7*003:01         DSDAASPRMEPRAPWMEQEGPEYWEENTQTIKSTAQNFRVGLKTLRGYYNQSEAGSHTYQ   120
+Eqca-7*004:01         DSDAASPRMEPRAPWVEQEGPEYWEENTRTIKSTAQNFRVSLNNLRGYYNQSEAGSHTIQ   120
 
 Eqca-7*001:01         WLCGCDLRPDGHLLRGYSQYAYDGADYIALNEDLRSWTAADTAAQITRRKWEAAGVAEQD   180
+Eqca-7*001:02         WLCGCDVRPDGHLLRGYSQYAYDGADYIALNEDLRSWTAADTAAQITRHKWEAAGVAEQD   180
+Eqca-7*001:03         WLCGCDLRPDGHLLRGYSQYAYDGADYIALNEDLRSWTAADTAAQITRRKWEAAGVAEQD   180
+Eqca-7*001:04         WLCGCDLRPDGHLLRGYSQYAYDGADYIALNEDLRSWTAADTAAQITRRKWEAAGVAEQD   180
+Eqca-7*001:05         WLCGCDLRPDGHLLRGYSQYAYDGADYIALNEDLRSWTAADTAAQITRRKWEAAGVAEQD   180
+Eqca-7*001:06         WLCGCDLRPDGHLLRGYSQYAYDGADYIALNEDLRSWTAADTAAQITRRKWEAAGVAEQD   180
+Eqca-7*001:07         WLCGCDLRPDGHLLRGYSQYAYDGADYIALNEDLRSWTAADTAAQITRRKWEAAGVAEQD   180
 Eqca-7*002:01         EMYGCDVGPDGRLLRGYSQSAYDGADYIALNEDLRSWTAADAAAQITRRKWEAESVAEQD   180
+Eqca-7*002:02N        EMYGCDVGPDGRLLRGYSQSAYDGADYIALNEDLRSWTAADAAAQITRRKWEAESVAEQD   180
+Eqca-7*003:01         WLCGCDLRPDGRLLRGYTQFAYDGADYISLNEDLRSWTAADTAAQITRRKWEATGVAEQD   180
+Eqca-7*004:01         EMYGCDVGPDGRLLRGYSQSAYDGADYIALNEDLRSWTAADTAAQITRRKWEAESVAEQD   180
 
 Eqca-7*001:01         RAYLDGKCVVWLRRYLEIGKEMLQRADPPKTHVTRHPISDREVTLRCWALGFYPAEITLT   240
+Eqca-7*001:02         RAYLDGKCVVWLRRYLEIGKEMLQRA----------------------------------   240
+Eqca-7*001:03         RAYLDGKCVVWLRRYLEIGKEMLQRA----------------------------------   240
+Eqca-7*001:04         RAYLDGKCVVWLRRYLEIGKEMLQRA----------------------------------   240
+Eqca-7*001:05         RAYLDGKCVVWLRRYLEIGKEMLQRA----------------------------------   240
+Eqca-7*001:06         RAYLDGKCVVWLRRYLEIGKEMLQRA----------------------------------   240
+Eqca-7*001:07         RAYLDGKCVVWLRRYLEIGKEMLQRA----------------------------------   240
 Eqca-7*002:01         RAYLDGKCVVWLRRYLEIGKEMLQRADPPKTHVTRHPISDREVTLRCWALGFYPAEITLT   240
+Eqca-7*002:02N        RAYLDGKCVVWLRRYLEIGKEMLQRA----------------------------------   240
+Eqca-7*003:01         RAYLDGKCVVWLRRYLEIGKEMLQRA----------------------------------   240
+Eqca-7*004:01         RAYLDGKCVVWLRRYLEIGKEMLQRA----------------------------------   240
 
 Eqca-7*001:01         WQRDGEDLTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCRVQHEGLPEPITRRWEP   300
+Eqca-7*001:02         ------------------------------------------------------------   300
+Eqca-7*001:03         ------------------------------------------------------------   300
+Eqca-7*001:04         ------------------------------------------------------------   300
+Eqca-7*001:05         ------------------------------------------------------------   300
+Eqca-7*001:06         ------------------------------------------------------------   300
+Eqca-7*001:07         ------------------------------------------------------------   300
 Eqca-7*002:01         WQRDGEDLTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCRVQHEGLPEPITRRWEP   300
+Eqca-7*002:02N        ------------------------------------------------------------   300
+Eqca-7*003:01         ------------------------------------------------------------   300
+Eqca-7*004:01         ------------------------------------------------------------   300
 
 Eqca-7*001:01         PPQSTILIVGVLAGLGLFMVTVAVVVGAVIWRKKRSGGKRGSYAQSTSSDSSQGSDVSLI   360
+Eqca-7*001:02         ------------------------------------------------------------   360
+Eqca-7*001:03         ------------------------------------------------------------   360
+Eqca-7*001:04         ------------------------------------------------------------   360
+Eqca-7*001:05         ------------------------------------------------------------   360
+Eqca-7*001:06         ------------------------------------------------------------   360
+Eqca-7*001:07         ------------------------------------------------------------   360
 Eqca-7*002:01         PPQSTILIVGVLAGLGLFMVTVAVVVGAVIWRKKRSGGKRGSYAQSTSSDSSQDSDVSLI   360
+Eqca-7*002:02N        ------------------------------------------------------------   360
+Eqca-7*003:01         ------------------------------------------------------------   360
+Eqca-7*004:01         ------------------------------------------------------------   360
 
 Eqca-7*001:01         PPKV   364
+Eqca-7*001:02         ----   364
+Eqca-7*001:03         ----   364
+Eqca-7*001:04         ----   364
+Eqca-7*001:05         ----   364
+Eqca-7*001:06         ----   364
+Eqca-7*001:07         ----   364
 Eqca-7*002:01         PPKV   364
+Eqca-7*002:02N        ----   364
+Eqca-7*003:01         ----   364
+Eqca-7*004:01         ----   364
 
