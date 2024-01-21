@@ -1,15 +1,35 @@
 HLA-DRB1*01:01:01:01  MVCLKLPGGSCMTALTVTLMVLSSPLALAGDTRPRFLWQLKFECHFFNGTERVRLLERCI    60
 Mafa-DRB9*01:01       ----------------------------------HFLEQIKHECYFSNGTERMRFVQRLL    60
+Mafa-DRB9*01:02       ----------------------------------HFLEQIKHECCFSIGMERMRFVHTDP    60
+Mafa-DRB9*01:03:01    ----------------------------------HI------------------------    60
+Mafa-DRB9*01:03:02    ----------------------------------HI------------------------    60
+Mafa-DRB9*01:04       ----------------------------------HI------------------------    60
 
-HLA-DRB1*01:01:01:01  YN----QEESVRFDSDVGEYRAVTELGRPDAEYW--------NSQKDLLEQRRAAVDTYC   120
-Mafa-DRB9*01:01       HTPRGMRASTATWESS-GRWRS-----------WSGGESRNGNSQKNLLGYLRGLLDTYC   120
+HLA-DRB1*01:01:01:01  YNQE----ESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGE   120
+Mafa-DRB9*01:01       HTPRGMRASTATWESS-GRWRSWSGGESRNG---NSQKNLLGYLRGLLDTYCRHN-----   120
+Mafa-DRB9*01:02       Y-PE----EYARFHGDVGKFRAVAELERRRVQEWK-------------------------   120
+Mafa-DRB9*01:03:01    --------SWSRLNMS-----AISPTGRRHS------------------GLCRDS-----   120
+Mafa-DRB9*01:03:02    --------SWSRLNMS-----AISPTGRRHS------------------GLCRDS-----   120
+Mafa-DRB9*01:04       --------SWSRLNMS-----AISPTGRRHS------------------GLCRDS-----   120
 
-HLA-DRB1*01:01:01:01  RHNYGVGESFTVQRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEK   180
-Mafa-DRB9*01:01       RHNCGV------------------------------------------------------   180
+HLA-DRB1*01:01:01:01  SFTVQRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVV--ST   180
+Mafa-DRB9*01:01       ----------------------------------------------------CGVL----   180
+Mafa-DRB9*01:02       -------------------QP----------------------------EEPAGLLAGSV   180
+Mafa-DRB9*01:03:01    ------SIPGGVCALPQR--------------RGKVPGGGGA-----GAEESPGME----   180
+Mafa-DRB9*01:03:02    ------SIPGGVCALPQR--------------RGKVPGGGGA-----GAEESPGME----   180
+Mafa-DRB9*01:04       ------SIPGGVCAFPRR--------------RGKVPGGGGA-----GAEESPGME----   180
 
-HLA-DRB1*01:01:01:01  AGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKM   240
-Mafa-DRB9*01:01       -------------------------------------------LLTAEARX---------   240
+HLA-DRB1*01:01:01:01  G-LIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVG   240
+Mafa-DRB9*01:01       ---------------------------------------LTAEARX--------------   240
+Mafa-DRB9*01:02       GHLLQTQLWGF--------AHRRGAVS---------------------------------   240
+Mafa-DRB9*01:03:01    -------------------TARRTSWATC-----GVCWTPTADTTM--------------   240
+Mafa-DRB9*01:03:02    -------------------TARRTSWATC-----GVCWTPTADTTM--------------   240
+Mafa-DRB9*01:04       -------------------TARRTSWATC-----GVCWTPTADTTM--------------   240
 
-HLA-DRB1*01:01:01:01  LSGVGGFVLGLLFLGAGLFIYFRNQKGHSGLQPTGFLS   278
+HLA-DRB1*01:01:01:01  GFVLGLLFLGAGLFIYFRNQKGHSGLQPTGFLS-----   278
 Mafa-DRB9*01:01       --------------------------------------   278
+Mafa-DRB9*01:02       --------------------------------------   278
+Mafa-DRB9*01:03:01    -----------------------------GFCSPQRRG   278
+Mafa-DRB9*01:03:02    -----------------------------GFCSPQRRG   278
+Mafa-DRB9*01:04       -----------------------------GFCSPQRRG   278
 
