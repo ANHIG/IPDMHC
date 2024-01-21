@@ -1,33 +1,77 @@
 HLA-N*01:01:01:01     AATTAGGACCCCCTCACCTCCTTTCAGACCTGGTGCCTCCAACTATATCCTGCCTCACTC    60
-Mafa-N*01:01          ------------------------------------------------------------    60
+Mafa-N*01:01:01:01    ------------------------------------------------------------    60
+Mafa-N*01:01:01:02    ------------------------------------------------------------    60
+Mafa-N*01:02:01:01    ------------------------------------------------------------    60
+Mafa-N*01:03:01:01    ------------------------------------------------------------    60
+Mafa-N*01:04:01:01    ------------------------------------------------------------    60
 
 HLA-N*01:01:01:01     TGCTTTGAAACAGGAAAGTGTTCCCCCTGGACTCTTAGAGTAGATGTGGGTATCTGAGTT   120
-Mafa-N*01:01          ------------------------------------------------------------   120
+Mafa-N*01:01:01:01    ------------------------------------------------------------   120
+Mafa-N*01:01:01:02    ------------------------------------------------------------   120
+Mafa-N*01:02:01:01    ------------------------------------------------------------   120
+Mafa-N*01:03:01:01    ------------------------------------------------------------   120
+Mafa-N*01:04:01:01    ------------------------------------------------------------   120
 
 HLA-N*01:01:01:01     TCTCTTCCTAAAATCCTTTCCTTCTTAGAGCGATCAATGAGCCCTGTTGAATGGCCTATG   180
-Mafa-N*01:01          ------------------------------------------------------------   180
+Mafa-N*01:01:01:01    ------------------------------------------------------------   180
+Mafa-N*01:01:01:02    ------------------------------------------------------------   180
+Mafa-N*01:02:01:01    ------------------------------------------------------------   180
+Mafa-N*01:03:01:01    ------------------------------------------------------------   180
+Mafa-N*01:04:01:01    ------------------------------------------------------------   180
 
 HLA-N*01:01:01:01     GAAGGGAAATGAATGTTCTAAATTTCCTCTGACCCTTTTCTTCGGGACCCCCAAAGGCAT   240
-Mafa-N*01:01          ---------------------------------------------GATCCCCAAAGGTTC   240
+Mafa-N*01:01:01:01    ---------------------------------------------GATCCCCAAAGGTTC   240
+Mafa-N*01:01:01:02    ---------------------------------------------GATCCCCAAAGGTTC   240
+Mafa-N*01:02:01:01    ---------------------------------------------GATCCCCAAAGGTTC   240
+Mafa-N*01:03:01:01    ---------------------------------------------GATCCCCAAAGGTTC   240
+Mafa-N*01:04:01:01    ---------------------------------------------GATCCCCAAAGGTTC   240
 
 HLA-N*01:01:01:01     TCCCCACCAGCACCCACTATGACCCCATCTCTGACTGTAATACCACCCTGAGGTGCTGGG   300
-Mafa-N*01:01          TCCCCATCAGCACCCACTATGACCCCATCTCTGACTGTAATATCACCCTGAGGTGCTGGG   300
+Mafa-N*01:01:01:01    TCCCCATCAGCACCCACTATGACCCCATCTCTGACTGTAATATCACCCTGAGGTGCTGGG   300
+Mafa-N*01:01:01:02    TCCCCATCAGCACCCACTATGACCCCATCTCTGACTGTAATATCACCCTGAGGTGCTGGG   300
+Mafa-N*01:02:01:01    TCCCCATCAGCACCCACTATGACCCCATCTCTGACTGTAATATCACCCTGAGGTGCTGGG   300
+Mafa-N*01:03:01:01    TCCCCATCAGCACCCACTATGACCCCATCTCTGACTGTAATATCACCCTGAGGTGCTGGG   300
+Mafa-N*01:04:01:01    TCCCCATCAGCACCCACTATGACCCCATCTCTGACTGTAATATCACCCTGAGGTGCTGGG   300
 
 HLA-N*01:01:01:01     CCCTGGGCTTCCACCCTGAAGAGATCACATTGATCTGGCAGCAGGATGGGGAGGACTATA   360
-Mafa-N*01:01          CCCTGGGCTTCCACCCTGCAGAGATCACACTGATCTGGCAGCAGAATAGGA---------   360
+Mafa-N*01:01:01:01    CCCTGGGCTTCCACCCTGCAGAGATCACACTGATCTGGCAGCAGAATAGGA---------   360
+Mafa-N*01:01:01:02    CCCTGGGCTTCCACCCTGCAGAGATCACACTGATCTGGCAGCAGAATAGGA---------   360
+Mafa-N*01:02:01:01    CCCTGGGCTTCCACCCTGCAGAGATCACACTGATCTGGCAGCAGAATAGGA---------   360
+Mafa-N*01:03:01:01    CCCTGGGCTTCCACCCTGCAGAGATCACACTGATCTGGCAGCAGAATAGGA---------   360
+Mafa-N*01:04:01:01    CCCTGGGCTTCCACCCTGCAGAGATCACACTGATCTGGCAGCAGAGTAGGA---------   360
 
 HLA-N*01:01:01:01     CCTAGGACATGGAGCTTGCAGAGACCATTTTATCTTTTTGACAACTTTTTTTTTTTTTTT   420
-Mafa-N*01:01          ---AGGACATGGAGCTTGCGGAGACCA---------------------------------   420
+Mafa-N*01:01:01:01    ---AGGACATGGAGCTTGCGGAGACCA---------------------------------   420
+Mafa-N*01:01:01:02    ---AGGACATGGAGCTTGCGGAGACCA---------------------------------   420
+Mafa-N*01:02:01:01    ---AGGACATGGAGCTTGCGGAGACCG---------------------------------   420
+Mafa-N*01:03:01:01    ---AGGACATGGAGCTTGTGGAGACCA---------------------------------   420
+Mafa-N*01:04:01:01    ---AGGACATGGAGCTTGCGGAGACCA---------------------------------   420
 
 HLA-N*01:01:01:01     TTTTTTTGAGACAGAGTCTCACTCTTGCCCAAGCTGGAGTGCAGTGGCGCGATCTTGGCT   480
-Mafa-N*01:01          ------------------------------------------------------------   480
+Mafa-N*01:01:01:01    ------------------------------------------------------------   480
+Mafa-N*01:01:01:02    ------------------------------------------------------------   480
+Mafa-N*01:02:01:01    ------------------------------------------------------------   480
+Mafa-N*01:03:01:01    ------------------------------------------------------------   480
+Mafa-N*01:04:01:01    ------------------------------------------------------------   480
 
 HLA-N*01:01:01:01     CACTGCAAGCTCCGCCTCCCAGGTTGATGCCATTCTCCTGCCTCAGCCTCCTGAATAGCT   540
-Mafa-N*01:01          ------------------------------------------------------------   540
+Mafa-N*01:01:01:01    ------------------------------------------------------------   540
+Mafa-N*01:01:01:02    ------------------------------------------------------------   540
+Mafa-N*01:02:01:01    ------------------------------------------------------------   540
+Mafa-N*01:03:01:01    ------------------------------------------------------------   540
+Mafa-N*01:04:01:01    ------------------------------------------------------------   540
 
 HLA-N*01:01:01:01     GGGACTACAGGCACCCGCCACCATGCCCGGCTAATTTTTTGTATTTTTAGTAGAGACGGG   600
-Mafa-N*01:01          ------------------------------------------------------------   600
+Mafa-N*01:01:01:01    ------------------------------------------------------------   600
+Mafa-N*01:01:01:02    ------------------------------------------------------------   600
+Mafa-N*01:02:01:01    ------------------------------------------------------------   600
+Mafa-N*01:03:01:01    ------------------------------------------------------------   600
+Mafa-N*01:04:01:01    ------------------------------------------------------------   600
 
 HLA-N*01:01:01:01     GTTTCACCGTGTTAACCAGGATGGGCTCGATCTCCT   636
-Mafa-N*01:01          ------------------------------------   636
+Mafa-N*01:01:01:01    ------------------------------------   636
+Mafa-N*01:01:01:02    ------------------------------------   636
+Mafa-N*01:02:01:01    ------------------------------------   636
+Mafa-N*01:03:01:01    ------------------------------------   636
+Mafa-N*01:04:01:01    ------------------------------------   636
 

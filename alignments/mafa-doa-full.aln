@@ -10,11 +10,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------    60
 Mafa-DOA*01:02:07     ------------------------------------------------------------    60
 Mafa-DOA*01:02:08     ------------------------------------------------------------    60
-Mafa-DOA*01:03:01     ------------------------------------------------------------    60
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------    60
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------    60
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------    60
 Mafa-DOA*01:03:02     ------------------------------------------------------------    60
 Mafa-DOA*01:04        ------------------------------------------------------------    60
 Mafa-DOA*01:05        ------------------------------------------------------------    60
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------    60
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------    60
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------    60
 
 HLA-DOA*01:01:01      TGGTAATAGTTGGTCCAAGCCCCTCCCATCCTCCAAAACTTCCTTTGGCCTCTCCTGGGG   120
 Mafa-DOA*01:01:01     ------------------------------------------------------------   120
@@ -28,11 +32,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   120
 Mafa-DOA*01:02:07     ------------------------------------------------------------   120
 Mafa-DOA*01:02:08     ------------------------------------------------------------   120
-Mafa-DOA*01:03:01     ------------------------------------------------------------   120
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------   120
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------   120
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------   120
 Mafa-DOA*01:03:02     ------------------------------------------------------------   120
 Mafa-DOA*01:04        ------------------------------------------------------------   120
 Mafa-DOA*01:05        ------------------------------------------------------------   120
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------   120
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------   120
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------   120
 
 HLA-DOA*01:01:01      GCCCAGTGAATCCTTCCACCTTCTCACCCCGGCTCTTTCCCTCTTTACCCAGCAACAGAT   180
 Mafa-DOA*01:01:01     ------------------------------------------------------------   180
@@ -46,11 +54,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   180
 Mafa-DOA*01:02:07     ------------------------------------------------------------   180
 Mafa-DOA*01:02:08     ------------------------------------------------------------   180
-Mafa-DOA*01:03:01     ------------------------------------------------------------   180
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------   180
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------   180
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------   180
 Mafa-DOA*01:03:02     ------------------------------------------------------------   180
 Mafa-DOA*01:04        ------------------------------------------------------------   180
 Mafa-DOA*01:05        ------------------------------------------------------------   180
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------   180
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------   180
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------   180
 
 HLA-DOA*01:01:01      ACATTCACTCAGAGAATTTCTGTGATTGGCTGAAGACAGAAGGGGTCGCCCCCATCCTCG   240
 Mafa-DOA*01:01:01     ------------------------------------------------------------   240
@@ -64,11 +76,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   240
 Mafa-DOA*01:02:07     ------------------------------------------------------------   240
 Mafa-DOA*01:02:08     ------------------------------------------------------------   240
-Mafa-DOA*01:03:01     ------------------------------------------------------------   240
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------   240
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------   240
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------   240
 Mafa-DOA*01:03:02     ------------------------------------------------------------   240
 Mafa-DOA*01:04        ------------------------------------------------------------   240
 Mafa-DOA*01:05        ------------------------------------------------------------   240
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------   240
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------   240
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------   240
 
 HLA-DOA*01:01:01      AATCTGTTTTCTTCTTCTTTACCTCCGCCTTGTTCCTGTCCTCACCACACGGACTGAGAC   300
 Mafa-DOA*01:01:01     ------------------------------------------------------------   300
@@ -82,11 +98,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   300
 Mafa-DOA*01:02:07     ------------------------------------------------------------   300
 Mafa-DOA*01:02:08     ------------------------------------------------------------   300
-Mafa-DOA*01:03:01     ------------------------------------------------------------   300
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------   300
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------   300
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------   300
 Mafa-DOA*01:03:02     ------------------------------------------------------------   300
 Mafa-DOA*01:04        ------------------------------------------------------------   300
 Mafa-DOA*01:05        ------------------------------------------------------------   300
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------   300
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------   300
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------   300
 
 HLA-DOA*01:01:01      TGATTTGATTAAAGCACCAGAGTGTAATGGCCCTCAGAGCAGGGCTGGTCCTGGGGTTCC   360
 Mafa-DOA*01:01:01     ------------------------------------------------------------   360
@@ -100,11 +120,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   360
 Mafa-DOA*01:02:07     ------------------------------------------------------------   360
 Mafa-DOA*01:02:08     ------------------------------------------------------------   360
-Mafa-DOA*01:03:01     ------------------------------------------------------------   360
+Mafa-DOA*01:02:09:01  --------------------------ATGGCCCTCAGAGCAGGGCTGATCCTGGGGTTCC   360
+Mafa-DOA*01:02:10:01  --------------------------ATGGCCCTCAGAGCAGGGCTGATCCTGGGGTTCC   360
+Mafa-DOA*01:03:01:01  --------------------------ATGGCCCTCAGAGCAGGGCTGGTCCTGGGGTTCC   360
 Mafa-DOA*01:03:02     ------------------------------------------------------------   360
 Mafa-DOA*01:04        ------------------------------------------------------------   360
 Mafa-DOA*01:05        ------------------------------------------------------------   360
 Mafa-DOA*01:06:01:01  --------------------------ATGGCCCTCAGAGCAGGGCTGGTCCTGGGGTTCC   360
+Mafa-DOA*01:07:01:01  --------------------------ATGGCCCTCAGAGCAGGGCTGATCCTGGGGTTCC   360
+Mafa-DOA*01:08:01:01  --------------------------ATGGCCCTCAGAGCAGGGCTGATCCTGGGGTTCC   360
 
 HLA-DOA*01:01:01      ACACCCTGATGACCCTCCTGAGCCCGCAGGAGGCAGGGGCCACCAAGGGTGAGTGCGAGG   420
 Mafa-DOA*01:01:01     ------------------------------------------------------------   420
@@ -118,11 +142,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   420
 Mafa-DOA*01:02:07     ------------------------------------------------------------   420
 Mafa-DOA*01:02:08     ------------------------------------------------------------   420
-Mafa-DOA*01:03:01     ------------------------------------------------------------   420
+Mafa-DOA*01:02:09:01  ACAGCCTGATGACCCTCCTGAGCCCGCAGGAGGCAGGTGCCACCAAGGGTGAGTGCGAGG   420
+Mafa-DOA*01:02:10:01  ACAGCCTGATGACCCTCCTGAGCCCGCAGGAGGCAGGTGCCACCAAGGGTGAGTGCGAGG   420
+Mafa-DOA*01:03:01:01  ACAGCCTGATGACCCTCCTGAGCCCGCAGGAGGCAGGTGCCACCAAGGGTGAGTGCGAGG   420
 Mafa-DOA*01:03:02     ------------------------------------------------------------   420
 Mafa-DOA*01:04        ------------------------------------------------------------   420
 Mafa-DOA*01:05        ------------------------------------------------------------   420
 Mafa-DOA*01:06:01:01  ACAGCCTGATGACCCTCCTGAGCCCGCAGGAGGCAGGTGCCACCAAGGGTGAGTGCGAGG   420
+Mafa-DOA*01:07:01:01  ACAGCCTGATGACCCTCCTGAGCCCGCAGGAGGCAGGTGCCACCAAGGGTGAGTGCGAGG   420
+Mafa-DOA*01:08:01:01  ACAGCCTGATGACCCTCCTGAGCCCGCAGGAGGCAGGTGCCACCAAGGGTGAGTGCGAGG   420
 
 HLA-DOA*01:01:01      GCGAGGAGGGTGCGGCGGGGAGCAGAGATTTACGGAGTTGGGTTACATGAGGAGGTGGCA   480
 Mafa-DOA*01:01:01     ------------------------------------------------------------   480
@@ -136,11 +164,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   480
 Mafa-DOA*01:02:07     ------------------------------------------------------------   480
 Mafa-DOA*01:02:08     ------------------------------------------------------------   480
-Mafa-DOA*01:03:01     ------------------------------------------------------------   480
+Mafa-DOA*01:02:09:01  GCGAGGCGGGTGCGGCGGGGAGCAGAGATTTACGGAGTTGGGTTACATGAGGAGATGACA   480
+Mafa-DOA*01:02:10:01  GCGAGGCGGGTGCGGCGGGGAGCAGAGATTTACGGAGTTGGGTTACATGAGGAGATGACA   480
+Mafa-DOA*01:03:01:01  GCGAGGCGGGTGCGGCGGGGAGCAGAGATTTACGGAGTTGGGTTACATGAGGAGATGACA   480
 Mafa-DOA*01:03:02     ------------------------------------------------------------   480
 Mafa-DOA*01:04        ------------------------------------------------------------   480
 Mafa-DOA*01:05        ------------------------------------------------------------   480
 Mafa-DOA*01:06:01:01  GCGAGGCGGGTGCGGCGAGGAGCAGAGATTTACGGAGTTGGGTTACATGAGGAGATGACA   480
+Mafa-DOA*01:07:01:01  GCGAGGCGGGTGCGGCGAGGAGCAGAGATTTACGGAGTTGGGTTACGTGAGGAGATGACA   480
+Mafa-DOA*01:08:01:01  GCGAGGCGGGTGCGGCGGGGAGCAGAGATTTACGGAGTTGGGTTACATGAGGAGATGACA   480
 
 HLA-DOA*01:01:01      TGGAGGATGCTTGTTCCTCTCGCTCTCTGGTTTATGGGCAACTTCCTTCACCAAGAGACA   540
 Mafa-DOA*01:01:01     ------------------------------------------------------------   540
@@ -154,11 +186,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   540
 Mafa-DOA*01:02:07     ------------------------------------------------------------   540
 Mafa-DOA*01:02:08     ------------------------------------------------------------   540
-Mafa-DOA*01:03:01     ------------------------------------------------------------   540
+Mafa-DOA*01:02:09:01  TGGAGGATGCTTGTTCCTCTCCCTCTCTGGTTTATGAGCAACTTCCTTCACCAGGAGACA   540
+Mafa-DOA*01:02:10:01  TGGAGGATGCTTGTTCCTCTCCCTCTCTGGTTTATGAGCAACTTCCTTCACCAGGAGACA   540
+Mafa-DOA*01:03:01:01  TGGAGGATGCTTGTTCCTCTCCCTCTCTGGTTTATGAGCAACTTCCTTCACCAAGAGACA   540
 Mafa-DOA*01:03:02     ------------------------------------------------------------   540
 Mafa-DOA*01:04        ------------------------------------------------------------   540
 Mafa-DOA*01:05        ------------------------------------------------------------   540
 Mafa-DOA*01:06:01:01  TGGAGGATGCTTGTTCCTCTCCCTCTCTGGTTTATGAGCAACTTCCTTCACCAAGAGACA   540
+Mafa-DOA*01:07:01:01  TGGAGGATGCTTGTTCCTCTCCCTCTCTGGTTTATGAGCAACTTCCTTCACCAAGAGACA   540
+Mafa-DOA*01:08:01:01  TGGAGGATGCTTGTTCCTCTCCCTCTCTGGTTTATGAGCAACTTCCTTCACCAAGAGACA   540
 
 HLA-DOA*01:01:01      CCCAATCCCCCTCATCTCTGTCACATCCACTCTGGACCTAAATGAAGATGCAGCTCGGTC   600
 Mafa-DOA*01:01:01     ------------------------------------------------------------   600
@@ -172,11 +208,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   600
 Mafa-DOA*01:02:07     ------------------------------------------------------------   600
 Mafa-DOA*01:02:08     ------------------------------------------------------------   600
-Mafa-DOA*01:03:01     ------------------------------------------------------------   600
+Mafa-DOA*01:02:09:01  CCCAATCCCCCTCACCTCTGTCACATCCACTCTGGACCTAAATGAAGGTGCAGCTCGGTC   600
+Mafa-DOA*01:02:10:01  CCCAATCCCCCTCACCTCTGTCACATCCACTCTGGACCTAAATGAAGGTGCAGCTCGGTC   600
+Mafa-DOA*01:03:01:01  CCCAATCCCCCTCACCTCTGTCACATCCACTCTGGACCTAAATGAAGGTGCAGCTAGGTC   600
 Mafa-DOA*01:03:02     ------------------------------------------------------------   600
 Mafa-DOA*01:04        ------------------------------------------------------------   600
 Mafa-DOA*01:05        ------------------------------------------------------------   600
 Mafa-DOA*01:06:01:01  CCCAATCCCCCTCACCTCTGTCACATCCACTCTGGACCTAAATGAAGGTGCAGCTCGGTC   600
+Mafa-DOA*01:07:01:01  CCCAATCCCCCTCACCTCTGTCACATCCACTCTGGACCTAAATGAAGGTGCAGCTCGGTC   600
+Mafa-DOA*01:08:01:01  CCCAATCCCCCTCACCTCTGTCACATCCACTCTGGACCTAAATGAAGGTGCAGCTCGGTC   600
 
 HLA-DOA*01:01:01      AGCTGCGCAGGTGCCCCAGTCAGCCTTTGCTGACGTTCAGATTTCTCCTCATTCCTTCCT   660
 Mafa-DOA*01:01:01     ------------------------------------------------------------   660
@@ -190,11 +230,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   660
 Mafa-DOA*01:02:07     ------------------------------------------------------------   660
 Mafa-DOA*01:02:08     ------------------------------------------------------------   660
-Mafa-DOA*01:03:01     ------------------------------------------------------------   660
+Mafa-DOA*01:02:09:01  AGCTGCGCAGGTGCCCCACTCAGCCTTTGCTGACGTTCAGATTTCTCCTGATTCCTTCCT   660
+Mafa-DOA*01:02:10:01  AGCTGCGCAGGTGCCCCATTCAGCCTTTGCTGACGTTCAGATTTCTCCTGATTCCTTCCT   660
+Mafa-DOA*01:03:01:01  AGCTGCGCAGGTGCCCCATTCAGCCTTTGCTGACGTTCAGATTTCTCCTGATTCCTTCCT   660
 Mafa-DOA*01:03:02     ------------------------------------------------------------   660
 Mafa-DOA*01:04        ------------------------------------------------------------   660
 Mafa-DOA*01:05        ------------------------------------------------------------   660
 Mafa-DOA*01:06:01:01  AGCTGCGCGGGTGTCCTCATCAGCCTTTGCTCACATTCAGATTTCCCCTCATTCTTTCCT   660
+Mafa-DOA*01:07:01:01  AGCTGCGCAGGTGCCCCATTCAGCCTTTGCTGACGTTCAGATTTCTCCTGATTCCTTCCT   660
+Mafa-DOA*01:08:01:01  AGCTGCGCAGGTGTCCTCGTCAGCCTTTGCTCACATTCAGATTTCCCCTCATTCTTTCCT   660
 
 HLA-DOA*01:01:01      CCTTCCTGAGACCCAAACCTCCACCCAACAGATGCCAGCAAGCACCCTGATTTCTCTACC   720
 Mafa-DOA*01:01:01     ------------------------------------------------------------   720
@@ -208,11 +252,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   720
 Mafa-DOA*01:02:07     ------------------------------------------------------------   720
 Mafa-DOA*01:02:08     ------------------------------------------------------------   720
-Mafa-DOA*01:03:01     ------------------------------------------------------------   720
+Mafa-DOA*01:02:09:01  CCTTCCTGAGACCCAAACCTCCACCCAACAGGTGCCAGCAAGCACCCTGATTTCTCTGCT   720
+Mafa-DOA*01:02:10:01  CCTTCCTGAGACCCAAACCTCCACCCAACAGGTGCCAGCAAGCACCCTGATTTCTCTGCT   720
+Mafa-DOA*01:03:01:01  CCTTCCTGAGACCCAAACCTCCACCCAACAGGTGCCAGCAAGCACCCTGATTTCTCTGCT   720
 Mafa-DOA*01:03:02     ------------------------------------------------------------   720
 Mafa-DOA*01:04        ------------------------------------------------------------   720
 Mafa-DOA*01:05        ------------------------------------------------------------   720
 Mafa-DOA*01:06:01:01  ACTCCCTGAAACCCGAACCTCCACCCAACAGATGCCAGCAAGCACCCTGATTTCCCTACC   720
+Mafa-DOA*01:07:01:01  CCTTCCTGAGACCCAAACCTCCACCCAACAGGTGCCAGCAAGCACCCTGATTTCTCTGCT   720
+Mafa-DOA*01:08:01:01  ACTCCCTGAAACCCGAACCTCCACCCAACAGATGCCAGCAAGCACCCTGATTTCCCTACC   720
 
 HLA-DOA*01:01:01      ACCCCTGGCCTGGAATGTGCCCGATCAAGTCCAGTTCTGTTGCAGTATTTATGCCCATGC   780
 Mafa-DOA*01:01:01     ------------------------------------------------------------   780
@@ -226,11 +274,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   780
 Mafa-DOA*01:02:07     ------------------------------------------------------------   780
 Mafa-DOA*01:02:08     ------------------------------------------------------------   780
-Mafa-DOA*01:03:01     ------------------------------------------------------------   780
+Mafa-DOA*01:02:09:01  ACCCCTGGCCTGGAGTGTGGCCCATCGAGTCCAGTTCTGTTGCAGTATTTATGCCCATGC   780
+Mafa-DOA*01:02:10:01  ACCCCTGGTCTGGAGTGTGGCCCATCGAGTCCAGTTCTGTTGCAGTATTTATGCCCATGC   780
+Mafa-DOA*01:03:01:01  ACCCCTGGCCTGGAGTGTGGCCCATCGAGTCCAGTTCTGTTGCAGTATTTATGCCCATGC   780
 Mafa-DOA*01:03:02     ------------------------------------------------------------   780
 Mafa-DOA*01:04        ------------------------------------------------------------   780
 Mafa-DOA*01:05        ------------------------------------------------------------   780
 Mafa-DOA*01:06:01:01  ATCCCTGGCCTGGAATGTGGCCCATCAAGTCCAGTTCTGTTGCAGTATTTATGCCCATGC   780
+Mafa-DOA*01:07:01:01  ACCCCTGGCCTGGAGTGTGGCCCATCGAGTCCAGTTCTGTTGCAGTATTTATGCCCATGC   780
+Mafa-DOA*01:08:01:01  ATCCCTGGCCTGGAATGTGGCCCATCAAGTCCAGTTCTGTTGCAGTATTTATGCCCATGC   780
 
 HLA-DOA*01:01:01      CGGTAGTTAACTATTTACCTGTCTTTGTTCTTCGGGAGACATGAGCTGGGGTGCGGGTCT   840
 Mafa-DOA*01:01:01     ------------------------------------------------------------   840
@@ -244,11 +296,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   840
 Mafa-DOA*01:02:07     ------------------------------------------------------------   840
 Mafa-DOA*01:02:08     ------------------------------------------------------------   840
-Mafa-DOA*01:03:01     ------------------------------------------------------------   840
+Mafa-DOA*01:02:09:01  CAGTAGTTAACTGTTTACCTGTC--TGTTTATCGGGAGACATGAGCTGGTTTGCGGGTCT   840
+Mafa-DOA*01:02:10:01  CAGTAGTTAACTGTTTACCTGTC--TGTTTATCGGGAGACATGAGCTGGTTTGCGGGTCT   840
+Mafa-DOA*01:03:01:01  CGGTAGTTAACTGTTTACCTGTC--TGTTTATCGGGAGACATGAGCTGGTTTGCGGGTCT   840
 Mafa-DOA*01:03:02     ------------------------------------------------------------   840
 Mafa-DOA*01:04        ------------------------------------------------------------   840
 Mafa-DOA*01:05        ------------------------------------------------------------   840
 Mafa-DOA*01:06:01:01  CAGTAGTTAACTGTTTACCTGTC--TGTTTATCGGGAGACATGAACTGGTTTGCGGGTCT   840
+Mafa-DOA*01:07:01:01  CAGTAGTTAACTGTTTACCTGTC--TGTTTATCGGGAGACATGAGCTGGTTTGCGGGTCT   840
+Mafa-DOA*01:08:01:01  CGGTAGTTATCTATTTACCCGTCTTTGTTTATCGGGAGACATGAACTGGTTTGCGGGTCT   840
 
 HLA-DOA*01:01:01      ACAGATGGTTCATCTTTTTTTTCTTTTATTTCCCTGGCCCCCCATTGTGCTGGGTGCATG   900
 Mafa-DOA*01:01:01     ------------------------------------------------------------   900
@@ -262,11 +318,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   900
 Mafa-DOA*01:02:07     ------------------------------------------------------------   900
 Mafa-DOA*01:02:08     ------------------------------------------------------------   900
-Mafa-DOA*01:03:01     ------------------------------------------------------------   900
+Mafa-DOA*01:02:09:01  ACAGCTGGTTCATC-TTTATTTCTTTTATTTCCCTGGCCCGCCATTGTGCTGGGTGCATG   900
+Mafa-DOA*01:02:10:01  ACAGCTGGTTCATC-TTTATTTCTTTTATTTCCCTGGCCCGCCGTTGTGCTGGGTGCATG   900
+Mafa-DOA*01:03:01:01  ACAGCTGGTTCATC-TTTATTTCTTTTATTTCCCTGGCCCGCCATTGTGCTGGGTGCATG   900
 Mafa-DOA*01:03:02     ------------------------------------------------------------   900
 Mafa-DOA*01:04        ------------------------------------------------------------   900
 Mafa-DOA*01:05        ------------------------------------------------------------   900
 Mafa-DOA*01:06:01:01  ACAGCTGGTTCATC-TTTATTTCTTTTATTTCCCTGGCCCACCATTGTGCTGGGTGCATG   900
+Mafa-DOA*01:07:01:01  ACAGCTGGTTCATC-TTTATTTCTTTTATTTCCCTGGCCCGCCATTGTGCTGGGTGCATG   900
+Mafa-DOA*01:08:01:01  ACAGCTGGTTCATC-TTTATTTATTTTATTTCCCTGGCCCACCATTGTGCTGGGTGCATG   900
 
 HLA-DOA*01:01:01      CTAGTTCCTCAATAACTGTTGCTCAAACAACTTCATAGAGTTCTACAAGAATTAAAACTT   960
 Mafa-DOA*01:01:01     ------------------------------------------------------------   960
@@ -280,11 +340,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------   960
 Mafa-DOA*01:02:07     ------------------------------------------------------------   960
 Mafa-DOA*01:02:08     ------------------------------------------------------------   960
-Mafa-DOA*01:03:01     ------------------------------------------------------------   960
+Mafa-DOA*01:02:09:01  CTAGTTCCTCAATAACTGCTGCTCAAACAACTTCATAGAATTCTGCAAGTATTAGAACTT   960
+Mafa-DOA*01:02:10:01  CTAGTTGCTCAATAACTGTTGCTCAAACAACTTCATAGAATTCTGCAAGTATTAGAACTT   960
+Mafa-DOA*01:03:01:01  CTAGTTCCTCAATAACTGCTGCTCAAACAACTTCATAGAATTCTGCAAGTATTAGAACTT   960
 Mafa-DOA*01:03:02     ------------------------------------------------------------   960
 Mafa-DOA*01:04        ------------------------------------------------------------   960
 Mafa-DOA*01:05        ------------------------------------------------------------   960
 Mafa-DOA*01:06:01:01  CTAGTTCCTCAGTAGCTGTTGTTCAAACAACTTCATAGAATTCTACAAGAATTAAAACTT   960
+Mafa-DOA*01:07:01:01  CTAGTTGCTCAATAACTGTTGCTCAAACAACTTCATAGAATTCTGCAAGTATTAGAACTT   960
+Mafa-DOA*01:08:01:01  CTAGTTCCTCAGTAGCTGTTGTTCAAACAACTTCATAGAATTCTACAAGAATTAAAACTT   960
 
 HLA-DOA*01:01:01      AATCCCTAACTTCCAGAAAACTAGACAACAGTTATGGAAGAGCCACACTCAGTCATAATG  1020
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1020
@@ -298,11 +362,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1020
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1020
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1020
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1020
+Mafa-DOA*01:02:09:01  AATCCCTAACTTCCGGAAAACTAGACAACAGTTATGGAAGAGACACACTCAGTCATAATG  1020
+Mafa-DOA*01:02:10:01  AATCCCTAACTTCCAGCAAACTAGACAACAGTTATGGAAGAGACACACTCAGTCATAATG  1020
+Mafa-DOA*01:03:01:01  AATCCCTAACTTCCGGAAAACTAGACAACAGTTATGGAAGAGACACACTCAGTCATAATG  1020
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1020
 Mafa-DOA*01:04        ------------------------------------------------------------  1020
 Mafa-DOA*01:05        ------------------------------------------------------------  1020
 Mafa-DOA*01:06:01:01  AATCCCTAACTTCCAGCAAACTAGACAACAGTTATGGAAGAGACACACTCAGTCATAATG  1020
+Mafa-DOA*01:07:01:01  AATCCCTAACTTCCAGCAAACTAGACAACAGTTATGGAAGAGACACACTCAGTCATAATG  1020
+Mafa-DOA*01:08:01:01  AATCCCTAACTTCCAGAAAACTAGACAACAGTTATGGAAGAGACACACTCAGTCATAATG  1020
 
 HLA-DOA*01:01:01      CTCTGAGATGGAGGAATTGGGACATGAACCTTGACTTCTGACTCCTCGTCCAGTGCTCTT  1080
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1080
@@ -316,11 +384,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1080
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1080
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1080
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1080
+Mafa-DOA*01:02:09:01  CTCTGAGATGGAGGAGTTGGGACATGAACTTTGACTTCTGACTCCTCATCCAGTGCTCTT  1080
+Mafa-DOA*01:02:10:01  CTCTGAGATGGAGGAGTTGGGACATGAACTTTGACTTCTGACTCCTCATCCAGTGCTCTT  1080
+Mafa-DOA*01:03:01:01  CTCTGAGATGGAGGAGTTGGGACATGAACTTTGACTTCTGACTCCTCATCCAGTGCTCTT  1080
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1080
 Mafa-DOA*01:04        ------------------------------------------------------------  1080
 Mafa-DOA*01:05        ------------------------------------------------------------  1080
 Mafa-DOA*01:06:01:01  CTCTGAGATGGAGGAGTTGGGACATGAACCTTGACTTCTGACTCTTCATCCAGTGCTCTT  1080
+Mafa-DOA*01:07:01:01  CTCTGAGATGGAGGAGTTGGGACATGAACTTTGACTTCTGACTCCTCATCCAGTGCTCTT  1080
+Mafa-DOA*01:08:01:01  CTCTGAGATGGAGGAGTTGGGACATGAACCTTGACTTCTGACTCTTCATCCAGTGCTCTT  1080
 
 HLA-DOA*01:01:01      TGTAATGCCTTGAGTTGCCTCTCCCTATCCCCTTGGTCTCTGGGTCACTAACCTTAATTC  1140
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1140
@@ -334,11 +406,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1140
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1140
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1140
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1140
+Mafa-DOA*01:02:09:01  TGCAATGCCTTGAGTTGCCTCTTCTTATCCCCTTGGTCTCTGGGTCACTAACCTTAATGC  1140
+Mafa-DOA*01:02:10:01  TGCAATGCCTTGAGTTGCCTCTTCTTATCCCCTTGGTCTCTGGGTCACTAACCTTAATTC  1140
+Mafa-DOA*01:03:01:01  TGCAATGCCTTGAGTTGCCTCTTCTTATCCCCTTGGTCTCTGGGTCACTAACCTTAATGC  1140
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1140
 Mafa-DOA*01:04        ------------------------------------------------------------  1140
 Mafa-DOA*01:05        ------------------------------------------------------------  1140
 Mafa-DOA*01:06:01:01  TGCAATGTCTTGAATTACCTCTTCCTATCCCCTTGGTCTCTGGGTCACTAACCTTAATTC  1140
+Mafa-DOA*01:07:01:01  TGCAATGCCTTGAGTTGCCTCTTCTTATCCCCTTGGTCTCTGGGTCACTAACCTTAATTC  1140
+Mafa-DOA*01:08:01:01  TGCAATGTCTTGAATTACCTCTTCCTATCCCCTTGGTCTCTGGGTCACTAACCTTAATTC  1140
 
 HLA-DOA*01:01:01      TTACCCCTGCCAGCCGTGGCCTGTTTCCCCTCACACCCACCTGCACTGCATCTCTGTGCA  1200
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1200
@@ -352,11 +428,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1200
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1200
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1200
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1200
+Mafa-DOA*01:02:09:01  TTACCCCTGCCAGCCGTGGCCTGTTTCCCCTTACACCCACCTGCACTGCATCTCTGTGCA  1200
+Mafa-DOA*01:02:10:01  TTACTCCTGCCAGCCATGGCCTGTTTCCCCTTACACCCACCTGCACTGCATCTCTGTGCC  1200
+Mafa-DOA*01:03:01:01  TTACCCCTGCCAGCCATGGCCTGTTTCCCCTTACACCCACCTGCACTGCATCTCTGTGCA  1200
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1200
 Mafa-DOA*01:04        ------------------------------------------------------------  1200
 Mafa-DOA*01:05        ------------------------------------------------------------  1200
 Mafa-DOA*01:06:01:01  TTACCCCTGCCAGCCGTGGCCTGTTTCCCCTTACACCCACCTGCACTGCATCTCTGTGCC  1200
+Mafa-DOA*01:07:01:01  TTACTCCTGCCAGCCATGGCCTGTTTCCCCTTACACCCACCTGCACTGCATCTCTGTGCC  1200
+Mafa-DOA*01:08:01:01  TTACCCCTGCCAGCCGTGGCCTGTTTCCCCTTACACCCACCTGCACTGCATCTCTGTGCC  1200
 
 HLA-DOA*01:01:01      AAGCTCCA-TACTCTCCTGTCCTTAATCATTCCTCCTCATCCCACCCCCACAGTCCCACC  1260
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1260
@@ -370,11 +450,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1260
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1260
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1260
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1260
+Mafa-DOA*01:02:09:01  GAGCTCCACTACTCTCCTGTCCTTAATCATTCCCCCTCATTCCACCCGCACAGTCCCACC  1260
+Mafa-DOA*01:02:10:01  GGGCTCCACTACTCTCCTGTCCTTAATCATTCCCCCTCATTCCACCCGCACAGTCCCACC  1260
+Mafa-DOA*01:03:01:01  GAGCTCCACTACTCTCCTGTCCTTAATCATTCCTCCTCATCCCACGCCCACAGTCCCACC  1260
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1260
 Mafa-DOA*01:04        ------------------------------------------------------------  1260
 Mafa-DOA*01:05        ------------------------------------------------------------  1260
 Mafa-DOA*01:06:01:01  GAGCTCCACTACTCTCCTGTCCTTAATCATTCCTCCTCATCCCACCCGCACAGTCCCACC  1260
+Mafa-DOA*01:07:01:01  GGGCTCCACTACTCTCCTGTCCTTAATAATTCCCCCTCATTCCACCCGCACAGTCCCACC  1260
+Mafa-DOA*01:08:01:01  GAGCTCCACTACTCTCCTGTCCTTAATCATTCCTCCTCATCCCACCCGCACAGTCCCACC  1260
 
 HLA-DOA*01:01:01      AGCTCACAACACAGGGCCTGACAACACAGCCAGGGCAGATGACCACAGCCAAGATTTAAA  1320
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1320
@@ -388,11 +472,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1320
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1320
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1320
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1320
+Mafa-DOA*01:02:09:01  AGCTCACAACACAGGGCCTGACAACACAGCCAGGGCAGACGACCACAGCCAAGATTTAAA  1320
+Mafa-DOA*01:02:10:01  AGCTCACAACACAGGACCTGACAACACAGACAGGGCAGACGGCCACAGCCGAGATTTAAA  1320
+Mafa-DOA*01:03:01:01  AGCTCACAACACAGGACCTGACAACACAGACAGGGCAGACGACCACAGCCAAGATTTAAA  1320
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1320
 Mafa-DOA*01:04        ------------------------------------------------------------  1320
 Mafa-DOA*01:05        ------------------------------------------------------------  1320
 Mafa-DOA*01:06:01:01  AGCTCACAACACAGGACCTGACAACACAGCCAGGGCAGACGACCACAGCCAAGATTTAAA  1320
+Mafa-DOA*01:07:01:01  AGCTCACAACACAGGACCTGACAACACAGACAGGGCAGACGACCACAGCCGAGATTTAAA  1320
+Mafa-DOA*01:08:01:01  AGCTCACAACACAGGGCCTGACAACACAGCCAGGGCAGACGACCACAGCCAAGATTTAAA  1320
 
 HLA-DOA*01:01:01      TTCTGGAACCCCAAGCATGATTTTAGGCAGTCCCTCCTCTTCCCATCCTGATATGCCAGA  1380
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1380
@@ -406,11 +494,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1380
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1380
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1380
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1380
+Mafa-DOA*01:02:09:01  TTCTGGAACCCCAAGCATGATTTTAGGCAGCCCCTCCTCTTCCCATCCTGATACGCCAGA  1380
+Mafa-DOA*01:02:10:01  TTCTGGAACCCCAAGCATGATTTTAGGCAGCCCCTCCTCTTCCCATGCTGATACGCCAGA  1380
+Mafa-DOA*01:03:01:01  TTCTGGAACCCCAAGCATGATTTTAGGCAGCCCCTCCTCTTCCCATCCTGATAGGCCAGA  1380
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1380
 Mafa-DOA*01:04        ------------------------------------------------------------  1380
 Mafa-DOA*01:05        ------------------------------------------------------------  1380
 Mafa-DOA*01:06:01:01  TTCTGGAACCCCAAGCATGATTTTAGGCAGCCCCTCCTCTTCCCATGCTGATAGGCCAGA  1380
+Mafa-DOA*01:07:01:01  TTCTGGAACCCCAAGCATGATTTTAGGCAGCCCCTCCTCTTCCCATCCTGATAGGCCAGA  1380
+Mafa-DOA*01:08:01:01  TTCTGGAACCCCAAGCATGATTTTAGGCAGCCCCTCCTCTTCCCATGCTGATACGCCAGA  1380
 
 HLA-DOA*01:01:01      CTGCACTGTCTCTGTGCCGACTGCAGTGTGCTGGGATGAGCCTCTTTCTTCCTGTTCTCT  1440
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1440
@@ -424,11 +516,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1440
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1440
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1440
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1440
+Mafa-DOA*01:02:09:01  CTGCACTGTCTCTGTGCCGGCTGCAGTGTGCTGGGATGAGCCTCTTTCTTCCTGT--CCT  1440
+Mafa-DOA*01:02:10:01  CTGCACTGTTTCTGTGCCGGCTGCAGTGTGCTGGGATGAGCCTCTTTCTTCCCGT--CCT  1440
+Mafa-DOA*01:03:01:01  CTGCACTGTCTCTGTGCCGGCTGCAGTGTGCTGGGATGAGCCTCTTTCTTCCTGT--CCT  1440
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1440
 Mafa-DOA*01:04        ------------------------------------------------------------  1440
 Mafa-DOA*01:05        ------------------------------------------------------------  1440
 Mafa-DOA*01:06:01:01  CTGCACTGTTTCTGTGCCGGCTGTAATGTGCTGGGATGAGCATCTTTCTTCCCGT--CCT  1440
+Mafa-DOA*01:07:01:01  CTGCACTGTTTCTGTGCCGGCTGCAGTGTGCTGGGATGAGCATCTTTCTTCCTGT--CCT  1440
+Mafa-DOA*01:08:01:01  CTGCACTGTTTCTGTGCCGGCTGCAGTGTGCTGGGATGAGCATCTTTCTTCCCGT--CCT  1440
 
 HLA-DOA*01:01:01      CTCCCTTTCTCTCTCCCAGGGCCAGCCCAGTGTCAGAACAGGACTCTGTCCCCACACAGA  1500
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1500
@@ -442,11 +538,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1500
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1500
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1500
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1500
+Mafa-DOA*01:02:09:01  CTCCCTTCCCCTCTCCCAGGGCCAGCCCAGTGTCAGAACAGGACTGTGTCCCCCCACAGA  1500
+Mafa-DOA*01:02:10:01  CTCCCTTCCCCTCTCCCAGGGCCAGCCCAGTGTCAGAACAGGACTGTGTCCCCACACAGA  1500
+Mafa-DOA*01:03:01:01  CTCCCTTCCCCTCTCCCAGGGCCAGCCCAGTGTCAGAACAGGACTGTGTCCCCACACAGA  1500
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1500
 Mafa-DOA*01:04        ------------------------------------------------------------  1500
 Mafa-DOA*01:05        ------------------------------------------------------------  1500
 Mafa-DOA*01:06:01:01  CTCCCTTGCCCTCTCCCAGGGCCAGCCCAGTGTCAGAACAGGACTGTGTCCCCCCACAGA  1500
+Mafa-DOA*01:07:01:01  CTCCCTTGCCCTCTCCCAGGGCCAGCCCAGTGTCAGAACAGGACTGTGTCCCCACACAGA  1500
+Mafa-DOA*01:08:01:01  CTCCCTTCCCCTCTCCCAGGGCCAGCCCAGTGTCAGAACAGGACTGTGTCCCCCCACAGA  1500
 
 HLA-DOA*01:01:01      ACCCAGGACGGGGCCCAGGCTCAGGGACTCAACAATCACATATTGTGGATGAGACAGACA  1560
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1560
@@ -460,11 +560,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1560
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1560
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1560
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1560
+Mafa-DOA*01:02:09:01  ACCCAGGACGGGGCCCAGGCTCAGGGACTCAACAATCACATATTGTGGATGAGACAGACA  1560
+Mafa-DOA*01:02:10:01  ACCCAGGACGGGGCCCAGGCTCAGGGACTCAACAATCACATATTGTGGATGAGACAGACA  1560
+Mafa-DOA*01:03:01:01  ACCCAGGACGGGGCCCAGGCTCAGGGACTCAACAATCACATATTGTGGATGAGACAGACA  1560
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1560
 Mafa-DOA*01:04        ------------------------------------------------------------  1560
 Mafa-DOA*01:05        ------------------------------------------------------------  1560
 Mafa-DOA*01:06:01:01  ACCCAGGACGGGGCCCAGGCTCAGGGACTCAACAATCACATATTGTGGATGAGACAGACA  1560
+Mafa-DOA*01:07:01:01  ACCCAGGACGGGGCCCAGGCTCAGGGACTCAACAATCACATATTGTGGATGAGACAGACA  1560
+Mafa-DOA*01:08:01:01  ACCCAGGACGGGGCCCAGGCTCAGGGACTCAACAATCACATATTGTGGATGAGACAGACA  1560
 
 HLA-DOA*01:01:01      CATTTTTTTCTCTCTCCTTGACCCTGAACTCGCCAAACACAGCTGACCACATGGGCTCCT  1620
 Mafa-DOA*01:01:01     ------------------------------------------CTGACCACATGGGCTCCT  1620
@@ -478,11 +582,15 @@ Mafa-DOA*01:02:05     ------------------------------------------CTGACCACATGGGCTC
 Mafa-DOA*01:02:06     ------------------------------------------CTGACCACATGGGCTCCT  1620
 Mafa-DOA*01:02:07     ------------------------------------------CTGACCACATGGGCTCCT  1620
 Mafa-DOA*01:02:08     ------------------------------------------CTGACCACATGGGCTCCT  1620
-Mafa-DOA*01:03:01     ------------------------------------------CTGACCACATGGGCTCCT  1620
+Mafa-DOA*01:02:09:01  CATTTTCTTCTCTCTCCTTGACCCTGAACTCACCAAATACAGCTGACCACATGGGCTCCT  1620
+Mafa-DOA*01:02:10:01  CATTTTCTTCTCTCTCCTTGACCCTGAACTCACCAAATACAGCTGACCACATGGGCTCCT  1620
+Mafa-DOA*01:03:01:01  CATTTTCTTCTCTCTCCTTGACCCTGAACTCACCAAATACAGCTGACCACATGGGCTCCT  1620
 Mafa-DOA*01:03:02     ------------------------------------------CTGACCACATGGGCTCCT  1620
 Mafa-DOA*01:04        ------------------------------------------CTGACCACATGGGCTCCT  1620
 Mafa-DOA*01:05        ------------------------------------------CTGACCACATGGGCTCCT  1620
 Mafa-DOA*01:06:01:01  CATTTTCTTCTCTCTCCTTGACCCTGAACTCACCAAATACAGCTGACCACATGGGCTCCT  1620
+Mafa-DOA*01:07:01:01  CATTTTCTTCTCTCTCCTTGACCCTGAACTCACCAAATACAGCTGACCACATGGGCTCCT  1620
+Mafa-DOA*01:08:01:01  CATTTTCTTCTCTCTCCTTGACCCTGAACTCACCAAATACAGCTGACCACATGGGCTCCT  1620
 
 HLA-DOA*01:01:01      ACGGACCCGCCTTCTACCAGTCTTACGGCGCCTCGGGCCAGTTCACCCATGAATTTGATG  1680
 Mafa-DOA*01:01:01     ACGGACCCGCCTTCTACCAGTCTTACGGTGCCTCGGGCCAGTTCACCCATGAATTTGATG  1680
@@ -496,11 +604,15 @@ Mafa-DOA*01:02:05     ACGGACCCGCCTTCTACCAGTCTTACGGTGCCTCAGGCCAGTTCACCCATGAATTTGA
 Mafa-DOA*01:02:06     ACGGACCCGCCTTCTACCAGTCTTACGGCGCCTCGGGCCAGTTCACCCATGAATTTGATG  1680
 Mafa-DOA*01:02:07     ACGGACCCGCCTTCTACCAGTCTTACGGTGCCTCGGGCCAGTTCACCCATGAATTTGATG  1680
 Mafa-DOA*01:02:08     ACGGACCCGCCTTCTACCAGTCTTACGGTGCCTCAGGCCAGTTCACCCATGAATTTGATG  1680
-Mafa-DOA*01:03:01     ACGGACCCGCCTTCTACCAGTCTTATGGTGCCTCGGGCCAGTTCACTCATGAATTTGATG  1680
+Mafa-DOA*01:02:09:01  ACGGACCCGCCTTCTACCAGTCTTACGGCGCCTCGGGCCAGTTCACCCATGAATTTGATG  1680
+Mafa-DOA*01:02:10:01  ACGGACCCGCCTTCTACCAGTCTTACGGCGCCTCGGGCCAGTTCACCCATGAATTTGATG  1680
+Mafa-DOA*01:03:01:01  ACGGACCCGCCTTCTACCAGTCTTATGGTGCCTCGGGCCAGTTCACTCATGAATTTGATG  1680
 Mafa-DOA*01:03:02     ACGGACCCGCCTTCTACCAGTCTTACGGTGCCTCCGGCCAGTTCACTCATGAATTTGATG  1680
 Mafa-DOA*01:04        ACGGACCCGCCTTCTACCAGTCTTACGGTGCCTCGGGCCAGTTCACCCATGAATTTGATG  1680
 Mafa-DOA*01:05        ACGGACCCGCCTTCTACCAGTCTTACGGCTTCTCAGGCCAGTTCACCCATGAATTTGATG  1680
 Mafa-DOA*01:06:01:01  ACGGACCCGCCTTCTACCAGTCTTACGGTGCCTCGGGCCAGTTCACCCATGAATTTGATG  1680
+Mafa-DOA*01:07:01:01  ACGGACCCGCCTTCTACCAGTCTTACGGCGCCTCAGGCCAGTTCACCCATGAATTTGATG  1680
+Mafa-DOA*01:08:01:01  ACGGACCTGCCTTCTACCAGTCTTACAGCGCCTCGGGCCAGTTCACCCATGAATTTGATG  1680
 
 HLA-DOA*01:01:01      AGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCCGTGTGGCGTCTGCCTGAGT  1740
 Mafa-DOA*01:01:01     GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
@@ -514,11 +626,15 @@ Mafa-DOA*01:02:05     GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGA
 Mafa-DOA*01:02:06     GGGAACAGCTGTTTTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
 Mafa-DOA*01:02:07     GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
 Mafa-DOA*01:02:08     GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
-Mafa-DOA*01:03:01     GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
+Mafa-DOA*01:02:09:01  GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
+Mafa-DOA*01:02:10:01  GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
+Mafa-DOA*01:03:01:01  GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
 Mafa-DOA*01:03:02     GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
 Mafa-DOA*01:04        GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
 Mafa-DOA*01:05        GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
 Mafa-DOA*01:06:01:01  GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
+Mafa-DOA*01:07:01:01  GGGAACAGCTGTTTTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
+Mafa-DOA*01:08:01:01  GGGAACAGCTGTTCTCTGTGGACCTGAAGAAAAGCGAGGCTGTGTGGCGTCTGCCTGAGT  1740
 
 HLA-DOA*01:01:01      TTGGTGACTTTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCAATCAAAG  1800
 Mafa-DOA*01:01:01     TTGGCGACTCTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
@@ -532,11 +648,15 @@ Mafa-DOA*01:02:05     TTGGCGACTTTGCCCGCTTTGACCCACAGGGTGGGCTGGCCGGCATCGCCGCGATCAA
 Mafa-DOA*01:02:06     TTGGCGACTTTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
 Mafa-DOA*01:02:07     TTGGCGACTTTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
 Mafa-DOA*01:02:08     TTGGCGACTTTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
-Mafa-DOA*01:03:01     TTGGCGACTCTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
+Mafa-DOA*01:02:09:01  TTGGCGACTTTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
+Mafa-DOA*01:02:10:01  TTGGCGACTTTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
+Mafa-DOA*01:03:01:01  TTGGCGACTCTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
 Mafa-DOA*01:03:02     TTGGCGACTCTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
 Mafa-DOA*01:04        TTGGCGACTTTGCCCGCTTTGACCCGCAGAGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
 Mafa-DOA*01:05        TTGGCGACTTTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
 Mafa-DOA*01:06:01:01  TTGGCGACTTTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
+Mafa-DOA*01:07:01:01  TTGGCGACTTTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
+Mafa-DOA*01:08:01:01  TTGGCGACTTTGCCCGCTTTGACCCGCAGGGTGGGCTGGCCGGCATCGCCGCGATCAAAG  1800
 
 HLA-DOA*01:01:01      CCCATCTGGACATCCTGGTGGAGCGCTCCAACCGCAGCAGAGCCATCAACGGTACCGGCC  1860
 Mafa-DOA*01:01:01     CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCGCACCAGAGCCATCAA-----------  1860
@@ -550,11 +670,15 @@ Mafa-DOA*01:02:05     CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCGCACCAGAGCCATCAA---------
 Mafa-DOA*01:02:06     CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCGCACCAGAGCCATCAA-----------  1860
 Mafa-DOA*01:02:07     CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCGCACCAGAGCCATCAA-----------  1860
 Mafa-DOA*01:02:08     CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCGCACCAGAGCCATCAA-----------  1860
-Mafa-DOA*01:03:01     CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCACACCAGAGCCATCAA-----------  1860
+Mafa-DOA*01:02:09:01  CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCGCACCAGAGCCATCAACGGTACCAGCC  1860
+Mafa-DOA*01:02:10:01  CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCGCACCAGAGCCATCAACGGTACCAGCC  1860
+Mafa-DOA*01:03:01:01  CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCACACCAGAGCCATCAATGGTACCAGCG  1860
 Mafa-DOA*01:03:02     CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCACACCAGAGCCATCAA-----------  1860
 Mafa-DOA*01:04        CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCGCACCAGAGCCATCAA-----------  1860
 Mafa-DOA*01:05        CCCATCTGGACGTCCTGGTGGAGCGCTCCAACCGCACCAGAGCCATCAA-----------  1860
 Mafa-DOA*01:06:01:01  CCCATCTGGATGTCCTGGTGGAGCGCTCCAACCACACCAGAGCCATCAATGGTACCAGCC  1860
+Mafa-DOA*01:07:01:01  CCCATCTGGATGTCCTGGTGGAGCGATCCAACCACACCAAAGCCATCAACGGTACCAGCC  1860
+Mafa-DOA*01:08:01:01  CCCATCTGGACGTCCTGGTGGAGCGCTCCAACCGCACCAGAGCCATCAACGGTACCAGCC  1860
 
 HLA-DOA*01:01:01      CTCCCTCTGCCCACCCAGTCAGGCGGGAAGGTCCAGAGAAACTTCCTCCCAGTTCCTAGG  1920
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1920
@@ -568,11 +692,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1920
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1920
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1920
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1920
+Mafa-DOA*01:02:09:01  CTCCCTCTGCCCACCCAGTCAGGCGGGAAGGT-CAGAGAAACTTCCTCCCAGTTCCTAGG  1920
+Mafa-DOA*01:02:10:01  CTCCCTCTGCCCACCCAGTCAGGCGGGAAGGT-CAGAGAAACTTCCTCCCAGTTCCTAGG  1920
+Mafa-DOA*01:03:01:01  CTCCCTCTGCCCACCCAGTCAGGCGGGAAGGT-CAGAGAAACTTCCTCCCAGTTCCTAGA  1920
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1920
 Mafa-DOA*01:04        ------------------------------------------------------------  1920
 Mafa-DOA*01:05        ------------------------------------------------------------  1920
 Mafa-DOA*01:06:01:01  CTCCCTCTGCCCACCCAGTCAGGCGGGAAGGT-CAGAGAAACTTCCTCCCAGTTCCTAGG  1920
+Mafa-DOA*01:07:01:01  CTCCCTCTGCCCACCCAGTCAGGCGGGAAGGT-CAGAGAAACTTCCTCCCAGTTCCTAGG  1920
+Mafa-DOA*01:08:01:01  CTCCCTCTGCCCACCCAGTCAGGCGGGAAGGT-CAGAGAAACTTCCTCCCAGTTCCTAGG  1920
 
 HLA-DOA*01:01:01      TTCCCATCACTCTGGGGCGCGCTCTCAGCGCCCGCGCCTGTCATGCCCTGTTCCTTTCTT  1980
 Mafa-DOA*01:01:01     ------------------------------------------------------------  1980
@@ -586,11 +714,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  1980
 Mafa-DOA*01:02:07     ------------------------------------------------------------  1980
 Mafa-DOA*01:02:08     ------------------------------------------------------------  1980
-Mafa-DOA*01:03:01     ------------------------------------------------------------  1980
+Mafa-DOA*01:02:09:01  CCCCCATCACTCTGGGGCATGCTCTCAGTGCCCGTGCCTGTCATGCCTTGTCCCTTTCTT  1980
+Mafa-DOA*01:02:10:01  CCCCCATCACTCTGGGGCATGCTCTCAGTGCCCGTGCCTGTCATGCCTTGTCCCTTTCTT  1980
+Mafa-DOA*01:03:01:01  CCTCCATCACTCTGGGGCGCACTCTCAGTGCCCATGCCTGTCATGCCCTGTCCCTTTCTT  1980
 Mafa-DOA*01:03:02     ------------------------------------------------------------  1980
 Mafa-DOA*01:04        ------------------------------------------------------------  1980
 Mafa-DOA*01:05        ------------------------------------------------------------  1980
 Mafa-DOA*01:06:01:01  CCCCCATCACTCTGGGGCATGCTCTCAGCACCCGTGCCTGTCATGCCTTGTCCCTTTCTT  1980
+Mafa-DOA*01:07:01:01  CCCCCATCACTCTGGGGCGCACTCTCAGTGCCCGTGCCTGTCATGCCCTGTCCCTTTCTT  1980
+Mafa-DOA*01:08:01:01  CCCCCATCACTCTGGGGCATGCTCTCAGTGCCCGTGCCTGTCATGCCTTGTCCCTTTCTT  1980
 
 HLA-DOA*01:01:01      TCCCAGGAGGCTCCAGGTCTTCCCAGACCCCTTTGGCACCCCTCTCCTTGAGGAATGACA  2040
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2040
@@ -604,11 +736,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2040
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2040
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2040
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2040
+Mafa-DOA*01:02:09:01  TCCCAGGAGGCTCCATGTCTTCCTAGACCCCATTGGCATCCCTCTCCTTGAGGAATGACA  2040
+Mafa-DOA*01:02:10:01  TCCCAGGAGGCTCCATGTCTTCCTAGACCCCATTGGCATCCCTCTCCTTGAGGAATGACA  2040
+Mafa-DOA*01:03:01:01  TCCCAGGAGGCTCCATGTCTTCCTAGACCCCGTTGGCATCCCTCTCCTTGAGGAATGACA  2040
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2040
 Mafa-DOA*01:04        ------------------------------------------------------------  2040
 Mafa-DOA*01:05        ------------------------------------------------------------  2040
 Mafa-DOA*01:06:01:01  TCCCAGGAGGCTCCATGTCTTCCTAGACCCCGTTGGCATCCCTCTCCTTGAGGAATGACA  2040
+Mafa-DOA*01:07:01:01  TCCCAGGAGGCTCCAGGTCTTCCTAGACCCCGTTGGCACCCCTCTCCTTGAGGAATGACA  2040
+Mafa-DOA*01:08:01:01  TCCCAGGAGGCTCCATGTCTTCCTAGACCCCGTTGGCATCCCTCTCCTTGAGGAATGACA  2040
 
 HLA-DOA*01:01:01      CCTCTCACCCGGACTCCCGCCCAGGGACCAGTCAAATATAGGAGCTCCTGGCGTCCCCAC  2100
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2100
@@ -622,11 +758,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2100
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2100
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2100
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2100
+Mafa-DOA*01:02:09:01  CCTCTCACCTGGACTTCCACCCAGGGACCAGTCAGATATAGGACCTCCTGGCAT-CCCAC  2100
+Mafa-DOA*01:02:10:01  CCTCTCACCTGGACTTCCACCCAGGGACCAGTCAGATATAGGACCTCCTGGCAT-CCCAC  2100
+Mafa-DOA*01:03:01:01  CCTCTCACCTGGACTCCCGCCCAGGGACCAGTCAGATATAGGACCTCCTGGCAT-CCCAC  2100
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2100
 Mafa-DOA*01:04        ------------------------------------------------------------  2100
 Mafa-DOA*01:05        ------------------------------------------------------------  2100
 Mafa-DOA*01:06:01:01  CCTCTCACCTGGACTCCCGCCCAGGGACCAGTCAGATATAGGACCTCCTGGCAT-CCCAC  2100
+Mafa-DOA*01:07:01:01  CCTCTCACCTGGACTCCCGCCCAGGGACCAGTCAGATATAGGACCTCCTGGCAT-CCCAC  2100
+Mafa-DOA*01:08:01:01  CCTCTCACCTGGACTCCCGCCCAGGGACCAGTCAGATATAGGACCTCCTGGCAT-CCCAC  2100
 
 HLA-DOA*01:01:01      TCCCTCCCCAGTCTCCTCTCCCTCTGTTTCCCTCCTCTCCTGCCCCAGTGGATAC---CC  2160
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2160
@@ -640,11 +780,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2160
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2160
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2160
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2160
+Mafa-DOA*01:02:09:01  TCCCTCCCCAGTCTCCTCTCCCTCTGTTTTTCTCCTTTTCTGCCCCAGTGGATACCATCC  2160
+Mafa-DOA*01:02:10:01  TCCCTCCCCAGTCTCCTCTCCCTCTGTTTTTCTCCTTTTCTGCCCCAGTGGATACCATCC  2160
+Mafa-DOA*01:03:01:01  TCCCTCCCCAGTCTCCTCTCCCTCTGTTTTTCTCCTTTTCTGCCTCAGTGGATACCATCC  2160
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2160
 Mafa-DOA*01:04        ------------------------------------------------------------  2160
 Mafa-DOA*01:05        ------------------------------------------------------------  2160
 Mafa-DOA*01:06:01:01  TCCCTCCCCAGTCTCCTCTCCCTCTGTTTTTCTCCTTTTCTGCCCCAGTGGATACCATCC  2160
+Mafa-DOA*01:07:01:01  TCCCTCCCCAGTCTCCTCTCCCTCTGTTTTTCTCCTTTTCTGCCCCAGTGGATACCATCC  2160
+Mafa-DOA*01:08:01:01  TCCCTCCCCAGTCTCCTCTCCCTCTGTTTCCCTCCTCTCCTGCTCCAGTGGATACCATCC  2160
 
 HLA-DOA*01:01:01      CAGAGCATCCCCTGCCCACAGATGGCTACAAAGGGGGAACGTCCCTTAATCCCAGTCCTA  2220
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2220
@@ -658,11 +802,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2220
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2220
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2220
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2220
+Mafa-DOA*01:02:09:01  CAGAGCATCCCCTGCCCACAGATGGCTACGAAGGGGGAACGTCACTTAATCCCAGTCCTA  2220
+Mafa-DOA*01:02:10:01  CAGAGCATCCCCTGCCCACAGATGGCTACGAAGGGGGAACGTCACTTAATCCCAGTCCTA  2220
+Mafa-DOA*01:03:01:01  CAGAGCATCCCCTGCCCACAGATGGCTACGAAGGGGGAACGTCCCTTAATCCCAGTCCTA  2220
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2220
 Mafa-DOA*01:04        ------------------------------------------------------------  2220
 Mafa-DOA*01:05        ------------------------------------------------------------  2220
 Mafa-DOA*01:06:01:01  CAGAGCATCCCCTGCCCACAGATGGCTACGAAGGGGGAACGTCCCTTAATCCCAGTCCTA  2220
+Mafa-DOA*01:07:01:01  CAGAGCATCCCCTGCCCACAGATGGCTACGAAGGGGGAACGTCCCTTAATCCCAGTCCTA  2220
+Mafa-DOA*01:08:01:01  CAGAGCATCCCCTGCCCACAGATGGCTACGAAGGGGGAACGTCCCTTAATCCCAGTCCTA  2220
 
 HLA-DOA*01:01:01      GTAAGGCCCTGGGGTGAGGGATGAGCCTGTGGACTCAGGGCCCGTTCCTCCTAGTGCCTC  2280
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2280
@@ -676,11 +824,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2280
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2280
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2280
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2280
+Mafa-DOA*01:02:09:01  GTAACGCCCTGGGAGGAGGGATGAGCCTGTGGACTCAAGCCCCATTCCTCCTAGTGCCTC  2280
+Mafa-DOA*01:02:10:01  GTAACGCCCTGGGAGGAGGGATGAGCCTGTGGACTCAAGCCCCATTCCTCCTAGTGCCTC  2280
+Mafa-DOA*01:03:01:01  GTAATGTCCTGGGATAAGGGATGAGCCTGTGGACTCAGAGCCCATTCCTCCTAGTGCCTC  2280
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2280
 Mafa-DOA*01:04        ------------------------------------------------------------  2280
 Mafa-DOA*01:05        ------------------------------------------------------------  2280
 Mafa-DOA*01:06:01:01  GTAACGCCCTGGGAGGAGGGATGAGCCTGTGGACTCAAGCCCCATTCCTCCTAGTGCCTC  2280
+Mafa-DOA*01:07:01:01  GTAAGGCCCTGGGAAGAGGGATGAGCCTGTGAACTCAGGCCCCATTCCTCCTAGTGCCTC  2280
+Mafa-DOA*01:08:01:01  GTAAGGCCCTGGGAAGAGGGATGAGCCTGTGAACTCAGGCCCCATTCCTCCTAGTGCCTC  2280
 
 HLA-DOA*01:01:01      CACGGGTGACCGTGCTCCCCAAGTCTCGGGTGGAGCTGGGCCAGCCCAACATCCTCATCT  2340
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2340
@@ -694,11 +846,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2340
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2340
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2340
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2340
+Mafa-DOA*01:02:09:01  CACGGGTGACCGTGCTCCCCAAGTCTCGGGTGGAGCTGGGCCAGCCCAACATCCTCATCT  2340
+Mafa-DOA*01:02:10:01  CACGGGTGACCGTGCTCCCCAAGTCTCGGGTGGAGCTGGGCCAGCCCAACATCCTCATCT  2340
+Mafa-DOA*01:03:01:01  CACGGGTGACCGTGCTCCCCAAGTCTCGGGTGGAGCTGGGCCAGCCCAACATCCTCATCT  2340
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2340
 Mafa-DOA*01:04        ------------------------------------------------------------  2340
 Mafa-DOA*01:05        ------------------------------------------------------------  2340
 Mafa-DOA*01:06:01:01  CACGGGTGACCGTGCTCCCCAAGTCTCGGGTGGAGCTGGGCCAGCCCAACATCCTCATCT  2340
+Mafa-DOA*01:07:01:01  CACGGGTGACCGTGTTCCCCAAGTCTCGGGTGGAGCTGGGCCAGCCCAACATCCTCATCT  2340
+Mafa-DOA*01:08:01:01  CACGGGTGACCGTGTTCCCCAAGTCTCGGGTGGAGCTGGGCCAGCCCAACATCCTCATCT  2340
 
 HLA-DOA*01:01:01      GCATCGTGGACAACATCTTCCCCCCTGTGATCAATATCACCTGGCTACGCAACGGCCAAA  2400
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2400
@@ -712,11 +868,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2400
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2400
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2400
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2400
+Mafa-DOA*01:02:09:01  GCATCGTGGACAACATCTTCCCGCCTGTGATCAATATCACCTGGCTGCGCAATGGCCAAG  2400
+Mafa-DOA*01:02:10:01  GCATCGTGGACAACATCTTCCCGCCTGTGATCAATATCACCTGGCTGCGCAACGGCCAAG  2400
+Mafa-DOA*01:03:01:01  GCGTCGTGAACAACATCTTCCCGCCTGTGATCAATATCACCTGGCTGCGCAACGGCCAAG  2400
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2400
 Mafa-DOA*01:04        ------------------------------------------------------------  2400
 Mafa-DOA*01:05        ------------------------------------------------------------  2400
 Mafa-DOA*01:06:01:01  GCATCGTGGACAACATCTTCCCGCCTGTGATCAATATCACCTGGCTGCGCAACGGCCAAG  2400
+Mafa-DOA*01:07:01:01  GCGTCGTGAACAACATCTTCCCGCCTGTGATCAATATCACCTGGCTGCGCAATGGCCAAG  2400
+Mafa-DOA*01:08:01:01  GCATTGTGGACAACATCTTCCCGCCTGTGATCAATATCACCTGGCTGCGCAACGGCCAAG  2400
 
 HLA-DOA*01:01:01      CTGTCACTGAGGGAGTGGCCCAGACCAGCTTCTATTCCCAGCCTGACCATTTGTTCCGCA  2460
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2460
@@ -730,11 +890,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2460
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2460
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2460
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2460
+Mafa-DOA*01:02:09:01  CTGTCACTGAGGGAGTGGCCCAGACCAGCTTCTATTCCCAGCCTGACCATTTGTTCCGCA  2460
+Mafa-DOA*01:02:10:01  CTGTCACTGAGGGAGTGGCCCAGACCAGCTTCTATTCCCAGCCTGACCATTTGTTCCGCA  2460
+Mafa-DOA*01:03:01:01  CTGTCACTGAGGGAGTGGCCCAGACCAGCTTCTATTCCCAGCCTGACCATTTGTTCCGCA  2460
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2460
 Mafa-DOA*01:04        ------------------------------------------------------------  2460
 Mafa-DOA*01:05        ------------------------------------------------------------  2460
 Mafa-DOA*01:06:01:01  CTGTCACTGAGGGAGTGGCCCAGACCAGCTTCTATTCCCAGCCTGACCATTTGTTCCGCA  2460
+Mafa-DOA*01:07:01:01  CTGTCACTGAGGGAGTGGCCCAGACCAGCTTCTATTCCCAGCCTGACCATTTGTTCCGCA  2460
+Mafa-DOA*01:08:01:01  CTGTCACTGAGGGAGTGGCCCAGACCAGCTTCTATTCCCAGCCTGACCATTTGTTCCGCA  2460
 
 HLA-DOA*01:01:01      AGTTCCACTACCTGCCCTTCGTGCCCTCAGCCGAGGACGTCTATGACTGCCAGGTGGAGC  2520
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2520
@@ -748,11 +912,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2520
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2520
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2520
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2520
+Mafa-DOA*01:02:09:01  AGTTCCACTACCTGCCCTTTGTGCCCTCGGCTGCGGACGTCTATGACTGCCAGGTGGAGC  2520
+Mafa-DOA*01:02:10:01  AGTTCCACTACCTGCCCTTTGTGCCCTCGGCTGCGGACGTCTATGACTGCCAGGTGGAGC  2520
+Mafa-DOA*01:03:01:01  AGTTCCACTACCTGCCCTTTGTGCCCTCGGCCGAGGACGTCTATGACTGCCAGGTGGAGC  2520
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2520
 Mafa-DOA*01:04        ------------------------------------------------------------  2520
 Mafa-DOA*01:05        ------------------------------------------------------------  2520
 Mafa-DOA*01:06:01:01  AGTTCCACTACCTGCCCTTTGTGCCCTCGGCCGAGGACGTCTATGACTGCCAGGTGGAGC  2520
+Mafa-DOA*01:07:01:01  AGTTCCACTACCTGCCCTTCGTGCCCTCGGCCGCGGACGTCTATGACTGCCAGGTGGAGC  2520
+Mafa-DOA*01:08:01:01  AGTTCCACTACCTGCCCTTTGTGCCCTCGGCCGCGGACGTCTATGACTGCCGGGTGGAGC  2520
 
 HLA-DOA*01:01:01      ACTGGGGCCTGGATGCGCCACTCCTCAGGCATTGGGGTACGGAGCCCCCTCCCCATGCAC  2580
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2580
@@ -766,11 +934,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2580
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2580
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2580
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2580
+Mafa-DOA*01:02:09:01  ACTGGGGCCTGGATGCGCCACTCCTCAGGCATTGGGGTACGGAGCCCCCTCCCCACGCAC  2580
+Mafa-DOA*01:02:10:01  ACTGGGGCCTGGATGCGCCACTCCTCAGGCATTGGGGTACGGAGCCCCCTCCCCACGCAC  2580
+Mafa-DOA*01:03:01:01  ACTGGGGCCTGGATGCGCCACTCCTCAGGCATTGGGGTACGGAGCCCCCTCCCCACACAC  2580
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2580
 Mafa-DOA*01:04        ------------------------------------------------------------  2580
 Mafa-DOA*01:05        ------------------------------------------------------------  2580
 Mafa-DOA*01:06:01:01  ACTGGGGCCTGGATGCGCCACTCCTCAGGCATTGGGGTACGGAGCCCCCTCCCCACGCAC  2580
+Mafa-DOA*01:07:01:01  ACTGGGGCCTGGATGCGCCACTCCTCAGGCATTGGGGTACGGAGCCCCCTCCCCACGCAC  2580
+Mafa-DOA*01:08:01:01  ACTGGGGCCTGGATGCGCCACTCCTCAGGCATTGGGGTACGGAGCCCCCTCCCCACGCAC  2580
 
 HLA-DOA*01:01:01      CCTCCTGGCCCCAGGTTTCCTTTACTCTAGAATCCTTTCATATACCACCGACTCCTTCCT  2640
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2640
@@ -784,11 +956,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2640
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2640
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2640
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2640
+Mafa-DOA*01:02:09:01  CCTCCTGGCCCCAGGTTTCCTTTACTCTAGAATCCTTCCCTATACCACCAATTCCTTCCT  2640
+Mafa-DOA*01:02:10:01  CCTCCTGGCCCCAGGTTTCCTTTACTCTAGAATCCTTCCCTATACCACCAATTCCTTCCT  2640
+Mafa-DOA*01:03:01:01  CCTCCTGGCCCCAGGTTTCCTTTACTCTAGAATCCTTCCCTATACCACCAATTCCTTCCT  2640
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2640
 Mafa-DOA*01:04        ------------------------------------------------------------  2640
 Mafa-DOA*01:05        ------------------------------------------------------------  2640
 Mafa-DOA*01:06:01:01  CCTCCTGGCCCCAGGTTTCCTTTACTCTAGAATCCTTCCCTATACCACCAATTCCTTCCT  2640
+Mafa-DOA*01:07:01:01  CCTCCTGGCCCCAGGTTTCCTTTACTCTAGAATCCTTCCCTATACCACCAATTCCTTCCT  2640
+Mafa-DOA*01:08:01:01  CCTCCTGGCCCCAGGTTTCCTTTACTCTAGAATCCTTCCCTATACCACCAATTCCTTCCT  2640
 
 HLA-DOA*01:01:01      TTCTCTCCTAGAGCTCCAGGTGCCTATTCCACCACCAGATGCCATGGAGACCCTGGTCTG  2700
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2700
@@ -802,11 +978,15 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2700
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2700
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2700
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2700
+Mafa-DOA*01:02:09:01  TTCTCTCCCAGAGCTCCAGGTGCCTATTCCACCACCAGATGCCATGGAGACCCTGGTCTG  2700
+Mafa-DOA*01:02:10:01  TTCTCTCCCAGAGCTCCAGGTGCCTATTCCACCACCAGATGCCATGGAGACCCTGGTCTG  2700
+Mafa-DOA*01:03:01:01  TTCTCTCCCAGAGCTCCAGATGCCTATTCCACCACCAGATGCCATGGAGACCCTGGTCTG  2700
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2700
 Mafa-DOA*01:04        ------------------------------------------------------------  2700
 Mafa-DOA*01:05        ------------------------------------------------------------  2700
 Mafa-DOA*01:06:01:01  TTCTCTCCCAGAGCTCCAGGTGCCTATTCCACCACCAGATGCCATGGAGACCCTGGTCTG  2700
+Mafa-DOA*01:07:01:01  TTCTCTCCCAGAGCTCCAGGTGCCTATTCCACCACCAGACGCCATGGAGACCCTGGTCTG  2700
+Mafa-DOA*01:08:01:01  TTCTCTCCCAGAGCTCCAGGTGCCTATTCCACCACCAGATGCCATGGAGACCCTGGTCTA  2700
 
 HLA-DOA*01:01:01      TGCCCTGGGTCTGGCCATCGGCCTGGTGGGCTTCCTCGTGGGCACCGTCCTCATCATCAT  2760
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2760
@@ -820,13 +1000,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2760
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2760
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2760
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2760
+Mafa-DOA*01:02:09:01  TGCCTTGGGCCTGGCCATCGGCCTGGTGGGCTTCCTCGTGGGCACCATCCTCATCATCAT  2760
+Mafa-DOA*01:02:10:01  TGCCTTGGGCCTGGCCATCGGCCTGGTGGGCTTCCTCGTGGGCACCATCCTCATCATCAT  2760
+Mafa-DOA*01:03:01:01  TGCCCTGGGCCTGGCCATCGGCCTGGTGGGCTTCCTCGTGGGCACCATCCTCATCATCAT  2760
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2760
 Mafa-DOA*01:04        ------------------------------------------------------------  2760
 Mafa-DOA*01:05        ------------------------------------------------------------  2760
 Mafa-DOA*01:06:01:01  TGCCCTGGGCCTGGCCATCGGCCTGGTGGGCTTCCTCGTGGGCACCATCCTCATCATCAT  2760
+Mafa-DOA*01:07:01:01  TGCCCTGGGCCTGGCCATCGGCCTGTTGGGCTTCCTCGTGGGCACCATCCTCATCATCAT  2760
+Mafa-DOA*01:08:01:01  TGCCCTAGGCCTGGCCATCGGCCTGGTGGGCTTCCTCGTGGGCACCATCCTCATCATTAT  2760
 
-HLA-DOA*01:01:01      GGGCACATATGTGTCCAGTGTCCCCAGGTGCAGAGGCCCCGGGAGTCTGGGGGGTGGGGG  2820
+HLA-DOA*01:01:01      GGGCACATATGTGTCCAGTGTCCCCAGGTGCAGAGGCCCCGGGAGTCTGGGGGG-----T  2820
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2820
 Mafa-DOA*01:01:02     ------------------------------------------------------------  2820
 Mafa-DOA*01:01:03     ------------------------------------------------------------  2820
@@ -838,13 +1022,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2820
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2820
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2820
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2820
+Mafa-DOA*01:02:09:01  GGGCACATATGTGTCCAGTGCCCCCAGGTGCAGAGGCCCCAGGAGTCT----GG-----C  2820
+Mafa-DOA*01:02:10:01  GGGCACATATGTGTCCAGTGCCCCCAGGTGCAGAGGCCCCAGGAGTCT----GG-----C  2820
+Mafa-DOA*01:03:01:01  GGGCACATATGTGTCCAGTGCCCCCAGGTGCAGAGGCCCCGGGAGTCTAGGGGG-----T  2820
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2820
 Mafa-DOA*01:04        ------------------------------------------------------------  2820
 Mafa-DOA*01:05        ------------------------------------------------------------  2820
-Mafa-DOA*01:06:01:01  GGGCACATATGTGTCCAGTGCCCCCAGGTGCAGAGGCCCCGGGAGTCTTGGGTGGGGGGG  2820
+Mafa-DOA*01:06:01:01  GGGCACATATGTGTCCAGTGCCCCCAGGTGCAGAGGCCCCGGGAGTCTTGGGTG-----G  2820
+Mafa-DOA*01:07:01:01  GGGCACATATGTGTCCAGTGCCCCCAGGTGCAGAGGCCCCAGGAGTCTTGGGTGGGGGTG  2820
+Mafa-DOA*01:08:01:01  GGGCACATATGTGTCCAGTGCCCCCAGGTGCAGAGGCCCCAGGAGTCT----GG-----C  2820
 
-HLA-DOA*01:01:01      AGGAAAGTGGATGACTCTGAACAGGACGTGGGTGGAGAATCAGAGATTCTGTTGTGGGGA  2880
+HLA-DOA*01:01:01      GGGGGAGGAAAGTGGATGACTCTGAACAGGACGTGGGTGGAGAATCAGAGATTCTGTTGT  2880
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2880
 Mafa-DOA*01:01:02     ------------------------------------------------------------  2880
 Mafa-DOA*01:01:03     ------------------------------------------------------------  2880
@@ -856,13 +1044,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2880
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2880
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2880
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2880
+Mafa-DOA*01:02:09:01  GGGGGAGGAAAGTGGATGACTCTGAACAGGACATGCGCGGAGAATCAGAGATTCTGTCGC  2880
+Mafa-DOA*01:02:10:01  GGGGGAGGAAAGTGGATGACTCTGAACAGGACATGCGCGGAGAATCAGAGATTCTGTCGC  2880
+Mafa-DOA*01:03:01:01  GTGGGAGGAAAGTGGATGACTCTGAACAGGACATGGGCGGAGAATCAGAGATTCTGTCAC  2880
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2880
 Mafa-DOA*01:04        ------------------------------------------------------------  2880
 Mafa-DOA*01:05        ------------------------------------------------------------  2880
-Mafa-DOA*01:06:01:01  AGGAAAGTGGATGACTCTGAACAGGACATGGGCGGAGAATCAGAGATTCTGTCTTGGGGA  2880
+Mafa-DOA*01:06:01:01  GGGGGAGGAAAGTGGATGACTCTGAACAGGACATGGGCGGAGAATCAGAGATTCTGTCTT  2880
+Mafa-DOA*01:07:01:01  GGGGGAGGAAAGTGGATGACTCTGAACAGGACATGGGCGGAGAATCAGAGATTCTGTCTT  2880
+Mafa-DOA*01:08:01:01  GGGGGAGGAAAGTGGATGACTCTGAACAGGACATGCGCGGAGAATCAGAGATTCTGTCGC  2880
 
-HLA-DOA*01:01:01      AAGAAGTCAGAAAAGAAATGGGCAGGGAGAAAAGAAGCAGAGGTGGGGTGAGAGAGTGAG  2940
+HLA-DOA*01:01:01      GGGGAAAGAAGTCAGAAAAGAAATGGGCAGGGAGAAAAGAAGCAGAGGTGGGGTGAGAGA  2940
 Mafa-DOA*01:01:01     ------------------------------------------------------------  2940
 Mafa-DOA*01:01:02     ------------------------------------------------------------  2940
 Mafa-DOA*01:01:03     ------------------------------------------------------------  2940
@@ -874,13 +1066,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  2940
 Mafa-DOA*01:02:07     ------------------------------------------------------------  2940
 Mafa-DOA*01:02:08     ------------------------------------------------------------  2940
-Mafa-DOA*01:03:01     ------------------------------------------------------------  2940
+Mafa-DOA*01:02:09:01  GGGGAAAGAGTTCAGGAAAGAAATGGGCATGGAAGAAAGAAGCAGAGGTGGGGTGAGAGA  2940
+Mafa-DOA*01:02:10:01  GGGGAAAGAGTTCAGGAAAGAAATGGGCATGGAAGAAAGAAGCAGAGGTGGGGTGAGAGA  2940
+Mafa-DOA*01:03:01:01  GGGGAAAGAGGTCAGGAAAGAAATGGGCATGGAGGAAAGAAGCAGAGGTGGGGTGAGAGA  2940
 Mafa-DOA*01:03:02     ------------------------------------------------------------  2940
 Mafa-DOA*01:04        ------------------------------------------------------------  2940
 Mafa-DOA*01:05        ------------------------------------------------------------  2940
-Mafa-DOA*01:06:01:01  AAGAGGTCAGGAAAGAAATGGGCATGGAAGAAAGAAGCAGAGGTGGGGTGAGAGAGTGAA  2940
+Mafa-DOA*01:06:01:01  GGGGAAAGAGGTCAGGAAAGAAATGGGCATGGAAGAAAGAAGCAGAGGTGGGGTGAGAGA  2940
+Mafa-DOA*01:07:01:01  GGGGAAAGAGGTCAGGAAAGAAATGGGCATGGAAGAAAGAAGCAGAGGTGGGGTGAGAGA  2940
+Mafa-DOA*01:08:01:01  GGGGAAAGAGTTCAGGAAAGAAATGGGCATGGAAGAAAGAAGCAGAGGTGGGGTGAGAGA  2940
 
-HLA-DOA*01:01:01      GTTTTGGGGGAGGTGGGCACTCAGAGATAGGATCCCAGCATATTGAAATTGAGCAACCTC  3000
+HLA-DOA*01:01:01      GTGAGGTTTT-GGGGGAGGTGGGCACTCAGAGATAGGATCCCAGCATATTGAAATTGAGC  3000
 Mafa-DOA*01:01:01     ------------------------------------------------------------  3000
 Mafa-DOA*01:01:02     ------------------------------------------------------------  3000
 Mafa-DOA*01:01:03     ------------------------------------------------------------  3000
@@ -892,13 +1088,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  3000
 Mafa-DOA*01:02:07     ------------------------------------------------------------  3000
 Mafa-DOA*01:02:08     ------------------------------------------------------------  3000
-Mafa-DOA*01:03:01     ------------------------------------------------------------  3000
+Mafa-DOA*01:02:09:01  GTGAGGTTTTGGGGGGAGGTGGGCACTCAGAGATAGGATCCCAGCATATTGAAATTGAGC  3000
+Mafa-DOA*01:02:10:01  GTGAGGTTTTGGGGGGAGGTGGGCACTCAGAGATAGGATCCCAGCATATTGAAATTGAGC  3000
+Mafa-DOA*01:03:01:01  GTGAGGTTTTGGGGGGAGGTGGGCACTCAGAGATAGGATCCCAGTATACTGAAATTGAGC  3000
 Mafa-DOA*01:03:02     ------------------------------------------------------------  3000
 Mafa-DOA*01:04        ------------------------------------------------------------  3000
 Mafa-DOA*01:05        ------------------------------------------------------------  3000
-Mafa-DOA*01:06:01:01  GTTTTGGGGGAGGTGGGCACTCGGAGATAGGATCCTAGCATATTGAAATTGAGCAACGTC  3000
+Mafa-DOA*01:06:01:01  GTGAAGTTTT-GGGGGAGGTGGGCACTCGGAGATAGGATCCTAGCATATTGAAATTGAGC  3000
+Mafa-DOA*01:07:01:01  GTGAAGTTTT-GGGGGAGGTGGGCACTCGGAGATAGGATGCTAGCATATTGAAATTGAGC  3000
+Mafa-DOA*01:08:01:01  GTGAGGTTTTGGGGGGAGGTGGGCACTCAGAGATAGGATCCCAGCATATTGAAATTGAGC  3000
 
-HLA-DOA*01:01:01      GATCGTATGTTTTCTGCTATTTTAGGTAATGATCCTTCTGAGAGAAATGACTTGTGGGAG  3060
+HLA-DOA*01:01:01      AACCTCGATCGTATGTTTTCTGCTATTTTAGGTAATGATCCTTCTGAGAGAAATGACTTG  3060
 Mafa-DOA*01:01:01     ------------------------------------------------------------  3060
 Mafa-DOA*01:01:02     ------------------------------------------------------------  3060
 Mafa-DOA*01:01:03     ------------------------------------------------------------  3060
@@ -910,13 +1110,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  3060
 Mafa-DOA*01:02:07     ------------------------------------------------------------  3060
 Mafa-DOA*01:02:08     ------------------------------------------------------------  3060
-Mafa-DOA*01:03:01     ------------------------------------------------------------  3060
+Mafa-DOA*01:02:09:01  AACATCGATTGTGTGGTTTCTGCTACTTTAGGTAA-------------------------  3060
+Mafa-DOA*01:02:10:01  AACATCGATTGTGTGGTTTCTGCTACTTTAGGTAA-------------------------  3060
+Mafa-DOA*01:03:01:01  AACATCAATTGTGTGGTTTCTGCTACTTTAGGTAA-------------------------  3060
 Mafa-DOA*01:03:02     ------------------------------------------------------------  3060
 Mafa-DOA*01:04        ------------------------------------------------------------  3060
 Mafa-DOA*01:05        ------------------------------------------------------------  3060
-Mafa-DOA*01:06:01:01  GATTGTGTGGTTTCTGCTACTTTAGGTAA-------------------------------  3060
+Mafa-DOA*01:06:01:01  AACGTCGATTGTGTGGTTTCTGCTACTTTAGGTAA-------------------------  3060
+Mafa-DOA*01:07:01:01  AATGTCTATTGTGTGGTTTCTGCTACTTTAGGTAA-------------------------  3060
+Mafa-DOA*01:08:01:01  AACATCGATTGTGTGGTTTCTGCTACTTTAGGTAA-------------------------  3060
 
-HLA-DOA*01:01:01      ACACCCTGCAGATCCTCATGGGTTTGTGACAGCCCCTGCGTGCTCAGTGCCCTTTAAGTG  3120
+HLA-DOA*01:01:01      TGGGAGACACCCTGCAGATCCTCATGGGTTTGTGACAGCCCCTGCGTGCTCAGTGCCCTT  3120
 Mafa-DOA*01:01:01     ------------------------------------------------------------  3120
 Mafa-DOA*01:01:02     ------------------------------------------------------------  3120
 Mafa-DOA*01:01:03     ------------------------------------------------------------  3120
@@ -928,13 +1132,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  3120
 Mafa-DOA*01:02:07     ------------------------------------------------------------  3120
 Mafa-DOA*01:02:08     ------------------------------------------------------------  3120
-Mafa-DOA*01:03:01     ------------------------------------------------------------  3120
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------  3120
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------  3120
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------  3120
 Mafa-DOA*01:03:02     ------------------------------------------------------------  3120
 Mafa-DOA*01:04        ------------------------------------------------------------  3120
 Mafa-DOA*01:05        ------------------------------------------------------------  3120
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------  3120
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------  3120
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------  3120
 
-HLA-DOA*01:01:01      CATCCCGCTGTGCTGACTTTGAGTGGGATCAACATCTGTCCTACGGGTCCCCTCTTTTTT  3180
+HLA-DOA*01:01:01      TAAGTGCATCCCGCTGTGCTGACTTTGAGTGGGATCAACATCTGTCCTACGGGTCCCCTC  3180
 Mafa-DOA*01:01:01     ------------------------------------------------------------  3180
 Mafa-DOA*01:01:02     ------------------------------------------------------------  3180
 Mafa-DOA*01:01:03     ------------------------------------------------------------  3180
@@ -946,13 +1154,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  3180
 Mafa-DOA*01:02:07     ------------------------------------------------------------  3180
 Mafa-DOA*01:02:08     ------------------------------------------------------------  3180
-Mafa-DOA*01:03:01     ------------------------------------------------------------  3180
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------  3180
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------  3180
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------  3180
 Mafa-DOA*01:03:02     ------------------------------------------------------------  3180
 Mafa-DOA*01:04        ------------------------------------------------------------  3180
 Mafa-DOA*01:05        ------------------------------------------------------------  3180
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------  3180
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------  3180
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------  3180
 
-HLA-DOA*01:01:01      GGCCCCAGTATTCATGGCAGGGTTTGTTGGACACCTACTAGCTTCCCTTCCCATTCAACA  3240
+HLA-DOA*01:01:01      TTTTTTGGCCCCAGTATTCATGGCAGGGTTTGTTGGACACCTACTAGCTTCCCTTCCCAT  3240
 Mafa-DOA*01:01:01     ------------------------------------------------------------  3240
 Mafa-DOA*01:01:02     ------------------------------------------------------------  3240
 Mafa-DOA*01:01:03     ------------------------------------------------------------  3240
@@ -964,13 +1176,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  3240
 Mafa-DOA*01:02:07     ------------------------------------------------------------  3240
 Mafa-DOA*01:02:08     ------------------------------------------------------------  3240
-Mafa-DOA*01:03:01     ------------------------------------------------------------  3240
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------  3240
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------  3240
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------  3240
 Mafa-DOA*01:03:02     ------------------------------------------------------------  3240
 Mafa-DOA*01:04        ------------------------------------------------------------  3240
 Mafa-DOA*01:05        ------------------------------------------------------------  3240
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------  3240
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------  3240
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------  3240
 
-HLA-DOA*01:01:01      CAAACACACATTCTTGCTCTACCCAAAGCTCTGGCTGGCAGCACTAAATGCTTTGGTGGT  3300
+HLA-DOA*01:01:01      TCAACACAAACACACATTCTTGCTCTACCCAAAGCTCTGGCTGGCAGCACTAAATGCTTT  3300
 Mafa-DOA*01:01:01     ------------------------------------------------------------  3300
 Mafa-DOA*01:01:02     ------------------------------------------------------------  3300
 Mafa-DOA*01:01:03     ------------------------------------------------------------  3300
@@ -982,13 +1198,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  3300
 Mafa-DOA*01:02:07     ------------------------------------------------------------  3300
 Mafa-DOA*01:02:08     ------------------------------------------------------------  3300
-Mafa-DOA*01:03:01     ------------------------------------------------------------  3300
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------  3300
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------  3300
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------  3300
 Mafa-DOA*01:03:02     ------------------------------------------------------------  3300
 Mafa-DOA*01:04        ------------------------------------------------------------  3300
 Mafa-DOA*01:05        ------------------------------------------------------------  3300
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------  3300
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------  3300
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------  3300
 
-HLA-DOA*01:01:01      GTTTGCACTGTGTCCTTTCCAGGCCTTGGCCAGTTCTTCCAGGGGTGAGGCATGTGGTGC  3360
+HLA-DOA*01:01:01      GGTGGTGTTTGCACTGTGTCCTTTCCAGGCCTTGGCCAGTTCTTCCAGGGGTGAGGCATG  3360
 Mafa-DOA*01:01:01     ------------------------------------------------------------  3360
 Mafa-DOA*01:01:02     ------------------------------------------------------------  3360
 Mafa-DOA*01:01:03     ------------------------------------------------------------  3360
@@ -1000,13 +1220,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  3360
 Mafa-DOA*01:02:07     ------------------------------------------------------------  3360
 Mafa-DOA*01:02:08     ------------------------------------------------------------  3360
-Mafa-DOA*01:03:01     ------------------------------------------------------------  3360
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------  3360
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------  3360
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------  3360
 Mafa-DOA*01:03:02     ------------------------------------------------------------  3360
 Mafa-DOA*01:04        ------------------------------------------------------------  3360
 Mafa-DOA*01:05        ------------------------------------------------------------  3360
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------  3360
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------  3360
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------  3360
 
-HLA-DOA*01:01:01      TGGGGATTGGCAGCCGTCCTGGGGCCCACACAGGTGTGTCTTGCTCCATTTGGCCCATTG  3420
+HLA-DOA*01:01:01      TGGTGCTGGGGATTGGCAGCCGTCCTGGGGCCCACACAGGTGTGTCTTGCTCCATTTGGC  3420
 Mafa-DOA*01:01:01     ------------------------------------------------------------  3420
 Mafa-DOA*01:01:02     ------------------------------------------------------------  3420
 Mafa-DOA*01:01:03     ------------------------------------------------------------  3420
@@ -1018,13 +1242,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  3420
 Mafa-DOA*01:02:07     ------------------------------------------------------------  3420
 Mafa-DOA*01:02:08     ------------------------------------------------------------  3420
-Mafa-DOA*01:03:01     ------------------------------------------------------------  3420
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------  3420
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------  3420
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------  3420
 Mafa-DOA*01:03:02     ------------------------------------------------------------  3420
 Mafa-DOA*01:04        ------------------------------------------------------------  3420
 Mafa-DOA*01:05        ------------------------------------------------------------  3420
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------  3420
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------  3420
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------  3420
 
-HLA-DOA*01:01:01      TGTGTTACTTTGTGAATGAGCCATTTCACATGGACTTCATGAAATTTGCCTCCTGAGTTC  3480
+HLA-DOA*01:01:01      CCATTGTGTGTTACTTTGTGAATGAGCCATTTCACATGGACTTCATGAAATTTGCCTCCT  3480
 Mafa-DOA*01:01:01     ------------------------------------------------------------  3480
 Mafa-DOA*01:01:02     ------------------------------------------------------------  3480
 Mafa-DOA*01:01:03     ------------------------------------------------------------  3480
@@ -1036,13 +1264,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  3480
 Mafa-DOA*01:02:07     ------------------------------------------------------------  3480
 Mafa-DOA*01:02:08     ------------------------------------------------------------  3480
-Mafa-DOA*01:03:01     ------------------------------------------------------------  3480
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------  3480
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------  3480
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------  3480
 Mafa-DOA*01:03:02     ------------------------------------------------------------  3480
 Mafa-DOA*01:04        ------------------------------------------------------------  3480
 Mafa-DOA*01:05        ------------------------------------------------------------  3480
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------  3480
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------  3480
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------  3480
 
-HLA-DOA*01:01:01      AGGTTTACCCTGAAAGGGATGCAGATTATCCTGTTCCTCACGACCCCCTCAGCTAACAAC  3540
+HLA-DOA*01:01:01      GAGTTCAGGTTTACCCTGAAAGGGATGCAGATTATCCTGTTCCTCACGACCCCCTCAGCT  3540
 Mafa-DOA*01:01:01     ------------------------------------------------------------  3540
 Mafa-DOA*01:01:02     ------------------------------------------------------------  3540
 Mafa-DOA*01:01:03     ------------------------------------------------------------  3540
@@ -1054,13 +1286,17 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  3540
 Mafa-DOA*01:02:07     ------------------------------------------------------------  3540
 Mafa-DOA*01:02:08     ------------------------------------------------------------  3540
-Mafa-DOA*01:03:01     ------------------------------------------------------------  3540
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------  3540
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------  3540
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------  3540
 Mafa-DOA*01:03:02     ------------------------------------------------------------  3540
 Mafa-DOA*01:04        ------------------------------------------------------------  3540
 Mafa-DOA*01:05        ------------------------------------------------------------  3540
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------  3540
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------  3540
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------  3540
 
-HLA-DOA*01:01:01      AGTTCTGAAGGGTGCTGGGACAAGACAGGCTCATGGGGACTCCACTCCTGCCTGGGTTTA  3600
+HLA-DOA*01:01:01      AACAACAGTTCTGAAGGGTGCTGGGACAAGACAGGCTCATGGGGACTCCACTCCTGCCTG  3600
 Mafa-DOA*01:01:01     ------------------------------------------------------------  3600
 Mafa-DOA*01:01:02     ------------------------------------------------------------  3600
 Mafa-DOA*01:01:03     ------------------------------------------------------------  3600
@@ -1072,27 +1308,57 @@ Mafa-DOA*01:02:05     ----------------------------------------------------------
 Mafa-DOA*01:02:06     ------------------------------------------------------------  3600
 Mafa-DOA*01:02:07     ------------------------------------------------------------  3600
 Mafa-DOA*01:02:08     ------------------------------------------------------------  3600
-Mafa-DOA*01:03:01     ------------------------------------------------------------  3600
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------  3600
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------  3600
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------  3600
 Mafa-DOA*01:03:02     ------------------------------------------------------------  3600
 Mafa-DOA*01:04        ------------------------------------------------------------  3600
 Mafa-DOA*01:05        ------------------------------------------------------------  3600
 Mafa-DOA*01:06:01:01  ------------------------------------------------------------  3600
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------  3600
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------  3600
 
-HLA-DOA*01:01:01      CTCTGTATGAAGAGGCCACTGGTATCCTGCCATGATGTTATCTCCTTTTTCTACTTT  3657
-Mafa-DOA*01:01:01     ---------------------------------------------------------  3657
-Mafa-DOA*01:01:02     ---------------------------------------------------------  3657
-Mafa-DOA*01:01:03     ---------------------------------------------------------  3657
-Mafa-DOA*01:02:01     ---------------------------------------------------------  3657
-Mafa-DOA*01:02:02     ---------------------------------------------------------  3657
-Mafa-DOA*01:02:03     ---------------------------------------------------------  3657
-Mafa-DOA*01:02:04     ---------------------------------------------------------  3657
-Mafa-DOA*01:02:05     ---------------------------------------------------------  3657
-Mafa-DOA*01:02:06     ---------------------------------------------------------  3657
-Mafa-DOA*01:02:07     ---------------------------------------------------------  3657
-Mafa-DOA*01:02:08     ---------------------------------------------------------  3657
-Mafa-DOA*01:03:01     ---------------------------------------------------------  3657
-Mafa-DOA*01:03:02     ---------------------------------------------------------  3657
-Mafa-DOA*01:04        ---------------------------------------------------------  3657
-Mafa-DOA*01:05        ---------------------------------------------------------  3657
-Mafa-DOA*01:06:01:01  ---------------------------------------------------------  3657
+HLA-DOA*01:01:01      GGTTTACTCTGTATGAAGAGGCCACTGGTATCCTGCCATGATGTTATCTCCTTTTTCTAC  3660
+Mafa-DOA*01:01:01     ------------------------------------------------------------  3660
+Mafa-DOA*01:01:02     ------------------------------------------------------------  3660
+Mafa-DOA*01:01:03     ------------------------------------------------------------  3660
+Mafa-DOA*01:02:01     ------------------------------------------------------------  3660
+Mafa-DOA*01:02:02     ------------------------------------------------------------  3660
+Mafa-DOA*01:02:03     ------------------------------------------------------------  3660
+Mafa-DOA*01:02:04     ------------------------------------------------------------  3660
+Mafa-DOA*01:02:05     ------------------------------------------------------------  3660
+Mafa-DOA*01:02:06     ------------------------------------------------------------  3660
+Mafa-DOA*01:02:07     ------------------------------------------------------------  3660
+Mafa-DOA*01:02:08     ------------------------------------------------------------  3660
+Mafa-DOA*01:02:09:01  ------------------------------------------------------------  3660
+Mafa-DOA*01:02:10:01  ------------------------------------------------------------  3660
+Mafa-DOA*01:03:01:01  ------------------------------------------------------------  3660
+Mafa-DOA*01:03:02     ------------------------------------------------------------  3660
+Mafa-DOA*01:04        ------------------------------------------------------------  3660
+Mafa-DOA*01:05        ------------------------------------------------------------  3660
+Mafa-DOA*01:06:01:01  ------------------------------------------------------------  3660
+Mafa-DOA*01:07:01:01  ------------------------------------------------------------  3660
+Mafa-DOA*01:08:01:01  ------------------------------------------------------------  3660
+
+HLA-DOA*01:01:01      TTT  3663
+Mafa-DOA*01:01:01     ---  3663
+Mafa-DOA*01:01:02     ---  3663
+Mafa-DOA*01:01:03     ---  3663
+Mafa-DOA*01:02:01     ---  3663
+Mafa-DOA*01:02:02     ---  3663
+Mafa-DOA*01:02:03     ---  3663
+Mafa-DOA*01:02:04     ---  3663
+Mafa-DOA*01:02:05     ---  3663
+Mafa-DOA*01:02:06     ---  3663
+Mafa-DOA*01:02:07     ---  3663
+Mafa-DOA*01:02:08     ---  3663
+Mafa-DOA*01:02:09:01  ---  3663
+Mafa-DOA*01:02:10:01  ---  3663
+Mafa-DOA*01:03:01:01  ---  3663
+Mafa-DOA*01:03:02     ---  3663
+Mafa-DOA*01:04        ---  3663
+Mafa-DOA*01:05        ---  3663
+Mafa-DOA*01:06:01:01  ---  3663
+Mafa-DOA*01:07:01:01  ---  3663
+Mafa-DOA*01:08:01:01  ---  3663
 

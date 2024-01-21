@@ -1,4 +1,12 @@
 >HLA-DRB1*01:01:01:01
-MVCLKLPGGSCMTALTVTLMVLSSPLALAGDTRPRFLWQLKFECHFFNGTERVRLLERCIYN----QEESVRFDSDVGEYRAVTELGRPDAEYW--------NSQKDLLEQRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLLFLGAGLFIYFRNQKGHSGLQPTGFLS
+MVCLKLPGGSCMTALTVTLMVLSSPLALAGDTRPRFLWQLKFECHFFNGTERVRLLERCIYNQE----ESVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQRRAAVDTYCRHNYGVGESFTVQRRVEPKVTVYPSKTQPLQHHNLLVCSVSGFYPGSIEVRWFRNGQEEKAGVV--STG-LIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRARSESAQSKMLSGVGGFVLGLLFLGAGLFIYFRNQKGHSGLQPTGFLS-----
 >Mafa-DRB9*01:01
-----------------------------------HFLEQIKHECYFSNGTERMRFVQRLLHTPRGMRASTATWESS-GRWRS-----------WSGGESRNGNSQKNLLGYLRGLLDTYCRHNCGV-------------------------------------------------------------------------------------------------LLTAEARX-----------------------------------------------
+----------------------------------HFLEQIKHECYFSNGTERMRFVQRLLHTPRGMRASTATWESS-GRWRSWSGGESRNG---NSQKNLLGYLRGLLDTYCRHN---------------------------------------------------------CGVL-------------------------------------------LTAEARX----------------------------------------------------
+>Mafa-DRB9*01:02
+----------------------------------HFLEQIKHECCFSIGMERMRFVHTDPY-PE----EYARFHGDVGKFRAVAELERRRVQEWK--------------------------------------------QP----------------------------EEPAGLLAGSVGHLLQTQLWGF--------AHRRGAVS-----------------------------------------------------------------------
+>Mafa-DRB9*01:03:01
+----------------------------------HI--------------------------------SWSRLNMS-----AISPTGRRHS------------------GLCRDS-----------SIPGGVCALPQR--------------RGKVPGGGGA-----GAEESPGME-----------------------TARRTSWATC-----GVCWTPTADTTM-------------------------------------------GFCSPQRRG
+>Mafa-DRB9*01:03:02
+----------------------------------HI--------------------------------SWSRLNMS-----AISPTGRRHS------------------GLCRDS-----------SIPGGVCALPQR--------------RGKVPGGGGA-----GAEESPGME-----------------------TARRTSWATC-----GVCWTPTADTTM-------------------------------------------GFCSPQRRG
+>Mafa-DRB9*01:04
+----------------------------------HI--------------------------------SWSRLNMS-----AISPTGRRHS------------------GLCRDS-----------SIPGGVCAFPRR--------------RGKVPGGGGA-----GAEESPGME-----------------------TARRTSWATC-----GVCWTPTADTTM-------------------------------------------GFCSPQRRG
