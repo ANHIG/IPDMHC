@@ -1,15 +1,21 @@
-HLA-K*01:01:01:01     MGS----------------W--------------RP---EP-------------------    60
-Mamu-K*02:01:01:01    MASRTLLLLLSGTPALTETWEGSHSMRYFSTALSRPGRGGPASL--------QWATWTTR    60
-Mamu-K*02:02:01:01    MASRTLLLLLSGTPALTETWEGSHSMRYFSTALSRPGRGGPASL--------QWATWTTR    60
-Mamu-K*03:03:01:01    MASRTLLLLLSGTLALTETWAGSHSMRYFSTALSRPGRGEPRFIAVGYVDDTQFVRFD--    60
-
-HLA-K*01:01:01:01     SSCCS--------W------GPWPX-----------------------------------   120
-Mamu-K*02:01:01:01    SSCGSTATRRVRGW--SRRRRGWSRSGRSIGTGAHGTPRSTHRLTEX-------------   120
-Mamu-K*02:02:01:01    SSCGSTATRRVRGW--SRRRHGWSRSGRSIGTGAHGTPRSTHRLTEX-------------   120
-Mamu-K*03:03:01:01    SDAASPRMEPPAPWVEQERPEYWDRS--TLNTKAQA---QTDRVNLQTLLGYCNQSEARS   120
-
-HLA-K*01:01:01:01     ---------   129
-Mamu-K*02:01:01:01    ---------   129
-Mamu-K*02:02:01:01    ---------   129
-Mamu-K*03:03:01:01    NTLQIKYGX   129
+HLA-K*01:01:01:01     MGSWRPEPSSCCSWGPWPX    19
+Mamu-K*01:04:01:01    -----------------X-    19
+Mamu-K*01:05:01:01    -----------------X-    19
+Mamu-K*02:01:01:01    -----------------X-    19
+Mamu-K*02:02:01:01    -----------------X-    19
+Mamu-K*02:03:01:01    -----------------X-    19
+Mamu-K*02:04:01:01    -----------------X-    19
+Mamu-K*02:05:01:01    -----------------X-    19
+Mamu-K*02:06:01:01    -----------------X-    19
+Mamu-K*02:07:01:01    -----------------X-    19
+Mamu-K*02:08:01:01    -----------------X-    19
+Mamu-K*02:09:01:01    -----------------X-    19
+Mamu-K*02:10:01:01    -----------------X-    19
+Mamu-K*02:11:01:01    -----------------X-    19
+Mamu-K*02:11:01:02    -----------------X-    19
+Mamu-K*03:03:01:01    -----------------X-    19
+Mamu-K*04:01:01:01    -----------------X-    19
+Mamu-K*05:01:01:01    -----------------X-    19
+Mamu-K*05:02:01:01    -----------------X-    19
+Mamu-K*06:01:01:01    -----------------X-    19
 
