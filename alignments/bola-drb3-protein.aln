@@ -121,6 +121,7 @@ BoLA-DRB3*022:13      ----------------------------------HFLQYHKSECHFFNGTERVRFLDR
 BoLA-DRB3*022:14      ----------------------------------HFLQYYKSECHFFNGTERVRLLDRHF    60
 BoLA-DRB3*022:15      ----------------------------------HFLQYHKGECHFFNGTERVRLLDRHF    60
 BoLA-DRB3*023:01      -------------------------------------EYTKKECHFFNGTERVRLLDRYY    60
+BoLA-DRB3*023:02      -------------------------------------EYTKKECHFFNGTERVRLLDRYY    60
 BoLA-DRB3*024:01      ----------------------------------HFLEYCKRECHFFNGTERVRFLDRYF    60
 BoLA-DRB3*024:02      -------------------------------------EYCKRECHFFNGTERVRFLDRYF    60
 BoLA-DRB3*024:03      ----------------------------------HFLEYCKRECHFFNGTERVRFLDRYF    60
@@ -507,6 +508,7 @@ BoLA-DRB3*022:13      YNGEEYVRFDSDWGEYRAVTELGRPYAEHWNSQKEFLERRRAEVDRYCRHNYGVGESF
 BoLA-DRB3*022:14      YNGEEYVRFDSDWGEYRAVTELGRPDAEHWNSQKEILERRRAEVDRVCRHNYGVGESFTV   120
 BoLA-DRB3*022:15      YNGEEYVRFDSDWDEFRAVTELGRPSAEHWNSQKEILERRRAEVDRVCRHNYGGVESFTV   120
 BoLA-DRB3*023:01      TNGEETVRFDSDWGEFRAVTELGRQDAEQWNSQKDTLEDERAAVDTYCRYNYGVGESFT-   120
+BoLA-DRB3*023:02      TNGEETVRFDSDWGEFRAVTELGRQDAEQWNSQKDTLEDERAAVDTYCRYNYGVVESFT-   120
 BoLA-DRB3*024:01      YNGEEYVRFDSDWGEFRAVTELGRPDAEYWNSQKEILEERRAEVDRVCRHNYGVGESFTV   120
 BoLA-DRB3*024:02      YNGEEYVRFDSDWGEFRAVTELGRPSAEYWNSQKEILEERRAEVDRVCRHNYGVGESFT-   120
 BoLA-DRB3*024:03      YNGEEYVRFDSDWGEFRAVTELGRPDAEYWNSQKDFLEERRAEVDRVCRHNYGVGESFTV   120
@@ -893,6 +895,7 @@ BoLA-DRB3*022:13      QR--------------------------------------------------------
 BoLA-DRB3*022:14      QR----------------------------------------------------------   180
 BoLA-DRB3*022:15      QRR---------------------------------------------------------   180
 BoLA-DRB3*023:01      ------------------------------------------------------------   180
+BoLA-DRB3*023:02      ------------------------------------------------------------   180
 BoLA-DRB3*024:01      QRR---------------------------------------------------------   180
 BoLA-DRB3*024:02      ------------------------------------------------------------   180
 BoLA-DRB3*024:03      QRR---------------------------------------------------------   180
@@ -1279,6 +1282,7 @@ BoLA-DRB3*022:13      ----------------------------------------------------------
 BoLA-DRB3*022:14      ------------------------------------------------------------   240
 BoLA-DRB3*022:15      ------------------------------------------------------------   240
 BoLA-DRB3*023:01      ------------------------------------------------------------   240
+BoLA-DRB3*023:02      ------------------------------------------------------------   240
 BoLA-DRB3*024:01      ------------------------------------------------------------   240
 BoLA-DRB3*024:02      ------------------------------------------------------------   240
 BoLA-DRB3*024:03      ------------------------------------------------------------   240
@@ -1665,6 +1669,7 @@ BoLA-DRB3*022:13      --------------------------   266
 BoLA-DRB3*022:14      --------------------------   266
 BoLA-DRB3*022:15      --------------------------   266
 BoLA-DRB3*023:01      --------------------------   266
+BoLA-DRB3*023:02      --------------------------   266
 BoLA-DRB3*024:01      --------------------------   266
 BoLA-DRB3*024:02      --------------------------   266
 BoLA-DRB3*024:03      --------------------------   266
