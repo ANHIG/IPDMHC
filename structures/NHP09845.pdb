@@ -1,6 +1,6 @@
 REMARK    6 Accession NHP09845
 REMARK    6 Name Caja-DRB1*03:20N
-REMARK    6 Chain A template: 1JK8
+REMARK    6 Chain A template: 1FV1
 ATOM      1  N   ALA C   1       2.934  70.092  40.439  1.00  0.00           N  
 ATOM      2   CA ALA C   1       2.923  68.823  41.232  1.00  0.00           C  
 ATOM      3  C   ALA C   1       4.176  67.976  40.964  1.00  0.00           C  

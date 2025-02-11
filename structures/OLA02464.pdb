@@ -1,6 +1,6 @@
 REMARK    6 Accession OLA02464
 REMARK    6 Name Ovar-DRB1*01:03
-REMARK    6 Chain A template: 1FV1
+REMARK    6 Chain A template: 1A6A
 ATOM      1  N   ALA C   1       4.951  70.049  42.830  1.00  0.00           N  
 ATOM      2   CA ALA C   1       4.428  68.650  42.882  1.00  0.00           C  
 ATOM      3  C   ALA C   1       5.304  67.707  42.048  1.00  0.00           C  
