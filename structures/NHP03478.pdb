@@ -1,6 +1,6 @@
 REMARK    6 Accession NHP03478
 REMARK    6 Name Mamu-DRB*W004:06
-REMARK    6 Chain A template: 1FV1
+REMARK    6 Chain A template: 1A6A
 ATOM      1  N   ALA C   1       4.514  70.328  40.759  1.00  0.00           N  
 ATOM      2   CA ALA C   1       4.285  69.142  41.643  1.00  0.00           C  
 ATOM      3  C   ALA C   1       5.226  67.982  41.279  1.00  0.00           C  

@@ -1,6 +1,6 @@
 REMARK    6 Accession ELA04997
 REMARK    6 Name Eqca-DRB1*008:01
-REMARK    6 Chain A template: 1FV1
+REMARK    6 Chain A template: 1A6A
 ATOM      1  N   ALA C   1       5.292  70.581  40.249  1.00  0.00           N  
 ATOM      2   CA ALA C   1       4.795  69.533  41.196  1.00  0.00           C  
 ATOM      3  C   ALA C   1       5.312  68.133  40.815  1.00  0.00           C  

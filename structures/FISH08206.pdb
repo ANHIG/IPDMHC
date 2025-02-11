@@ -1,6 +1,6 @@
 REMARK    6 Accession FISH08206
 REMARK    6 Name Sasa-DAA*08:01
-REMARK    6 Chain B template: 1A6A
+REMARK    6 Chain B template: 1MUJ
 ATOM      1  N   LEU A   1      -9.109  55.945  30.362  1.00  0.85           N  
 ATOM      2   CA LEU A   1      -8.285  54.849  30.908  1.00  0.85           C  
 ATOM      3  C   LEU A   1      -6.886  55.407  31.101  1.00  0.87           C  

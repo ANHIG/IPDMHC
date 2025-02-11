@@ -1,6 +1,6 @@
 REMARK    6 Accession NHP02938
 REMARK    6 Name Mafa-DRB*W001:05
-REMARK    6 Chain A template: 1A6A
+REMARK    6 Chain A template: 1FV1
 ATOM      1  N   ALA C   1       3.740  70.346  40.875  1.00  0.00           N  
 ATOM      2   CA ALA C   1       3.712  69.121  41.733  1.00  0.00           C  
 ATOM      3  C   ALA C   1       4.609  68.013  41.163  1.00  0.00           C  

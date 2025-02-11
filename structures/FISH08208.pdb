@@ -1,6 +1,6 @@
 REMARK    6 Accession FISH08208
 REMARK    6 Name Sasa-DAA*10:01
-REMARK    6 Chain B template: 1A6A
+REMARK    6 Chain B template: 1R5V
 ATOM      1  N   VAL A   1     -24.393  54.264  20.529  1.00  0.46           N  
 ATOM      2   CA VAL A   1     -23.531  53.962  21.719  1.00  0.53           C  
 ATOM      3  C   VAL A   1     -22.068  54.044  21.288  1.00  0.49           C  

@@ -1,6 +1,6 @@
 REMARK    6 Accession NHP10308
 REMARK    6 Name Popy-DRB*W116:01
-REMARK    6 Chain A template: 1FV1
+REMARK    6 Chain A template: 2Q6W
 ATOM      1  N   ALA C   1       4.252  70.419  40.617  1.00  0.00           N  
 ATOM      2   CA ALA C   1       4.125  69.277  41.577  1.00  0.00           C  
 ATOM      3  C   ALA C   1       4.984  68.076  41.146  1.00  0.00           C  

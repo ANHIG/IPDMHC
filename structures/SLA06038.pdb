@@ -1,6 +1,6 @@
 REMARK    6 Accession SLA06038
 REMARK    6 Name SLA-DRB1*08:02
-REMARK    6 Chain A template: 1FV1
+REMARK    6 Chain A template: 2Q6W
 ATOM      1  N   ALA C   1       4.255  70.613  40.976  1.00  0.00           N  
 ATOM      2   CA ALA C   1       4.032  69.326  41.704  1.00  0.00           C  
 ATOM      3  C   ALA C   1       5.071  68.262  41.306  1.00  0.00           C  

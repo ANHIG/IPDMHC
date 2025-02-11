@@ -1,6 +1,6 @@
 REMARK    6 Accession OLA08850
 REMARK    6 Name Ovca-DRB1*04:02:01
-REMARK    6 Chain A template: 2Q6W
+REMARK    6 Chain A template: 1A6A
 ATOM      1  N   ALA C   1       4.298  70.254  40.971  1.00  0.00           N  
 ATOM      2   CA ALA C   1       4.057  69.010  41.769  1.00  0.00           C  
 ATOM      3  C   ALA C   1       4.978  67.870  41.307  1.00  0.00           C  
