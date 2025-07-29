@@ -37,6 +37,7 @@ BoLA-DRB3*010:02      ----------------------------------------------------------
 BoLA-DRB3*010:03      ------------------------------------------------------------    60
 BoLA-DRB3*010:04      ------------------------------------------------------------    60
 BoLA-DRB3*010:05      ------------------------------------------------------------    60
+BoLA-DRB3*010:06      ATGGTGTGCCTGTATTTCTCTGGAGGCTCCTGGATGGCAGCTCTGATAGTGATGCTGATG    60
 BoLA-DRB3*011:01      ------------------------------------------------------------    60
 BoLA-DRB3*011:02      ------------------------------------------------------------    60
 BoLA-DRB3*011:03      ------------------------------------------------------------    60
@@ -424,6 +425,7 @@ BoLA-DRB3*010:02      ----------------------------------------ACACATTTCCTGGAGTAT
 BoLA-DRB3*010:03      -----------------------------------------CACATTTCCTGGAGTATTA   120
 BoLA-DRB3*010:04      -----------------------------------------CACATTTCCTGGAGTATTC   120
 BoLA-DRB3*010:05      -----------------------------------------CACATTTCCTGGAGTATTA   120
+BoLA-DRB3*010:06      GTGCTGTGCCCTCCCCTGGCCTGGGCCAGGGAGATCCAAC-CACATTTCCTGGAGTATTA   120
 BoLA-DRB3*011:01      -----------------------------------------CACATTTCCTGCAGTATCA   120
 BoLA-DRB3*011:02      -----------------------------------------CACATTTCCTGGAGTATTA   120
 BoLA-DRB3*011:03      ----------------------------------------------------GAGTATTA   120
@@ -811,6 +813,7 @@ BoLA-DRB3*010:02      TAAGAGAGAGTGTCATTTCTTCAACGGGACCGAGCGGGTGCGGTTCCTGGACAGATAC
 BoLA-DRB3*010:03      TAAGAGAGAGTGTCATTTCTTCAACGGGACCGAGCGGGTGCGGTTCCTGGACAGATACTT   180
 BoLA-DRB3*010:04      TAAGAGCGAGTGTCATTTCTTCAACGGGACCGAGCGGGTGCGGTTCCTGGACAGATACTT   180
 BoLA-DRB3*010:05      TAAGAGAGAGTGTCATTTCTTCAACGGGACCGAGCGGGTGCGGTTCCTGGACAGATACTT   180
+BoLA-DRB3*010:06      TAAGAGAGAGTGTCATTTCTTCAACGGGACCGAGCGGGTGCGGTTCCTGGACAGATACTT   180
 BoLA-DRB3*011:01      TAAGGGCGAGTGTCATTTCTTCAACGGGACCGAGCGGGTGCGGTTGCTGGACAGACACTT   180
 BoLA-DRB3*011:02      TAAGGGCGAGTGTCATTTCTTCAACGGGACCGAGCGGGTGCGGTTGCTGGACAGACACTT   180
 BoLA-DRB3*011:03      TAAGGGCGAGTGTCATTTCTTCAACGGGACCGAGCGGGTGCGGTTGCTGGACAGACACTT   180
@@ -1198,6 +1201,7 @@ BoLA-DRB3*010:02      CCATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGGGCGGTG
 BoLA-DRB3*010:03      CCATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGGGCGGTGAC   240
 BoLA-DRB3*010:04      CCATAATGGAGAAGAGTTCGTGCGCTTCGACAGCGACTGGGGCGAGTACCGGGCGGTGAC   240
 BoLA-DRB3*010:05      CCATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGAC   240
+BoLA-DRB3*010:06      CCATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTACCGGGCGGTGAC   240
 BoLA-DRB3*011:01      CTATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGACGAGTTCCGGGCGGTGAC   240
 BoLA-DRB3*011:02      CTATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGAC   240
 BoLA-DRB3*011:03      CTATAATGGAGAAGAGTACGTGCGCTTCGACAGCGACTGGGGCGAGTTCCGGGCGGTGAC   240
@@ -1585,6 +1589,7 @@ BoLA-DRB3*010:02      CGAGCTGGGGCAGCGGGTCGCCGAGTACTGCAACAGCCAGAAGGACTTCCTGGAGCGG
 BoLA-DRB3*010:03      CGAGCTGGGGCAGCGGGTCGCCGAGTACTGCAACAGCCAGAAGGACTTCCTGGAGCGGAC   300
 BoLA-DRB3*010:04      CGAGCTGGGGCAGCGGGTCGCCGAGCACTGGAACAGCCAGAAGGACTTCCTGGAGCGGGC   300
 BoLA-DRB3*010:05      CGAGCTGGGGCAGCCGGTCGCCGAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGGG   300
+BoLA-DRB3*010:06      CGAGCTGGGGCAGCGGGTCGCCGAGTACTGCAACAGCCAGAAGGACTTCCTGGAGCGGGC   300
 BoLA-DRB3*011:01      CGAGCTGGGGCGGCCGTCCGCCGAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGAG   300
 BoLA-DRB3*011:02      CGAGCTGGGGCGGCCGTCCGCCGAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGAA   300
 BoLA-DRB3*011:03      CGAGCTGGGGCGGCCGGACGCCGAGTACTGGAACAGCCAGAAGGACTTCCTGGAGCGGAA   300
@@ -1972,6 +1977,7 @@ BoLA-DRB3*010:02      GCGGGCCGCGGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACT
 BoLA-DRB3*010:03      GCGGGCCGCGGTGGACACGTACTGCAGACACAACTACGGGGTCGGGGAGAGTTTCACTGT   360
 BoLA-DRB3*010:04      GCGGGCCTATGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACTGT   360
 BoLA-DRB3*010:05      GCGGGCCGCGGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACTGT   360
+BoLA-DRB3*010:06      GCGGGCCGCGGTGGACACGTACTGCAGACACAACTACGGGGTCGGTGAGAGTTTCACTGT   360
 BoLA-DRB3*011:01      GCGGGCCGAGGTGGACACGGTGTGCAGACACAACTACGGGGTCGTGGAGAGTTTCACTGT   360
 BoLA-DRB3*011:02      GCGGGCCGAGGTGGACACGGTGTGCAGACACAACTACGGGGTCGTGGAGAGTTTCACTGT   360
 BoLA-DRB3*011:03      GCGGGCCGAGGTGGACACGGTGTGCAGACACAACTACGGGGTCGTGGAGAGTTTCACTGT   360
@@ -2359,6 +2365,7 @@ BoLA-DRB3*010:02      GCAGCGGCGAG-----------------------------------------------
 BoLA-DRB3*010:03      GCAGCGGCGA--------------------------------------------------   420
 BoLA-DRB3*010:04      GCAGCGGCGA--------------------------------------------------   420
 BoLA-DRB3*010:05      GCAGCGGCGA--------------------------------------------------   420
+BoLA-DRB3*010:06      GCAGCGGCGAG-TGGAGCCTATAGTGACTGTGTATCCTGCAAAGACCCAGCCCCTGCAGC   420
 BoLA-DRB3*011:01      GCAGCGGCGAG-------------------------------------------------   420
 BoLA-DRB3*011:02      GCAGCGGCGAG-------------------------------------------------   420
 BoLA-DRB3*011:03      G-----------------------------------------------------------   420
@@ -2746,6 +2753,7 @@ BoLA-DRB3*010:02      ----------------------------------------------------------
 BoLA-DRB3*010:03      ------------------------------------------------------------   480
 BoLA-DRB3*010:04      ------------------------------------------------------------   480
 BoLA-DRB3*010:05      ------------------------------------------------------------   480
+BoLA-DRB3*010:06      ACCACAACCTCCTGGTCTGCTCTGTGAACGGTTTCTACCCAGGCCACATTGAAGTCAGGT   480
 BoLA-DRB3*011:01      ------------------------------------------------------------   480
 BoLA-DRB3*011:02      ------------------------------------------------------------   480
 BoLA-DRB3*011:03      ------------------------------------------------------------   480
@@ -3133,6 +3141,7 @@ BoLA-DRB3*010:02      ----------------------------------------------------------
 BoLA-DRB3*010:03      ------------------------------------------------------------   540
 BoLA-DRB3*010:04      ------------------------------------------------------------   540
 BoLA-DRB3*010:05      ------------------------------------------------------------   540
+BoLA-DRB3*010:06      GGTTCCGGAATGGCCATGAAGAGGAGGCTGGGGTGATCTCCACAGGCCTGATCCAGAATG   540
 BoLA-DRB3*011:01      ------------------------------------------------------------   540
 BoLA-DRB3*011:02      ------------------------------------------------------------   540
 BoLA-DRB3*011:03      ------------------------------------------------------------   540
@@ -3520,6 +3529,7 @@ BoLA-DRB3*010:02      ----------------------------------------------------------
 BoLA-DRB3*010:03      ------------------------------------------------------------   600
 BoLA-DRB3*010:04      ------------------------------------------------------------   600
 BoLA-DRB3*010:05      ------------------------------------------------------------   600
+BoLA-DRB3*010:06      GAGACTGGACCTTCCAGACCATGGTGATGCTTGAAACAGTTCCTCAGAGTGGAGAGGTCT   600
 BoLA-DRB3*011:01      ------------------------------------------------------------   600
 BoLA-DRB3*011:02      ------------------------------------------------------------   600
 BoLA-DRB3*011:03      ------------------------------------------------------------   600
@@ -3907,6 +3917,7 @@ BoLA-DRB3*010:02      ----------------------------------------------------------
 BoLA-DRB3*010:03      ------------------------------------------------------------   660
 BoLA-DRB3*010:04      ------------------------------------------------------------   660
 BoLA-DRB3*010:05      ------------------------------------------------------------   660
+BoLA-DRB3*010:06      ACACCTGCCAAGTGGAGCACCCCAGCCGGACAAGCCCTATCACAGTGGAATGGA------   660
 BoLA-DRB3*011:01      ------------------------------------------------------------   660
 BoLA-DRB3*011:02      ------------------------------------------------------------   660
 BoLA-DRB3*011:03      ------------------------------------------------------------   660
@@ -4294,6 +4305,7 @@ BoLA-DRB3*010:02      ----------------------------------------------------------
 BoLA-DRB3*010:03      ------------------------------------------------------------   720
 BoLA-DRB3*010:04      ------------------------------------------------------------   720
 BoLA-DRB3*010:05      ------------------------------------------------------------   720
+BoLA-DRB3*010:06      ------------------------------------------------------------   720
 BoLA-DRB3*011:01      ------------------------------------------------------------   720
 BoLA-DRB3*011:02      ------------------------------------------------------------   720
 BoLA-DRB3*011:03      ------------------------------------------------------------   720
@@ -4681,6 +4693,7 @@ BoLA-DRB3*010:02      ----------------------------------------------------------
 BoLA-DRB3*010:03      ------------------------------------------------------------   780
 BoLA-DRB3*010:04      ------------------------------------------------------------   780
 BoLA-DRB3*010:05      ------------------------------------------------------------   780
+BoLA-DRB3*010:06      --------------------------------------GGGCACGGTCTGACTCTGCTCA   780
 BoLA-DRB3*011:01      ------------------------------------------------------------   780
 BoLA-DRB3*011:02      ------------------------------------------------------------   780
 BoLA-DRB3*011:03      ------------------------------------------------------------   780
@@ -5068,6 +5081,7 @@ BoLA-DRB3*010:02      ----------------------------------------------------------
 BoLA-DRB3*010:03      ------------------------------------------------------------   840
 BoLA-DRB3*010:04      ------------------------------------------------------------   840
 BoLA-DRB3*010:05      ------------------------------------------------------------   840
+BoLA-DRB3*010:06      GAGCAAGATGATGAGTGGAGTCGGGGGCTTCGTTCTGGGTCTGCTCTTCCTTGCGGTGGG   840
 BoLA-DRB3*011:01      ------------------------------------------------------------   840
 BoLA-DRB3*011:02      ------------------------------------------------------------   840
 BoLA-DRB3*011:03      ------------------------------------------------------------   840
@@ -5455,6 +5469,7 @@ BoLA-DRB3*010:02      ----------------------------------------------------------
 BoLA-DRB3*010:03      ------------------------------------------------------------   900
 BoLA-DRB3*010:04      ------------------------------------------------------------   900
 BoLA-DRB3*010:05      ------------------------------------------------------------   900
+BoLA-DRB3*010:06      GCTCTTCATCTACTTCAGGAATCAGAAAGGACACCCTACACTTCAGCCAACAGGGCTCCT   900
 BoLA-DRB3*011:01      ------------------------------------------------------------   900
 BoLA-DRB3*011:02      ------------------------------------------------------------   900
 BoLA-DRB3*011:03      ------------------------------------------------------------   900
@@ -5842,6 +5857,7 @@ BoLA-DRB3*010:02      -------   907
 BoLA-DRB3*010:03      -------   907
 BoLA-DRB3*010:04      -------   907
 BoLA-DRB3*010:05      -------   907
+BoLA-DRB3*010:06      GAGCTGA   907
 BoLA-DRB3*011:01      -------   907
 BoLA-DRB3*011:02      -------   907
 BoLA-DRB3*011:03      -------   907

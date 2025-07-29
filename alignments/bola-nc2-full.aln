@@ -1,76 +1,410 @@
-BoLA-NC2*001:01       ATGCGGGTCGTGGGGCCGAGAACCCTCCTCCTGCTGCTGCCGGGTGCGCTGATCCTCACT    60
-BoLA-NC2*001:02       ---------------------------CTCCTGCTGCTGCCGGGTGCGCTGATCCTCACT    60
-BoLA-NC2*001:03       ---------------------------CTCCTGCTGCTGCCGGGTGCGCTGATCCTCACT    60
+BoLA-NC2*001:01       ATGCGGGTCGTGGGGCCGAGAACCCTCCTC---CTGCTGCTGCCGGGTGCGCTGATCCTC    60
+BoLA-NC2*001:02       ---------------------------CTC---CTGCTGCTGCCGGGTGCGCTGATCCTC    60
+BoLA-NC2*001:03       ---------------------------CTC---CTGCTGCTGCCGGGTGCGCTGATCCTC    60
+BoLA-NC2*002:01       ATGCGGGTCGTGGGGCAGAGAACTCTCCTCCTGCTGCTGCTGCTGGATGCGCTGATCCTC    60
 
-BoLA-NC2*001:01       GAGACCAGGGCGGGGTCCCACTCCCTGAGGTATTTCTACACCGCCGTGTCCCGGCCCGGC   120
-BoLA-NC2*001:02       GAGACCTGGGCGGGGTCCCACTCCCTGAGGTATTTCTACACCGCCGTGTCCCGGCCCGGC   120
-BoLA-NC2*001:03       GAGACCTGGGCCGGCTCCCACTCCCTGAGGTATTTCTACACCGCCGTGTCCCGGCCCGGC   120
+BoLA-NC2*001:01       ACTGAGACCAGGGCGG--------------------------------------------   120
+BoLA-NC2*001:02       ACTGAGACCTGGGCGG--------------------------------------------   120
+BoLA-NC2*001:03       ACTGAGACCTGGGCCG--------------------------------------------   120
+BoLA-NC2*002:01       ACTGAGACCAGGGCGGGTGAGTCAGGAACGGCCTCTGCGGGGAGGGGCGAGGGGACTGCC   120
 
-BoLA-NC2*001:01       CTCGGGGAGCCCCGCTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCGTGCGGTTC   180
-BoLA-NC2*001:02       CTCGGGGAGCCCCGCTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCGTGCGGTTC   180
-BoLA-NC2*001:03       CTCGGGGAGCCCCGCTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCGTGCGGTTT   180
+BoLA-NC2*001:01       ------------------------------------------------------------   180
+BoLA-NC2*001:02       ------------------------------------------------------------   180
+BoLA-NC2*001:03       ------------------------------------------------------------   180
+BoLA-NC2*002:01       CGGGGGTCGGGGGGGCAGGACCCCCAGGGAAGGACCCCTCTGCCCCCGACTAGACCCGCC   180
 
-BoLA-NC2*001:01       GACAGCGACGCCCCGGATCCGAGGATAGAGCCTACAGCGCGGTGGGTGGAGCAGGAGGGG   240
-BoLA-NC2*001:02       GACAGCGACGCCCCGGATCCGAGGATAGAGCCTACAGCGCGGTGGGTGGAGCAGGAGGGG   240
-BoLA-NC2*001:03       GACAGCGACGCCCCGGATCCGAGGATAGAGCCTACAGCGCGGTGGGTGGAGCAGGAGGGG   240
+BoLA-NC2*001:01       ------------------------------------------------------------   240
+BoLA-NC2*001:02       ------------------------------------------------------------   240
+BoLA-NC2*001:03       ------------------------------------------------------------   240
+BoLA-NC2*002:01       CCCTCCGCCTGGTCCCGTCCTGTCTCTCCCTTGCTTCCCGCCCCCTCCTCTCGCCCCCCA   240
 
-BoLA-NC2*001:01       CCCGAGTACTGGCATCAGGAGACGCAGAGAACTAAGGACACCGCACAATTTTTCCGAGTG   300
-BoLA-NC2*001:02       CCCGAGTACTGGCATCAGGAGACGCAGAGAACTAAGGACACCGCACAATTTTTCCGAGTG   300
-BoLA-NC2*001:03       CCCGAGTACTGGCATCAGGAGACGCAGAGGACTAAGGACACCGCACAATTTTTCCGAGTG   300
+BoLA-NC2*001:01       ------------------------------------------------------------   300
+BoLA-NC2*001:02       ------------------------------------------------------------   300
+BoLA-NC2*001:03       ------------------------------------------------------------   300
+BoLA-NC2*002:01       AGGCCTGGTCCTTCTCCGACCATTTCCGTATCACAAGCTTCTCTCCCCCTCCCCCGCTCC   300
 
-BoLA-NC2*001:01       TACCTGAACACCCTGCGCGGCTACTACAACCAGAGCGAGGCCGGGTCTCACACAGTCCAA   360
-BoLA-NC2*001:02       TACCTGAACACCCTGCGCGGCTACTACAACCAGAGCGAGGCCGGGTCTCACACAGTCCAA   360
-BoLA-NC2*001:03       TACCTGAACACCCTGCGCGGCTACTACAACCAGAGCGAGGCCGGGTCTCACACCGTCCAA   360
+BoLA-NC2*001:01       ------------------------------------------------------------   360
+BoLA-NC2*001:02       ------------------------------------------------------------   360
+BoLA-NC2*001:03       ------------------------------------------------------------   360
+BoLA-NC2*002:01       ATGCCCGGTCACCTAGGACCCGGGACCCGCGTCAGGAGGAGGGTCCACATCTTACCCCTC   360
 
-BoLA-NC2*001:01       GAGATGTACGGCTGCGACGTGGGGCCGGACGGGCTTCTCCGCGGGTATGATCAGTTCGCC   420
-BoLA-NC2*001:02       GAGATGTACGGCTGCGACGTGGGGCCGGACGGGCTTCTCCGCGGGTATGATCAGTTCGCC   420
-BoLA-NC2*001:03       GAGATGTACGGCTGCGACGTGGGGCCGGACGGGCTTCTCCGCGGGTATGATCAGTTCGCC   420
+BoLA-NC2*001:01       -----------GGTCCCACTCCCTGAGGTATTTCTACACCGCCGTGTCCCGGCCCGGCCT   420
+BoLA-NC2*001:02       -----------GGTCCCACTCCCTGAGGTATTTCTACACCGCCGTGTCCCGGCCCGGCCT   420
+BoLA-NC2*001:03       -----------GCTCCCACTCCCTGAGGTATTTCTACACCGCCGTGTCCCGGCCCGGCCT   420
+BoLA-NC2*002:01       CCCGCCCCCAGGGTCCCACTCCCTGAGGTATTTCTACACCGCCGTGTCCCGGCCCGGCCT   420
 
-BoLA-NC2*001:01       TACGACGGCAGAGATTACATCGCCCTGAACGAGGACCTGCGTTCCTGGACCGCGGCGGAC   480
-BoLA-NC2*001:02       TACGACGGCAGAGATTACATCGCCCTGAACGAGGACCTGCGTTCCTGGACCGCGGCGGAC   480
-BoLA-NC2*001:03       TACGACGGCAGAGATTACATCGCCCTGAACGAGGACCTGCGCTCCTGGACCGCGGCGGAC   480
+BoLA-NC2*001:01       CGGGGAGCCCCGCTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCGTGCGGTTCGA   480
+BoLA-NC2*001:02       CGGGGAGCCCCGCTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCGTGCGGTTCGA   480
+BoLA-NC2*001:03       CGGGGAGCCCCGCTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCGTGCGGTTTGA   480
+BoLA-NC2*002:01       CGGGGAGCCCCGCTTCATCTCCGTCGGCTACGTGGACGACACGCAGTTCGTGCGGTTCGA   480
 
-BoLA-NC2*001:01       ACGGCGGCTCAAGTCACCAAGCACAATGCTGAGGCGGCAGGTGATGCCGCGCGTGTGAGG   540
-BoLA-NC2*001:02       ACGGCGGCTCAAGTCACCAAGCACAATGCTGAGGCGGCAGGTGATGCCGCGCGTGTGAGG   540
-BoLA-NC2*001:03       ACGGCGGCTCAAGTCACCAAGCACAATGCTGAGGCGGCAGGTGATGCGGCGCGTGTGAGG   540
+BoLA-NC2*001:01       CAGCGACGCCCCGGATCCGAGGATAGAGCCTACAGCGCGGTGGGTGGAGCAGGAGGGGCC   540
+BoLA-NC2*001:02       CAGCGACGCCCCGGATCCGAGGATAGAGCCTACAGCGCGGTGGGTGGAGCAGGAGGGGCC   540
+BoLA-NC2*001:03       CAGCGACGCCCCGGATCCGAGGATAGAGCCTACAGCGCGGTGGGTGGAGCAGGAGGGGCC   540
+BoLA-NC2*002:01       CAGCGACGCCCCGGATCCGAGGATAGAGCCTACAGCGCGGTGGGTGGAGCAGGAGGGGCC   540
 
-BoLA-NC2*001:01       ATCTACCTGGAGGGCAAGTGTGTGGAGTGGCTCCGCAGATACCTGGTGACCGGGAAGGAC   600
-BoLA-NC2*001:02       ATCTACCTGGAGGGCAAGTGTGTGGAGTGGCTCCGCAGATACCTGGTGACCGGGAAGGAC   600
-BoLA-NC2*001:03       ATCTACCTGGAGGGCAAGTGCGTGGAGTGGCTCCGCAGATACCTGGTGACCGGGAAGGAC   600
+BoLA-NC2*001:01       CGAGTACTGGCATCAGGAGACGCAGAGAACTAAGGACACCGCACAATTTTTCCGAGTGTA   600
+BoLA-NC2*001:02       CGAGTACTGGCATCAGGAGACGCAGAGAACTAAGGACACCGCACAATTTTTCCGAGTGTA   600
+BoLA-NC2*001:03       CGAGTACTGGCATCAGGAGACGCAGAGGACTAAGGACACCGCACAATTTTTCCGAGTGTA   600
+BoLA-NC2*002:01       CGAGTACTGGCATCAGGAGACGCAGAGAACTAAGGACACCGCACAATTTTTCCGAGTGTA   600
 
-BoLA-NC2*001:01       ACGCTGCTGCGCGCAGACCCTCCAAAGACACATGTGGCCCATCACCCCATCTCTGACCAT   660
-BoLA-NC2*001:02       ACGCTGCTGCGCGCAGACCCTCCAAAGACACATGTGGCCCATCACCCCATCTCTGACCAT   660
-BoLA-NC2*001:03       ACGCTGCTGCGCGCAGACCCTCCAAAGACACATGTGGCCCATCACCGCATCTCTGACCAT   660
+BoLA-NC2*001:01       CCTGAACACCCTGCGCGGCTACTACAACCAGAGCGAGGCCG-------------------   660
+BoLA-NC2*001:02       CCTGAACACCCTGCGCGGCTACTACAACCAGAGCGAGGCCG-------------------   660
+BoLA-NC2*001:03       CCTGAACACCCTGCGCGGCTACTACAACCAGAGCGAGGCCG-------------------   660
+BoLA-NC2*002:01       CCTGAACACCCTGCGCGGCTACTACAACCAGAGCGAGGCCGGTGAGTGACGCGGGCCCGG   660
 
-BoLA-NC2*001:01       GAGGTCACCTTGAGGTGCTGGGCCCTGGGCTTCTATCCCGATGAGATCTCACTGACCTGG   720
-BoLA-NC2*001:02       GAGGTCACCTTGAGGTGCTGGGCCCTGGGCTTCTATCCCGATGAGATCTCACTGACCTGG   720
-BoLA-NC2*001:03       GAGGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTATCCCGATGAGATCTCACTGACCTGG   720
+BoLA-NC2*001:01       ------------------------------------------------------------   720
+BoLA-NC2*001:02       ------------------------------------------------------------   720
+BoLA-NC2*001:03       ------------------------------------------------------------   720
+BoLA-NC2*002:01       GTCCGAGTCACGACCCCCATCCCCAGGGACCGGCGGGGTCGCCCCGAGTCTGCGGGTCTG   720
 
-BoLA-NC2*001:01       CAGCGTGACGGGGAGGACCAGACTCAGGACATGGAGCTTGTGGAGACCAGGCCTTCAGGG   780
-BoLA-NC2*001:02       CAGCGTGACGGGGAGGACCAGACTCAGGACATGGAGCTTGTGGAGACCAGGCCTTCAGGG   780
-BoLA-NC2*001:03       CAGCGTGACGGGGAGGACCAGACTCAGGACATGGAGCTTGTGGAGACCAGGCCTTCAGGG   780
+BoLA-NC2*001:01       ------------------------------------------------------------   780
+BoLA-NC2*001:02       ------------------------------------------------------------   780
+BoLA-NC2*001:03       ------------------------------------------------------------   780
+BoLA-NC2*002:01       AGGGTCACCCCAATATTGCGGAACACACCCGACCCCCGCCCGGGAGGAGCCGGTGGGACT   780
 
-BoLA-NC2*001:01       GATGGAACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTTCTGGAGAGGAGCAGAGATAC   840
-BoLA-NC2*001:02       GATGGAACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTTCTGGAGAGGAGCAGAGATAC   840
-BoLA-NC2*001:03       GATGGAACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTTCTGGAGAGGAGCAGAGATAC   840
+BoLA-NC2*001:01       ---------------------------------------------------------GGT   840
+BoLA-NC2*001:02       ---------------------------------------------------------GGT   840
+BoLA-NC2*001:03       ---------------------------------------------------------GGT   840
+BoLA-NC2*002:01       TGACCCGGTTTCATTTCAGTTTGGGTTTAATCACCGCGGGTGGTCGGGGCGGGTCAGGGT   840
 
-BoLA-NC2*001:01       ACGTGCCATGTGCAGCACGAGGGGCTTCAGGAGCCCCTCACCCTGAGATGGGAACCTCCT   900
-BoLA-NC2*001:02       ACGTGCCATGTGCAGCACGAGGGGCTTCAGGAGCCCCTCACCCTGAGATGGGAACCTCCT   900
-BoLA-NC2*001:03       ACGTGCCATGTGCAGCACGAGGGGCTTCAGGAGCCCCTCACCCTGAGATGGGAACCTCCT   900
+BoLA-NC2*001:01       CTCACACAGTCCAAGAGATGTACGGCTGCGACGTGGGGCCGGACGGGCTTCTCCGCGGGT   900
+BoLA-NC2*001:02       CTCACACAGTCCAAGAGATGTACGGCTGCGACGTGGGGCCGGACGGGCTTCTCCGCGGGT   900
+BoLA-NC2*001:03       CTCACACCGTCCAAGAGATGTACGGCTGCGACGTGGGGCCGGACGGGCTTCTCCGCGGGT   900
+BoLA-NC2*002:01       CTCACACCGTCCAAGAGATGTACGGCTGCGACGTGGGGCCGGACGGGCTTCTCCGCGGGT   900
 
-BoLA-NC2*001:01       CAGCCCTCCATCCCCATCATGGGCATCATTGTTGGCCTGGTTCTCCTCATGGTCACTGGA   960
-BoLA-NC2*001:02       CAGCCCTCCATCCCCATCATGGGCATCATTGTTGGCCTGGTTCTCCTCATGGTCACTGGA   960
-BoLA-NC2*001:03       CAGCCCTCCATCCCCATCATGGGCATCATTGTTGGCCTGGTTCTCCTCATGGTCACTGGA   960
+BoLA-NC2*001:01       ATGATCAGTTCGCCTACGACGGCAGAGATTACATCGCCCTGAACGAGGACCTGCGTTCCT   960
+BoLA-NC2*001:02       ATGATCAGTTCGCCTACGACGGCAGAGATTACATCGCCCTGAACGAGGACCTGCGTTCCT   960
+BoLA-NC2*001:03       ATGATCAGTTCGCCTACGACGGCAGAGATTACATCGCCCTGAACGAGGACCTGCGCTCCT   960
+BoLA-NC2*002:01       ATGATCAGTTCGCCTACGACGGCAGAGATTACATCGCCCTGAACGAGGACCTGCGCTCCT   960
 
-BoLA-NC2*001:01       GCTGTGGTGACTGGAGCTATGATTTGGAGGAAGAAGCACTCAGGTGAAAAAGGAAGGGGC  1020
-BoLA-NC2*001:02       GCTGTGGTGACTGGAGCTATGATTTGGAGGAAGAAGCACTCAGGTGAAAAAGGAAGGGGC  1020
-BoLA-NC2*001:03       GCTGTGGTGACTGGAGCTATGATTTGGAGGAAGAAGCACTCAGGTGAAAAAGGAAGGGGC  1020
+BoLA-NC2*001:01       GGACCGCGGCGGACACGGCGGCTCAAGTCACCAAGCACAATGCTGAGGCGGCAGGTGATG  1020
+BoLA-NC2*001:02       GGACCGCGGCGGACACGGCGGCTCAAGTCACCAAGCACAATGCTGAGGCGGCAGGTGATG  1020
+BoLA-NC2*001:03       GGACCGCGGCGGACACGGCGGCTCAAGTCACCAAGCACAATGCTGAGGCGGCAGGTGATG  1020
+BoLA-NC2*002:01       GGACCGCGGCGGACACGGCGGCTCAAGTCACCAAGCACAATGCTGAGGCGGCAGGTGATG  1020
 
-BoLA-NC2*001:01       TACACCCAGACTGCAAGCAGTTACAGTGACCAGGGCTCTGATGTGTCTCTCATGGTTCCT  1080
-BoLA-NC2*001:02       TACACCCAGACTGCAAGCAGTTACAGTGACCAGGGCTCTGATGTGTCTCTCATGGTTCCT  1080
-BoLA-NC2*001:03       TACACCCAGACTGCAAGCAGTTACAGTGACCAGGGCTCTGATGTGTCTCTCATGGTTCCT  1080
+BoLA-NC2*001:01       CCGCGCGTGTGAGGATCTACCTGGAGGGCAAGTGTGTGGAGTGGCTCCGCAGATACCTGG  1080
+BoLA-NC2*001:02       CCGCGCGTGTGAGGATCTACCTGGAGGGCAAGTGTGTGGAGTGGCTCCGCAGATACCTGG  1080
+BoLA-NC2*001:03       CGGCGCGTGTGAGGATCTACCTGGAGGGCAAGTGCGTGGAGTGGCTCCGCAGATACCTGG  1080
+BoLA-NC2*002:01       CGGCGCGTGTGAGGATCTACCTGGAGGGCAAGTGTGTGGAGTGGCTCCGCAGATACCTGG  1080
 
-BoLA-NC2*001:01       AAAGTGTGA  1089
-BoLA-NC2*001:02       AAAGTGTGA  1089
-BoLA-NC2*001:03       AAAGTGTGA  1089
+BoLA-NC2*001:01       TGACCGGGAAGGACACGCTGCTGCGCGCAG------------------------------  1140
+BoLA-NC2*001:02       TGACCGGGAAGGACACGCTGCTGCGCGCAG------------------------------  1140
+BoLA-NC2*001:03       TGACCGGGAAGGACACGCTGCTGCGCGCAG------------------------------  1140
+BoLA-NC2*002:01       TGACCGGGAAGGACACGCTGCTGCGCGCAGGTACGAGGGGCGCGGCGCCTCCCTGATCTC  1140
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1200
+BoLA-NC2*001:02       ------------------------------------------------------------  1200
+BoLA-NC2*001:03       ------------------------------------------------------------  1200
+BoLA-NC2*002:01       CCCTCGGGCTGGAGCTGGCTTCCCACGAGGAGAGGAAAATGGGGTCCCTGTGGGAACAGC  1200
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1260
+BoLA-NC2*001:02       ------------------------------------------------------------  1260
+BoLA-NC2*001:03       ------------------------------------------------------------  1260
+BoLA-NC2*002:01       GCCGCAACTTCCTGTCAGGAGAGGGAGGAATCCGCCCAGGTTTTCATATTCTGTACAAGA  1260
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1320
+BoLA-NC2*001:02       ------------------------------------------------------------  1320
+BoLA-NC2*001:03       ------------------------------------------------------------  1320
+BoLA-NC2*002:01       CGGTGACGCGCCAGTGGCCCCACTTGTTATTTAGTCGCTCAGTCGTGTCCGACTCTTTGG  1320
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1380
+BoLA-NC2*001:02       ------------------------------------------------------------  1380
+BoLA-NC2*001:03       ------------------------------------------------------------  1380
+BoLA-NC2*002:01       GACCCCATGAACTGCAGCACGTCAGTCCTCCCTGTCCGTCACCAACTCCTGGAGTTTACC  1380
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1440
+BoLA-NC2*001:02       ------------------------------------------------------------  1440
+BoLA-NC2*001:03       ------------------------------------------------------------  1440
+BoLA-NC2*002:01       CAAACTCATGTCCATTGAGTCGGTGATGCCATCCAACCCTCTCATCCTCTATTGTCCCCT  1440
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1500
+BoLA-NC2*001:02       ------------------------------------------------------------  1500
+BoLA-NC2*001:03       ------------------------------------------------------------  1500
+BoLA-NC2*002:01       TCTCCTCCTGCCCTCAATCTTTTCCAGCATCAAGGTCTTTTCCAATGAGTCAGCTCTTCA  1500
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1560
+BoLA-NC2*001:02       ------------------------------------------------------------  1560
+BoLA-NC2*001:03       ------------------------------------------------------------  1560
+BoLA-NC2*002:01       CATCAGGTAGCCAAAGTATTGGAGTTTCAGCTTCAGTATCAGTTTTTCCAATGAATATTC  1560
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1620
+BoLA-NC2*001:02       ------------------------------------------------------------  1620
+BoLA-NC2*001:03       ------------------------------------------------------------  1620
+BoLA-NC2*002:01       ACGGTTGATTTCCTTTAGAATTGACTAGTTTGAACTCCTTGCTGTCCAAGGGACTCTCAA  1620
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1680
+BoLA-NC2*001:02       ------------------------------------------------------------  1680
+BoLA-NC2*001:03       ------------------------------------------------------------  1680
+BoLA-NC2*002:01       GAGTGTTCTCCAACACCACAGATCAAAAGCATCACTTCTTCAGCACTCAGCCTTCTTTAT  1680
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1740
+BoLA-NC2*001:02       ------------------------------------------------------------  1740
+BoLA-NC2*001:03       ------------------------------------------------------------  1740
+BoLA-NC2*002:01       GGTACAACTCTCACATCCATACATGTCTACTAGAAAAAACATAGCTTTGACAATATGAAC  1740
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1800
+BoLA-NC2*001:02       ------------------------------------------------------------  1800
+BoLA-NC2*001:03       ------------------------------------------------------------  1800
+BoLA-NC2*002:01       CTTTGTCGGCAAAGTGATGTCTCTGCTTTTTGATATGCTGTCTAGATTTGTCATAACTTT  1800
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1860
+BoLA-NC2*001:02       ------------------------------------------------------------  1860
+BoLA-NC2*001:03       ------------------------------------------------------------  1860
+BoLA-NC2*002:01       TCTTCCAAGGAGCAAATGTCTTTAATTTTGTGGCTGCAGTCACTGTCCACAGTGATTTTG  1860
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1920
+BoLA-NC2*001:02       ------------------------------------------------------------  1920
+BoLA-NC2*001:03       ------------------------------------------------------------  1920
+BoLA-NC2*002:01       GAATCCAAGAAAATAAAGTCTGTCACTGTTTACATTGTTTCCCCATCTATTTGTCGTGAA  1920
+
+BoLA-NC2*001:01       ------------------------------------------------------------  1980
+BoLA-NC2*001:02       ------------------------------------------------------------  1980
+BoLA-NC2*001:03       ------------------------------------------------------------  1980
+BoLA-NC2*002:01       GTGATGGGGCAGAGGAACCAGAGATCAAATTGCCAACATCCACTGGATCATGGACAAAGC  1980
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2040
+BoLA-NC2*001:02       ------------------------------------------------------------  2040
+BoLA-NC2*001:03       ------------------------------------------------------------  2040
+BoLA-NC2*002:01       AAGAGAGTTCCAGAAAAACATCTATTTCTGCTTTATTGACTATGCCAAAGCCTTTGACTG  2040
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2100
+BoLA-NC2*001:02       ------------------------------------------------------------  2100
+BoLA-NC2*001:03       ------------------------------------------------------------  2100
+BoLA-NC2*002:01       TGTGATCACAATAAACTGTGGAAAATTCTGAAAGAGATGGGAATACCAGACCAGCTGACC  2100
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2160
+BoLA-NC2*001:02       ------------------------------------------------------------  2160
+BoLA-NC2*001:03       ------------------------------------------------------------  2160
+BoLA-NC2*002:01       TGCCTCTTGAGAAATTTGTATGCAGGTTAGGAAGCAACAGTTAGAACTGGACATGGAACA  2160
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2220
+BoLA-NC2*001:02       ------------------------------------------------------------  2220
+BoLA-NC2*001:03       ------------------------------------------------------------  2220
+BoLA-NC2*002:01       ACAGACTGGTTCCAAATAGGAAAAGGAGTATGTCAAGGCTGTATATTGTCACCCTGCTTA  2220
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2280
+BoLA-NC2*001:02       ------------------------------------------------------------  2280
+BoLA-NC2*001:03       ------------------------------------------------------------  2280
+BoLA-NC2*002:01       TTTAACTTATATGCAGAGTACAGCATGAGAAATGCTGGACTGGAAGAAGCACAAGCTAGA  2280
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2340
+BoLA-NC2*001:02       ------------------------------------------------------------  2340
+BoLA-NC2*001:03       ------------------------------------------------------------  2340
+BoLA-NC2*002:01       ATCAAGATTGCCAGGAGAAATATCAATAACTTCAGATATGCAGATGACACCACCCTTATG  2340
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2400
+BoLA-NC2*001:02       ------------------------------------------------------------  2400
+BoLA-NC2*001:03       ------------------------------------------------------------  2400
+BoLA-NC2*002:01       GCAGAAAGTGACGAGGAACTAAAAAGCCTCTTGATGAGAGTGAAAGGAGAGTGAAAGAGT  2400
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2460
+BoLA-NC2*001:02       ------------------------------------------------------------  2460
+BoLA-NC2*001:03       ------------------------------------------------------------  2460
+BoLA-NC2*002:01       TGGCTTAAAGCTCAACATTCAGAAAATGAAGATCATGGCATCTGGTGCCATCACTTCATG  2460
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2520
+BoLA-NC2*001:02       ------------------------------------------------------------  2520
+BoLA-NC2*001:03       ------------------------------------------------------------  2520
+BoLA-NC2*002:01       GGAAATAGATGGGGAAACAGTGGAAACAGTGCCAGACTTTATTTTTTGGGGCTCCAAAGT  2520
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2580
+BoLA-NC2*001:02       ------------------------------------------------------------  2580
+BoLA-NC2*001:03       ------------------------------------------------------------  2580
+BoLA-NC2*002:01       CACTGCAGATGGTGACTGCAGCCATGAAATTAAAAGACGCTTACTCCTTAGAAGGAAAGT  2580
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2640
+BoLA-NC2*001:02       ------------------------------------------------------------  2640
+BoLA-NC2*001:03       ------------------------------------------------------------  2640
+BoLA-NC2*002:01       TATGACCAACCTAGATAGCATATTGAAAAGCAGAGACGTTACTTTGCCCACAAAGGTTTG  2640
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2700
+BoLA-NC2*001:02       ------------------------------------------------------------  2700
+BoLA-NC2*001:03       ------------------------------------------------------------  2700
+BoLA-NC2*002:01       TCTAGTCAAGGCTATGGTTTTTCCAGTGGTCATGTATGGATGTGAGAGTTGGTCTGTGAA  2700
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2760
+BoLA-NC2*001:02       ------------------------------------------------------------  2760
+BoLA-NC2*001:03       ------------------------------------------------------------  2760
+BoLA-NC2*002:01       GAAAGCTGAGCGCCAAAGAATTGATGCTTTTGAACTGTGGTGTTGGAGAAGACTCTTGAG  2760
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2820
+BoLA-NC2*001:02       ------------------------------------------------------------  2820
+BoLA-NC2*001:03       ------------------------------------------------------------  2820
+BoLA-NC2*002:01       AGTCCCTTGGACTGCAAGGAGATCCAACCAGTCCATTCTGAAGGAGATCAGCCCTGGGTG  2820
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2880
+BoLA-NC2*001:02       ------------------------------------------------------------  2880
+BoLA-NC2*001:03       ------------------------------------------------------------  2880
+BoLA-NC2*002:01       TTCTTTGGAAGGAATGATGCTAAAGCTGAAACTCCAGTACTTTGGGCACCTCATGTGAAG  2880
+
+BoLA-NC2*001:01       ------------------------------------------------------------  2940
+BoLA-NC2*001:02       ------------------------------------------------------------  2940
+BoLA-NC2*001:03       ------------------------------------------------------------  2940
+BoLA-NC2*002:01       AGTTGACTCATTGGAAAAGACTCTGATGCTGGGAGGGATTGGGGGCAGGAGGAAAAGGGG  2940
+
+BoLA-NC2*001:01       ------------------------------------------------------------  3000
+BoLA-NC2*001:02       ------------------------------------------------------------  3000
+BoLA-NC2*001:03       ------------------------------------------------------------  3000
+BoLA-NC2*002:01       ACGACAGAGGATGAGATGGCTGGATGGCATCACCGACTCGATGGACATGAGTCTGAGTGA  3000
+
+BoLA-NC2*001:01       ------------------------------------------------------------  3060
+BoLA-NC2*001:02       ------------------------------------------------------------  3060
+BoLA-NC2*001:03       ------------------------------------------------------------  3060
+BoLA-NC2*002:01       ACTCCAGGAGATGGTGATGGACAGGAAGGCCTGGCGTGCTGCGATTCATGGGGTCGCAAA  3060
+
+BoLA-NC2*001:01       ------------------------------------------------------------  3120
+BoLA-NC2*001:02       ------------------------------------------------------------  3120
+BoLA-NC2*001:03       ------------------------------------------------------------  3120
+BoLA-NC2*002:01       GAGTCGGCCACAACTGAGCAACTGAACTGAACTGAACTGATGGGGCTGGATGCCATGATC  3120
+
+BoLA-NC2*001:01       ------------------------------------------------------------  3180
+BoLA-NC2*001:02       ------------------------------------------------------------  3180
+BoLA-NC2*001:03       ------------------------------------------------------------  3180
+BoLA-NC2*002:01       TTAGTTCTCTGAAGGACAAAGAATCCAGTGTCTTTGACTAAGAACCAGTAAACCATCCCT  3180
+
+BoLA-NC2*001:01       ------------------------------------------------------------  3240
+BoLA-NC2*001:02       ------------------------------------------------------------  3240
+BoLA-NC2*001:03       ------------------------------------------------------------  3240
+BoLA-NC2*002:01       GAAAAAGTTGGTCAGTGCTGCCCTTTGACCCTGGCCATGATCTTGTGAACCATAACTTTG  3240
+
+BoLA-NC2*001:01       ------------------------------------------------------------  3300
+BoLA-NC2*001:02       ------------------------------------------------------------  3300
+BoLA-NC2*001:03       ------------------------------------------------------------  3300
+BoLA-NC2*002:01       TCTCTCAAGGCTTGTTCTCACCCTGAGAACATCTTAGGAGCCCTGACTCCAGCTTTTCTA  3300
+
+BoLA-NC2*001:01       ------------------------------------------------------------  3360
+BoLA-NC2*001:02       ------------------------------------------------------------  3360
+BoLA-NC2*001:03       ------------------------------------------------------------  3360
+BoLA-NC2*002:01       AGTCATTCAGCCTCCTCCCACATCAGGACCATTAGTCTGTATTCTGCCTCTTACACGGAG  3360
+
+BoLA-NC2*001:01       ------------------------------------------------------------  3420
+BoLA-NC2*001:02       ------------------------------------------------------------  3420
+BoLA-NC2*001:03       ------------------------------------------------------------  3420
+BoLA-NC2*002:01       CCTCCTCCCTTAGCTGTCACTCTGACTCCAGAACTTTCCAAGGACTAGGAGCTGTTCCCA  3420
+
+BoLA-NC2*001:01       ------------------------------------------------------------  3480
+BoLA-NC2*001:02       ------------------------------------------------------------  3480
+BoLA-NC2*001:03       ------------------------------------------------------------  3480
+BoLA-NC2*002:01       GACTCTGGAGTCCAGGCTGGTATCTGGTGTTTGTGCTGCTTTTTTTCACACCCACTCTCC  3480
+
+BoLA-NC2*001:01       ------------------------------------------------------------  3540
+BoLA-NC2*001:02       ------------------------------------------------------------  3540
+BoLA-NC2*001:03       ------------------------------------------------------------  3540
+BoLA-NC2*002:01       TGCTTATTCTCAGGATGGTCACCTGATGCTGCTTCCAGTGGCCCATGGAGGTAACACAAA  3540
+
+BoLA-NC2*001:01       ----------------------------ACCCTCCAAAGACACATGTGGCCCATCACCCC  3600
+BoLA-NC2*001:02       ----------------------------ACCCTCCAAAGACACATGTGGCCCATCACCCC  3600
+BoLA-NC2*001:03       ----------------------------ACCCTCCAAAGACACATGTGGCCCATCACCGC  3600
+BoLA-NC2*002:01       ATGTGAGTTTCTGATTCTTCTTCCTCAGACCCTCCAAAGACACATGTGGCCCATCACCCC  3600
+
+BoLA-NC2*001:01       ATCTCTGACCATGAGGTCACCTTGAGGTGCTGGGCCCTGGGCTTCTATCCCGATGAGATC  3660
+BoLA-NC2*001:02       ATCTCTGACCATGAGGTCACCTTGAGGTGCTGGGCCCTGGGCTTCTATCCCGATGAGATC  3660
+BoLA-NC2*001:03       ATCTCTGACCATGAGGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTATCCCGATGAGATC  3660
+BoLA-NC2*002:01       ATCTCTGACCGTGAGGTCACCCTGAGGTGCTGGGCCCTGGGCTTCTACCCTGAGGAGATC  3660
+
+BoLA-NC2*001:01       TCACTGACCTGGCAGCGTGACGGGGAGGACCAGACTCAGGACATGGAGCTTGTGGAGACC  3720
+BoLA-NC2*001:02       TCACTGACCTGGCAGCGTGACGGGGAGGACCAGACTCAGGACATGGAGCTTGTGGAGACC  3720
+BoLA-NC2*001:03       TCACTGACCTGGCAGCGTGACGGGGAGGACCAGACTCAGGACATGGAGCTTGTGGAGACC  3720
+BoLA-NC2*002:01       TCACTGACCTGGCAGCGTGACGGGGAGGACCAGACTCAGGACATGGAGCTTGTGGAGACC  3720
+
+BoLA-NC2*001:01       AGGCCTTCAGGGGATGGAACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTTCTGGAGAG  3780
+BoLA-NC2*001:02       AGGCCTTCAGGGGATGGAACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTTCTGGAGAG  3780
+BoLA-NC2*001:03       AGGCCTTCAGGGGATGGAACCTTCCAGAAGTGGGCGGCCCTGGTGGTGCCTTCTGGAGAG  3780
+BoLA-NC2*002:01       AGGCCTTCAGGGGATGGAACCTTCCAGAAGTGGGCAGCCCTGGTGGTGCCTTCTGGAGAA  3780
+
+BoLA-NC2*001:01       GAGCAGAGATACACGTGCCATGTGCAGCACGAGGGGCTTCAGGAGCCCCTCACCCTGAGA  3840
+BoLA-NC2*001:02       GAGCAGAGATACACGTGCCATGTGCAGCACGAGGGGCTTCAGGAGCCCCTCACCCTGAGA  3840
+BoLA-NC2*001:03       GAGCAGAGATACACGTGCCATGTGCAGCACGAGGGGCTTCAGGAGCCCCTCACCCTGAGA  3840
+BoLA-NC2*002:01       GAGCAGAGATACACGTGCCATGTGCAGCACGAGGGGCTACAGGAGCCCCTCACCCTGAGA  3840
+
+BoLA-NC2*001:01       TGGG--------------------------------------------------------  3900
+BoLA-NC2*001:02       TGGG--------------------------------------------------------  3900
+BoLA-NC2*001:03       TGGG--------------------------------------------------------  3900
+BoLA-NC2*002:01       TGGGGTAAGGAGGGAGTCGGAATGGAGCTTCCTCTCAGATAAGGCAGGAGCCCTTCTGGA  3900
+
+BoLA-NC2*001:01       ------------------------------------------------------------  3960
+BoLA-NC2*001:02       ------------------------------------------------------------  3960
+BoLA-NC2*001:03       ------------------------------------------------------------  3960
+BoLA-NC2*002:01       CACGATCAGCAAAGTCAGGACTGAAGCCTGAAGTCTGGGCTCCTTCCCTTTCTTCCACAG  3960
+
+BoLA-NC2*001:01       AACCTCCTCAGCCCTCCATCCCCATCATGGGCATCATTGTTGGCCTGGTTCTCCTCATGG  4020
+BoLA-NC2*001:02       AACCTCCTCAGCCCTCCATCCCCATCATGGGCATCATTGTTGGCCTGGTTCTCCTCATGG  4020
+BoLA-NC2*001:03       AACCTCCTCAGCCCTCCATCCCCATCATGGGCATCATTGTTGGCCTGGTTCTCCTCATGG  4020
+BoLA-NC2*002:01       AACCTCCTCAACCCTCCATCCCCATCATGGGCATCATTGTTGGACTGGTTCACCTCATGG  4020
+
+BoLA-NC2*001:01       TCACTGGAGCTGTGGTGACTGGAGCTATGATTTGGAGGAAGAAGCACTCAG---------  4080
+BoLA-NC2*001:02       TCACTGGAGCTGTGGTGACTGGAGCTATGATTTGGAGGAAGAAGCACTCAG---------  4080
+BoLA-NC2*001:03       TCACTGGAGCTGTGGTGACTGGAGCTATGATTTGGAGGAAGAAGCACTCAG---------  4080
+BoLA-NC2*002:01       TCACTGGAGCTATGGTGACTGGAGCTGTGATTTGGAGGAAGAAGCACTCAGGTAGGGAAA  4080
+
+BoLA-NC2*001:01       ------------------------------------------------------------  4140
+BoLA-NC2*001:02       ------------------------------------------------------------  4140
+BoLA-NC2*001:03       ------------------------------------------------------------  4140
+BoLA-NC2*002:01       GGAGGGAGGGATCTAAGTTTTCTTGTCTCACTGGGAAGGTTTCTGGCCCAGGTGGAAGTT  4140
+
+BoLA-NC2*001:01       ------------------------------------------------------------  4200
+BoLA-NC2*001:02       ------------------------------------------------------------  4200
+BoLA-NC2*001:03       ------------------------------------------------------------  4200
+BoLA-NC2*002:01       TGCCTGCCTCGTTACTGGAAAGTACCCTCCACACACTTGTGGAATCTGAGCTGATGCTAA  4200
+
+BoLA-NC2*001:01       ------------------------------------------------------------  4260
+BoLA-NC2*001:02       ------------------------------------------------------------  4260
+BoLA-NC2*001:03       ------------------------------------------------------------  4260
+BoLA-NC2*002:01       GACTGACTCTTTTGTAAAGTACATGTGAAAATGAAAGACACATTTTTCATCTTCATAATT  4260
+
+BoLA-NC2*001:01       ------------------------------------------------------------  4320
+BoLA-NC2*001:02       ------------------------------------------------------------  4320
+BoLA-NC2*001:03       ------------------------------------------------------------  4320
+BoLA-NC2*002:01       CCAGTTGGAGGCCTGTTTCTCAGCATTTGAAGGTCAGGAGGGAATGTCCCTGCTGAGGAC  4320
+
+BoLA-NC2*001:01       ------------------------------------------------------------  4380
+BoLA-NC2*001:02       ------------------------------------------------------------  4380
+BoLA-NC2*001:03       ------------------------------------------------------------  4380
+BoLA-NC2*002:01       AGACCTCCAGGAGGGCAGCTGGTCCAGTCCCCCCACGCCTCCTTCCTTCATGTTCCTGAG  4380
+
+BoLA-NC2*001:01       ------------------------------------------------------------  4440
+BoLA-NC2*001:02       ------------------------------------------------------------  4440
+BoLA-NC2*001:03       ------------------------------------------------------------  4440
+BoLA-NC2*002:01       ACTGTCCTCGATTTTTGGTCACAGTTCTGAAAAGTTTTTGTCGTCCAGAACTAGGAAGTT  4440
+
+BoLA-NC2*001:01       ------------------------------------------------------------  4500
+BoLA-NC2*001:02       ------------------------------------------------------------  4500
+BoLA-NC2*001:03       ------------------------------------------------------------  4500
+BoLA-NC2*002:01       CCTCTAGGGTCTCATGACTCAGTCTGCTCCATGGTCCCTCATGTGATACTTTCTTCTCAC  4500
+
+BoLA-NC2*001:01       --GTGAAAAAGGAAGGGGCTACACCCAGACTGCAA-------------------------  4560
+BoLA-NC2*001:02       --GTGAAAAAGGAAGGGGCTACACCCAGACTGCAA-------------------------  4560
+BoLA-NC2*001:03       --GTGAAAAAGGAAGGGGCTACACCCAGACTGCAA-------------------------  4560
+BoLA-NC2*002:01       AGGTGAAAAAGGACGGATCTACAGCCAGGCTTCAAGTAAGTGTGGAGGGGGTGATTCCTG  4560
+
+BoLA-NC2*001:01       ------------------------------------------------------------  4620
+BoLA-NC2*001:02       ------------------------------------------------------------  4620
+BoLA-NC2*001:03       ------------------------------------------------------------  4620
+BoLA-NC2*002:01       AGACCCTTGTGAGGGTGCAGACAGGAGGCCATGCGGGACTCACCCTCCTCAAAGTGCCTT  4620
+
+BoLA-NC2*001:01       ------------------------------------------------------GCAGTT  4680
+BoLA-NC2*001:02       ------------------------------------------------------GCAGTT  4680
+BoLA-NC2*001:03       ------------------------------------------------------GCAGTT  4680
+BoLA-NC2*002:01       CTCTAGTTTCTCTCCTGTGGGTTCTAACCACGTCCTGGTCTTGTTCTCCCCCAGGCAGTG  4680
+
+BoLA-NC2*001:01       ACAGTGACCAGGGCTCTGATGTGTCTCTCATGGTTCCTAAAG------------------  4740
+BoLA-NC2*001:02       ACAGTGACCAGGGCTCTGATGTGTCTCTCATGGTTCCTAAAG------------------  4740
+BoLA-NC2*001:03       ACAGTGACCAGGGCTCTGATGTGTCTCTCATGGTTCCTAAAG------------------  4740
+BoLA-NC2*002:01       ACAGTGACCAGGGCTCTGATGTGCCTCTCACGGTTCCTAAAGGTGAGATCCTGGGGCATC  4740
+
+BoLA-NC2*001:01       ------------------------------------------------------------  4800
+BoLA-NC2*001:02       ------------------------------------------------------------  4800
+BoLA-NC2*001:03       ------------------------------------------------------------  4800
+BoLA-NC2*002:01       TAGACTGGGAGAGGGGTTGGGGCAGAGGGGACACACTGGGTGGCGGGGGTCTCTGAGTGG  4800
+
+BoLA-NC2*001:01       ------------------------------------------------------------  4860
+BoLA-NC2*001:02       ------------------------------------------------------------  4860
+BoLA-NC2*001:03       ------------------------------------------------------------  4860
+BoLA-NC2*002:01       GACATGTGAGCATGTGGGGGGCTGTGGAGAATGTCAGCCCTTACATGACTGACTGAACTG  4860
+
+BoLA-NC2*001:01       ------------------------TGTGA  4889
+BoLA-NC2*001:02       ------------------------TGTGA  4889
+BoLA-NC2*001:03       ------------------------TGTGA  4889
+BoLA-NC2*002:01       CTTCCTGATTCTTTTCTCTCACAGTGTGA  4889
 
