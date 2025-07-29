@@ -14,7 +14,7 @@ BoLA-DQA*002:07       ----------------------------DHIGAYGINIYHTYGPSGYYTHEFDGDEEF
 BoLA-DQA*002:08       --------------------------------AYGINVYHSYGSSGYYTHEFDGDEEFYV    60
 BoLA-DQA*003:01       ----------------------------DHIGAYGINVYHSYGPSGYYTHEFDGDEEFYV    60
 BoLA-DQA*003:02       --------------------------------AYGINVYHSYGPSGYYTHEFDGDEEFYV    60
-BoLA-DQA*004:01       ----------------------------DHIGAYGINVYHSYGPSGYYTHEFDGDEEFYV    60
+BoLA-DQA*004:01       MILNRALIWGALALTTMMGPSGSEDIVADHIGAYGINVYHSYGPSGYYTHEFDGDEEFYV    60
 BoLA-DQA*008:01       ----------------------------DHIGAYGINVYHSYGPSGYYTHEFDGDEQFYV    60
 BoLA-DQA*008:02       ----------------------------DHIGAYGINVYHSYGPSGYYTHEFDGDEQFYV    60
 BoLA-DQA*008:03       -------------------------------GAYGINVYHSYGPSGYYTHEFDGDEEFYV    60
@@ -46,7 +46,7 @@ BoLA-DQA*022:02:02    --------------------------------SYGTEVYQSHGPSGQYTQEFDGDEMF
 BoLA-DQA*022:02:03    ----------------------------DHVGSYGTEVYQSHGPSGQYTQEFDGDEMFYV    60
 BoLA-DQA*022:03:01    ----------------------------DHVGSYGTEVYQSHGPSGQYTQEFDGDELFYV    60
 BoLA-DQA*022:03:02    --------------------------------SYGTEVYQSHGPSGQYTQEFDGDELFYV    60
-BoLA-DQA*022:03:03    ----------------------------DHVGSYGTEIYQSHGPSGQYTQEFDGDELFYV    60
+BoLA-DQA*022:03:03    MVLNRALILGAFALTTMMSPCG-----ADHVGSYGTEIYQSHGPSGQYTQEFDGDELFYV    60
 BoLA-DQA*022:04       ----------------------------DHVGSYGTEVYQSHGPSGQYTQEFDGDEMFYV    60
 BoLA-DQA*022:05       --------------------------------SYGTEVYQSHGPSGQYTQEFDGDEMFYV    60
 BoLA-DQA*022:07       -----------------------------------AEFYQSHGPSGQYTQEFDGDELFYV    60
@@ -74,6 +74,7 @@ BoLA-DQA*032:01       ----------------------------DHIGTYGISIYHTYGPSGYFTHEFDGDEEF
 BoLA-DQA*033:01       ----------------------------DHIGAYGINVYHTYGPSGYYTQEFDGDEEFYV    60
 BoLA-DQA*034:01       ----------------------------DHVGSYGTEIYQSHGPSGQYTQEFDGDEMFYV    60
 BoLA-DQA*035:01       ----------------------------DHVGSYGTEIYQSHGPSGQYTQEFDGDKLFYV    60
+BoLA-DQA*036:01       MVLNRALILGTLALTTMMSPSGGEDIVADHVGIYGVNIYQSYGPSGQFTHEFDGDEQFYV    60
 
 BoLA-DQA*001:01       DLEKRETVWRLPVFSKFTSFDPQGALRNIATAKHNLEVLIQRSNSTAATNKVPEMTVFPK   120
 BoLA-DQA*001:02       DLEKRETVWRLPVFSKFTSFDPQGALRNIATVKHNLEILIQRSNSTAAT-----------   120
@@ -91,7 +92,7 @@ BoLA-DQA*002:07       DLEKRETVWNLPLFSKFRRFDPQGALRNIATAKHNLEIVIQRSNSTAATN--------
 BoLA-DQA*002:08       DLEKRETVWNLPLFSKFRRFDPQGALRNIATAKHNLEIMIQESNSTA-------------   120
 BoLA-DQA*003:01       DLEKRETVWNLPLFSKFRRFDPQGALRNIATTKHNLEIMMQRSNSTAAT-----------   120
 BoLA-DQA*003:02       DLEKRETVWNLPLFSKFRRFDPRGALRNIATTKHNLEIMMQGSNS---------------   120
-BoLA-DQA*004:01       DLEKRETVWNLPLFSKFRRFDPQGALRNIATAKHNLEVLIQRSNSTTAT-----------   120
+BoLA-DQA*004:01       DLEKRETVWNLPLFSKFRRFDPQGALRNIATAKHNLEVLIQRSNSTTATNKVPEVTVFSK   120
 BoLA-DQA*008:01       DLEKRETVWRLPVFSKFASFDPQGALRNIATAKHNLEIMIQESNSTAAT-----------   120
 BoLA-DQA*008:02       DLEKRETVWRLHVFSKFASFDPQGALRNIATAKHNLEIMIQESNSTAST-----------   120
 BoLA-DQA*008:03       DLEKRETVWRLPVFSKFTSFDPQGALRNIATAKHNLEIMIQE------------------   120
@@ -123,7 +124,7 @@ BoLA-DQA*022:02:02    DLGKKETVWRLPMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNF-------------
 BoLA-DQA*022:02:03    DLGKKETVWRLPMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNFTPVI-----------   120
 BoLA-DQA*022:03:01    DLGKKETVWRLPMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNFTPVI-----------   120
 BoLA-DQA*022:03:02    DLGKKETVWRLPMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNF---------------   120
-BoLA-DQA*022:03:03    DLGKKETVWRLPMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNFTPVI-----------   120
+BoLA-DQA*022:03:03    DLGKKETVWRLPMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNFTPVINEVPEVTVFSK   120
 BoLA-DQA*022:04       DLGKKETVWRLLMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNFTPVI-----------   120
 BoLA-DQA*022:05       DLGKKETVWRLPMFSQFAGFAPQAALSEIATSKHNLDVLTKRSNF---------------   120
 BoLA-DQA*022:07       DLGKKETVWRLPMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNFTPVI-----------   120
@@ -151,6 +152,7 @@ BoLA-DQA*032:01       DLEKRETVWRLPVFSKFATFDPQGALKNIATAKHNLEIVIQRSTSTAATN--------
 BoLA-DQA*033:01       DLEKREAVWRLPVFSKFTSFDPQGALRNPASAKHNLEVLIQRSNSSAATN----------   120
 BoLA-DQA*034:01       DLGKKETVWRLPMFSQFAGFDPQFALSEIATAKFNLDLLTKRSNFTPVI-----------   120
 BoLA-DQA*035:01       DLEKKETVWRLPMFSQFASFDPQAILRNIAISKHNLNIMIKYSNFIPAI-----------   120
+BoLA-DQA*036:01       DLEKKETVWKLPLFSRMLSFDPQFALRNIAIMKLHVDFLTKFSNSTAATNSTX-------   120
 
 BoLA-DQA*001:01       SPVMLGQPNTLICHVDNIFPPVINITWLRNGHLVIEGISETSFLSKDDHSFAKISYLTFL   180
 BoLA-DQA*001:02       ------------------------------------------------------------   180
@@ -168,7 +170,7 @@ BoLA-DQA*002:07       ----------------------------------------------------------
 BoLA-DQA*002:08       ------------------------------------------------------------   180
 BoLA-DQA*003:01       ------------------------------------------------------------   180
 BoLA-DQA*003:02       ------------------------------------------------------------   180
-BoLA-DQA*004:01       ------------------------------------------------------------   180
+BoLA-DQA*004:01       SPMMLGQPNTLICHVDNIFPPVINITWLKNGQLVIEGISETSFLSKDDHSFSKISYLTFL   180
 BoLA-DQA*008:01       ------------------------------------------------------------   180
 BoLA-DQA*008:02       ------------------------------------------------------------   180
 BoLA-DQA*008:03       ------------------------------------------------------------   180
@@ -200,7 +202,7 @@ BoLA-DQA*022:02:02    ----------------------------------------------------------
 BoLA-DQA*022:02:03    ------------------------------------------------------------   180
 BoLA-DQA*022:03:01    ------------------------------------------------------------   180
 BoLA-DQA*022:03:02    ------------------------------------------------------------   180
-BoLA-DQA*022:03:03    ------------------------------------------------------------   180
+BoLA-DQA*022:03:03    SPMVLGQPNTLICHMDN-FPPVINITWLKNGHAVTEGVSETSFLPKDDHSFLKIGYLTFL   180
 BoLA-DQA*022:04       ------------------------------------------------------------   180
 BoLA-DQA*022:05       ------------------------------------------------------------   180
 BoLA-DQA*022:07       ------------------------------------------------------------   180
@@ -228,6 +230,7 @@ BoLA-DQA*032:01       ----------------------------------------------------------
 BoLA-DQA*033:01       ------------------------------------------------------------   180
 BoLA-DQA*034:01       ------------------------------------------------------------   180
 BoLA-DQA*035:01       ------------------------------------------------------------   180
+BoLA-DQA*036:01       ------------------------------------------------------------   180
 
 BoLA-DQA*001:01       PSDDDVYDCKVEHWGLDKPLLKHWEPEIPAPMSELTETVVCALGLTVGLVGIVVGTVLII   240
 BoLA-DQA*001:02       ------------------------------------------------------------   240
@@ -245,7 +248,7 @@ BoLA-DQA*002:07       ----------------------------------------------------------
 BoLA-DQA*002:08       ------------------------------------------------------------   240
 BoLA-DQA*003:01       ------------------------------------------------------------   240
 BoLA-DQA*003:02       ------------------------------------------------------------   240
-BoLA-DQA*004:01       ------------------------------------------------------------   240
+BoLA-DQA*004:01       PSDDDVYDCKVEHWGLDKPLLKHWEPDIPAPMSELTETVVCALGLTVGLVGIVVGTVLII   240
 BoLA-DQA*008:01       ------------------------------------------------------------   240
 BoLA-DQA*008:02       ------------------------------------------------------------   240
 BoLA-DQA*008:03       ------------------------------------------------------------   240
@@ -277,7 +280,7 @@ BoLA-DQA*022:02:02    ----------------------------------------------------------
 BoLA-DQA*022:02:03    ------------------------------------------------------------   240
 BoLA-DQA*022:03:01    ------------------------------------------------------------   240
 BoLA-DQA*022:03:02    ------------------------------------------------------------   240
-BoLA-DQA*022:03:03    ------------------------------------------------------------   240
+BoLA-DQA*022:03:03    PSDDDVYDCKVEHWSLDEPLLKHWEPEVPAPMSELTETVVCALRLTVGLVGIVVGTIFII   240
 BoLA-DQA*022:04       ------------------------------------------------------------   240
 BoLA-DQA*022:05       ------------------------------------------------------------   240
 BoLA-DQA*022:07       ------------------------------------------------------------   240
@@ -305,6 +308,7 @@ BoLA-DQA*032:01       ----------------------------------------------------------
 BoLA-DQA*033:01       ------------------------------------------------------------   240
 BoLA-DQA*034:01       ------------------------------------------------------------   240
 BoLA-DQA*035:01       ------------------------------------------------------------   240
+BoLA-DQA*036:01       ------------------------------------------------------------   240
 
 BoLA-DQA*001:01       RGLRSGGPSRHQGPL   255
 BoLA-DQA*001:02       ---------------   255
@@ -322,7 +326,7 @@ BoLA-DQA*002:07       ---------------   255
 BoLA-DQA*002:08       ---------------   255
 BoLA-DQA*003:01       ---------------   255
 BoLA-DQA*003:02       ---------------   255
-BoLA-DQA*004:01       ---------------   255
+BoLA-DQA*004:01       RGLRSGGPSRHQGPL   255
 BoLA-DQA*008:01       ---------------   255
 BoLA-DQA*008:02       ---------------   255
 BoLA-DQA*008:03       ---------------   255
@@ -354,7 +358,7 @@ BoLA-DQA*022:02:02    ---------------   255
 BoLA-DQA*022:02:03    ---------------   255
 BoLA-DQA*022:03:01    ---------------   255
 BoLA-DQA*022:03:02    ---------------   255
-BoLA-DQA*022:03:03    ---------------   255
+BoLA-DQA*022:03:03    QGLRSGGASRHQGPL   255
 BoLA-DQA*022:04       ---------------   255
 BoLA-DQA*022:05       ---------------   255
 BoLA-DQA*022:07       ---------------   255
@@ -382,4 +386,5 @@ BoLA-DQA*032:01       ---------------   255
 BoLA-DQA*033:01       ---------------   255
 BoLA-DQA*034:01       ---------------   255
 BoLA-DQA*035:01       ---------------   255
+BoLA-DQA*036:01       ---------------   255
 

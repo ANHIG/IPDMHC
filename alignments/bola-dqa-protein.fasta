@@ -31,7 +31,7 @@ MILNRALIWGALALTTMMGPSGSEDIVADHIGAYGINVYHTYGPSGYYTHEFDGDEEFYVDLEKRETVWRLPVFSKFTSF
 >BoLA-DQA*003:02
 --------------------------------AYGINVYHSYGPSGYYTHEFDGDEEFYVDLEKRETVWNLPLFSKFRRFDPRGALRNIATTKHNLEIMMQGSNS------------------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DQA*004:01
-----------------------------DHIGAYGINVYHSYGPSGYYTHEFDGDEEFYVDLEKRETVWNLPLFSKFRRFDPQGALRNIATAKHNLEVLIQRSNSTTAT--------------------------------------------------------------------------------------------------------------------------------------------------
+MILNRALIWGALALTTMMGPSGSEDIVADHIGAYGINVYHSYGPSGYYTHEFDGDEEFYVDLEKRETVWNLPLFSKFRRFDPQGALRNIATAKHNLEVLIQRSNSTTATNKVPEVTVFSKSPMMLGQPNTLICHVDNIFPPVINITWLKNGQLVIEGISETSFLSKDDHSFSKISYLTFLPSDDDVYDCKVEHWGLDKPLLKHWEPDIPAPMSELTETVVCALGLTVGLVGIVVGTVLIIRGLRSGGPSRHQGPL
 >BoLA-DQA*008:01
 ----------------------------DHIGAYGINVYHSYGPSGYYTHEFDGDEQFYVDLEKRETVWRLPVFSKFASFDPQGALRNIATAKHNLEIMIQESNSTAAT--------------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DQA*008:02
@@ -95,7 +95,7 @@ MVLNRALILGALALTTMMSPSGGEDIVADHVGSYGTEVYQSHGPSGQYTQEFDGDEMFYVDLGKKETVWRLPMFSQFAGF
 >BoLA-DQA*022:03:02
 --------------------------------SYGTEVYQSHGPSGQYTQEFDGDELFYVDLGKKETVWRLPMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNF------------------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DQA*022:03:03
-----------------------------DHVGSYGTEIYQSHGPSGQYTQEFDGDELFYVDLGKKETVWRLPMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNFTPVI--------------------------------------------------------------------------------------------------------------------------------------------------
+MVLNRALILGAFALTTMMSPCG-----ADHVGSYGTEIYQSHGPSGQYTQEFDGDELFYVDLGKKETVWRLPMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNFTPVINEVPEVTVFSKSPMVLGQPNTLICHMDN-FPPVINITWLKNGHAVTEGVSETSFLPKDDHSFLKIGYLTFLPSDDDVYDCKVEHWSLDEPLLKHWEPEVPAPMSELTETVVCALRLTVGLVGIVVGTIFIIQGLRSGGASRHQGPL
 >BoLA-DQA*022:04
 ----------------------------DHVGSYGTEVYQSHGPSGQYTQEFDGDEMFYVDLGKKETVWRLLMFSQFAGFDPQAALSEIATAKHNLDVLTKRSNFTPVI--------------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DQA*022:05
@@ -150,3 +150,5 @@ MVLNRALILGALALTTMMSPSGGEDIVADHVGSYGTEVYQSHGPSGQYTQEFDGDEMFYVDLGKKETVWRLPMFSQFAGF
 ----------------------------DHVGSYGTEIYQSHGPSGQYTQEFDGDEMFYVDLGKKETVWRLPMFSQFAGFDPQFALSEIATAKFNLDLLTKRSNFTPVI--------------------------------------------------------------------------------------------------------------------------------------------------
 >BoLA-DQA*035:01
 ----------------------------DHVGSYGTEIYQSHGPSGQYTQEFDGDKLFYVDLEKKETVWRLPMFSQFASFDPQAILRNIAISKHNLNIMIKYSNFIPAI--------------------------------------------------------------------------------------------------------------------------------------------------
+>BoLA-DQA*036:01
+MVLNRALILGTLALTTMMSPSGGEDIVADHVGIYGVNIYQSYGPSGQFTHEFDGDEQFYVDLEKKETVWKLPLFSRMLSFDPQFALRNIAIMKLHVDFLTKFSNSTAATNSTX----------------------------------------------------------------------------------------------------------------------------------------------
